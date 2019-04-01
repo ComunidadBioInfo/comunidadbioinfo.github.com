@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>difusion on Academic</title>
+    <link>/categories/difusion/</link>
+    <description>Recent content in difusion on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Mar 2018 20:49:18 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/difusion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La Bioinformática, una disciplina en auge en el mundo</title>
+      <link>/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/</link>
+      <pubDate>Tue, 06 Mar 2018 20:49:18 +0000</pubDate>
+      
+      <guid>/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/</guid>
+      <description>La Bioinformática es un área interdisciplinaria en la que convergen las tecnologías de la información y las comunicaciones con las ciencias de la vida, donde los recursos computacionales y humanos asisten al análisis de cantidades enormes de datos biológicos, para extraer de ellos información valiosa y obtener resultados con impactos beneficiosos en la salud humana o animal (González Hernández D., 2007).
+Desde la segunda mitad del siglo XX, la biología ha tenido una relación creciente con las ciencias de la información.</description>
+    </item>
+    
+  </channel>
+</rss>

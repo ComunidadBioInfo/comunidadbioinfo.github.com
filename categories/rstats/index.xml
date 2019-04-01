@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rstats on Academic</title>
+    <link>/categories/rstats/</link>
+    <description>Recent content in rstats on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2019 04:24:47 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/rstats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CDSBMexico: remember to apply for BioC2019 travel scholarships</title>
+      <link>/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/</link>
+      <pubDate>Fri, 01 Mar 2019 04:24:47 +0000</pubDate>
+      
+      <guid>/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/</guid>
+      <description>About 10 months ago we announced our plans to start a new community of R/Bioconductor developers in Mexico and Latin America. The National Bioinformatics Node (NNB-UNAM in Spanish) has organized workshops in bioinformatics and R since 2006 and more frequently since 2010. Last year, 2018, there were five simultaneous one week workshops:
+ Introduction to R and RStudio
+ Exploratory data analysis (EDA) of biological data with R
+ EDA of RNA-seq data and differential expression studies</description>
+    </item>
+    
+    <item>
+      <title>A recap of CDSB 2018: the start of a community</title>
+      <link>/post/a-recap-of-cdsb-2018-the-start-of-a-community/</link>
+      <pubDate>Fri, 14 Sep 2018 02:13:22 +0000</pubDate>
+      
+      <guid>/post/a-recap-of-cdsb-2018-the-start-of-a-community/</guid>
+      <description>Organizing an event is a lot of work, much more than you plan for it. But harvesting the fruits of a successful event makes the workload worth it.
+In July, we kicked off the first Bioconductor Latin American Developers Workshop 2018 (LatAmBioc2018). The main goals of this meeting were to encourage the development of the Bioconductor project in Mexico and to start a community of Mexican bioinformatic software developers – the Community of Bioinformatic Software Developers (CDSB, from its acronym in Spanish).</description>
+    </item>
+    
+    <item>
+      <title>R Gene Regulatory Interaction Formulator For Inquiring Networks</title>
+      <link>/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/</link>
+      <pubDate>Mon, 20 Aug 2018 21:45:28 +0000</pubDate>
+      
+      <guid>/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/</guid>
+      <description>_This blog post was contributed by: ME Martinez-Sanchez, S Muñoz, M Carrillo, E Azpeitia, D Rosenblueth_
+In this blog post we will describe the package rGriffin that was one of the projects developed during the TIB2018-BCDW. We hope to continue developing Griffin and rGriffin. If you have ideas, suggestions or bugs, please contact us at Github.
+The problem Boolean networks allow us to give a mechanistic explanation to how cell types emerge from regulatory networks.</description>
+    </item>
+    
+  </channel>
+</rss>
