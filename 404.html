@@ -21,14 +21,14 @@
   
   
 
-  <meta name="author" content="Nelson Bighetti">
+  <meta name="author" content="CDSB">
 
   
   
   
     
   
-  <meta name="description" content="Professor of Artificial Intelligence">
+  <meta name="description" content="Comunidad de Desarrolladores de Software en Bioinformática">
 
   
   <link rel="alternate" hreflang="en-us" href="">
@@ -117,10 +117,13 @@
   
   <meta property="twitter:card" content="summary">
   
+  <meta property="twitter:site" content="@CDSBMexico">
+  <meta property="twitter:creator" content="@CDSBMexico">
+  
   <meta property="og:site_name" content="Academic">
   <meta property="og:url" content="">
   <meta property="og:title" content="404 Page not found | Academic">
-  <meta property="og:description" content="Professor of Artificial Intelligence"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:description" content="Comunidad de Desarrolladores de Software en Bioinformática"><meta property="og:image" content="/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
   
@@ -170,7 +173,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/"><img src="/img/CDSB-LogoTexto-768x105.png" alt="Academic"></a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -214,6 +217,25 @@
         
 
         <li class="nav-item">
+          <a class="nav-link" href="/quienes-somos">
+            
+            <span>About</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link" href="/#events">
             
             <span>Events</span>
@@ -235,7 +257,7 @@
         <li class="nav-item">
           <a class="nav-link" href="/#posts">
             
-            <span>Posts</span>
+            <span>Blog</span>
             
           </a>
         </li>
@@ -255,6 +277,25 @@
           <a class="nav-link" href="/#people">
             
             <span>People</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/codigo-de-conducta">
+            
+            <span>Code of conduct</span>
             
           </a>
         </li>
@@ -331,6 +372,14 @@
     </ul>
     
     <ul>
+      <li><a href="/niveles-de-patrocinio/">Sponsorship levels</a></li>
+    </ul>
+    
+    <ul>
+      <li><a href="/codigo-de-conducta/">Code of conduct</a></li>
+    </ul>
+    
+    <ul>
       <li><a href="/post/r-bioconductor-developers-workshop-2018/">Latin American R/BioConductor Developers Workshop 2018</a></li>
     </ul>
     
@@ -339,18 +388,39 @@
     </ul>
     
     <ul>
+      <li><a href="/aviso-de-privacidad/">Aviso de Privacidad para la Protección de Datos Personales</a></li>
+    </ul>
+    
+    <ul>
       <li><a href="/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/">La Bioinformática, una disciplina en auge en el mundo</a></li>
+    </ul>
+    
+    <ul>
+      <li><a href="/quienes-somos/">Quiénes somos</a></li>
     </ul>
     
   
 
 </div>
-<div class="container">
-  <footer class="site-footer">
+<footer class="site-footer">
   
+  
+  
+  <p class="powered-by">
+    <a href="/niveles-de-patrocinio/">Sponsorship levels</a>
+  </p>
+  
+  
+  
+  <p class="powered-by">
+    <a href="/aviso-de-privacidad/">Aviso de Privacidad para la Protección de Datos Personales</a>
+  </p>
+  
+  
+  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=4_qv_4fNKFEq5dBEXclKIA7cvjvQ73-LEDcwWy3th3k&cl=ffffff&w=a"></script>
 
   <p class="powered-by">
-    
+    &copy; 2018-2019 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -367,34 +437,6 @@
     
   </p>
 </footer>
-
-</div>
-
-
-<div id="modal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
-      </div>
-      <div class="modal-footer">
-        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
-        </a>
-        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
-        </a>
-        <div id="modal-error"></div>
-      </div>
-    </div>
-  </div>
-</div>
 
     
 
@@ -414,6 +456,14 @@
         
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
         
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/bash.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/stata.min.js"></script>
+        
       
 
       
@@ -425,6 +475,8 @@
 
     
     
+    
+    <script id="dsq-count-scr" src="//cdsbmexico.disqus.com/count.js" async></script>
     
 
     

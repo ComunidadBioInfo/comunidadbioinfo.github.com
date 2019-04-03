@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+<html lang="es-mx">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.1.0">
+  <meta name="generator" content="Hugo 0.54.0" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="CDSB">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="_This blog post was contributed by: ME Martinez-Sanchez, S Muñoz, M Carrillo, E Azpeitia, D Rosenblueth_
+In this blog post we will describe the package rGriffin that was one of the projects developed during the TIB2018-BCDW. We hope to continue developing Griffin and rGriffin. If you have ideas, suggestions or bugs, please contact us at Github.
+The problem Boolean networks allow us to give a mechanistic explanation to how cell types emerge from regulatory networks.">
+
+  
+  <link rel="alternate" hreflang="en" href="/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/">
+  
+  <link rel="alternate" hreflang="es-mx" href="/es/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  <link rel="stylesheet" href="/es/styles.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Academic">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/es/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@CDSBMexico">
+  <meta property="twitter:creator" content="@CDSBMexico">
+  
+  <meta property="og:site_name" content="Academic">
+  <meta property="og:url" content="/es/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/">
+  <meta property="og:title" content="R Gene Regulatory Interaction Formulator For Inquiring Networks | Academic">
+  <meta property="og:description" content="_This blog post was contributed by: ME Martinez-Sanchez, S Muñoz, M Carrillo, E Azpeitia, D Rosenblueth_
+In this blog post we will describe the package rGriffin that was one of the projects developed during the TIB2018-BCDW. We hope to continue developing Griffin and rGriffin. If you have ideas, suggestions or bugs, please contact us at Github.
+The problem Boolean networks allow us to give a mechanistic explanation to how cell types emerge from regulatory networks."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:locale" content="es-mx">
+  
+  <meta property="article:published_time" content="2018-08-20T21:45:28&#43;00:00">
+  
+  <meta property="article:modified_time" content="2018-08-20T21:45:28&#43;00:00">
+  
+
+  
+
+  
+
+  <title>R Gene Regulatory Interaction Formulator For Inquiring Networks | Academic</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Buscar</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Buscar..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/es"><img src="/img/CDSB-LogoTexto-768x105.png" alt="Academic"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Barra de navegación">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/es/#about">
+            
+            <span>Principal</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/es/quienes-somos">
+            
+            <span>Quienes somos</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/es/#events">
+            
+            <span>Eventos</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/es/#posts">
+            
+            <span>Blog</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/es/#people">
+            
+            <span>Equipo</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/es/codigo-de-conducta">
+            
+            <span>Código de conducta</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/es/#contact">
+            
+            <span>Contacto</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+            <i class="fas fa-globe" aria-hidden="true"></i>
+            <span>Español</span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/">
+                <span>English</span>
+              </a>
+            </li>
+            
+          </ul>
+        </li>
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">R Gene Regulatory Interaction Formulator For Inquiring Networks</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2018-08-20 21:45:28 &#43;0000 &#43;0000" itemprop="datePublished">
+<meta content="2018-08-20 21:45:28 &#43;0000 &#43;0000" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      
+        <a href="/es/authors/lcollado/">Leonardo Collado-Torres</a></span></span>
+  
+
+
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Aug 20, 2018</time>
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    4 min de lectura
+  </span>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <a href="/es/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/#disqus_thread"></a>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder"></i>
+    
+    <a href="/es/categories/rstats/">rstats</a>
+    
+  </span>
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=R%20Gene%20Regulatory%20Interaction%20Formulator%20For%20Inquiring%20Networks&amp;url=%2fes%2fpost%2fr-gene-regulatory-interaction-formulator-for-inquiring-networks%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fes%2fpost%2fr-gene-regulatory-interaction-formulator-for-inquiring-networks%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fes%2fpost%2fr-gene-regulatory-interaction-formulator-for-inquiring-networks%2f&amp;title=R%20Gene%20Regulatory%20Interaction%20Formulator%20For%20Inquiring%20Networks"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fes%2fpost%2fr-gene-regulatory-interaction-formulator-for-inquiring-networks%2f&amp;title=R%20Gene%20Regulatory%20Interaction%20Formulator%20For%20Inquiring%20Networks"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=R%20Gene%20Regulatory%20Interaction%20Formulator%20For%20Inquiring%20Networks&amp;body=%2fes%2fpost%2fr-gene-regulatory-interaction-formulator-for-inquiring-networks%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<p>_This blog post was contributed by: <a href="https://github.com/mar-esther23/" target="_blank">ME Martinez-Sanchez</a>, <a href="https://www.researchgate.net/profile/Stalin_Munoz" target="_blank">S Muñoz</a>, <a href="http://www.fciencias.unam.mx/directorio/33021" target="_blank">M Carrillo</a>, <a href="https://www.researchgate.net/profile/Eugenio_Azpeitia" target="_blank">E Azpeitia</a>, <a href="turing.iimas.unam.mx/~drosenbl/" target="_blank">D Rosenblueth</a>_</p>
+
+<p>In this blog post we will describe the package <code>rGriffin</code> that was one of the projects developed during the <a href="http://congresos.nnb.unam.mx/TIB2018/r-bioconductor-developers-workshop-2018/" target="_blank">TIB2018-BCDW</a>. We hope to continue developing <code>Griffin</code> and <code>rGriffin</code>. If you have ideas, suggestions or bugs, please contact us at <a href="https://github.com/mar-esther23/rgriffin" target="_blank">Github</a>.</p>
+
+<p><img src="http://www.comunidadbioinfo.org/wp-content/uploads/2018/08/header-1024x324.jpg" alt="" /></p>
+
+<h2 id="the-problem">The problem</h2>
+
+<p>Boolean networks allow us to give a mechanistic explanation to how cell types emerge from regulatory networks. However, inferring the regulatory network and its functions is complex problem, as the available information is often incomplete. <a href="https://github.com/mar-esther23/rgriffin" target="_blank"><code>rGriffin</code></a> uses available biological information (regulatory interactions, cell types, mutants) codified as a set of restrictions and returns the <a href="https://en.wikipedia.org/wiki/Boolean_network" target="_blank">Boolean Networks</a> that satisfy that restrictions. This Boolean networks can then be used to study the biological system.</p>
+
+<p>The <code>rGriffin</code> package is an R connector to <a href="http://turing.iimas.unam.mx/griffin/" target="_blank"><code>Griffin</code></a> (Gene Regulatory Interaction Formulator For Inquiring Networks), a java library for inference and analysis of Boolean Network models. <code>Griffin</code> takes as inputs biologically meaningful constraints and turns them into a symbolic representation. Using a SAT engine, <code>Griffin</code> explores the Boolean Network search space, finding all satisfying assignments that are compatible with the specified constraints. The<code>rGriffin</code> package includes a number of functions to interact with the BoolNet package.</p>
+
+<h2 id="a-small-example">A small example</h2>
+
+<p>Let us suppose a cell, we know that this cell has three proteins called <strong>a</strong>, <strong>b</strong> and <strong>c</strong>. We know that <strong>a</strong> activates <strong>b</strong> and that <strong>b</strong> and <strong>c</strong> inhibit each other. We also suspect that <strong>b</strong> and <strong>c</strong> <strong>may</strong> have positive self-regulatory loops. We can add this interactions to the table as “OPU” (optional, positive, unambiguous). This dataframe is the topology of the network.
+<table ></p>
+
+<p><tr class="header" >
+Source
+Target
+Interaction
+</tr></p>
+
+<p><tbody >
+<tr class="odd" ></p>
+
+<p><td >a
+</td></p>
+
+<p><td >b
+</td></p>
+
+<p><td >+
+</td>
+</tr>
+<tr class="even" ></p>
+
+<p><td >b
+</td></p>
+
+<p><td >c
+</td></p>
+
+<p><td >-
+</td>
+</tr>
+<tr class="odd" ></p>
+
+<p><td >c
+</td></p>
+
+<p><td >b
+</td></p>
+
+<p><td >-
+</td>
+</tr>
+<tr class="even" ></p>
+
+<p><td >b
+</td></p>
+
+<p><td >b
+</td></p>
+
+<p><td >OPU
+</td>
+</tr>
+<tr class="odd" ></p>
+
+<p><td >c
+</td></p>
+
+<p><td >c
+</td></p>
+
+<p><td >OPU
+</td>
+</tr>
+</tbody>
+</table>
+Suppose we also have some information of what cell types have been observed. For example, there is a cell type that expresses <strong>b</strong>, but not <strong>a</strong> or <strong>c</strong> and an other cell type that expresses <strong>c</strong>, but not <strong>a</strong> or <strong>b</strong>. There might exist a third cell type that has not been fully characterized where we know that the cell expresses no <strong>a</strong> or <strong>c</strong> but we have NO information on <strong>b</strong>. This dataframe is the attractors of the network.
+<table ></p>
+
+<p><tr class="header" >
+a
+b
+c
+</tr></p>
+
+<p><tbody >
+<tr class="odd" ></p>
+
+<p><td >0
+</td></p>
+
+<p><td >1
+</td></p>
+
+<p><td >0
+</td>
+</tr>
+<tr class="even" ></p>
+
+<p><td >0
+</td></p>
+
+<p><td >0
+</td></p>
+
+<p><td >1
+</td>
+</tr>
+<tr class="odd" ></p>
+
+<p><td >0
+</td></p>
+
+<p><td >*
+</td></p>
+
+<p><td >0
+</td>
+</tr>
+</tbody>
+</table>
+We can then use this information to create a query. <code>rGriffin</code> can include other types of information like transition between cell type, cycles, transitions between cell types or mutant cell types.</p>
+
+<pre><code>&lt;code&gt;genes = c('a','b','c')
+inter = data.frame(source=c('a','b','c',’b’,'c'), 
+                  target=c('b'','c','b','b,'c'), 
+                  type=c('+','-','-','OPU','OPU'),
+                    stringsAsFactors = F )
+q = create.gquery.graph(inter, genes)
+attr = data.frame(a=c(0,'*',0), 
+                 b=c(0,1,0), 
+                 c=c(0,0,1),
+                 stringsAsFactors = F )
+q = add.gquery.attractors(q, attr)&lt;/code&gt;
+</code></pre>
+
+<p>Then we can use <code>Griffin</code> to find the networks that behave according with our biological information.</p>
+
+<pre><code>&lt;code&gt;nets = run.gquery(q)
+nets&lt;/code&gt;
+
+
+
+
+&lt;code&gt;&quot;targets,factors\na,false\nb,((((((!a&amp;b)&amp;!c)|((!a&amp;b)&amp;c))|((a&amp;!b)&amp;!c))|((a&amp;b)&amp;!c))|((a&amp;b)&amp;c))\nc,(!b&amp;c)\n&quot;,
+&quot;targets,factors\na,false\nb,((((((!a&amp;b)&amp;!c)|((a&amp;!b)&amp;!c))|((a&amp;!b)&amp;c))|((a&amp;b)&amp;!c))|((a&amp;b)&amp;c))\nc,(!b&amp;c)\n&quot;,
+&quot;targets,factors\na,false\nb,(((((!a&amp;b)&amp;!c)|((a&amp;!b)&amp;!c))|((a&amp;b)&amp;!c))|((a&amp;b)&amp;c))\nc,(!b&amp;c)\n&quot;,
+&quot;targets,factors\na,false\nb,((((!a&amp;b)&amp;!c)|((a&amp;!b)&amp;!c))|((a&amp;b)&amp;!c))\nc,(!b&amp;c)\n&quot;,
+&quot;targets,factors\na,false\nb,((((!a&amp;b)&amp;!c)|((a&amp;b)&amp;!c))|((a&amp;b)&amp;c))\nc,(!b&amp;c)\n&quot;&lt;/code&gt;
+</code></pre>
+
+<p>There are multiple options to integrate <code>BoolNet</code> and <code>rGriffin</code>. The function <code>get.net.topology()</code> can obtain the topology with interaction signs of a BoolNet network. The function <code>attractor2dataframe()</code> can be used to export a BoolNet attractor as a dataframe that <code>rGriffin</code> can use. The function <code>run.gquery()</code> includes the option <code>return=’BoolNet’</code>, that return the inferred networks as <code>BoolNet</code> networks.</p>
+
+<h2 id="history">History</h2>
+
+<p>The development of <a href="http://turing.iimas.unam.mx/griffin/" target="_blank"><code>Griffin</code></a> began in 2013 as a PAPIIT (Programa de Apoyo a Proyectos de Investigación e Innovación Tecnológica) project to solve the inference of Boolean Network models for the <strong>Arabidopsis thaliana</strong> root stem cell niche. It continued in 2015 with support of Conacyt grant 221341.</p>
+
+<p>In January, 2017 we organized a course in <a href="https://www.c3.unam.mx" target="_blank">C3-UNAM</a> to teach biologist how to use <code>Griffin</code>. We received two main comments: the input format was too complicated and it was uncomfortable to use the output with other packages. After some consideration we decided to create an <code>R</code> wrapper that could export and import <code>BoolNet</code> networks. We selected <code>BoolNet</code> as it has an good documentation and the package <code>BoolFilter</code> had been designed to work with it.</p>
+
+<p>The development of <code>rGriffin</code> began during the <a href="http://fejer.ucol.mx/biomate/" target="_blank">EOBM 2017</a> in <a href="https://portal.ucol.mx/cuib/" target="_blank">CUIB</a>. For the following year we continued developing <code>rGriffin</code> as our schedules allowed. There were multiple challenges during the development: defining user-friendly inputs, using <code>Rjava</code>, and structuring the package. In August 2018, we attended the <a href="http://congresos.nnb.unam.mx/TIB2018/r-bioconductor-developers-workshop-2018/" target="_blank">TIB2018-BCDW</a> where we received valuable guidance from Martin Morgan and Benilton S Carvalho. It was during this workshop that the first version of <code>rGriffin</code> was finished.</p>
+
+    </div>
+
+    
+
+
+    
+      
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+<div class="media author-card" itemscope itemtype="http://schema.org/Person">
+  
+  
+  <img class="portrait mr-3" src="/es/author/lcollado/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+  
+
+  <div class="media-body">
+    <h5 class="card-title" itemprop="name"><a href="/authors/lcollado">Leonardo Collado-Torres</a></h5>
+    <h6 class="card-subtitle">Staff Scientist</h6>
+    <p class="card-text" itemprop="description">My research interests include distributed robotics, mobile computing and programmable matter.</p>
+    <ul class="network-icon" aria-hidden="true">
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      <li>
+        <a itemprop="sameAs" href="mailto:leo.collado@libd.org" >
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://twitter.com/fellgernon" target="_blank" rel="noopener">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://scholar.google.com/citations?user=h57-MykAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+          <i class="ai ai-google-scholar"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://github.com/lcolladotor" target="_blank" rel="noopener">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+
+
+      
+      
+    
+
+    
+
+    
+<section id="comments">
+  <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "cdsbmexico" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+
+
+  </div>
+</article>
+
+<footer class="site-footer">
+  
+  
+  
+  <p class="powered-by">
+    <a href="/es/niveles-de-patrocinio/">Niveles de patrocinio</a>
+  </p>
+  
+  
+  
+  <p class="powered-by">
+    <a href="/es/aviso-de-privacidad/">Aviso de Privacidad para la Protección de Datos Personales</a>
+  </p>
+  
+  
+  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=4_qv_4fNKFEq5dBEXclKIA7cvjvQ73-LEDcwWy3th3k&cl=ffffff&w=a"></script>
+
+  <p class="powered-by">
+    &copy; 2018-2019 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/bash.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/stata.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+    <script id="dsq-count-scr" src="//cdsbmexico.disqus.com/count.js" async></script>
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/es/index.json";
+      const i18n = {
+        'placeholder': "Buscar...",
+        'results': "resultados encontrados",
+        'no_results': "No se encontraron resultados"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Proyectos",
+        'publication' : "Publicaciones",
+        'talk' : "Conferencias"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.d7381f2d79e6271d4da28f474f49096c.js"></script>
+
+  </body>
+</html>
+

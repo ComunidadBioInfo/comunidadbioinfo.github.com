@@ -6,9 +6,60 @@
     <description>Recent content in admin on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018-{year}</copyright>
+    <lastBuildDate>Tue, 10 Apr 2018 15:09:34 +0000</lastBuildDate>
     
 	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Code of conduct</title>
+      <link>/codigo-de-conducta/</link>
+      <pubDate>Tue, 10 Apr 2018 15:09:34 +0000</pubDate>
+      
+      <guid>/codigo-de-conducta/</guid>
+      <description>The Community of Software Developers in Bioinformatics (CDSB) is committed to providing a welcoming and free experience harassment for all, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race , ethnicity, religion (or lack thereof) or technology options. We do not tolerate harassment of participants of the conference in any way. Language and sexual images are not suitable for any place of the conference, including lectures, workshops, parties, Twitter and other online media.</description>
+    </item>
+    
+    <item>
+      <title>Latin American R/BioConductor Developers Workshop 2018</title>
+      <link>/post/r-bioconductor-developers-workshop-2018/</link>
+      <pubDate>Thu, 22 Mar 2018 12:40:21 +0000</pubDate>
+      
+      <guid>/post/r-bioconductor-developers-workshop-2018/</guid>
+      <description>Comunidad de Desarrolladores de Software en Bioinformática  Conference webpage: http://www.comunidadbioinfo.org/r-bioconductor-developers-workshop-2018/
+ Level: intermediate - advanced
+ Language: english
+ When: July 30 - August 3, 2018
+ Where: Auditorium of the Center for Genomic Sciences, Cuernavaca, Mexico
+ Twitter: #CDSBMexico
+ Facebook: @CDSBMexico
+ GitHub: https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018
+   Regístrate
+Pre-requisitos Requisitos de conocimientos previos
+ Los participantes deberán tener conocimientos básicos del lenguaje de programación R: asignación de variables, lectura de archivos: read.</description>
+    </item>
+    
+    <item>
+      <title>Talleres Internacionales de Bioinformática 2018</title>
+      <link>/post/talleres-internacionales-de-bioinformatica-2018/</link>
+      <pubDate>Wed, 21 Mar 2018 18:12:26 +0000</pubDate>
+      
+      <guid>/post/talleres-internacionales-de-bioinformatica-2018/</guid>
+      <description>El Nodo Nacional de Bioinformática (NNB-UNAM) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a
+TIB2018: R para todos &amp;amp; Latin American R/Bioconductor Developers Workshop
+Centro de Ciencias Genómicas-UNAM (CCG-UNAM), en Cuernavaca Morelos, México. 30 de Julio al 3 de Agosto de 2018
+Este año, hemos decidido unir esfuerzos para impulsar el desarrollo de habilidades en el lenguaje de programación R, bajo el slogan “Aprende R y hagamos comunidad”.</description>
+    </item>
+    
+    <item>
+      <title>Aviso de Privacidad para la Protección de Datos Personales</title>
+      <link>/aviso-de-privacidad/</link>
+      <pubDate>Tue, 13 Mar 2018 17:23:16 +0000</pubDate>
+      
+      <guid>/aviso-de-privacidad/</guid>
+      <description>See version in Spanish. This private notice is for those of you in Mexico.</description>
+    </item>
     
     <item>
       <title></title>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Academic</title>
+    <link>/es/categories/</link>
+    <description>Recent content in Categories on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <copyright>&amp;copy; 2018-{year}</copyright>
+    
+	<atom:link href="/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Events</title>
+      <link>/es/categories/events/</link>
+      <pubDate>Thu, 22 Mar 2018 12:40:21 +0000</pubDate>
+      
+      <guid>/es/categories/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>difusion</title>
+      <link>/es/categories/difusion/</link>
+      <pubDate>Tue, 06 Mar 2018 20:49:18 +0000</pubDate>
+      
+      <guid>/es/categories/difusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rstats</title>
+      <link>/es/categories/rstats/</link>
+      <pubDate>Fri, 01 Mar 2019 04:24:47 +0000</pubDate>
+      
+      <guid>/es/categories/rstats/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,6 +6,7 @@
     <description>Recent content in difusion on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018-{year}</copyright>
     <lastBuildDate>Tue, 06 Mar 2018 20:49:18 +0000</lastBuildDate>
     
 	<atom:link href="/categories/difusion/index.xml" rel="self" type="application/rss+xml" />

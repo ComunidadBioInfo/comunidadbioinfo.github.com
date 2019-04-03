@@ -6,6 +6,7 @@
     <description>Recent content in Events on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018-{year}</copyright>
     <lastBuildDate>Thu, 22 Mar 2018 12:40:21 +0000</lastBuildDate>
     
 	<atom:link href="/categories/events/index.xml" rel="self" type="application/rss+xml" />

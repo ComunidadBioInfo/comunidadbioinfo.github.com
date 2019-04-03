@@ -6,6 +6,7 @@
     <description>Recent content in Academic on Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018-{year}</copyright>
     <lastBuildDate>Fri, 01 Mar 2019 04:24:47 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -380,6 +381,164 @@ nets&amp;lt;/code&amp;gt;
 &lt;p&gt;In January, 2017 we organized a course in &lt;a href=&#34;https://www.c3.unam.mx&#34; target=&#34;_blank&#34;&gt;C3-UNAM&lt;/a&gt; to teach biologist how to use &lt;code&gt;Griffin&lt;/code&gt;. We received two main comments: the input format was too complicated and it was uncomfortable to use the output with other packages. After some consideration we decided to create an &lt;code&gt;R&lt;/code&gt; wrapper that could export and import &lt;code&gt;BoolNet&lt;/code&gt; networks. We selected &lt;code&gt;BoolNet&lt;/code&gt; as it has an good documentation and the package &lt;code&gt;BoolFilter&lt;/code&gt; had been designed to work with it.&lt;/p&gt;
 
 &lt;p&gt;The development of &lt;code&gt;rGriffin&lt;/code&gt; began during the &lt;a href=&#34;http://fejer.ucol.mx/biomate/&#34; target=&#34;_blank&#34;&gt;EOBM 2017&lt;/a&gt; in &lt;a href=&#34;https://portal.ucol.mx/cuib/&#34; target=&#34;_blank&#34;&gt;CUIB&lt;/a&gt;. For the following year we continued developing &lt;code&gt;rGriffin&lt;/code&gt; as our schedules allowed. There were multiple challenges during the development: defining user-friendly inputs, using &lt;code&gt;Rjava&lt;/code&gt;, and structuring the package. In August 2018, we attended the &lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34;&gt;TIB2018-BCDW&lt;/a&gt; where we received valuable guidance from Martin Morgan and Benilton S Carvalho. It was during this workshop that the first version of &lt;code&gt;rGriffin&lt;/code&gt; was finished.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sponsorship levels</title>
+      <link>/niveles-de-patrocinio/</link>
+      <pubDate>Wed, 09 May 2018 16:06:58 +0000</pubDate>
+      
+      <guid>/niveles-de-patrocinio/</guid>
+      <description>
+
+&lt;p&gt;If you want to sponsor us please get in touch via &lt;a href=&#34;mailto:cdsbmexico@gmail.com&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;cdsbmexico@gmail.com&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;diamond-level&#34;&gt;**DIAMOND LEVEL **(__________)&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;$100,000 pesos or more&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Reconocimiento como patrocinador único de uno de los talleres del programa, incluyendo la oportunidad de dirigir la palabra a los participantes al inicio y cierre del evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Podrá colocar su logotipo como patrocinador en un taller seleccionado.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en dos de los artículos promocionales.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestras redes sociales.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Podrá colocar dos módulos de exhibición durante el evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;5 inscripciones completas de cortesía en cualquier taller del evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para 2 personas.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;platinum-level&#34;&gt;&lt;strong&gt;PLATINUM LEVEL&lt;/strong&gt; (________)&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;$50,000 - $70,000 pesos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Podrá colocar su logotipo como patrocinador en un taller seleccionado.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en dos de los artículos promocionales.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestras redes sociales.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Podrá colocar dos módulos de exhibición durante el evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;3 inscripciones completas de cortesía en cualquier taller del evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para 2 personas.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;gold-level&#34;&gt;&lt;strong&gt;GOLD LEVEL&lt;/strong&gt; (______)&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;$20,000 - $30,000 pesos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestras redes sociales.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Podrá colocar un módulo de exhibición durante el evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;1 inscripciones completas de cortesía en cualquier taller del evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para 2 personas.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;silver-level&#34;&gt;&lt;strong&gt;SILVER LEVEL&lt;/strong&gt; (____)&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;$10,000 - $15,000 pesos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestras redes sociales.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Podrá colocar un módulo de exhibición durante el evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para una persona.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;bronce-level&#34;&gt;&lt;strong&gt;BRONCE LEVEL&lt;/strong&gt; (__)&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;$3,000 - $5,000 pesos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para una persona.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;donations-in-kind&#34;&gt;&lt;strong&gt;DONATIONS IN KIND&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Las instituciones u organizaciones que deseen ser patrocinadoras con donativos en especie (los donativos NO DEBEN incluir publicidad del patrocinador), lo pueden hacer proporcionando los siguientes servicios y objetos:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Servicio de fotografía durante el evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Servicio de realización de videos durante el evento.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Artículos para el servicio de cafetería: café, galletas, fruta, azúcar, servilletas, etc.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Botellas o garrafones de agua sin publicidad de la empresa.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mobiliario exterior: carpa, sillas, mesas&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Artículos de papelería: plumas, lápices, plumones para pizarrón, post-it, hojas blancas.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Artículos de limpieza: jabón, papel, bolsas para basura, gel antibacterial.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cualquier otro artículo puede ser evaluado.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Los donativos en especie recibirán un reconocimiento en los niveles equivalentes a la cantidad estimada en efectivo, descritos anteriormente.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code of conduct</title>
+      <link>/codigo-de-conducta/</link>
+      <pubDate>Tue, 10 Apr 2018 15:09:34 +0000</pubDate>
+      
+      <guid>/codigo-de-conducta/</guid>
+      <description>&lt;p&gt;The Community of Software Developers in Bioinformatics (CDSB) is committed to providing a welcoming and free experience harassment for all, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race , ethnicity, religion (or lack thereof) or technology options. We do not tolerate harassment of participants of the conference in any way. Language and sexual images are not suitable for any place of the conference, including lectures, workshops, parties, Twitter and other online media. Workshop participants who violate these rules may be punished or expelled from the event at the discretion of the organizers of the workshop.&lt;/p&gt;
+
+&lt;p&gt;This code of conduct applies to all participants, including staff and leadership of CDSB, and applies to all modes of interaction, both in person and online, including project repositories CDSB GitHub and CDSB GitHub, forum discussions CDSB, Slack channels and Twitter.&lt;/p&gt;
+
+&lt;p&gt;CDSB participants accept:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Be considered in speech and actions, actively seek to recognize and respect the boundaries of others in attendance.&lt;/li&gt;
+&lt;li&gt;Refrain from behaviors and degrading expressions, discriminatory or harassing. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photo or recording; sustained or deliberate interruption of the talks and other events; inappropriate physical contact; use of sexual imagery or discriminatory comments or jokes; and unwanted sexual attention. If you feel someone has harassed or treated him inappropriately, please report in person to any member of the organizing committee of the workshop.&lt;/li&gt;
+&lt;li&gt;Take care of each other. Contact a member of the organizing committee of the workshop if you notice a dangerous situation, someone in distress or violations of this code of conduct, even if they seem inconsequential.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Need help?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any questions or concerns, talk to Heladia Salgado, Alejandro Reyes, Alejandra Medina-Rivera or Leonardo Collado Torres.&lt;/p&gt;
+
+&lt;p&gt;If any of the assistants engages in bullying behavior, the workshop organizers can take any legal action we deem appropriate, including, among others, warn the accused or ask the offender to leave the workshop. (If you feel you have been unjustly accused of violating this code of conduct, you must contact the organizing committee of the workshop with a brief description of your complaint).&lt;/p&gt;
+
+&lt;p&gt;We welcome your comments on this and all other aspects of CDSB events, and we thank you for working with us to make it a safe, pleasant and friendly experience for all involved.&lt;/p&gt;
+
+&lt;p&gt;This code of conduct was adapted from &lt;a href=&#34;(http://unconf18.ropensci.org/coc.html)&#34; target=&#34;_blank&#34;&gt;unconf rOpenSci 2018&lt;/a&gt;&amp;rsquo;s code of conduct  which is licensed under CC BY-SA 4.0. Please review the page for more information about the license and attribution.&lt;/p&gt;
 </description>
     </item>
     
@@ -964,6 +1123,16 @@ Latin American R/Bioconductor Developers Workshop&lt;/p&gt;
     </item>
     
     <item>
+      <title>Aviso de Privacidad para la Protección de Datos Personales</title>
+      <link>/aviso-de-privacidad/</link>
+      <pubDate>Tue, 13 Mar 2018 17:23:16 +0000</pubDate>
+      
+      <guid>/aviso-de-privacidad/</guid>
+      <description>&lt;p&gt;See version in Spanish. This private notice is for those of you in Mexico.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>La Bioinformática, una disciplina en auge en el mundo</title>
       <link>/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/</link>
       <pubDate>Tue, 06 Mar 2018 20:49:18 +0000</pubDate>
@@ -977,13 +1146,73 @@ Latin American R/Bioconductor Developers Workshop&lt;/p&gt;
 
 &lt;p&gt;Los mayores avances en la bioinformática acontecieron en años posteriores a la creación de la primera base de datos, y fue con la generación de algoritmos matemáticos para el análisis de secuencias, así como también, la creación y el impuso dado a las bases de datos y herramientas para el análisis de secuencias con un impacto a &lt;em&gt;nivel global&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.comunidadbioinfo.org/wp-content/uploads/2018/03/Clustalw_multiple_alignment-300x160.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Clustalw_multiple_alignment-768x408.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Además, con la creación del consorcio para la ejecución del proyecto de secuenciación del genoma humano (Human Genome, HUGO), en 1993, se inició la era genómica. Siendo la decodificación del genoma humano un proyecto tan ambicioso, que otros consorcios se crearon con el fin de secuenciar los primeros genomas no virales. En 1996, &lt;em&gt;S. cerevisiae&lt;/em&gt; fue el primer genoma eucariota secuenciado. En 1995 y 1997, respectivamente, los genomas de &lt;em&gt;Haemophilus influenzae&lt;/em&gt; y &lt;em&gt;Escherichia coli&lt;/em&gt; fueron los primeros genomas bacterianos publicados. Entre los años 1998 y 2000, se tuvieron los genomas secuenciados de &lt;em&gt;Caenorhabditis elegans, Pseudomonas aeruginosa, Drosophila melanogaster&lt;/em&gt; y &lt;em&gt;Arabidopsis thaliana&lt;/em&gt;. En el año 2003, se finalizó la secuencia definitiva del genoma humano y, este hecho se logró gracias a la proyección y explotación del potencial de la industria biotecnológica.&lt;/p&gt;
 
 &lt;p&gt;Como consecuencia, todos los avances tecnológicos destinados al campo de la genómica lograron proyectar a la comunidad científica hacia la secuenciación del genoma de cualquier organismo de interés científico o económico. Hoy en día, existen más de 12,574 genomas de bacterias completamente secuenciados y más de 65,142 proyectos en curso (GOLD Database, &lt;a href=&#34;https://gold.jgi.doe.gov/index&#34; target=&#34;_blank&#34;&gt;https://gold.jgi.doe.gov/index&lt;/a&gt; release v.6).&lt;/p&gt;
 
 &lt;p&gt;La gran cantidad de información generada a partir de los múltiples proyectos de secuenciación hizo que las bases de datos crecieran a un ritmo acelerado y casi insostenible. Al mismo tiempo, el enorme volumen de datos conlleva a que el número de herramientas de análisis y algoritmos computacionales surjan al mismo ritmo para poder extraer un conocimiento tangible que permita dar un significado a la diversidad biológica de nuestro ecosistema.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quiénes somos</title>
+      <link>/quienes-somos/</link>
+      <pubDate>Thu, 22 Feb 2018 17:07:10 +0000</pubDate>
+      
+      <guid>/quienes-somos/</guid>
+      <description>
+
+&lt;p&gt;La comunidad de desarrolladores de Software en Bioinformática, nace de la inquietud por incentivar la participación y colaboración de gente especializada en Bioinformática y Genómica, para contribuir o emprender en el desarrollo de software libre a nivel internacional.&lt;/p&gt;
+
+&lt;p&gt;La Comunidad esta convencida que, a través de cursos, talleres, congresos, y otros medios tecnológicos, se puede fortalecer las habilidades de sus integrantes, para participar en proyectos de desarrollo de software, o emprender el desarrollo de nuevo software de calidad, siempre promoviendo el espíritu de colaboración e integración.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿En qué creemos?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Objetividad y neutralidad: Los miembros de la comunidad, nuestros compañeros merecen la verdad y conocimiento real, no nos permitimos engañarlos.&lt;/li&gt;
+&lt;li&gt;Innovación: Trabajamos continuamente para estar a la vanguardia e inspirar a quienes nos rodean con nuevas ideas.&lt;/li&gt;
+&lt;li&gt;No creemos en fronteras: Vivimos en un mundo globalizado, nos preocupamos por conectarnos con lo que sucede más allá.&lt;/li&gt;
+&lt;li&gt;Pasión y perfección: Trabajamos con pasión y perfección en todo lo que hacemos para desarrollar software de calidad.&lt;/li&gt;
+&lt;li&gt;Colaboración abierta: Así como siempre invitamos a la comunidad a colaborar en nuestras iniciativas, también buscamos colaborar y sumar en las iniciativas de terceros.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Nuestros Objetivos:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Crear una gran comunidad de desarrolladores de software en bioinformática&lt;/li&gt;
+&lt;li&gt;Crear vínculos con otras comunidades: TIBs, SoIBio, Bioconductor&lt;/li&gt;
+&lt;li&gt;Reclutar talento&lt;/li&gt;
+&lt;li&gt;Crear contenido para cursos de programación y creación de paquetes en R, Python, C , Perl etc.&lt;/li&gt;
+&lt;li&gt;Creación de un repositorio para depósito de software en GitHub de la comunidad.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;english-version&#34;&gt;English version&lt;/h1&gt;
+
+&lt;p&gt;The community of software developers in Bioinformatics, stems from the concern for encouraging the participation and collaboration of people specializing in Bioinformatics and Genomics, to contribute or bring in free software development internationally.&lt;/p&gt;
+
+&lt;p&gt;The Community is convinced that, through courses, workshops, conferences, and other technological means, can strengthen the skills of its members to participate in development projects software, or undertake the development of new software quality, always promoting the spirit of cooperation and integration.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;What do we believe in ?&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Objectivity and neutrality: Members of the community, our colleagues deserve the truth and real knowledge, not allow ourselves to deceive.&lt;/li&gt;
+&lt;li&gt;Innovation: We continually work to be at the forefront and inspire those around us with new ideas.&lt;/li&gt;
+&lt;li&gt;We do not believe in borders: We live in a globalized world, we care about connecting with what happens beyond.&lt;/li&gt;
+&lt;li&gt;Passion and perfection: We work with passion and perfection in everything we do to develop quality software&lt;/li&gt;
+&lt;li&gt;Open Collaboration: As always we invite the community to collaborate in our initiatives, we also seek to collaborate and add third-party initiatives.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Our objectives:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create a large community of software developers in bioinformatics&lt;/li&gt;
+&lt;li&gt;Create links with other communities: TIBs, SoIBio, Bioconductor&lt;/li&gt;
+&lt;li&gt;Recruit talent&lt;/li&gt;
+&lt;li&gt;Create content for programming courses and creating packages in R, Python, C, Perl etc.&lt;/li&gt;
+&lt;li&gt;Creating a repository for software repository in GitHub community.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

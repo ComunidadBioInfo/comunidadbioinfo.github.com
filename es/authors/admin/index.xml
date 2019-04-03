@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Academic</title>
+    <link>/es/authors/admin/</link>
+    <description>Recent content in admin on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <copyright>&amp;copy; 2018-{year}</copyright>
+    <lastBuildDate>Tue, 10 Apr 2018 15:09:34 +0000</lastBuildDate>
+    
+	<atom:link href="/es/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Código de conducta</title>
+      <link>/es/codigo-de-conducta/</link>
+      <pubDate>Tue, 10 Apr 2018 15:09:34 +0000</pubDate>
+      
+      <guid>/es/codigo-de-conducta/</guid>
+      <description>La Comunidad de Desarrolladores de Software en Bioinformática (CDSB) se compromete a proporcionar una experiencia acogedora y libre de acoso para todos, independientemente de su género, identidad de género y expresión, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o falta de ella) u opciones de tecnología. No toleramos el acoso de los participantes de la conferencia de ninguna forma. El lenguaje y las imágenes sexuales no son apropiadas para ningún lugar de la conferencia, incluidas pláticas, talleres, fiestas, Twitter y otros medios en línea.</description>
+    </item>
+    
+    <item>
+      <title>Latin American R/BioConductor Developers Workshop 2018</title>
+      <link>/es/post/r-bioconductor-developers-workshop-2018/</link>
+      <pubDate>Thu, 22 Mar 2018 12:40:21 +0000</pubDate>
+      
+      <guid>/es/post/r-bioconductor-developers-workshop-2018/</guid>
+      <description>Comunidad de Desarrolladores de Software en Bioinformática  Conference webpage: http://www.comunidadbioinfo.org/r-bioconductor-developers-workshop-2018/
+ Level: intermediate - advanced
+ Language: english
+ When: July 30 - August 3, 2018
+ Where: Auditorium of the Center for Genomic Sciences, Cuernavaca, Mexico
+ Twitter: #CDSBMexico
+ Facebook: @CDSBMexico
+ GitHub: https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018
+   Regístrate
+Pre-requisitos Requisitos de conocimientos previos
+ Los participantes deberán tener conocimientos básicos del lenguaje de programación R: asignación de variables, lectura de archivos: read.</description>
+    </item>
+    
+    <item>
+      <title>Talleres Internacionales de Bioinformática 2018</title>
+      <link>/es/post/talleres-internacionales-de-bioinformatica-2018/</link>
+      <pubDate>Wed, 21 Mar 2018 18:12:26 +0000</pubDate>
+      
+      <guid>/es/post/talleres-internacionales-de-bioinformatica-2018/</guid>
+      <description>El Nodo Nacional de Bioinformática (NNB-UNAM) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a
+TIB2018: R para todos &amp;amp; Latin American R/Bioconductor Developers Workshop
+Centro de Ciencias Genómicas-UNAM (CCG-UNAM), en Cuernavaca Morelos, México. 30 de Julio al 3 de Agosto de 2018
+Este año, hemos decidido unir esfuerzos para impulsar el desarrollo de habilidades en el lenguaje de programación R, bajo el slogan “Aprende R y hagamos comunidad”.</description>
+    </item>
+    
+    <item>
+      <title>Aviso de Privacidad para la Protección de Datos Personales</title>
+      <link>/es/aviso-de-privacidad/</link>
+      <pubDate>Tue, 13 Mar 2018 17:23:16 +0000</pubDate>
+      
+      <guid>/es/aviso-de-privacidad/</guid>
+      <description>En términos de lo previsto en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (en lo sucesivo denominada como “la Ley”), te pedimos que leas cuidadosamente los Términos y Condiciones contenidos en este Aviso de Privacidad, ya que la simple aportación que hagas de tus Datos Personales mediante su envío, ya sea por correo electrónico y/o a través de nuestra página de internet, constituye la aceptación de estos Términos y Condiciones y en consecuencia nos autorizas expresamente al tratamiento de tus datos personales.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/es/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/author/admin/</guid>
+      <description>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+    </item>
+    
+  </channel>
+</rss>
