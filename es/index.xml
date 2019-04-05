@@ -7,8 +7,71 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>es-mx</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
-    <lastBuildDate>Thu, 04 Apr 2019 22:50:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2019 12:00:00 +0000</lastBuildDate>
     <atom:link href="/es/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2019 Talleres Internacionales de Bioinformática</title>
+      <link>/es/post/talleres-internacionales-de-bioinformatica-2019/</link>
+      <pubDate>Fri, 05 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/es/post/talleres-internacionales-de-bioinformatica-2019/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;El Nodo Nacional de Bioinformática (NNB-UNAM), la Red Mexicana de Bioinformática (RMB) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a los&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;talleres-internacionales-de-bioinformática-tib2019&#34;&gt;Talleres Internacionales de Bioinformática (TIB2019)&lt;/h3&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;&amp;amp;&lt;/h3&gt;
+
+&lt;h3 id=&#34;taller-cdsb-cómo-crear-y-ordenar-herramientas&#34;&gt;Taller CDSB: Cómo Crear y Ordenar Herramientas&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;UNAM Centro de Ciencias Genómicas (CCG-UNAM) en Cuernavaca Morelos, México.&lt;/strong&gt;
+&lt;strong&gt;Desde Julio 29 a Agosto 9, 2019&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Los talleres son organizados por:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nodo Nacional de Bioinformática, Nodo Mexicano del EMBNet (European Molecular Biology network)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Comunidad de Desarrolladores de Software en Bioinformática (CDSB)&lt;/li&gt;
+&lt;li&gt;Red Mexicana de Bioinformática (RMB)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;gracias al apoyo de:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Centro de Ciencias Genómicas (CCG-UNAM)&lt;/li&gt;
+&lt;li&gt;Licenciatura de Ciencias Genómicas (LCG-UNAM)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Para mayor información sobre el proceso de registrarse, por favor revisar la &lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/&#34; target=&#34;_blank&#34;&gt;página web de TIB2019&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;talleres&#34;&gt;Talleres&lt;/h4&gt;
+
+&lt;p&gt;Cada taller tiene una duración de una semana.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Desde Julio 29 a Agosto 2, 2019&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t1-introduccion-a-r-y-r-studio&#34; target=&#34;_blank&#34;&gt;T1: Introducción a R y RStudio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t2-programacion-para-principiantes-con-python&#34; target=&#34;_blank&#34;&gt;T2: Programación para principiantes con Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t3-introduccion-al-ensamble-y-anotacion-de-genomas/&#34; target=&#34;_blank&#34;&gt;T3. Introducción al Ensamble y Anotación de Genomas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t4-analisis-comparativo-de-genomas-microbianos-pangenomica-y-filoinformatica/&#34; target=&#34;_blank&#34;&gt;T4. Análisis comparativo de genomas microbianos: Pangenómica y filoinformática&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[Taller CDSB: Cómo Crear y Ordenar Herramientas]()&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Desde Agosto 5 a Agosto 9, 2019&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t5-programacion-avanzada-con-python&#34; target=&#34;_blank&#34;&gt;T5. Programación avanzada con Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t6-asesoria-para-el-ensamble-y-anotacion-de-tu-genoma-de-estudio/&#34; target=&#34;_blank&#34;&gt;T6. Asesoría para el Ensamble y anotación de tu Genoma de estudio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;¿Interesado en convertirte en nuestro &lt;a href=&#34;../../niveles-de-patrocinio/&#34;&gt;&lt;strong&gt;patrocinador&lt;/strong&gt;&lt;/a&gt;?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>El camino de CDSBMexico 2018 a BioC2019</title>

@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
-    <lastBuildDate>Thu, 04 Apr 2019 22:50:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/es/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019 Talleres Internacionales de Bioinformática</title>
+      <link>/es/post/talleres-internacionales-de-bioinformatica-2019/</link>
+      <pubDate>Fri, 05 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/es/post/talleres-internacionales-de-bioinformatica-2019/</guid>
+      <description>El Nodo Nacional de Bioinformática (NNB-UNAM), la Red Mexicana de Bioinformática (RMB) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a los
+Talleres Internacionales de Bioinformática (TIB2019) &amp;amp; Taller CDSB: Cómo Crear y Ordenar Herramientas UNAM Centro de Ciencias Genómicas (CCG-UNAM) en Cuernavaca Morelos, México. Desde Julio 29 a Agosto 9, 2019
+Los talleres son organizados por:
+ Nodo Nacional de Bioinformática, Nodo Mexicano del EMBNet (European Molecular Biology network)</description>
+    </item>
     
     <item>
       <title>El camino de CDSBMexico 2018 a BioC2019</title>

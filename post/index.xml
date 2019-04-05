@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
-    <lastBuildDate>Thu, 04 Apr 2019 22:50:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019 International Workshop on Bioinformatics</title>
+      <link>/post/talleres-internacionales-de-bioinformatica-2019/</link>
+      <pubDate>Fri, 05 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/post/talleres-internacionales-de-bioinformatica-2019/</guid>
+      <description>The National Node of Bioinformatics (NNB-UNAM), the Mexican Bioinformatics Network (RMB) and the Community of Bioinformatics Software Developers (CDSB) invite you to
+International Bioinformatics Workshops (TIB2019) &amp;amp; CDSB Workshop: How To Build and Create Tidy Tools UNAM Center for Genomic Sciences (CCG-UNAM) in Cuernavaca Morelos, Mexico. From July 29 to August 9, 2019
+The workshops are organized by:
+ NNB-UNAM, Mexican node EMBNet (European Molecular Biology network)
+ Community of Bioinformatics Software Developers (CDSB) Mexican Bioinformatics Network (RMB)   thanks to the:</description>
+    </item>
     
     <item>
       <title>The path from CDSBMexico 2018 to BioC2019</title>

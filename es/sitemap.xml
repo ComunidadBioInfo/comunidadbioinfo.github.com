@@ -3,6 +3,15 @@
   
     <url>
     
+      <xhtml:link rel="alternate" href="/es/post/talleres-internacionales-de-bioinformatica-2019/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/post/talleres-internacionales-de-bioinformatica-2019/" hreflang="en"/>
+    
+      <loc>/es/post/talleres-internacionales-de-bioinformatica-2019/</loc>
+      <lastmod>2019-04-05T12:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="/es/post/path-from-cdsbmexico-2018-to-bioc2019/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/post/path-from-cdsbmexico-2018-to-bioc2019/" hreflang="en"/>
     
@@ -222,7 +231,7 @@
       <xhtml:link rel="alternate" href="/" hreflang="en"/>
     
       <loc>/es/</loc>
-      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+      <lastmod>2019-04-05T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -241,7 +250,7 @@
       <xhtml:link rel="alternate" href="/categories/events/" hreflang="en"/>
     
       <loc>/es/categories/events/</loc>
-      <lastmod>2018-03-22T12:40:21+00:00</lastmod>
+      <lastmod>2019-04-05T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -251,7 +260,7 @@
       <xhtml:link rel="alternate" href="/post/" hreflang="en"/>
     
       <loc>/es/post/</loc>
-      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+      <lastmod>2019-04-05T12:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -286,7 +295,7 @@
       <xhtml:link rel="alternate" href="/authors/admin/" hreflang="en"/>
     
       <loc>/es/authors/admin/</loc>
-      <lastmod>2018-04-10T15:09:34+00:00</lastmod>
+      <lastmod>2019-04-05T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
