@@ -11,7 +11,7 @@
     <atom:link href="/es/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Taller CDSB 2019: Cómo Crear y Ordenar Herramientas</title>
+      <title>Taller CDSB 2019: Cómo Crear y Ordenar Herramientas &#39;Tidy&#39;</title>
       <link>/es/post/building-tidy-tools-cdsb-runconf-2019/</link>
       <pubDate>Fri, 05 Apr 2019 13:30:00 +0000</pubDate>
       
@@ -102,7 +102,19 @@
 
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Construir Herramientas Ordenadas&lt;/td&gt;
+&lt;td&gt;Paquetes&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Pruebas&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Diseño de API&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -114,7 +126,19 @@
 
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Construir Herramientas Ordenadas&lt;/td&gt;
+&lt;td&gt;Programación Funcional&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Erroress&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Programación Orientada a Objetos&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -132,7 +156,13 @@
 
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Construir Herramientas Ordenadas&lt;/td&gt;
+&lt;td&gt;Evaluación &amp;ldquo;Tidy&amp;rdquo;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Documentar y Compartir&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -331,7 +361,7 @@
 
 &lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t4-analisis-comparativo-de-genomas-microbianos-pangenomica-y-filoinformatica/&#34; target=&#34;_blank&#34;&gt;T4. Análisis comparativo de genomas microbianos: Pangenómica y filoinformática&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/&#34; target=&#34;_blank&#34;&gt;Taller CDSB 2019: Cómo Crear y Ordenar Herramientas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/&#34; target=&#34;_blank&#34;&gt;Taller CDSB 2019: Cómo Crear y Ordenar Herramientas &amp;lsquo;Tidy&amp;rsquo;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Desde Agosto 5 a Agosto 9, 2019&lt;/strong&gt;&lt;/p&gt;
 
