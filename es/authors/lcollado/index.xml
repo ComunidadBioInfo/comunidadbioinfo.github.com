@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
-    <lastBuildDate>Fri, 01 Mar 2019 04:24:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2019 22:50:47 +0000</lastBuildDate>
     
 	<atom:link href="/es/authors/lcollado/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>El camino de CDSBMexico 2018 a BioC2019</title>
+      <link>/es/post/path-from-cdsbmexico-2018-to-bioc2019/</link>
+      <pubDate>Thu, 04 Apr 2019 22:50:47 +0000</pubDate>
+      
+      <guid>/es/post/path-from-cdsbmexico-2018-to-bioc2019/</guid>
+      <description>Hace un año la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) organizó un taller de una semana diseñado para entrenar a usuarios de R en como crear paquetes de R e idealmente compartirlos vía Bioconductor. El taller en sí fue todo un éxito basado en nuestro resumen del evento. Sin embargo, no queríamos parar ahí. Creamos la CDSB y juntamos fuerzas con los TIB (“Talleres Internacionales de Bioinformática”) de la NNB-UNAM con el objetivo de simular en conjunto un evento anual de BioC.</description>
+    </item>
     
     <item>
       <title>CDSBMexico: acuerdense de solicitar becas para ir a BioC2019</title>

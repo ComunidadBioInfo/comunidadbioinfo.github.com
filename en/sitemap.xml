@@ -3,6 +3,15 @@
   
     <url>
     
+      <xhtml:link rel="alternate" href="/post/path-from-cdsbmexico-2018-to-bioc2019/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/post/path-from-cdsbmexico-2018-to-bioc2019/" hreflang="es"/>
+    
+      <loc>/post/path-from-cdsbmexico-2018-to-bioc2019/</loc>
+      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/es/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/" hreflang="es"/>
     
@@ -181,6 +190,13 @@
   
     <url>
     
+      <loc>/tags/applications/</loc>
+      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="/author/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/es/author/" hreflang="es"/>
     
@@ -199,11 +215,21 @@
   
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/bioconductor/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/bioconductor/" hreflang="es"/>
+    
+      <loc>/tags/bioconductor/</loc>
+      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/es/" hreflang="es"/>
     
       <loc>/</loc>
-      <lastmod>2019-03-01T04:24:47+00:00</lastmod>
+      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -232,7 +258,7 @@
       <xhtml:link rel="alternate" href="/es/post/" hreflang="es"/>
     
       <loc>/post/</loc>
-      <lastmod>2019-03-01T04:24:47+00:00</lastmod>
+      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
     </url>
   
     <url>
@@ -250,6 +276,7 @@
       <xhtml:link rel="alternate" href="/es/tags/" hreflang="es"/>
     
       <loc>/tags/</loc>
+      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -335,7 +362,7 @@
       <xhtml:link rel="alternate" href="/es/authors/lcollado/" hreflang="es"/>
     
       <loc>/authors/lcollado/</loc>
-      <lastmod>2019-03-01T04:24:47+00:00</lastmod>
+      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -363,7 +390,7 @@
       <xhtml:link rel="alternate" href="/es/categories/rstats/" hreflang="es"/>
     
       <loc>/categories/rstats/</loc>
-      <lastmod>2019-03-01T04:24:47+00:00</lastmod>
+      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
       <priority>0</priority>
     </url>
   

@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
+    <lastBuildDate>Thu, 04 Apr 2019 22:50:47 +0000</lastBuildDate>
     
 	<atom:link href="/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bioconductor</title>
+      <link>/es/tags/bioconductor/</link>
+      <pubDate>Thu, 04 Apr 2019 22:50:47 +0000</pubDate>
+      
+      <guid>/es/tags/bioconductor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solicitudes</title>
+      <link>/es/tags/solicitudes/</link>
+      <pubDate>Thu, 04 Apr 2019 22:50:47 +0000</pubDate>
+      
+      <guid>/es/tags/solicitudes/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

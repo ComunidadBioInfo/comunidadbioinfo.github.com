@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
-    <lastBuildDate>Fri, 01 Mar 2019 04:24:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2019 22:50:47 +0000</lastBuildDate>
     
 	<atom:link href="/categories/rstats/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The path from CDSBMexico 2018 to BioC2019</title>
+      <link>/post/path-from-cdsbmexico-2018-to-bioc2019/</link>
+      <pubDate>Thu, 04 Apr 2019 22:50:47 +0000</pubDate>
+      
+      <guid>/post/path-from-cdsbmexico-2018-to-bioc2019/</guid>
+      <description>Last year the Community of Bioinformatics Software Developers (CDSB in Spanish) organized a one week workshop designed to train R users how to write R packages and ideally contribute them to Bioconductor. The workshop itself was a success as described in our summary post about the event. However, we didn’t want to stop there. We formed CDSB and teamed up with TIB (“Talleres Internacionales de Bioinformática”) from NNB-UNAM with the goal of simulating the BioC yearly meeting where attendees can learn R, mature as R users and become R developers.</description>
+    </item>
     
     <item>
       <title>CDSBMexico: remember to apply for BioC2019 travel scholarships</title>
