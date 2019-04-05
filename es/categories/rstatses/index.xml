@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events on CDSB</title>
-    <link>/es/categories/events/</link>
-    <description>Recent content in Events on CDSB</description>
+    <title>rstatsES on CDSB</title>
+    <link>/es/categories/rstatses/</link>
+    <description>Recent content in rstatsES on CDSB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
     <lastBuildDate>Fri, 05 Apr 2019 13:30:00 +0000</lastBuildDate>
     
-	<atom:link href="/es/categories/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/es/categories/rstatses/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -32,18 +32,6 @@
     </item>
     
     <item>
-      <title>2019 Talleres Internacionales de Bioinformática</title>
-      <link>/es/post/talleres-internacionales-de-bioinformatica-2019/</link>
-      <pubDate>Fri, 05 Apr 2019 12:00:00 +0000</pubDate>
-      
-      <guid>/es/post/talleres-internacionales-de-bioinformatica-2019/</guid>
-      <description>El Nodo Nacional de Bioinformática (NNB-UNAM), la Red Mexicana de Bioinformática (RMB) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a los
-Talleres Internacionales de Bioinformática (TIB2019) &amp;amp; Taller CDSB: Cómo Crear y Ordenar Herramientas UNAM Centro de Ciencias Genómicas (CCG-UNAM) en Cuernavaca Morelos, México. Desde Julio 29 a Agosto 9, 2019
-Los talleres son organizados por:
- Nodo Nacional de Bioinformática, Nodo Mexicano del EMBNet (European Molecular Biology network)</description>
-    </item>
-    
-    <item>
       <title>Taller de Desarrolladores Latino Americanos de R/BioConductor 2018</title>
       <link>/es/post/r-bioconductor-developers-workshop-2018/</link>
       <pubDate>Thu, 22 Mar 2018 12:40:21 +0000</pubDate>
@@ -60,17 +48,6 @@ Los talleres son organizados por:
  Regístrate
   Pre-requisitos Requisitos de conocimientos previos
  Los participantes deberán tener conocimientos básicos del lenguaje de programación R: asignación de variables, lectura de archivos: read.</description>
-    </item>
-    
-    <item>
-      <title>Talleres Internacionales de Bioinformática 2018</title>
-      <link>/es/post/talleres-internacionales-de-bioinformatica-2018/</link>
-      <pubDate>Wed, 21 Mar 2018 18:12:26 +0000</pubDate>
-      
-      <guid>/es/post/talleres-internacionales-de-bioinformatica-2018/</guid>
-      <description>El Nodo Nacional de Bioinformática (NNB-UNAM) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a
-TIB2018: R para todos &amp;amp; Latin American R/Bioconductor Developers Workshop Centro de Ciencias Genómicas-UNAM (CCG-UNAM), en Cuernavaca Morelos, México. 30 de Julio al 3 de Agosto de 2018
-Este año, hemos decidido unir esfuerzos para impulsar el desarrollo de habilidades en el lenguaje de programación R, bajo el slogan “Aprende R y hagamos comunidad”.</description>
     </item>
     
   </channel>

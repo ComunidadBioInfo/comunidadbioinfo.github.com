@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
-    <lastBuildDate>Fri, 05 Apr 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2019 13:30:00 +0000</lastBuildDate>
     
 	<atom:link href="/es/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Taller CDSB 2019: Cómo Crear y Ordenar Herramientas</title>
+      <link>/es/post/building-tidy-tools-cdsb-runconf-2019/</link>
+      <pubDate>Fri, 05 Apr 2019 13:30:00 +0000</pubDate>
+      
+      <guid>/es/post/building-tidy-tools-cdsb-runconf-2019/</guid>
+      <description>Comunidad de Desarrolladores de Software en Bioinformática  Página del taller: https://comunidadbioinfo.github.io/es/post/building-tidy-tools-CDSB-runconf-2019/
+ Nivel: intermedio - avanzado
+ Languaje: español1
+ Cuando: Julio 29 - Augusto 2, 2018
+ Donde: Auditorio del Centro de Ciencias Genómicas, Cuernavaca, Mexico
+ Twitter: #CDSBMexico
+ Facebook: @CDSBMexico
+ GitHub: https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019
+ Registro
+  Pre-requisitos Requisitos de conocimientos previos
+ Los participantes deberán tener conocimientos básicos del lenguaje de programación R: asignación de variables, lectura de archivos: read.</description>
+    </item>
     
     <item>
       <title>2019 Talleres Internacionales de Bioinformática</title>

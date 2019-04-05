@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
-    <lastBuildDate>Thu, 04 Apr 2019 22:50:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2019 13:30:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/rstats/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CDSB Workshop 2019: How to Build and Create Tidy Tools</title>
+      <link>/post/building-tidy-tools-cdsb-runconf-2019/</link>
+      <pubDate>Fri, 05 Apr 2019 13:30:00 +0000</pubDate>
+      
+      <guid>/post/building-tidy-tools-cdsb-runconf-2019/</guid>
+      <description>Community of Bioinformatics Software Developers  Workshop webpage: https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/
+ Level: intermediate - advanced
+ Language: Spanish1
+ When: July 29 - August 2, 2019
+ Where: Auditorium of the Center for Genomic Sciences, Cuernavaca, Mexico
+ Twitter: #CDSBMexico
+ Facebook: @CDSBMexico
+ GitHub: https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019
+ Registration
+  Requirements Requirements prior knowledge
+ Participants should have basic to intermediate knowledge of the R programming language: variable assignment, reading files: read.</description>
+    </item>
     
     <item>
       <title>The path from CDSBMexico 2018 to BioC2019</title>
@@ -51,6 +70,25 @@ In July, we kicked off the first Bioconductor Latin American Developers Workshop
       <guid>/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/</guid>
       <description>This blog post was written by ME Martinez-Sanchez, S Muñoz, M Carrillo, E Azpeitia, D Rosenblueth.
 In this blog post we will describe the package rGriffin (Martinez-Sanchez, Muñoz, Carrillo, Azpeitia, et al., 2018) that was one of the projects developed during the TIB2018-BCDW. We hope to continue developing Griffin and rGriffin (Martinez-Sanchez, Muñoz, Carrillo, Azpeitia, et al., 2018). If you have ideas, suggestions or bugs, please contact us via rGriffin GitHub repo.</description>
+    </item>
+    
+    <item>
+      <title>Latin American R/BioConductor Developers Workshop 2018</title>
+      <link>/post/r-bioconductor-developers-workshop-2018/</link>
+      <pubDate>Thu, 22 Mar 2018 12:40:21 +0000</pubDate>
+      
+      <guid>/post/r-bioconductor-developers-workshop-2018/</guid>
+      <description>Community of Bioinformatics Software Developers  Workshop webpage: https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/
+ Level: intermediate - advanced
+ Language: english
+ When: July 30 - August 3, 2018
+ Where: Auditorium of the Center for Genomic Sciences, Cuernavaca, Mexico
+ Twitter: #CDSBMexico
+ Facebook: @CDSBMexico
+ GitHub: https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018
+ Register
+  Requirements Requirements prior knowledge
+ Participants should have basic knowledge of programming language R: variable assignment, reading files: read.csv, read.delim, read.</description>
     </item>
     
   </channel>

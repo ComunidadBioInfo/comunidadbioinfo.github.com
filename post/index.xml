@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
-    <lastBuildDate>Fri, 05 Apr 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2019 13:30:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CDSB Workshop 2019: How to Build and Create Tidy Tools</title>
+      <link>/post/building-tidy-tools-cdsb-runconf-2019/</link>
+      <pubDate>Fri, 05 Apr 2019 13:30:00 +0000</pubDate>
+      
+      <guid>/post/building-tidy-tools-cdsb-runconf-2019/</guid>
+      <description>Community of Bioinformatics Software Developers  Workshop webpage: https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/
+ Level: intermediate - advanced
+ Language: Spanish1
+ When: July 29 - August 2, 2019
+ Where: Auditorium of the Center for Genomic Sciences, Cuernavaca, Mexico
+ Twitter: #CDSBMexico
+ Facebook: @CDSBMexico
+ GitHub: https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019
+ Registration
+  Requirements Requirements prior knowledge
+ Participants should have basic to intermediate knowledge of the R programming language: variable assignment, reading files: read.</description>
+    </item>
     
     <item>
       <title>2019 International Workshop on Bioinformatics</title>
@@ -72,7 +91,7 @@ In this blog post we will describe the package rGriffin (Martinez-Sanchez, Muño
       <pubDate>Thu, 22 Mar 2018 12:40:21 +0000</pubDate>
       
       <guid>/post/r-bioconductor-developers-workshop-2018/</guid>
-      <description>Comunidad de Desarrolladores de Software en Bioinformática  Workshop webpage: https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/
+      <description>Community of Bioinformatics Software Developers  Workshop webpage: https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/
  Level: intermediate - advanced
  Language: english
  When: July 30 - August 3, 2018
@@ -82,7 +101,7 @@ In this blog post we will describe the package rGriffin (Martinez-Sanchez, Muño
  GitHub: https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018
  Register
   Requirements Requirements prior knowledge
- Participants should have basic knowledge of programming language R: variable assignment, reading files: read.</description>
+ Participants should have basic knowledge of programming language R: variable assignment, reading files: read.csv, read.delim, read.</description>
     </item>
     
     <item>

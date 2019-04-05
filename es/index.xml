@@ -7,8 +7,278 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>es-mx</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
-    <lastBuildDate>Fri, 05 Apr 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2019 13:30:00 +0000</lastBuildDate>
     <atom:link href="/es/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Taller CDSB 2019: Cómo Crear y Ordenar Herramientas</title>
+      <link>/es/post/building-tidy-tools-cdsb-runconf-2019/</link>
+      <pubDate>Fri, 05 Apr 2019 13:30:00 +0000</pubDate>
+      
+      <guid>/es/post/building-tidy-tools-cdsb-runconf-2019/</guid>
+      <description>
+
+&lt;h4 id=&#34;comunidad-de-desarrolladores-de-software-en-bioinformática&#34;&gt;Comunidad de Desarrolladores de Software en Bioinformática&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Página del taller: &lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/building-tidy-tools-CDSB-runconf-2019/&#34; target=&#34;_blank&#34;&gt;https://comunidadbioinfo.github.io/es/post/building-tidy-tools-CDSB-runconf-2019/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Nivel: &lt;strong&gt;intermedio - avanzado&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Languaje: &lt;strong&gt;español&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:If-you-speak-Eng&#34;&gt;&lt;a href=&#34;#fn:If-you-speak-Eng&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cuando: Julio 29 - Augusto 2, 2018&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Donde: Auditorio del &lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34;&gt;Centro de Ciencias Genómicas&lt;/a&gt;, Cuernavaca, Mexico&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Twitter: &lt;a href=&#34;https://twitter.com/search?f=tweets&amp;amp;q=%23CDSBMexico&#34; target=&#34;_blank&#34;&gt;#CDSBMexico&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Facebook: &lt;a href=&#34;https://www.facebook.com/CDSBMexico/&#34; target=&#34;_blank&#34;&gt;@CDSBMexico&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019&#34; target=&#34;_blank&#34;&gt;https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019&#34; target=&#34;_blank&#34;&gt;Registro&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;pre-requisitos&#34;&gt;Pre-requisitos&lt;/h2&gt;
+
+&lt;p&gt;Requisitos de conocimientos previos&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Los participantes deberán tener conocimientos básicos del lenguaje de programación R: asignación de variables, lectura de archivos: read.csv, read.delim, read.table; estructuras de datos: matrix, dataframe, list; tipos de datos: character, numeric, factor, logical, etc; instalación y uso de paquetes.&lt;/li&gt;
+&lt;li&gt;Saber instalar paquetes de R.&lt;/li&gt;
+&lt;li&gt;Saber usar RStudio.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Requisitos técnicos&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Computadora Personal. Un mínimo de 8 GB de RAM, un ratón y espacio de disco suficiente para archivos de texto y archivos de imagen. Privilegios de administrador para instalar y ejecutar utilidades de RStudio.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
+
+&lt;p&gt;En años recientes, &lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; se ha convertido en uno de los lenguajes de programación más usados para la ciencia de datos. La explosión en la disponibilidad de datos en muchos campos ha incrementado la demanda para personas capacitadas en el analísis de estos datos, tal como es el caso en la Bioinformática. Los usarios de &lt;code&gt;R&lt;/code&gt; empiezan usando herramientas que otros han compartido con la comunidad internacional de forma libre. Mientras van analizando más conjuntos de datos, estos usuarios adquieren más habilidades con &lt;code&gt;R&lt;/code&gt;. Durante este proceso incluso es posible que empiecen a interactuar con desarrolladores de &lt;code&gt;R&lt;/code&gt; vía páginas web como &lt;a href=&#34;https://community.rstudio.com/&#34; target=&#34;_blank&#34;&gt;RStudio Community&lt;/a&gt;, &lt;a href=&#34;https://support.bioconductor.org/&#34; target=&#34;_blank&#34;&gt;Bioconductor Support&lt;/a&gt; or vía Twitter usando la equiqueta &lt;a href=&#34;https://twitter.com/search?q=%23rstats&#34; target=&#34;_blank&#34;&gt;#rstats&lt;/a&gt; o &lt;a href=&#34;https://twitter.com/search?q=%23rstatsES&#34; target=&#34;_blank&#34;&gt;#rstatsES&lt;/a&gt;. Eventualmente algunos de los usuarios de &lt;code&gt;R&lt;/code&gt; van a querer escribir sus propias funciones y compartirlas en línea con otras personas. Pueden lograr este objetivo si crean paquetes de &lt;code&gt;R&lt;/code&gt; y los comparten vía repositorios como &lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt; y &lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34;&gt;Bioconductor&lt;/a&gt; o simplemente vía &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;. En este taller los participantes completaran el taller &lt;em&gt;Building Tidy Tools&lt;/em&gt; que fue originalemnte impartido durante &lt;a href=&#34;https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/&#34; target=&#34;_blank&#34;&gt;rstudio::conf 2019&lt;/a&gt; y luego construirán sus propios paquetes de &lt;code&gt;R&lt;/code&gt; colaborando con otros participantes, siguiendo una dinámica similar a la del &lt;a href=&#34;http://unconf18.ropensci.org/&#34; target=&#34;_blank&#34;&gt;rOpenSci unconf18&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Este taller está enfocado hacia alumnos e investigadores interesados en análisis de datos. Queremos promover solicitudes de expertos en diversas disciplinas, incluyendo mas no limitandonos a biológos, bioinformáticos, científicos de datos, ingenieros de software, programadores y usuarios de R en general. Los principales objetivos del taller son:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Enseñarle a los participantes los principios de la ciencia de datos vía el desarrollo de paquetes de R/Bioconductor.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Transformar usuarios de software (de bioinformática) en desarrolladores de software (de bioinformática).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fomentar el intercambio de conocimiento y establecer colaboraciones multidisciplinarias.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Crear una comunidad de científicos Latino Americanos comprometidos con el desarrollo de software para análisis de datos (biológicos).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Entrenar a instructores (en bioinformática) para que puedan fomentar el crecimiendo de sus comunidades locales.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Este taller es parte de un proyecto a largo plazo para crear una comunidad Latino Americana de desarrolladores de software. Esperamos poder organizar talleres en el futuro de forma sistemática (similar a BioC, EuroBioC y BioCAsia) donde los participantes presenten sus contribuciones de software. Queremos proveer un ambiente amigable para todos así que les pedimos que sigan el &lt;a href=&#34;../../codigo-de-conducta/&#34;&gt;código de conducta&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;programa&#34;&gt;Programa&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;Day 1: Julio 29, 2018&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Inaguración&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Bienvenida a la CDSB: la historia de nuestra comunidad y hacia donde vamos&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Construir Herramientas Ordenadas&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day 2: Julio 30, 2019&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Construir Herramientas Ordenadas&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;(por definir) Sesión de pósters&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day 3: Julio 31, 2019&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Construir Herramientas Ordenadas&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Introducción a GitHub&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day 4: Augusto 1, 2019&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Introducción a &lt;code&gt;runconf&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Actividades para construir la comunidad&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Votación y selección de proyectos&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Trabajar en desarrollar un paquete de R de forma colaborativa&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day 5: Augusto 2, 2019&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Trabajar en desarrollar un paquete de R de forma colaborativa&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Presentación de proyectos del &lt;code&gt;runconf&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Clausura y recordatorio de oportunidades para participar en la CDSB&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;construir-herramientas-ordenadas&#34;&gt;Construir Herramientas Ordenadas&lt;/h3&gt;
+
+&lt;p&gt;Charlotte Wickham y Hadley Wickham fueron los instructores de la versión &lt;a href=&#34;https://github.com/rstudio/rstudio-conf/blob/master/2019/workshops.md#building-tidy-tools&#34; target=&#34;_blank&#34;&gt;original de este taller&lt;/a&gt; en rstudio::conf 2019. Aceptaron amablemente compartir con nosotros los archivos fuente que traducieremos al español para este taller. Si quieres leer la versión original en inglés de este texto, checa &lt;a href=&#34;https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/&#34; target=&#34;_blank&#34;&gt;nuestro anuncio del taller en inglés&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Este es un taller de dos días para quienes sean usuarios del tidyverse y que ahora quieren expander sus necesidades. Hablaremos sobre diseño de APIs, herramientas para programación funcional, las bases del diseño de objetos en S3, y el system de evaluación ordenada (tidy eval) para evaluación no estándar (NSE en inglés).&lt;/p&gt;
+
+&lt;p&gt;Aprendás formas eficientes de escribir funciones de R de alta calidad, usando una serie de convenciones codificadas en un paquete. También aprenderás como diseñar pruebas unitarias para tu software, que te permiten garantizar que tus funciones hacen lo que fueron diseñadas para hacer. Domina el arte de escribir funciones que hacen una sola cosa bien y que pueden ser combinandas de forma fluida para resolver problemas complejos. Repasaremos errores comunes al escribir funciones y como evitarlos.&lt;/p&gt;
+
+&lt;p&gt;Aprende a escribir colecciones de funciones que funcionan bien de forma conjunta, y sigue limeamientos existentes para que usuarios nuevos sientan que son fáciles de aprender.&lt;/p&gt;
+
+&lt;p&gt;Deberías tomar este taller si tienes experiencia programando en R y quieres aprender a resolver problemas de gran escala. Le sacarás más jugo al taller si ya estás familiarizado con funciones de R y te sientes cómodo con las estructuras básicas de R (vectores, matrices, arreglos, listas y tablas).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;En vez de enseñar el taller en dos días, lo haremos en dos días y medio para que tengan más tiempo para digerir todo el material y para que tengamos tiempo de enseñar que es Git y GitHub.&lt;/p&gt;
+
+&lt;h3 id=&#34;cdsb-runconf&#34;&gt;CDSB &lt;code&gt;runconf&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt;Los eventos de &lt;code&gt;R&lt;/code&gt; &amp;ldquo;unconference&amp;rdquo; (runconf) típicamente involucran dos etapas con una tercera opcional. Primero los participantes crean &amp;ldquo;issues&amp;rdquo; semanas antes del runconf donde comparten ideas sobre las cuales potencialmente podrían trabajar durante los dos días del runconf. En la segunda etapa, los participantes se conocen entre todos a través de dinámicas diseñadas para romper el hielo. Luego trabajan de forma colaborativa durante dos días en los proyectos que hayan recibido votos. Es aquí cuando los participantes aprenden de las habilidades de cada quien y donde pueden vivir la experiencia de desarrollar software de acceso libre de forma colaborativa. Al final, todos comparten su experiencia con el resto del grupo. En la tercera y última etapa, los participantes del runconf puede que continuen a interactuar entre ellos para pulir los paquetes de &lt;code&gt;R&lt;/code&gt; en los cuales hayan trabajado durante runconf, iniciar nuevas colaboraciones y/o escribir entradas en el blog sobre su experiencia.&lt;/p&gt;
+
+&lt;p&gt;Hay muchas entradas de blog sobre eventos de rOpenSci unconf. Un runconf reciente fue &lt;code&gt;chirunconf&lt;/code&gt; del cual pueden leer más en el blog de &lt;a href=&#34;https://sharla.party/posts/chirunconf/&#34; target=&#34;_blank&#34;&gt;Sharla Gelfand&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Si van a participar en nuestro taller, les vamos a pedir que propongan al menos una idea para un paquete de R vía la creación de un &amp;ldquo;GitHub Issue&amp;rdquo; en nuestro &lt;a href=&#34;https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019/issues&#34; target=&#34;_blank&#34;&gt; repositorio de GitHub para el taller&lt;/a&gt;. Si necesitan algo de inspiración, revisen las ideas que otros propusieron para &lt;a href=&#34;https://github.com/ropensci/unconf18/issues&#34; target=&#34;_blank&#34;&gt;rOpenSci unconf18&lt;/a&gt;. También les pediremos que todos se familiarizen con las propuestas de los demás antes del inicio del taller.&lt;/p&gt;
+
+&lt;h2 id=&#34;instructores&#34;&gt;Instructores:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt; (International Laboratory for Human Genome Research, Juriquilla, Mexico)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; (Dana-Farber Cancer Institute, Boston, USA)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; (Lieber Institute for Brain Development, Baltimore, USA). Leonardo tómo el taller original de &lt;em&gt;Building Tidy Tools&lt;/em&gt; en &lt;a href=&#34;https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/&#34; target=&#34;_blank&#34;&gt;rstudio::conf 2019&lt;/a&gt; gracias a una beca de diversidad. También atendió el &lt;a href=&#34;http://unconf18.ropensci.org/&#34; target=&#34;_blank&#34;&gt;rOpenSci unconf 2018&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;comité-organizador&#34;&gt;Comité Organizador:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt; (International Laboratory for Human Genome Research, Juriquilla, Mexico)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; (Dana-Farber Cancer Institute, Boston, USA)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/delfinog/&#34; target=&#34;_blank&#34;&gt;Delfino García&lt;/a&gt; (Center for Genomic Sciences, Cuernavaca, Mexico)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/hsalgado/&#34; target=&#34;_blank&#34;&gt;Heladia Salgado&lt;/a&gt; (Center for Genomic Sciences, Cuernavaca, Mexico)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; (Lieber Institute for Brain Development, Baltimore, USA)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;código-de-conducta-codigo-de-conducta&#34;&gt;&lt;a href=&#34;../../codigo-de-conducta/&#34;&gt;Código de Conducta&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;patrocinadores&#34;&gt;Patrocinadores&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../niveles-de-patrocinio/&#34;&gt;Sé nuestro &lt;strong&gt;patrocinador&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/CCG_Logo_HR-300x114.png&#34; alt=&#34;Centro de Ciencias Genómicas UNAM&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.lcg.unam.mx&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/LCG_Logo_HR-white.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://liigh.unam.mx/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/logo-liigh-unam.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:If-you-speak-Eng&#34;&gt;If you speak English but not Spanish please let us know so we can plan accordingly. &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:If-you-speak-Eng&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>2019 Talleres Internacionales de Bioinformática</title>
@@ -61,7 +331,7 @@
 
 &lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t4-analisis-comparativo-de-genomas-microbianos-pangenomica-y-filoinformatica/&#34; target=&#34;_blank&#34;&gt;T4. Análisis comparativo de genomas microbianos: Pangenómica y filoinformática&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;[Taller CDSB: Cómo Crear y Ordenar Herramientas]()&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/&#34; target=&#34;_blank&#34;&gt;Taller CDSB 2019: Cómo Crear y Ordenar Herramientas&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Desde Agosto 5 a Agosto 9, 2019&lt;/strong&gt;&lt;/p&gt;
 
