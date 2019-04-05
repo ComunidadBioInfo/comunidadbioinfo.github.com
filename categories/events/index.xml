@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events on Academic</title>
+    <title>Events on CDSB</title>
     <link>/categories/events/</link>
-    <description>Recent content in Events on Academic</description>
+    <description>Recent content in Events on CDSB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Thu, 22 Mar 2018 12:40:21 +0000</pubDate>
       
       <guid>/post/r-bioconductor-developers-workshop-2018/</guid>
-      <description>Comunidad de Desarrolladores de Software en Bioinformática  Conference webpage: http://www.comunidadbioinfo.org/r-bioconductor-developers-workshop-2018/
+      <description>Comunidad de Desarrolladores de Software en Bioinformática  Workshop webpage: https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/
  Level: intermediate - advanced
  Language: english
  When: July 30 - August 3, 2018
@@ -26,21 +26,20 @@
  Twitter: #CDSBMexico
  Facebook: @CDSBMexico
  GitHub: https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018
-   Regístrate
-Pre-requisitos Requisitos de conocimientos previos
- Los participantes deberán tener conocimientos básicos del lenguaje de programación R: asignación de variables, lectura de archivos: read.</description>
+ Register
+  Requirements Requirements prior knowledge
+ Participants should have basic knowledge of programming language R: variable assignment, reading files: read.</description>
     </item>
     
     <item>
-      <title>Talleres Internacionales de Bioinformática 2018</title>
+      <title>2018 International Workshop on Bioinformatics</title>
       <link>/post/talleres-internacionales-de-bioinformatica-2018/</link>
       <pubDate>Wed, 21 Mar 2018 18:12:26 +0000</pubDate>
       
       <guid>/post/talleres-internacionales-de-bioinformatica-2018/</guid>
-      <description>El Nodo Nacional de Bioinformática (NNB-UNAM) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a
-TIB2018: R para todos &amp;amp; Latin American R/Bioconductor Developers Workshop
-Centro de Ciencias Genómicas-UNAM (CCG-UNAM), en Cuernavaca Morelos, México. 30 de Julio al 3 de Agosto de 2018
-Este año, hemos decidido unir esfuerzos para impulsar el desarrollo de habilidades en el lenguaje de programación R, bajo el slogan “Aprende R y hagamos comunidad”.</description>
+      <description>The National Node of Bioinformatics (NNB-UNAM) and the Community of Bioinformatics Software Developers (CDSB) invite you to
+TIB2018: R para todos &amp;amp; Latin American R/Bioconductor Developers Workshop UNAM Center for Genomic Sciences (CCG-UNAM) in Cuernavaca Morelos, Mexico. From July 30 to August 3, 2018
+This year, we decided to join efforts to promote the development of skills in the programming language R, under the slogan &amp;ldquo;Learn R and do community&amp;rdquo; .</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
+    <title>Authors on CDSB</title>
     <link>/es/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <description>Recent content in Authors on CDSB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
@@ -21,11 +21,38 @@
     </item>
     
     <item>
+      <title>amedina</title>
+      <link>/es/authors/amedina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/authors/amedina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aponce</title>
+      <link>/es/authors/aponce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/authors/aponce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>areyes</title>
       <link>/es/authors/areyes/</link>
       <pubDate>Fri, 14 Sep 2018 02:13:22 +0000</pubDate>
       
       <guid>/es/authors/areyes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bcarvalho</title>
+      <link>/es/authors/bcarvalho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/authors/bcarvalho/</guid>
       <description></description>
     </item>
     
@@ -39,11 +66,47 @@
     </item>
     
     <item>
+      <title>hsalgado</title>
+      <link>/es/authors/hsalgado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/authors/hsalgado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>lcollado</title>
       <link>/es/authors/lcollado/</link>
       <pubDate>Fri, 01 Mar 2019 04:24:47 +0000</pubDate>
       
       <guid>/es/authors/lcollado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mteresa</title>
+      <link>/es/authors/mteresa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/authors/mteresa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mtmorgan</title>
+      <link>/es/authors/mtmorgan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/authors/mtmorgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sfernandez</title>
+      <link>/es/authors/sfernandez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/authors/sfernandez/</guid>
       <description></description>
     </item>
     

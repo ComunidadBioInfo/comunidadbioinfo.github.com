@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amedina on CDSB</title>
+    <link>/authors/amedina/</link>
+    <description>Recent content in amedina on CDSB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018-{year}</copyright>
+    
+	<atom:link href="/authors/amedina/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/amedina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/amedina/</guid>
+      <description>Alejandra obtained her Ph.D. in 2012 from the Biomedical Sciences Program at the National University of Mexico (UNAM). Since her Ph.D., she has been focused on developing bioinformatic tools, and strategies to study gene regulatory mechanisms, most of the developed tools are now part of the Regulatory Sequence and Analysis Tools suite (RSAT, http://rsat.eu/). Currently, using computational approaches, her research will incorporate functional genomics data into Genome Wide Association Studies (GWAS), aiming to identify variants that lead to misregulation of gene expression.</description>
+    </item>
+    
+  </channel>
+</rss>

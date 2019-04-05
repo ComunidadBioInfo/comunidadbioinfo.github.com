@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lcollado on Academic</title>
+    <title>lcollado on CDSB</title>
     <link>/authors/lcollado/</link>
-    <description>Recent content in lcollado on Academic</description>
+    <description>Recent content in lcollado on CDSB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
@@ -30,9 +30,8 @@
       <pubDate>Mon, 20 Aug 2018 21:45:28 +0000</pubDate>
       
       <guid>/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/</guid>
-      <description>_This blog post was contributed by: ME Martinez-Sanchez, S Muñoz, M Carrillo, E Azpeitia, D Rosenblueth_
-In this blog post we will describe the package rGriffin that was one of the projects developed during the TIB2018-BCDW. We hope to continue developing Griffin and rGriffin. If you have ideas, suggestions or bugs, please contact us at Github.
-The problem Boolean networks allow us to give a mechanistic explanation to how cell types emerge from regulatory networks.</description>
+      <description>This blog post was written by ME Martinez-Sanchez, S Muñoz, M Carrillo, E Azpeitia, D Rosenblueth.
+In this blog post we will describe the package rGriffin (Martinez-Sanchez, Muñoz, Carrillo, Azpeitia, et al., 2018) that was one of the projects developed during the TIB2018-BCDW. We hope to continue developing Griffin and rGriffin (Martinez-Sanchez, Muñoz, Carrillo, Azpeitia, et al., 2018). If you have ideas, suggestions or bugs, please contact us via rGriffin GitHub repo.</description>
     </item>
     
     <item>
@@ -41,7 +40,7 @@ The problem Boolean networks allow us to give a mechanistic explanation to how c
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/author/lcollado/</guid>
-      <description>Leo is&amp;hellip;</description>
+      <description>Leonardo uses R daily and contributes packages to the Bioconductor project as part of his work with Andrew Jaffe at LIBD. He is interested in high-throughput genomics assays such as RNA-seq, developments in R and helping others get started in their R journey. Leonardo has been learning and teaching R since 2008 and is a co-founder of the LIBD rstats club.</description>
     </item>
     
   </channel>

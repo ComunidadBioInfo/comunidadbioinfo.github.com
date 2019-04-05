@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mtmorgan on CDSB</title>
+    <link>/es/authors/mtmorgan/</link>
+    <description>Recent content in mtmorgan on CDSB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <copyright>&amp;copy; 2018-{year}</copyright>
+    
+	<atom:link href="/es/authors/mtmorgan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/es/author/mtmorgan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/author/mtmorgan/</guid>
+      <description>Dr. Morgan spent 10 years as an Assistant Professor and Associate then at Washington State University, before joining the Fred Hutchinson Cancer Research Center in 2005. At the Hutch, Dr. Morgan worked on the Bioconductor project for the analysis and comprehension of high-throughput genomic data; which he has led since 2008. Dr. Morgan recently moved to Roswell Park in Buffalo Comprehensive Cancer Center, NY, where the Bioconductor project is now based.</description>
+    </item>
+    
+  </channel>
+</rss>

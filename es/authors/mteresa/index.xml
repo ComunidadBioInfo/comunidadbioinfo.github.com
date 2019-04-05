@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mteresa on CDSB</title>
+    <link>/es/authors/mteresa/</link>
+    <description>Recent content in mteresa on CDSB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <copyright>&amp;copy; 2018-{year}</copyright>
+    
+	<atom:link href="/es/authors/mteresa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/es/author/mteresa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/author/mteresa/</guid>
+      <description>I am a data analyst with experience in ecology and marketing, I currently work in CONABIO (Mexico’s National Commission of Biodiversity) where I do statistical analysis related to biodiversity.
+I also enjoy teaching, I teach statistic courses to master students in Data Science and to bachelors in Mathematics and Actuarial Sciences at ITAM. Lastly, I love R, I am co-organizer of R-Ladies CDMX and I regularly give short courses in R.</description>
+    </item>
+    
+  </channel>
+</rss>

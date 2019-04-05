@@ -101,6 +101,54 @@
   
     <url>
     
+      <xhtml:link rel="alternate" href="/es/author/amedina/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/author/amedina/" hreflang="en"/>
+    
+      <loc>/es/author/amedina/</loc>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/author/aponce/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/author/aponce/" hreflang="en"/>
+    
+      <loc>/es/author/aponce/</loc>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/author/areyes/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/author/areyes/" hreflang="en"/>
+    
+      <loc>/es/author/areyes/</loc>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/author/bcarvalho/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/author/bcarvalho/" hreflang="en"/>
+    
+      <loc>/es/author/bcarvalho/</loc>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/author/delfinog/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/author/delfinog/" hreflang="en"/>
+    
+      <loc>/es/author/delfinog/</loc>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/author/hsalgado/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/author/hsalgado/" hreflang="en"/>
+    
+      <loc>/es/author/hsalgado/</loc>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="/es/author/lcollado/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/author/lcollado/" hreflang="en"/>
     
@@ -109,12 +157,26 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="/es/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/author/mteresa/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/author/mteresa/" hreflang="en"/>
     
-      <loc>/es/</loc>
-      <lastmod>2019-03-01T04:24:47+00:00</lastmod>
-      <priority>0</priority>
+      <loc>/es/author/mteresa/</loc>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/author/mtmorgan/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/author/mtmorgan/" hreflang="en"/>
+    
+      <loc>/es/author/mtmorgan/</loc>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/author/sfernandez/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/author/sfernandez/" hreflang="en"/>
+    
+      <loc>/es/author/sfernandez/</loc>
     </url>
   
     <url>
@@ -132,6 +194,16 @@
       <xhtml:link rel="alternate" href="/authors/" hreflang="en"/>
     
       <loc>/es/authors/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+    
+      <loc>/es/</loc>
+      <lastmod>2019-03-01T04:24:47+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -193,11 +265,38 @@
   
     <url>
     
+      <xhtml:link rel="alternate" href="/es/authors/amedina/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/amedina/" hreflang="en"/>
+    
+      <loc>/es/authors/amedina/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/authors/aponce/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/aponce/" hreflang="en"/>
+    
+      <loc>/es/authors/aponce/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="/es/authors/areyes/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/authors/areyes/" hreflang="en"/>
     
       <loc>/es/authors/areyes/</loc>
       <lastmod>2018-09-14T02:13:22+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/authors/bcarvalho/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/bcarvalho/" hreflang="en"/>
+    
+      <loc>/es/authors/bcarvalho/</loc>
       <priority>0</priority>
     </url>
   
@@ -223,6 +322,15 @@
   
     <url>
     
+      <xhtml:link rel="alternate" href="/es/authors/hsalgado/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/hsalgado/" hreflang="en"/>
+    
+      <loc>/es/authors/hsalgado/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="/es/authors/lcollado/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/authors/lcollado/" hreflang="en"/>
     
@@ -233,11 +341,38 @@
   
     <url>
     
+      <xhtml:link rel="alternate" href="/es/authors/mteresa/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/mteresa/" hreflang="en"/>
+    
+      <loc>/es/authors/mteresa/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/authors/mtmorgan/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/mtmorgan/" hreflang="en"/>
+    
+      <loc>/es/authors/mtmorgan/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="/es/categories/rstats/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/categories/rstats/" hreflang="en"/>
     
       <loc>/es/categories/rstats/</loc>
       <lastmod>2019-03-01T04:24:47+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/authors/sfernandez/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/sfernandez/" hreflang="en"/>
+    
+      <loc>/es/authors/sfernandez/</loc>
       <priority>0</priority>
     </url>
   

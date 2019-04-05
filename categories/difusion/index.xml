@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>difusion on Academic</title>
+    <title>difusion on CDSB</title>
     <link>/categories/difusion/</link>
-    <description>Recent content in difusion on Academic</description>
+    <description>Recent content in difusion on CDSB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>La Bioinformática, una disciplina en auge en el mundo</title>
+      <title>Bioinformatics, a field on the rise in the world</title>
       <link>/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/</link>
       <pubDate>Tue, 06 Mar 2018 20:49:18 +0000</pubDate>
       

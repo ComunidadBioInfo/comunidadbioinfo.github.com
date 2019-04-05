@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rstats on Academic</title>
+    <title>rstats on CDSB</title>
     <link>/es/categories/rstats/</link>
-    <description>Recent content in rstats on Academic</description>
+    <description>Recent content in rstats on CDSB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>CDSBMexico: remember to apply for BioC2019 travel scholarships</title>
+      <title>CDSBMexico: acuerdense de solicitar becas para ir a BioC2019</title>
       <link>/es/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/</link>
       <pubDate>Fri, 01 Mar 2019 04:24:47 +0000</pubDate>
       
@@ -25,7 +25,7 @@
     </item>
     
     <item>
-      <title>A recap of CDSB 2018: the start of a community</title>
+      <title>Un resumen de CDSB 2018: el inicio de una comunidad</title>
       <link>/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/</link>
       <pubDate>Fri, 14 Sep 2018 02:13:22 +0000</pubDate>
       
@@ -40,9 +40,8 @@ In July, we kicked off the first Bioconductor Latin American Developers Workshop
       <pubDate>Mon, 20 Aug 2018 21:45:28 +0000</pubDate>
       
       <guid>/es/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/</guid>
-      <description>_This blog post was contributed by: ME Martinez-Sanchez, S Muñoz, M Carrillo, E Azpeitia, D Rosenblueth_
-In this blog post we will describe the package rGriffin that was one of the projects developed during the TIB2018-BCDW. We hope to continue developing Griffin and rGriffin. If you have ideas, suggestions or bugs, please contact us at Github.
-The problem Boolean networks allow us to give a mechanistic explanation to how cell types emerge from regulatory networks.</description>
+      <description>This blog post was written by ME Martinez-Sanchez, S Muñoz, M Carrillo, E Azpeitia, D Rosenblueth.
+In this blog post we will describe the package rGriffin (Martinez-Sanchez, Muñoz, Carrillo, Azpeitia, et al., 2018) that was one of the projects developed during the TIB2018-BCDW. We hope to continue developing Griffin and rGriffin (Martinez-Sanchez, Muñoz, Carrillo, Azpeitia, et al., 2018). If you have ideas, suggestions or bugs, please contact us via rGriffin GitHub repo.</description>
     </item>
     
   </channel>

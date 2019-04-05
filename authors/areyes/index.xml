@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>areyes on Academic</title>
+    <title>areyes on CDSB</title>
     <link>/authors/areyes/</link>
-    <description>Recent content in areyes on Academic</description>
+    <description>Recent content in areyes on CDSB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
@@ -20,6 +20,15 @@
       <guid>/post/a-recap-of-cdsb-2018-the-start-of-a-community/</guid>
       <description>Organizing an event is a lot of work, much more than you plan for it. But harvesting the fruits of a successful event makes the workload worth it.
 In July, we kicked off the first Bioconductor Latin American Developers Workshop 2018 (LatAmBioc2018). The main goals of this meeting were to encourage the development of the Bioconductor project in Mexico and to start a community of Mexican bioinformatic software developers – the Community of Bioinformatic Software Developers (CDSB, from its acronym in Spanish).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/author/areyes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/areyes/</guid>
+      <description>I am a postdoctoral research fellow in Rafael Irizarry&amp;rsquo;s laboratory at the Dana-Farber Cancer Institute and Harvard TH Chan School of Public Health. I develop computational strategies to translate large amounts of data into biological knowledge. I am interested in (1) understanding how transcript isoforms contribute to cellular phenotypes and disease conditions and (2) integrating multi-omic data to unravel molecular cancer phenotypes. In order to ensure reproducibility of results, I implement my analyses in documented workflows, software packages and graphic interphases.</description>
     </item>
     
   </channel>

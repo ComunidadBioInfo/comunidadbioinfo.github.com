@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on Academic</title>
+    <title>admin on CDSB</title>
     <link>/es/authors/admin/</link>
-    <description>Recent content in admin on Academic</description>
+    <description>Recent content in admin on CDSB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
@@ -22,21 +22,21 @@
     </item>
     
     <item>
-      <title>Latin American R/BioConductor Developers Workshop 2018</title>
+      <title>Taller de Desarrolladores Latino Americanos de R/BioConductor 2018</title>
       <link>/es/post/r-bioconductor-developers-workshop-2018/</link>
       <pubDate>Thu, 22 Mar 2018 12:40:21 +0000</pubDate>
       
       <guid>/es/post/r-bioconductor-developers-workshop-2018/</guid>
-      <description>Comunidad de Desarrolladores de Software en Bioinformática  Conference webpage: http://www.comunidadbioinfo.org/r-bioconductor-developers-workshop-2018/
- Level: intermediate - advanced
- Language: english
- When: July 30 - August 3, 2018
- Where: Auditorium of the Center for Genomic Sciences, Cuernavaca, Mexico
+      <description>Comunidad de Desarrolladores de Software en Bioinformática  Página del taller: https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/
+ Nivel: intermedio - avanzado
+ Languaje: ínglés
+ Cuando: Julio 30 - Augusto 3, 2018
+ Donde: Auditorio del Centro de Ciencias Genómicas, Cuernavaca, Mexico
  Twitter: #CDSBMexico
  Facebook: @CDSBMexico
  GitHub: https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018
-   Regístrate
-Pre-requisitos Requisitos de conocimientos previos
+ Regístrate
+  Pre-requisitos Requisitos de conocimientos previos
  Los participantes deberán tener conocimientos básicos del lenguaje de programación R: asignación de variables, lectura de archivos: read.</description>
     </item>
     
@@ -47,8 +47,7 @@ Pre-requisitos Requisitos de conocimientos previos
       
       <guid>/es/post/talleres-internacionales-de-bioinformatica-2018/</guid>
       <description>El Nodo Nacional de Bioinformática (NNB-UNAM) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a
-TIB2018: R para todos &amp;amp; Latin American R/Bioconductor Developers Workshop
-Centro de Ciencias Genómicas-UNAM (CCG-UNAM), en Cuernavaca Morelos, México. 30 de Julio al 3 de Agosto de 2018
+TIB2018: R para todos &amp;amp; Latin American R/Bioconductor Developers Workshop Centro de Ciencias Genómicas-UNAM (CCG-UNAM), en Cuernavaca Morelos, México. 30 de Julio al 3 de Agosto de 2018
 Este año, hemos decidido unir esfuerzos para impulsar el desarrollo de habilidades en el lenguaje de programación R, bajo el slogan “Aprende R y hagamos comunidad”.</description>
     </item>
     
@@ -67,8 +66,8 @@ Este año, hemos decidido unir esfuerzos para impulsar el desarrollo de habilida
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/es/author/admin/</guid>
-      <description>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>¡Bienvenidos a la Comunidad de Desarrolladores de Software en Bioinformática (CDSB)!
+Somos un grupo interesado en ayudarle a miembros de países Latino Americanos en el proceso de acquirir las habilidades necesarias para contribuir a la comunidad de software libre. Hoy en día se usa R en muchas industrias y desde el inicio fue adoptado por académicos. Mientras los usuarios de R van familiarizandose con el lenguaje terminan escribiendo funciones que luego son agrupadas y compartidas vía paquetes.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>delfinog on Academic</title>
+    <title>delfinog on CDSB</title>
     <link>/es/authors/delfinog/</link>
-    <description>Recent content in delfinog on Academic</description>
+    <description>Recent content in delfinog on CDSB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
@@ -20,6 +20,15 @@
       <guid>/es/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/</guid>
       <description>La Bioinformática es un área interdisciplinaria en la que convergen las tecnologías de la información y las comunicaciones con las ciencias de la vida, donde los recursos computacionales y humanos asisten al análisis de cantidades enormes de datos biológicos, para extraer de ellos información valiosa y obtener resultados con impactos beneficiosos en la salud humana o animal (González Hernández D., 2007).
 Desde la segunda mitad del siglo XX, la biología ha tenido una relación creciente con las ciencias de la información.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/es/author/delfinog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/author/delfinog/</guid>
+      <description></description>
     </item>
     
   </channel>

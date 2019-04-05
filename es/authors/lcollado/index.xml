@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lcollado on Academic</title>
+    <title>lcollado on CDSB</title>
     <link>/es/authors/lcollado/</link>
-    <description>Recent content in lcollado on Academic</description>
+    <description>Recent content in lcollado on CDSB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
     <copyright>&amp;copy; 2018-{year}</copyright>
@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>CDSBMexico: remember to apply for BioC2019 travel scholarships</title>
+      <title>CDSBMexico: acuerdense de solicitar becas para ir a BioC2019</title>
       <link>/es/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/</link>
       <pubDate>Fri, 01 Mar 2019 04:24:47 +0000</pubDate>
       
@@ -30,9 +30,8 @@
       <pubDate>Mon, 20 Aug 2018 21:45:28 +0000</pubDate>
       
       <guid>/es/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/</guid>
-      <description>_This blog post was contributed by: ME Martinez-Sanchez, S Muñoz, M Carrillo, E Azpeitia, D Rosenblueth_
-In this blog post we will describe the package rGriffin that was one of the projects developed during the TIB2018-BCDW. We hope to continue developing Griffin and rGriffin. If you have ideas, suggestions or bugs, please contact us at Github.
-The problem Boolean networks allow us to give a mechanistic explanation to how cell types emerge from regulatory networks.</description>
+      <description>This blog post was written by ME Martinez-Sanchez, S Muñoz, M Carrillo, E Azpeitia, D Rosenblueth.
+In this blog post we will describe the package rGriffin (Martinez-Sanchez, Muñoz, Carrillo, Azpeitia, et al., 2018) that was one of the projects developed during the TIB2018-BCDW. We hope to continue developing Griffin and rGriffin (Martinez-Sanchez, Muñoz, Carrillo, Azpeitia, et al., 2018). If you have ideas, suggestions or bugs, please contact us via rGriffin GitHub repo.</description>
     </item>
     
     <item>
@@ -41,7 +40,7 @@ The problem Boolean networks allow us to give a mechanistic explanation to how c
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/es/author/lcollado/</guid>
-      <description>Leo is&amp;hellip;</description>
+      <description>Leonardo usa R diario y ha contribuido paquetes al proyecto de Bioconductor como parte de su trabajo con Andrew Jaffe en LIBD. El está interesado en tecnologías genómicas que generan datos a gran escala como RNA-seq, avances en R y en ayudar a otros a empezar su aventura con R. Leonardo ha estado aprendiendo y enseñando R desde el 2008 y es co-fundador del LIBD rstats club.</description>
     </item>
     
   </channel>
