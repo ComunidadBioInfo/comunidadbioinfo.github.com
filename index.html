@@ -83,6 +83,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
 
     
 
@@ -535,7 +537,7 @@
 
 
 
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email">
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-address">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
@@ -2306,6 +2308,11 @@ In this blog post we will describe …
       
 
       
+      <li>
+        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+        <span id="person-address" itemprop="address">UNAM Campus Morelos. Av. Universidad s/n Col. Chamilpa 62210, Cuernavaca, Mor., Mexico</span>
+      </li>
+      
 
       
 
@@ -2348,6 +2355,16 @@ In this blog post we will describe …
 
     </ul>
 
+    
+    <div class="d-none">
+      <input id="map-provider" value="2">
+      <input id="map-lat" value="18.983074">
+      <input id="map-lng" value="-99.235241">
+      <input id="map-dir" value="UNAM Campus Morelos. Av. Universidad s/n Col. Chamilpa 62210, Cuernavaca, Mor., Mexico">
+      <input id="map-zoom" value="15">
+      <input id="map-api-key" value="">
+    </div>
+    <div id="map"></div>
     
 
   </div>
@@ -2453,6 +2470,8 @@ In this blog post we will describe …
     
 
     
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
     
 
     
