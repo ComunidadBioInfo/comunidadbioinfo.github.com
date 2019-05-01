@@ -37,7 +37,7 @@
 
 &lt;li&gt;&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019&#34; target=&#34;_blank&#34;&gt;https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019&#34; target=&#34;_blank&#34;&gt;Registro&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/registro/&#34; target=&#34;_blank&#34;&gt;Registro&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;pre-requisitos&#34;&gt;Pre-requisitos&lt;/h2&gt;
@@ -199,7 +199,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;Trabajar en desarrollar un paquete de R de forma colaborativa&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa&#34; target=&#34;_blank&#34;&gt;Maria Teresa Ortiz&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -211,7 +211,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;Trabajar en desarrollar un paquete de R de forma colaborativa&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa&#34; target=&#34;_blank&#34;&gt;Maria Teresa Ortiz&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -288,6 +288,7 @@
 &lt;th&gt;&lt;/th&gt;
 &lt;th&gt;&lt;/th&gt;
 &lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -296,6 +297,7 @@
 &lt;td&gt;&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/CCG_Logo_HR-300x114.png&#34; alt=&#34;Centro de Ciencias Genómicas UNAM&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.lcg.unam.mx&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/LCG_Logo_HR-white.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://liigh.unam.mx/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/logo-liigh-unam.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/RConsortium_Horizontal_Pantone-768x173.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -311,18 +313,18 @@
     </item>
     
     <item>
-      <title>2019 Talleres Internacionales de Bioinformática</title>
+      <title>Encuentro de Bioinformática en México 2019</title>
       <link>/es/post/talleres-internacionales-de-bioinformatica-2019/</link>
       <pubDate>Fri, 05 Apr 2019 12:00:00 +0000</pubDate>
       
       <guid>/es/post/talleres-internacionales-de-bioinformatica-2019/</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;El Nodo Nacional de Bioinformática (NNB-UNAM), la Red Mexicana de Bioinformática (RMB) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a los&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El Nodo Nacional de Bioinformática (NNB-UNAM), la Red Mexicana de Bioinformática (RMB) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan al &lt;strong&gt;Encuentro de Bioinformática en México 2019&lt;/strong&gt; compuesto por&lt;/p&gt;
 
 &lt;h3 id=&#34;talleres-internacionales-de-bioinformática-tib2019&#34;&gt;Talleres Internacionales de Bioinformática (TIB2019)&lt;/h3&gt;
 
-&lt;h3 id=&#34;toc_1&#34;&gt;&amp;amp;&lt;/h3&gt;
+&lt;p&gt;&amp;amp;&lt;/p&gt;
 
 &lt;h3 id=&#34;taller-cdsb-cómo-crear-y-ordenar-herramientas&#34;&gt;Taller CDSB: Cómo Crear y Ordenar Herramientas&lt;/h3&gt;
 
