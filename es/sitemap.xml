@@ -1,5 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/authors/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/" hreflang="en"/>
+    
+      <loc>/es/authors/</loc>
+      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+    
+      <loc>/es/</loc>
+      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/categories/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
+    
+      <loc>/es/categories/</loc>
+      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/categories/events/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/categories/events/" hreflang="en"/>
+    
+      <loc>/es/categories/events/</loc>
+      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/post/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/post/" hreflang="en"/>
+    
+      <loc>/es/post/</loc>
+      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+    </url>
   
     <url>
     
@@ -8,6 +56,33 @@
     
       <loc>/es/post/building-tidy-tools-cdsb-runconf-2019/</loc>
       <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/authors/admin/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/admin/" hreflang="en"/>
+    
+      <loc>/es/authors/admin/</loc>
+      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/categories/rstats/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/categories/rstats/" hreflang="en"/>
+    
+      <loc>/es/categories/rstats/</loc>
+      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/es/categories/rstatses/</loc>
+      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -21,11 +96,48 @@
   
     <url>
     
+      <xhtml:link rel="alternate" href="/es/tags/bioconductor/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/tags/bioconductor/" hreflang="en"/>
+    
+      <loc>/es/tags/bioconductor/</loc>
+      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="/es/post/path-from-cdsbmexico-2018-to-bioc2019/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/post/path-from-cdsbmexico-2018-to-bioc2019/" hreflang="en"/>
     
       <loc>/es/post/path-from-cdsbmexico-2018-to-bioc2019/</loc>
       <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/es/tags/solicitudes/</loc>
+      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/tags/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+    
+      <loc>/es/tags/</loc>
+      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/authors/lcollado/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/lcollado/" hreflang="en"/>
+    
+      <loc>/es/authors/lcollado/</loc>
+      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -44,6 +156,16 @@
     
       <loc>/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/</loc>
       <lastmod>2018-09-14T02:13:22+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/authors/areyes/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/areyes/" hreflang="en"/>
+    
+      <loc>/es/authors/areyes/</loc>
+      <lastmod>2018-09-14T02:13:22+00:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -107,6 +229,26 @@
     
       <loc>/es/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/</loc>
       <lastmod>2018-03-06T20:49:18+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/authors/delfinog/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/delfinog/" hreflang="en"/>
+    
+      <loc>/es/authors/delfinog/</loc>
+      <lastmod>2018-03-06T20:49:18+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/categories/difusion/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/categories/difusion/" hreflang="en"/>
+    
+      <loc>/es/categories/difusion/</loc>
+      <lastmod>2018-03-06T20:49:18+00:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -217,94 +359,10 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="/es/authors/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/" hreflang="en"/>
-    
-      <loc>/es/authors/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/tags/bioconductor/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/tags/bioconductor/" hreflang="en"/>
-    
-      <loc>/es/tags/bioconductor/</loc>
-      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
-    
-      <loc>/es/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/categories/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
-    
-      <loc>/es/categories/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/categories/events/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/categories/events/" hreflang="en"/>
-    
-      <loc>/es/categories/events/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/post/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/post/" hreflang="en"/>
-    
-      <loc>/es/post/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
       <xhtml:link rel="alternate" href="/es/publication_types/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
     
       <loc>/es/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/es/tags/solicitudes/</loc>
-      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/tags/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
-    
-      <loc>/es/tags/</loc>
-      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/admin/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/admin/" hreflang="en"/>
-    
-      <loc>/es/authors/admin/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -328,16 +386,6 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="/es/authors/areyes/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/areyes/" hreflang="en"/>
-    
-      <loc>/es/authors/areyes/</loc>
-      <lastmod>2018-09-14T02:13:22+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <xhtml:link rel="alternate" href="/es/authors/bcarvalho/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/authors/bcarvalho/" hreflang="en"/>
     
@@ -347,40 +395,10 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="/es/authors/delfinog/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/delfinog/" hreflang="en"/>
-    
-      <loc>/es/authors/delfinog/</loc>
-      <lastmod>2018-03-06T20:49:18+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/categories/difusion/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/categories/difusion/" hreflang="en"/>
-    
-      <loc>/es/categories/difusion/</loc>
-      <lastmod>2018-03-06T20:49:18+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <xhtml:link rel="alternate" href="/es/authors/hsalgado/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/authors/hsalgado/" hreflang="en"/>
     
       <loc>/es/authors/hsalgado/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/lcollado/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/lcollado/" hreflang="en"/>
-    
-      <loc>/es/authors/lcollado/</loc>
-      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -399,23 +417,6 @@
       <xhtml:link rel="alternate" href="/authors/mtmorgan/" hreflang="en"/>
     
       <loc>/es/authors/mtmorgan/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/categories/rstats/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/categories/rstats/" hreflang="en"/>
-    
-      <loc>/es/categories/rstats/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/es/categories/rstatses/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
