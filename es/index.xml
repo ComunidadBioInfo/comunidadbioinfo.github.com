@@ -77,6 +77,8 @@
 
 &lt;h2 id=&#34;programa&#34;&gt;Programa&lt;/h2&gt;
 
+&lt;p&gt;El programa general de los TIB2019 (registro, sesiones y descansos) está disponible &lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/programa/&#34; target=&#34;_blank&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -88,33 +90,63 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Inaguración&lt;/td&gt;
+&lt;td&gt;08:00-09:00&lt;/td&gt;
+&lt;td&gt;Registro&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;09:00-09:30&lt;/td&gt;
+&lt;td&gt;Inauguración TIB2019&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Bienvenida a la CDSB: la historia de nuestra comunidad y hacia donde vamos&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;09:30-10:00&lt;/td&gt;
+&lt;td&gt;Bienvenida a la CDSB: la historia de nuestra comunidad y hacia donde vamos. Revisión del código de conducta&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;10:00-10:30&lt;/td&gt;
+&lt;td&gt;¿Por qué hacer un paquete de R?&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:30-11:00&lt;/td&gt;
+&lt;td&gt;Preliminares&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:00-11:30&lt;/td&gt;
+&lt;td&gt;Descanso y café&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:30-12:30&lt;/td&gt;
 &lt;td&gt;Paquetes&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;12:30-14:00&lt;/td&gt;
 &lt;td&gt;Pruebas&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;14:00-15:30&lt;/td&gt;
+&lt;td&gt;Descanso&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:30-17:30&lt;/td&gt;
 &lt;td&gt;Diseño de API&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -124,27 +156,33 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;09:00-11:00&lt;/td&gt;
 &lt;td&gt;Programación Funcional&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;11:00-11:30&lt;/td&gt;
+&lt;td&gt;Descanso y café&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Erroress&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;11:30-14:00&lt;/td&gt;
+&lt;td&gt;Errores&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14:00-15:30&lt;/td&gt;
+&lt;td&gt;Descanso&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:30-17:30&lt;/td&gt;
 &lt;td&gt;Programación Orientada a Objetos&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;(por definir) Sesión de pósters&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -154,19 +192,31 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;09:00-11:00&lt;/td&gt;
 &lt;td&gt;Evaluación &amp;ldquo;Tidy&amp;rdquo;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;11:00-11:30&lt;/td&gt;
+&lt;td&gt;Descanso y café&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:30-14:00&lt;/td&gt;
 &lt;td&gt;Documentar y Compartir&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;14:00-15:30&lt;/td&gt;
+&lt;td&gt;Descanso&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:30-17:30&lt;/td&gt;
 &lt;td&gt;Introducción a GitHub&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -178,27 +228,45 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;09:00-09:30&lt;/td&gt;
 &lt;td&gt;Introducción a &lt;code&gt;runconf&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;09:30-11:00&lt;/td&gt;
 &lt;td&gt;Actividades para construir la comunidad&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;11:00-11:30&lt;/td&gt;
+&lt;td&gt;Descanso y café&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:30-12:00&lt;/td&gt;
 &lt;td&gt;Votación y selección de proyectos&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;12:00-14:00&lt;/td&gt;
 &lt;td&gt;Trabajar en desarrollar un paquete de R de forma colaborativa&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa&#34; target=&#34;_blank&#34;&gt;Maria Teresa Ortiz&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; y &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa&#34; target=&#34;_blank&#34;&gt;Maria Teresa Ortiz&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14:00-15:30&lt;/td&gt;
+&lt;td&gt;Descanso&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:30-17:30&lt;/td&gt;
+&lt;td&gt;Trabajar en desarrollar un paquete de R de forma colaborativa&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; y &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa&#34; target=&#34;_blank&#34;&gt;Maria Teresa Ortiz&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -208,20 +276,44 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;09:00-09:15&lt;/td&gt;
+&lt;td&gt;(opcional) cambiar de proyecto&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;09:15-11:00&lt;/td&gt;
 &lt;td&gt;Trabajar en desarrollar un paquete de R de forma colaborativa&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa&#34; target=&#34;_blank&#34;&gt;Maria Teresa Ortiz&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; y &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa&#34; target=&#34;_blank&#34;&gt;Maria Teresa Ortiz&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Presentación de proyectos del &lt;code&gt;runconf&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;11:00-11:30&lt;/td&gt;
+&lt;td&gt;Descanso y café&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;11:30-12:00&lt;/td&gt;
+&lt;td&gt;Preparar presentaciones de los proyectos&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12:00-13:00&lt;/td&gt;
+&lt;td&gt;Presentaciones de los proyectos del &lt;code&gt;runconf&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;13:00-13:30&lt;/td&gt;
 &lt;td&gt;Clausura y recordatorio de oportunidades para participar en la CDSB&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;13:30-14:00&lt;/td&gt;
+&lt;td&gt;Ceremonia de clausura de los TIB2019&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
