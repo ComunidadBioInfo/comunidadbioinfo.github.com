@@ -311,6 +311,14 @@
   
     <url>
     
+      <xhtml:link rel="alternate" href="/author/josschavezf/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/author/josschavezf/" hreflang="es"/>
+    
+      <loc>/author/josschavezf/</loc>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="/author/lcollado/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/es/author/lcollado/" hreflang="es"/>
     
@@ -392,6 +400,15 @@
       <xhtml:link rel="alternate" href="/es/authors/hsalgado/" hreflang="es"/>
     
       <loc>/authors/hsalgado/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/authors/josschavezf/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/authors/josschavezf/" hreflang="es"/>
+    
+      <loc>/authors/josschavezf/</loc>
       <priority>0</priority>
     </url>
   
