@@ -92,15 +92,5 @@ This year, we decided to join efforts to promote the development of skills in th
       <description>See version in Spanish. This privacy notice is for those of you in Mexico.</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>/author/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/author/admin/</guid>
-      <description>Welcome to the Community of Bioinformatics Software Developers (CDSB in Spanish)!
-We are a group interested in helping members of Latin American countries acquire the necessary skills to contribute to open source software development. R is now used by many industries and has been a long time favorite in academia. As R users grow more familiar with the language, they typically end up writing their own functions and sharing them with others via packages.</description>
-    </item>
-    
   </channel>
 </rss>

@@ -2,22 +2,20 @@
   
     <url>
     
+      <xhtml:link rel="alternate" href="/es/authors/admin/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/admin/" hreflang="en"/>
+    
+      <loc>/es/authors/admin/</loc>
+      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="/es/authors/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/authors/" hreflang="en"/>
     
       <loc>/es/authors/</loc>
       <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
-    
-      <loc>/es/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
@@ -27,7 +25,15 @@
     
       <loc>/es/categories/</loc>
       <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+    
+      <loc>/es/</loc>
+      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
     </url>
   
     <url>
@@ -37,7 +43,6 @@
     
       <loc>/es/categories/events/</loc>
       <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
@@ -51,38 +56,26 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="/es/post/building-tidy-tools-cdsb-runconf-2019/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/post/building-tidy-tools-cdsb-runconf-2019/" hreflang="en"/>
-    
-      <loc>/es/post/building-tidy-tools-cdsb-runconf-2019/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/admin/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/admin/" hreflang="en"/>
-    
-      <loc>/es/authors/admin/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <xhtml:link rel="alternate" href="/es/categories/rstats/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/categories/rstats/" hreflang="en"/>
     
       <loc>/es/categories/rstats/</loc>
       <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
     
       <loc>/es/categories/rstatses/</loc>
       <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/post/building-tidy-tools-cdsb-runconf-2019/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/post/building-tidy-tools-cdsb-runconf-2019/" hreflang="en"/>
+    
+      <loc>/es/post/building-tidy-tools-cdsb-runconf-2019/</loc>
+      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
     </url>
   
     <url>
@@ -101,7 +94,6 @@
     
       <loc>/es/tags/bioconductor/</loc>
       <lastmod>2019-04-04T22:50:47+00:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
@@ -115,9 +107,17 @@
   
     <url>
     
+      <xhtml:link rel="alternate" href="/es/authors/lcollado/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/lcollado/" hreflang="en"/>
+    
+      <loc>/es/authors/lcollado/</loc>
+      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/es/tags/solicitudes/</loc>
       <lastmod>2019-04-04T22:50:47+00:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
@@ -127,17 +127,6 @@
     
       <loc>/es/tags/</loc>
       <lastmod>2019-04-04T22:50:47+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/lcollado/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/lcollado/" hreflang="en"/>
-    
-      <loc>/es/authors/lcollado/</loc>
-      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
@@ -151,21 +140,20 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/post/a-recap-of-cdsb-2018-the-start-of-a-community/" hreflang="en"/>
-    
-      <loc>/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/</loc>
-      <lastmod>2018-09-14T02:13:22+00:00</lastmod>
-    </url>
-  
-    <url>
-    
       <xhtml:link rel="alternate" href="/es/authors/areyes/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/authors/areyes/" hreflang="en"/>
     
       <loc>/es/authors/areyes/</loc>
       <lastmod>2018-09-14T02:13:22+00:00</lastmod>
-      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/post/a-recap-of-cdsb-2018-the-start-of-a-community/" hreflang="en"/>
+    
+      <loc>/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/</loc>
+      <lastmod>2018-09-14T02:13:22+00:00</lastmod>
     </url>
   
     <url>
@@ -224,21 +212,11 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="/es/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/" hreflang="en"/>
-    
-      <loc>/es/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/</loc>
-      <lastmod>2018-03-06T20:49:18+00:00</lastmod>
-    </url>
-  
-    <url>
-    
       <xhtml:link rel="alternate" href="/es/authors/delfinog/" hreflang="es"/>
       <xhtml:link rel="alternate" href="/authors/delfinog/" hreflang="en"/>
     
       <loc>/es/authors/delfinog/</loc>
       <lastmod>2018-03-06T20:49:18+00:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
@@ -248,7 +226,15 @@
     
       <loc>/es/categories/difusion/</loc>
       <lastmod>2018-03-06T20:49:18+00:00</lastmod>
-      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/es/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/" hreflang="en"/>
+    
+      <loc>/es/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/</loc>
+      <lastmod>2018-03-06T20:49:18+00:00</lastmod>
     </url>
   
     <url>
@@ -362,7 +348,6 @@
       <xhtml:link rel="alternate" href="/author/" hreflang="en"/>
     
       <loc>/es/author/</loc>
-      <priority>0</priority>
     </url>
   
     <url>
@@ -371,79 +356,6 @@
       <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
     
       <loc>/es/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/amedina/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/amedina/" hreflang="en"/>
-    
-      <loc>/es/authors/amedina/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/aponce/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/aponce/" hreflang="en"/>
-    
-      <loc>/es/authors/aponce/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/bcarvalho/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/bcarvalho/" hreflang="en"/>
-    
-      <loc>/es/authors/bcarvalho/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/hsalgado/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/hsalgado/" hreflang="en"/>
-    
-      <loc>/es/authors/hsalgado/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/josschavezf/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/josschavezf/" hreflang="en"/>
-    
-      <loc>/es/authors/josschavezf/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/mteresa/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/mteresa/" hreflang="en"/>
-    
-      <loc>/es/authors/mteresa/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/mtmorgan/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/mtmorgan/" hreflang="en"/>
-    
-      <loc>/es/authors/mtmorgan/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/sfernandez/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/sfernandez/" hreflang="en"/>
-    
-      <loc>/es/authors/sfernandez/</loc>
-      <priority>0</priority>
     </url>
   
 </urlset>

@@ -43,14 +43,5 @@
 In this blog post we will describe the package rGriffin (Martinez-Sanchez, Muñoz, Carrillo, Azpeitia, et al., 2018) that was one of the projects developed during the TIB2018-BCDW. We hope to continue developing Griffin and rGriffin (Martinez-Sanchez, Muñoz, Carrillo, Azpeitia, et al., 2018). If you have ideas, suggestions or bugs, please contact us via rGriffin GitHub repo.</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>/es/author/lcollado/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/es/author/lcollado/</guid>
-      <description>Leonardo usa R diario y ha contribuido paquetes al proyecto de Bioconductor como parte de su trabajo con Andrew Jaffe en LIBD. El está interesado en tecnologías genómicas que generan datos a gran escala como RNA-seq, avances en R y en ayudar a otros a empezar su aventura con R. Leonardo ha estado aprendiendo y enseñando R desde el 2008 y es co-fundador del LIBD rstats club.</description>
-    </item>
-    
   </channel>
 </rss>

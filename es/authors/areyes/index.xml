@@ -22,14 +22,5 @@
 In July, we kicked off the first Bioconductor Latin American Developers Workshop 2018 (LatAmBioc2018). The main goals of this meeting were to encourage the development of the Bioconductor project in Mexico and to start a community of Mexican bioinformatic software developers – the Community of Bioinformatic Software Developers (CDSB, from its acronym in Spanish).</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>/es/author/areyes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/es/author/areyes/</guid>
-      <description>Son un postdoc en el laboratorio de Rafael Irizarry en el Instituto de Cáncer Dana-Farber de la Escuela de Salud Pública TH Chan de Harvard. Desarrollo estrategias computacionles para traducir grandes cantidades de datos en conocimiento biológico. Estoy interesado en (1) entender como isoformas de transcritos contribuyen a fenotipos celulares y diversas condiciones en enfermedades, y (2) intergrar datos de multi-ómicos para desenmarañar los fenotipos moleculares en cáncer. De tal forma que pueda garantizar la reproducibilidad de mis resultados, implemento mis análisis usando flujos de trabajo documentados, paquetes de software e interfases gráficas.</description>
-    </item>
-    
   </channel>
 </rss>
