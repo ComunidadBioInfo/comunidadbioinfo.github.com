@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-us">
+
 <head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.1.0">
-  <meta name="generator" content="Hugo 0.57.2" />
+  <meta name="generator" content="Source Themes Academic 4.7.0">
 
   
 
@@ -28,17 +28,15 @@
   
     
   
-  <meta name="description" content="Community of Bioinformatics Software Developers  Workshop webpage: https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/
- Level: intermediate - advanced
- Language: Spanish1
- When: July 29 - August 2, 2019
- Where: Auditorium of the Center for Genomic Sciences, Cuernavaca, Mexico
- Twitter: #CDSBMexico
- Facebook: @CDSBMexico
- GitHub: https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019
- Registration
-  Requirements Requirements prior knowledge
- Participants should have basic to intermediate knowledge of the R programming language: variable assignment, reading files: read.">
+  <meta name="description" content="Community of Bioinformatics Software Developers   Workshop webpage: https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/
+  Level: intermediate - advanced
+  Language: Spanish^[If you speak English but not Spanish please let us know so we can plan accordingly.]
+  When: July 29 - August 2, 2019
+  Where: Auditorium of the Center for Genomic Sciences, Cuernavaca, Mexico
+  Twitter: #CDSBMexico
+  Facebook: @CDSBMexico
+  GitHub: https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019
+   Registration">
 
   
   <link rel="alternate" hreflang="es" href="/es/post/building-tidy-tools-cdsb-runconf-2019/">
@@ -49,18 +47,6 @@
 
 
   
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
   
   
   <meta name="theme-color" content="#2962ff">
@@ -68,13 +54,15 @@
 
   
   
+
+  
+  
   
   
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -85,54 +73,195 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
 
-  
-
-  
-  
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
-  
-
-  <link rel="stylesheet" href="/styles.css">
-  
-
-  
-  
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-137796972-1', 'auto');
+    
+    
       
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="//www.google-analytics.com/analytics.js"></script>
+
+      
+      
+
+      
     
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
     
-  
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
   
 
   
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="CDSB">
-  <link rel="feed" href="/index.xml" type="application/rss+xml" title="CDSB">
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137796972-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-137796972-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/post/building-tidy-tools-cdsb-runconf-2019/">
 
@@ -140,43 +269,101 @@
   
   
   
+  
     
     
+  
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="twitter:site" content="@CDSBMexico">
-  <meta property="twitter:creator" content="@CDSBMexico">
+  <meta property="twitter:site" content="@CDSBMexic">
+  <meta property="twitter:creator" content="@CDSBMexic">
   
   <meta property="og:site_name" content="CDSB">
   <meta property="og:url" content="/post/building-tidy-tools-cdsb-runconf-2019/">
   <meta property="og:title" content="CDSB Workshop 2019: How to Build and Create Tidy Tools | CDSB">
-  <meta property="og:description" content="Community of Bioinformatics Software Developers  Workshop webpage: https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/
- Level: intermediate - advanced
- Language: Spanish1
- When: July 29 - August 2, 2019
- Where: Auditorium of the Center for Genomic Sciences, Cuernavaca, Mexico
- Twitter: #CDSBMexico
- Facebook: @CDSBMexico
- GitHub: https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019
- Registration
-  Requirements Requirements prior knowledge
- Participants should have basic to intermediate knowledge of the R programming language: variable assignment, reading files: read."><meta property="og:image" content="/img/icon-192.png">
-  <meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Community of Bioinformatics Software Developers   Workshop webpage: https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/
+  Level: intermediate - advanced
+  Language: Spanish^[If you speak English but not Spanish please let us know so we can plan accordingly.]
+  When: July 29 - August 2, 2019
+  Where: Auditorium of the Center for Genomic Sciences, Cuernavaca, Mexico
+  Twitter: #CDSBMexico
+  Facebook: @CDSBMexico
+  GitHub: https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019
+   Registration"><meta property="og:image" content="/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png">
+  <meta property="twitter:image" content="/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-04-05T13:30:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2019-04-05T13:30:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2019-04-05T13:30:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2019-04-05T13:30:00&#43;00:00">
+
   
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/post/building-tidy-tools-cdsb-runconf-2019/"
+  },
+  "headline": "CDSB Workshop 2019: How to Build and Create Tidy Tools",
+  
+  "datePublished": "2019-04-05T13:30:00Z",
+  "dateModified": "2019-04-05T13:30:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "CDSB"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "CDSB",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_192x192_fit_lanczos_2.png"
+    }
+  },
+  "description": "Community of Bioinformatics Software Developers   Workshop webpage: https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/\n  Level: intermediate - advanced\n  Language: Spanish^[If you speak English but not Spanish please let us know so we can plan accordingly.]\n  When: July 29 - August 2, 2019\n  Where: Auditorium of the Center for Genomic Sciences, Cuernavaca, Mexico\n  Twitter: #CDSBMexico\n  Facebook: @CDSBMexico\n  GitHub: https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019\n   Registration"
+}
+</script>
 
   
 
   
+
+
+  
+
+
+  
+
+
+
+
 
   <title>CDSB Workshop 2019: How to Build and Create Tidy Tools | CDSB</title>
 
 </head>
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
   <aside class="search-results" id="search">
   <div class="container">
     <section class="search-header">
@@ -193,7 +380,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -209,204 +396,279 @@
 </aside>
 
 
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
-      <a class="navbar-brand" href="/"><img src="/img/CDSB-LogoTexto-768x105.png" alt="CDSB"></a>
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span><i class="fas fa-bars"></i></span>
-      </button>
-      
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/"><img src="/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_0x70_resize_lanczos_2.png" alt="CDSB"></a>
+    </div>
+    
 
     
-    <div class="collapse navbar-collapse" id="navbar">
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
 
-      
-      
-      <ul class="navbar-nav mr-auto">
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#about">
-            
-            <span>Home</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/quienes-somos">
-            
-            <span>About</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#events">
-            
-            <span>Events</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#posts">
-            
-            <span>Blog</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#people">
-            
-            <span>People</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/codigo-de-conducta">
-            
-            <span>Code of conduct</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#contact">
-            
-            <span>Contact</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-      
-      </ul>
-      <ul class="navbar-nav ml-auto">
-      
-
-        
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
-
-        
-        <li class="nav-item dropdown">
-          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
-            <i class="fas fa-globe" aria-hidden="true"></i>
-            <span>English</span>
-          </a>
-          <ul class="dropdown-menu">
-            
-            <li class="dropdown-item my-0 py-0 mx-0 px-0">
-              <a href="/es/post/building-tidy-tools-cdsb-runconf-2019/">
-                <span>Español</span>
-              </a>
-            </li>
-            
-          </ul>
-        </li>
-        
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-        </li>
-        
-
-      </ul>
-
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/"><img src="/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_0x70_resize_lanczos_2.png" alt="CDSB"></a>
     </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/quienes-somos"><span>About</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#events"><span>Events</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/codigo-de-conducta"><span>Code of conduct</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item i18n-active font-weight-bold">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="/es/post/building-tidy-tools-cdsb-runconf-2019/">
+            <span>Español</span>
+          </a>
+          
+        </div>
+      </li>
+      
+
+    </ul>
+
   </div>
 </nav>
 
 
-<article class="article" itemscope itemtype="http://schema.org/Article">
+  <article class="article">
 
   
 
@@ -427,17 +689,13 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">CDSB Workshop 2019: How to Build and Create Tidy Tools</h1>
+  <h1>CDSB Workshop 2019: How to Build and Create Tidy Tools</h1>
 
   
 
   
     
 
-
-
-<meta content="2019-04-05 13:30:00 &#43;0000 &#43;0000" itemprop="datePublished">
-<meta content="2019-04-05 13:30:00 &#43;0000 &#43;0000" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -450,17 +708,8 @@
 
 
 
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      
-        <a href="/authors/admin/">CDSB</a></span></span>
   
-
-
+  <span><a href="/authors/admin/">CDSB</a></span>
 
   </div>
   
@@ -472,7 +721,7 @@
     
       
     
-    <time>Apr 5, 2019</time>
+    Apr 5, 2019
   </span>
   
 
@@ -487,73 +736,21 @@
 
   
   
+  
   <span class="middot-divider"></span>
   <a href="/post/building-tidy-tools-cdsb-runconf-2019/#disqus_thread"></a>
   
 
   
   
-  
   <span class="middot-divider"></span>
   <span class="article-categories">
-    <i class="fas fa-folder"></i>
-    
-    <a href="/categories/events/">Events</a>, 
-    
-    <a href="/categories/rstats/">rstats</a>
-    
-  </span>
-  
-  
-
-  
-    
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=CDSB%20Workshop%202019%3a%20How%20to%20Build%20and%20Create%20Tidy%20Tools&amp;url=%2fpost%2fbuilding-tidy-tools-cdsb-runconf-2019%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fpost%2fbuilding-tidy-tools-cdsb-runconf-2019%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2fbuilding-tidy-tools-cdsb-runconf-2019%2f&amp;title=CDSB%20Workshop%202019%3a%20How%20to%20Build%20and%20Create%20Tidy%20Tools"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fpost%2fbuilding-tidy-tools-cdsb-runconf-2019%2f&amp;title=CDSB%20Workshop%202019%3a%20How%20to%20Build%20and%20Create%20Tidy%20Tools"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=CDSB%20Workshop%202019%3a%20How%20to%20Build%20and%20Create%20Tidy%20Tools&amp;body=%2fpost%2fbuilding-tidy-tools-cdsb-runconf-2019%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
-
+    <i class="fas fa-folder mr-1"></i><a href="/categories/events/">Events</a>, <a href="/categories/rstats/">rstats</a></span>
   
 
 </div>
 
     
-
 
 
 
@@ -575,71 +772,88 @@
 
   <div class="article-container">
 
-    <div class="article-style" itemprop="articleBody">
-      
-
-<h4 id="community-of-bioinformatics-software-developers">Community of Bioinformatics Software Developers</h4>
-
+    <div class="article-style">
+      <h4 id="community-of-bioinformatics-software-developers">Community of Bioinformatics Software Developers</h4>
 <ul>
-<li><p>Workshop webpage: <a href="https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/" target="_blank">https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/</a></p></li>
-
-<li><p>Level: <strong>intermediate - advanced</strong></p></li>
-
-<li><p>Language: <strong>Spanish</strong><sup class="footnote-ref" id="fnref:If-you-speak-Eng"><a href="#fn:If-you-speak-Eng">1</a></sup></p></li>
-
-<li><p>When: July 29 - August 2, 2019</p></li>
-
-<li><p>Where: Auditorium of the <a href="http://www.ccg.unam.mx/en" target="_blank">Center for Genomic Sciences</a>, Cuernavaca, Mexico</p></li>
-
-<li><p>Twitter: <a href="https://twitter.com/search?f=tweets&amp;q=%23CDSBMexico" target="_blank">#CDSBMexico</a></p></li>
-
-<li><p>Facebook: <a href="https://www.facebook.com/CDSBMexico/" target="_blank">@CDSBMexico</a></p></li>
-
-<li><p>GitHub: <a href="https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019" target="_blank">https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019</a></p></li>
-
-<li><p><a href="http://congresos.nnb.unam.mx/TIB2019/registro/" target="_blank">Registration</a></p></li>
+<li>
+<p>Workshop webpage: 
+<a href="https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/" target="_blank" rel="noopener">https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/</a></p>
+</li>
+<li>
+<p>Level: <strong>intermediate - advanced</strong></p>
+</li>
+<li>
+<p>Language: <strong>Spanish</strong>^[If you speak English but not Spanish please let us know so we can plan accordingly.]</p>
+</li>
+<li>
+<p>When: July 29 - August 2, 2019</p>
+</li>
+<li>
+<p>Where: Auditorium of the 
+<a href="http://www.ccg.unam.mx/en" target="_blank" rel="noopener">Center for Genomic Sciences</a>, Cuernavaca, Mexico</p>
+</li>
+<li>
+<p>Twitter: 
+<a href="https://twitter.com/search?f=tweets&amp;q=%23CDSBMexico" target="_blank" rel="noopener">#CDSBMexico</a></p>
+</li>
+<li>
+<p>Facebook: 
+<a href="https://www.facebook.com/CDSBMexico/" target="_blank" rel="noopener">@CDSBMexico</a></p>
+</li>
+<li>
+<p>GitHub: 
+<a href="https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019" target="_blank" rel="noopener">https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019</a></p>
+</li>
+<li>
+<p>
+<a href="http://congresos.nnb.unam.mx/TIB2019/registro/" target="_blank" rel="noopener">Registration</a></p>
+</li>
 </ul>
-
 <h2 id="requirements">Requirements</h2>
-
 <p>Requirements prior knowledge</p>
-
 <ul>
 <li>Participants should have basic to intermediate knowledge of the R programming language: variable assignment, reading files: read.csv, read.delim, read.table; data structures: matrix, dataframe, list; data types: character, numeric, factor, logical, etc; installation and use of packages.</li>
 <li>R: know how to install packages</li>
 <li>RStudio: know how to use.</li>
 </ul>
-
 <p>Technical requirements</p>
-
 <ul>
 <li>Personal computer. Minimum 8GB RAM, a mouse and sufficient disk space for text files and image files. Administrator privileges to install and run utilities such as RStudio.</li>
 </ul>
-
 <h2 id="overview">Overview</h2>
-
-<p>In recent years, <a href="https://cran.r-project.org/" target="_blank">R</a> has become one of the most used programming languages for data science. The explosion in data available in many fields has increased the demand for data analysts, which is the case in Bioinformatics. <code>R</code> users start by learning how to use the tools others have openly shared with the international community. These <code>R</code> users acquire skills as they continue to analyze data and might even start to interact with <code>R</code> software developers through community websites such as <a href="https://community.rstudio.com/" target="_blank">RStudio Community</a>, <a href="https://support.bioconductor.org/" target="_blank">Bioconductor Support</a> or via Twitter using the <a href="https://twitter.com/search?q=%23rstats" target="_blank">#rstats hashtag</a>. Eventually some <code>R</code> users will want to write their own functions and share them online with others. They can do so via creating their own <code>R</code> packages and sharing them via repositories likes <a href="https://cran.r-project.org/" target="_blank">CRAN</a> and <a href="http://bioconductor.org/" target="_blank">Bioconductor</a> or simply via <a href="https://github.com" target="_blank">GitHub</a>. In this workshop participants will work through the <em>Building Tidy Tools</em> <a href="https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/" target="_blank">rstudio::conf 2019 workshop</a> and then build their own <code>R</code> packages by collaborating with each other, similar to what was done at <a href="http://unconf18.ropensci.org/" target="_blank">rOpenSci unconf18</a>.</p>
-
+<p>In recent years, 
+<a href="https://cran.r-project.org/" target="_blank" rel="noopener">R</a> has become one of the most used programming languages for data science. The explosion in data available in many fields has increased the demand for data analysts, which is the case in Bioinformatics. <code>R</code> users start by learning how to use the tools others have openly shared with the international community. These <code>R</code> users acquire skills as they continue to analyze data and might even start to interact with <code>R</code> software developers through community websites such as 
+<a href="https://community.rstudio.com/" target="_blank" rel="noopener">RStudio Community</a>, 
+<a href="https://support.bioconductor.org/" target="_blank" rel="noopener">Bioconductor Support</a> or via Twitter using the 
+<a href="https://twitter.com/search?q=%23rstats" target="_blank" rel="noopener">#rstats hashtag</a>. Eventually some <code>R</code> users will want to write their own functions and share them online with others. They can do so via creating their own <code>R</code> packages and sharing them via repositories likes 
+<a href="https://cran.r-project.org/" target="_blank" rel="noopener">CRAN</a> and 
+<a href="http://bioconductor.org/" target="_blank" rel="noopener">Bioconductor</a> or simply via 
+<a href="https://github.com" target="_blank" rel="noopener">GitHub</a>. In this workshop participants will work through the <em>Building Tidy Tools</em> 
+<a href="https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/" target="_blank" rel="noopener">rstudio::conf 2019 workshop</a> and then build their own <code>R</code> packages by collaborating with each other, similar to what was done at 
+<a href="http://unconf18.ropensci.org/" target="_blank" rel="noopener">rOpenSci unconf18</a>.</p>
 <p>This workshop is aimed at students and researchers interested in data analysis that have experience using R. We encourage applications from experts in diverse disciplines, including but not limited to biologists, bioinformaticians, data scientists, software engineers and programmers and R users at large. The main goals of the workshop are:</p>
-
 <ol>
-<li><p>Teach participants the principles of reproducible data science through the development of R/Bioconductor packages.</p></li>
-
-<li><p>Turn (bioinformatics) software users into (bioinformatics) software developers.</p></li>
-
-<li><p>Foster the exchange of expertise and establish multidisciplinary collaborations.</p></li>
-
-<li><p>Create a community of Latin American scientists committed to the development of software and computational pipelines for (biological) data analysis.</p></li>
-
-<li><p>Help train users that can become local instructors and continue to grow their local communities.</p></li>
+<li>
+<p>Teach participants the principles of reproducible data science through the development of R/Bioconductor packages.</p>
+</li>
+<li>
+<p>Turn (bioinformatics) software users into (bioinformatics) software developers.</p>
+</li>
+<li>
+<p>Foster the exchange of expertise and establish multidisciplinary collaborations.</p>
+</li>
+<li>
+<p>Create a community of Latin American scientists committed to the development of software and computational pipelines for (biological) data analysis.</p>
+</li>
+<li>
+<p>Help train users that can become local instructors and continue to grow their local communities.</p>
+</li>
 </ol>
-
-<p>This workshop is part of a long-term project to create a community of developers from Latin America. We hope to hold regular meetings in the future (similar to BioC, EuroBioc and BioCAsia) where attendees present their own software contributions. To provide a welcoming environment please follow our <a href="../../codigo-de-conducta/">code of conduct</a>.</p>
-
+<p>This workshop is part of a long-term project to create a community of developers from Latin America. We hope to hold regular meetings in the future (similar to BioC, EuroBioc and BioCAsia) where attendees present their own software contributions. To provide a welcoming environment please follow our 
+<a href="../../codigo-de-conducta/">code of conduct</a>.</p>
 <h2 id="program">Program</h2>
-
-<p>Overall TIB2019 program (registration, sessions and breaks) is available <a href="http://congresos.nnb.unam.mx/TIB2019/programa/" target="_blank">here</a>.</p>
-
+<p>Overall TIB2019 program (registration, sessions and breaks) is available 
+<a href="http://congresos.nnb.unam.mx/TIB2019/programa/" target="_blank" rel="noopener">here</a>.</p>
 <table>
 <thead>
 <tr>
@@ -648,248 +862,232 @@
 <th></th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>08:00-09:00</td>
 <td>Registration</td>
 <td></td>
 </tr>
-
 <tr>
 <td>09:00-09:30</td>
 <td>TIB2019 Inauguration</td>
 <td></td>
 </tr>
-
 <tr>
 <td>09:30-10:00</td>
 <td>Welcome to CDSB: the history of our community and where we are going. Code of conduct review</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a></td>
 </tr>
-
 <tr>
 <td>10:00-10:30</td>
 <td>Why make an R package?</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/areyes/" target="_blank">Alejandro Reyes</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/areyes/" target="_blank" rel="noopener">Alejandro Reyes</a></td>
 </tr>
-
 <tr>
 <td>10:30-11:00</td>
 <td>Preliminaries</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a></td>
 </tr>
-
 <tr>
 <td>11:00-11:30</td>
 <td>Coffee break</td>
 <td></td>
 </tr>
-
 <tr>
 <td>11:30-12:30</td>
 <td>Packages</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a></td>
 </tr>
-
 <tr>
 <td>12:30-14:00</td>
 <td>Testing</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a></td>
 </tr>
-
 <tr>
 <td>14:00-15:30</td>
 <td>Break</td>
 <td></td>
 </tr>
-
 <tr>
 <td>15:30-17:30</td>
 <td>API Design</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a></td>
 </tr>
-
 <tr>
 <td>17:30-18:30</td>
 <td>Welcome cocktail</td>
 <td></td>
 </tr>
-
 <tr>
 <td><strong>Day 2: July 30, 2019</strong></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>09:00-11:00</td>
 <td>Functional Programing</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a></td>
 </tr>
-
 <tr>
 <td>11:00-11:30</td>
 <td>Coffee break</td>
 <td></td>
 </tr>
-
 <tr>
 <td>11:30-14:00</td>
 <td>Errors</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a></td>
 </tr>
-
 <tr>
 <td>14:00-15:30</td>
 <td>Break</td>
 <td></td>
 </tr>
-
 <tr>
 <td>15:30-17:30</td>
 <td>Object Oriented Programming</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/areyes/" target="_blank">Alejandro Reyes</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/areyes/" target="_blank" rel="noopener">Alejandro Reyes</a></td>
 </tr>
-
 <tr>
 <td><strong>Day 3: July 31, 2019</strong></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>09:00-11:00</td>
 <td>Tidy Evaluation</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a></td>
 </tr>
-
 <tr>
 <td>11:00-11:30</td>
 <td>Group picture</td>
 <td></td>
 </tr>
-
 <tr>
 <td>11:30-12:00</td>
 <td>Coffee break</td>
 <td></td>
 </tr>
-
 <tr>
 <td>12:00-14:00</td>
 <td>Document and Share</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a></td>
 </tr>
-
 <tr>
 <td>14:00-15:30</td>
 <td>Break</td>
 <td></td>
 </tr>
-
 <tr>
 <td>15:30-17:30</td>
 <td>Introduction to GitHub</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/amedina/" target="_blank">Alejandra Medina-Rivera</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/amedina/" target="_blank" rel="noopener">Alejandra Medina-Rivera</a></td>
 </tr>
-
 <tr>
 <td><strong>Day 4: August 1, 2019</strong></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>09:00-09:30</td>
 <td>Introduction to <code>runconf</code></td>
-<td><a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a></td>
 </tr>
-
 <tr>
 <td>09:30-11:00</td>
 <td>Community building activities</td>
 <td></td>
 </tr>
-
 <tr>
 <td>11:00-11:30</td>
 <td>Coffee break</td>
 <td></td>
 </tr>
-
 <tr>
 <td>11:30-12:00</td>
 <td>Voting and selection of projects to work on</td>
 <td></td>
 </tr>
-
 <tr>
 <td>12:00-14:00</td>
 <td>Working on a Collaborative Project</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/amedina/" target="_blank">Alejandra Medina-Rivera</a>, <a href="http://comunidadbioinfo.github.io/authors/areyes/" target="_blank">Alejandro Reyes</a>, <a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a> and <a href="http://comunidadbioinfo.github.io/authors/mteresa" target="_blank">Maria Teresa Ortiz</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/amedina/" target="_blank" rel="noopener">Alejandra Medina-Rivera</a>, 
+<a href="http://comunidadbioinfo.github.io/authors/areyes/" target="_blank" rel="noopener">Alejandro Reyes</a>, 
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a> and 
+<a href="http://comunidadbioinfo.github.io/authors/mteresa" target="_blank" rel="noopener">Maria Teresa Ortiz</a></td>
 </tr>
-
 <tr>
 <td>14:00-15:30</td>
 <td>Break</td>
 <td></td>
 </tr>
-
 <tr>
 <td>15:30-17:30</td>
 <td>Working on a Collaborative Project</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/amedina/" target="_blank">Alejandra Medina-Rivera</a>, <a href="http://comunidadbioinfo.github.io/authors/areyes/" target="_blank">Alejandro Reyes</a>, <a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a> and <a href="http://comunidadbioinfo.github.io/authors/mteresa" target="_blank">Maria Teresa Ortiz</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/amedina/" target="_blank" rel="noopener">Alejandra Medina-Rivera</a>, 
+<a href="http://comunidadbioinfo.github.io/authors/areyes/" target="_blank" rel="noopener">Alejandro Reyes</a>, 
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a> and 
+<a href="http://comunidadbioinfo.github.io/authors/mteresa" target="_blank" rel="noopener">Maria Teresa Ortiz</a></td>
 </tr>
-
 <tr>
 <td><strong>Day 5: August 2, 2019</strong></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>09:00-09:15</td>
 <td>(optional) change project</td>
 <td></td>
 </tr>
-
 <tr>
 <td>09:15-11:00</td>
 <td>Working on a Collaborative Project</td>
-<td><a href="http://comunidadbioinfo.github.io/authors/amedina/" target="_blank">Alejandra Medina-Rivera</a>, <a href="http://comunidadbioinfo.github.io/authors/areyes/" target="_blank">Alejandro Reyes</a>, <a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a> and <a href="http://comunidadbioinfo.github.io/authors/mteresa" target="_blank">Maria Teresa Ortiz</a></td>
+<td>
+<a href="http://comunidadbioinfo.github.io/authors/amedina/" target="_blank" rel="noopener">Alejandra Medina-Rivera</a>, 
+<a href="http://comunidadbioinfo.github.io/authors/areyes/" target="_blank" rel="noopener">Alejandro Reyes</a>, 
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a> and 
+<a href="http://comunidadbioinfo.github.io/authors/mteresa" target="_blank" rel="noopener">Maria Teresa Ortiz</a></td>
 </tr>
-
 <tr>
 <td>11:00-11:30</td>
 <td>Coffee break</td>
 <td></td>
 </tr>
-
 <tr>
 <td>11:30-12:00</td>
 <td>Workshop evaluation</td>
 <td></td>
 </tr>
-
 <tr>
 <td>12:00-12:30</td>
 <td>Prepare presentations of the collaborative project</td>
 <td></td>
 </tr>
-
 <tr>
 <td>12:30-13:00</td>
 <td>Presentations of collaborative projects</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13:00-13:30</td>
 <td>Closing remarks and community participation opportunities</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13:30-14:00</td>
 <td>TIB2019 Closing Ceremony</td>
@@ -897,63 +1095,72 @@
 </tr>
 </tbody>
 </table>
-
 <h3 id="building-tidy-tools">Building Tidy Tools</h3>
-
-<p>Charlotte Wickham and Hadley Wickham were the instructors of the <a href="https://github.com/rstudio/rstudio-conf/blob/master/2019/workshops.md#building-tidy-tools" target="_blank">original version of this workshop</a> at rstudio::conf 2019. They have kindly shared their materials with us, which we will translate to Spanish.</p>
-
+<p>Charlotte Wickham and Hadley Wickham were the instructors of the 
+<a href="https://github.com/rstudio/rstudio-conf/blob/master/2019/workshops.md#building-tidy-tools" target="_blank" rel="noopener">original version of this workshop</a> at rstudio::conf 2019. They have kindly shared their materials with us, which we will translate to Spanish.</p>
 <blockquote>
 <p>This is a two-day hands on workshop for those who have embraced the tidyverse and now want to expand it to meet their own needs. We&rsquo;ll discuss API design, functional programming tools, the basics of object design in S3, and the tidy eval system for NSE.</p>
-
 <p>Learn efficient workflows for developing high-quality R functions, using the set of conventions codified by a package. You&rsquo;ll also learn workflows for unit testing, which helps ensure that your functions do exactly what you think they do. Master the art of writing functions that do one thing well and can be fluently combined together to solve more complex problems.We&rsquo;ll cover common function writing pitfalls and how to avoid them.</p>
-
 <p>Learn how to write collections of functions that work well together, and adhere to existing conventions so they&rsquo;re easy to pick up for newcomers.</p>
-
 <p>You should take this workshop if you have experience programming in R and want to learn how to tackle larger scale problems. You&rsquo;ll get the most from it if you&rsquo;re already familiar with functions and are comfortable with R’s basic data structures (vectors, matrices, arrays, lists, and data frames).</p>
 </blockquote>
-
 <p>Instead of two days, we will teach this workshop in two and a half days such that we can give you more time to digest the material and work through an introduction to Git and GitHub.</p>
-
 <h3 id="cdsb-runconf">CDSB <code>runconf</code></h3>
-
 <p><code>R</code> unconference events (runconf) typically involve two stages and an optional third one. First, participants create issues weeks ahead of the runconf where they share ideas that they can work through in collaboration with others during the two days of the runconf. In the second stage, participants meet each other and get to know each other through some icebreakers. They then work together for two days on the projects that received the most votes. This is where participants get to learn skills from each other and get a taste of developing open source software in a collaborative environment. At the end, everyone shares their work with the whole group. In the third and final stage, runconf attendees might continue to interact with each other to further polish the packages they worked on during the runconf event, start new collaborations and/or write blog posts about their experience.</p>
-
-<p>There are many blog posts about rOpenSci unconf events. A recent runconf was the <code>chirunconf</code> which you can read more about on this blog post by <a href="https://sharla.party/posts/chirunconf/" target="_blank">Sharla Gelfand</a>.</p>
-
-<p>If you are attending our workshop, we will ask you to propose at least one R package idea by creating a GitHub Issue in our <a href="https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019/issues" target="_blank">GitHub repository for the workshop</a>. If you want some inspiration, take a look at <a href="https://github.com/ropensci/unconf18/issues" target="_blank">rOpenSci unconf18</a>&rsquo;s GitHub repository. You will need to get familiarized with all the proposal before the workshop starts.</p>
-
+<p>There are many blog posts about rOpenSci unconf events. A recent runconf was the <code>chirunconf</code> which you can read more about on this blog post by 
+<a href="https://sharla.party/posts/chirunconf/" target="_blank" rel="noopener">Sharla Gelfand</a>.</p>
+<p>If you are attending our workshop, we will ask you to propose at least one R package idea by creating a GitHub Issue in our 
+<a href="https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019/issues" target="_blank" rel="noopener">GitHub repository for the workshop</a>. If you want some inspiration, take a look at 
+<a href="https://github.com/ropensci/unconf18/issues" target="_blank" rel="noopener">rOpenSci unconf18</a>&lsquo;s GitHub repository. You will need to get familiarized with all the proposal before the workshop starts.</p>
 <h2 id="instructors">Instructors:</h2>
-
 <ul>
-<li><p><a href="http://comunidadbioinfo.github.io/authors/amedina/" target="_blank">Alejandra Medina-Rivera</a> (International Laboratory for Human Genome Research, Juriquilla, Mexico)</p></li>
-
-<li><p><a href="http://comunidadbioinfo.github.io/authors/areyes/" target="_blank">Alejandro Reyes</a> (Dana-Farber Cancer Institute, Boston, USA)</p></li>
-
-<li><p><a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a> (Lieber Institute for Brain Development, Baltimore, USA). Leonardo attended <a href="https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/" target="_blank">rstudio::conf 2019</a> thanks to a diversity scholarship where he took the original <em>Building Tidy Tools</em> workshop. He also attended <a href="http://unconf18.ropensci.org/" target="_blank">rOpenSci unconf 2018</a>.</p></li>
-
-<li><p><a href="http://comunidadbioinfo.github.io/authors/mteresa/" target="_blank">Maria Teresa Ortiz</a> (CONABIO and ITAM, Mexico)</p></li>
+<li>
+<p>
+<a href="http://comunidadbioinfo.github.io/authors/amedina/" target="_blank" rel="noopener">Alejandra Medina-Rivera</a> (International Laboratory for Human Genome Research, Juriquilla, Mexico)</p>
+</li>
+<li>
+<p>
+<a href="http://comunidadbioinfo.github.io/authors/areyes/" target="_blank" rel="noopener">Alejandro Reyes</a> (Dana-Farber Cancer Institute, Boston, USA)</p>
+</li>
+<li>
+<p>
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a> (Lieber Institute for Brain Development, Baltimore, USA). Leonardo attended 
+<a href="https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/" target="_blank" rel="noopener">rstudio::conf 2019</a> thanks to a diversity scholarship where he took the original <em>Building Tidy Tools</em> workshop. He also attended 
+<a href="http://unconf18.ropensci.org/" target="_blank" rel="noopener">rOpenSci unconf 2018</a>.</p>
+</li>
+<li>
+<p>
+<a href="http://comunidadbioinfo.github.io/authors/mteresa/" target="_blank" rel="noopener">Maria Teresa Ortiz</a> (CONABIO and ITAM, Mexico)</p>
+</li>
 </ul>
-
 <h2 id="organizing-committee">Organizing committee:</h2>
-
 <ul>
-<li><p><a href="http://comunidadbioinfo.github.io/authors/amedina/" target="_blank">Alejandra Medina-Rivera</a> (International Laboratory for Human Genome Research, Juriquilla, Mexico)</p></li>
-
-<li><p><a href="http://comunidadbioinfo.github.io/authors/areyes/" target="_blank">Alejandro Reyes</a> (Dana-Farber Cancer Institute, Boston, USA)</p></li>
-
-<li><p><a href="http://comunidadbioinfo.github.io/authors/delfinog/" target="_blank">Delfino García</a> (Center for Genomic Sciences, Cuernavaca, Mexico)</p></li>
-
-<li><p><a href="http://comunidadbioinfo.github.io/authors/hsalgado/" target="_blank">Heladia Salgado</a> (Center for Genomic Sciences, Cuernavaca, Mexico)</p></li>
-
-<li><p><a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank">Leonardo Collado-Torres</a> (Lieber Institute for Brain Development, Baltimore, USA)</p></li>
+<li>
+<p>
+<a href="http://comunidadbioinfo.github.io/authors/amedina/" target="_blank" rel="noopener">Alejandra Medina-Rivera</a> (International Laboratory for Human Genome Research, Juriquilla, Mexico)</p>
+</li>
+<li>
+<p>
+<a href="http://comunidadbioinfo.github.io/authors/areyes/" target="_blank" rel="noopener">Alejandro Reyes</a> (Dana-Farber Cancer Institute, Boston, USA)</p>
+</li>
+<li>
+<p>
+<a href="http://comunidadbioinfo.github.io/authors/delfinog/" target="_blank" rel="noopener">Delfino García</a> (Center for Genomic Sciences, Cuernavaca, Mexico)</p>
+</li>
+<li>
+<p>
+<a href="http://comunidadbioinfo.github.io/authors/hsalgado/" target="_blank" rel="noopener">Heladia Salgado</a> (Center for Genomic Sciences, Cuernavaca, Mexico)</p>
+</li>
+<li>
+<p>
+<a href="http://comunidadbioinfo.github.io/authors/lcollado/" target="_blank" rel="noopener">Leonardo Collado-Torres</a> (Lieber Institute for Brain Development, Baltimore, USA)</p>
+</li>
 </ul>
-
-<h2 id="code-of-conduct-codigo-de-conducta"><a href="../../codigo-de-conducta/">Code of Conduct</a></h2>
-
+<h2 id="code-of-conductcodigo-de-conducta">
+<a href="../../codigo-de-conducta/">Code of Conduct</a></h2>
 <h2 id="sponsors">Sponsors</h2>
-
-<p><a href="../../niveles-de-patrocinio/">Become our <strong>sponsor</strong></a></p>
-
+<p>
+<a href="../../niveles-de-patrocinio/">Become our <strong>sponsor</strong></a></p>
 <table>
 <thead>
 <tr>
@@ -963,306 +1170,337 @@
 <th></th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
-<td><a href="http://www.ccg.unam.mx" target="_blank"><img src="/img/CCG_Logo_HR-300x114.png" alt="Centro de Ciencias Genómicas UNAM" /></a></td>
-<td><a href="http://www.lcg.unam.mx" target="_blank"><img src="/img/LCG_Logo_HR-white.png" alt="" /></a></td>
-<td><a href="http://liigh.unam.mx/" target="_blank"><img src="/img/logo-liigh-unam.png" alt="" /></a></td>
-<td><a href="https://www.r-consortium.org/" target="_blank"><img src="/img/RConsortium_Horizontal_Pantone-768x173.png" alt="" /></a></td>
+<td>
+<a href="http://www.ccg.unam.mx" target="_blank" rel="noopener"><img src="/img/CCG_Logo_HR-300x114.png" alt="Centro de Ciencias Genómicas UNAM"></a></td>
+<td>
+<a href="http://www.lcg.unam.mx" target="_blank" rel="noopener"><img src="/img/LCG_Logo_HR-white.png" alt=""></a></td>
+<td>
+<a href="http://liigh.unam.mx/" target="_blank" rel="noopener"><img src="/img/logo-liigh-unam.png" alt=""></a></td>
+<td>
+<a href="https://www.r-consortium.org/" target="_blank" rel="noopener"><img src="/img/RConsortium_Horizontal_Pantone-768x173.png" alt=""></a></td>
 </tr>
 </tbody>
 </table>
-<div class="footnotes">
-
-<hr />
-
-<ol>
-<li id="fn:If-you-speak-Eng">If you speak English but not Spanish please let us know so we can plan accordingly. <a class="footnote-return" href="#fnref:If-you-speak-Eng"><sup>^</sup></a></li>
-</ol>
-</div>
 
     </div>
 
     
 
 
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
       
-
-
-
-
-
-
-  
-  
-    
-  
-  
-
-
-
-
-
-
-
-<div class="media author-card" itemscope itemtype="http://schema.org/Person">
-  
-  
-  <img class="portrait mr-3" src="/author/admin/avatar_hua7d529d6d78ecd3c1f724c8d1b0514d0_6432_250x250_fill_lanczos_center_2.png" itemprop="image" alt="Avatar">
-  
-
-  <div class="media-body">
-    <h5 class="card-title" itemprop="name"><a href="/authors/admin">CDSB</a></h5>
-    <h6 class="card-subtitle">Community of Bioinformatics Software Developers</h6>
-    <p class="card-text" itemprop="description">We want to help you acquire the skills to contribute open source Bioinformatics software using R</p>
-    <ul class="network-icon" aria-hidden="true">
-      
-      
       
       
         
-      
-      
       
       
       
       <li>
-        <a itemprop="sameAs" href="mailto:cdsbmexico@gmail.com" >
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="https://comunidadbioinfo.github.io/" target="_blank" rel="noopener">
-          <i class="fas fa-home"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="https://twitter.com/CDSBMexico" target="_blank" rel="noopener">
+        <a href="https://twitter.com/intent/tweet?url=/post/building-tidy-tools-cdsb-runconf-2019/&amp;text=CDSB%20Workshop%202019:%20How%20to%20Build%20and%20Create%20Tidy%20Tools" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
-      
-      
-      
-      
-        
-      
-      
+    
       
       
       
         
+      
+      
       
       <li>
-        <a itemprop="sameAs" href="https://github.com/ComunidadBioInfo" target="_blank" rel="noopener">
-          <i class="fab fa-github"></i>
+        <a href="https://www.facebook.com/sharer.php?u=/post/building-tidy-tools-cdsb-runconf-2019/&amp;t=CDSB%20Workshop%202019:%20How%20to%20Build%20and%20Create%20Tidy%20Tools" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
         </a>
       </li>
-      
-      
-      
-      
-        
-      
-      
+    
       
       
       
         
+      
+      
       
       <li>
-        <a itemprop="sameAs" href="https://comunidadbioinfo.slack.com" target="_blank" rel="noopener">
-          <i class="fab fa-slack"></i>
+        <a href="mailto:?subject=CDSB%20Workshop%202019:%20How%20to%20Build%20and%20Create%20Tidy%20Tools&amp;body=/post/building-tidy-tools-cdsb-runconf-2019/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
         </a>
       </li>
+    
       
-    </ul>
-  </div>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/post/building-tidy-tools-cdsb-runconf-2019/&amp;title=CDSB%20Workshop%202019:%20How%20to%20Build%20and%20Create%20Tidy%20Tools" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=CDSB%20Workshop%202019:%20How%20to%20Build%20and%20Create%20Tidy%20Tools%20/post/building-tidy-tools-cdsb-runconf-2019/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/post/building-tidy-tools-cdsb-runconf-2019/&amp;title=CDSB%20Workshop%202019:%20How%20to%20Build%20and%20Create%20Tidy%20Tools" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
 </div>
 
 
 
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
       
-      
+      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hua7d529d6d78ecd3c1f724c8d1b0514d0_6432_270x270_fill_lanczos_center_2.png" alt="Avatar">
     
 
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/admin/">CDSB</a></h5>
+      <h6 class="card-subtitle">Community of Bioinformatics Software Developers</h6>
+      <p class="card-text">We want to help you acquire the skills to contribute open source Bioinformatics software using R</p>
+      <ul class="network-icon" aria-hidden="true">
+  
     
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:cdsbmexico@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://comunidadbioinfo.github.io/" target="_blank" rel="noopener">
+        <i class="fas fa-home"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/CDSBMexico" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/ComunidadBioInfo" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://comunidadbioinfo.slack.com" target="_blank" rel="noopener">
+        <i class="fab fa-slack"></i>
+      </a>
+    </li>
+  
+</ul>
 
-    
+    </div>
+  </div>
+
+
+
+
 <section id="comments">
-  <div id="disqus_thread"></div>
-<script type="application/javascript">
-    var disqus_config = function () {
+  
+    
+<div id="disqus_thread"></div>
+<script>
+  let disqus_config = function () {
     
     
     
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "cdsbmexico" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
+  };
+  (function() {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+      return;
+    }
+    var d = document, s = d.createElement('script'); s.async = true;
+    s.src = 'https://' + "cdsbmexico" + '.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+  
 </section>
+
+
+
+
+
+
+  
+  
 
 
 
   </div>
 </article>
 
-<footer class="site-footer">
-  
-  
-  
-  <p class="powered-by">
-    <a href="/niveles-de-patrocinio/">Sponsorship levels</a>
-  </p>
-  
-  
-  
-  <p class="powered-by">
-    <a href="/aviso-de-privacidad/">Aviso de Privacidad para la Protección de Datos Personales</a>
-  </p>
-  
-  
-  <p class="powered-by">
-  <center><a href='https://clustrmaps.com/site/1ao9l'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=m&d=_tlwMU2mhhJz4JuukyvCCo8NZJHVlAWIBpVqg2s8NMw'/></a></center>
-  
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ef23e545d41b87c"></script>
-   
-   <script type="text/javascript">
-   var addthis_config = {
-   	data_ga_property: 'UA-137796972-1',
-   	data_ga_social : true,
-   	data_track_addressbar: true,
-    data_track_addressbar_paths: ['/201*/*/*/*/*', '/post/*', '/es/post/*']
-   };
-   var addthis_share = {
-   	
-   	url_transforms : {
-   		shorten: {
-   			twitter: 'bitly'
-   		}
-   	}, 
-   	shorteners : {
-   		bitly : {}
-   	}
-   }
-   </script>
-   
-  </p>
-  
- 
-
-  <p class="powered-by">
-    &copy; 2018-2020 &middot; 
-
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-
-    
-    <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
-    
-  </p>
-</footer>
-
-    
-
-    
-    
+      
 
     
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
         
-        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
         
-        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/bash.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/bash.min.js"></script>
         
-        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/python.min.js"></script>
         
-        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/stata.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/stata.min.js"></script>
         
       
 
-      
-      
     
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
     
 
     
     
     
-    <script id="dsq-count-scr" src="//cdsbmexico.disqus.com/count.js" async></script>
     
-
-    
-    
-    <script>hljs.initHighlightingOnLoad();</script>
-    
-
     
     
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
@@ -1301,6 +1539,13 @@
 
     
     
+    <script id="dsq-count-scr" src="https://cdsbmexico.disqus.com/count.js" async></script>
+    
+
+    
+    
+    
+    
     
     
     
@@ -1311,8 +1556,68 @@
     
     
     
-    <script src="/js/academic.min.1846cc5c27f3006b56814095ec02281f.js"></script>
+    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
 
-  </body>
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    © 2018-2020 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
 </html>
-

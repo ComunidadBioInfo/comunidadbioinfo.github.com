@@ -1,84 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CDSB on CDSB</title>
+    <title>CDSB</title>
     <link>/es/</link>
-    <description>Recent content in CDSB on CDSB</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>es-mx</language>
-    <copyright>&amp;copy; 2018-{year}</copyright>
-    <lastBuildDate>Fri, 05 Apr 2019 13:30:00 +0000</lastBuildDate>
-    <atom:link href="/es/" rel="self" type="application/rss+xml" />
+      <atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
+    <description>CDSB</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2020</copyright><lastBuildDate>Fri, 05 Apr 2019 13:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <title>CDSB</title>
+      <link>/es/</link>
+    </image>
     
     <item>
       <title>Taller CDSB 2019: Cómo Crear y Ordenar Herramientas &#39;Tidy&#39;</title>
       <link>/es/post/building-tidy-tools-cdsb-runconf-2019/</link>
       <pubDate>Fri, 05 Apr 2019 13:30:00 +0000</pubDate>
-      
       <guid>/es/post/building-tidy-tools-cdsb-runconf-2019/</guid>
-      <description>
-
-&lt;h4 id=&#34;comunidad-de-desarrolladores-de-software-en-bioinformática&#34;&gt;Comunidad de Desarrolladores de Software en Bioinformática&lt;/h4&gt;
-
+      <description>&lt;h4 id=&#34;comunidad-de-desarrolladores-de-software-en-bioinformática&#34;&gt;Comunidad de Desarrolladores de Software en Bioinformática&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Página del taller: &lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/building-tidy-tools-CDSB-runconf-2019/&#34; target=&#34;_blank&#34;&gt;https://comunidadbioinfo.github.io/es/post/building-tidy-tools-CDSB-runconf-2019/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Nivel: &lt;strong&gt;intermedio - avanzado&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Languaje: &lt;strong&gt;español&lt;/strong&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:If-you-speak-Eng&#34;&gt;&lt;a href=&#34;#fn:If-you-speak-Eng&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Cuando: Julio 29 - Augusto 2, 2018&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Donde: Auditorio del &lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34;&gt;Centro de Ciencias Genómicas&lt;/a&gt;, Cuernavaca, Mexico&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Twitter: &lt;a href=&#34;https://twitter.com/search?f=tweets&amp;amp;q=%23CDSBMexico&#34; target=&#34;_blank&#34;&gt;#CDSBMexico&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Facebook: &lt;a href=&#34;https://www.facebook.com/CDSBMexico/&#34; target=&#34;_blank&#34;&gt;@CDSBMexico&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019&#34; target=&#34;_blank&#34;&gt;https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/registro/&#34; target=&#34;_blank&#34;&gt;Registro&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Página del taller: 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/building-tidy-tools-CDSB-runconf-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://comunidadbioinfo.github.io/es/post/building-tidy-tools-CDSB-runconf-2019/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nivel: &lt;strong&gt;intermedio - avanzado&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Languaje: &lt;strong&gt;español&lt;/strong&gt;^[If you speak English but not Spanish please let us know so we can plan accordingly.]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cuando: Julio 29 - Augusto 2, 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Donde: Auditorio del 
+&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de Ciencias Genómicas&lt;/a&gt;, Cuernavaca, Mexico&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Twitter: 
+&lt;a href=&#34;https://twitter.com/search?f=tweets&amp;amp;q=%23CDSBMexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#CDSBMexico&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Facebook: 
+&lt;a href=&#34;https://www.facebook.com/CDSBMexico/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@CDSBMexico&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub: 
+&lt;a href=&#34;https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/registro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registro&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;pre-requisitos&#34;&gt;Pre-requisitos&lt;/h2&gt;
-
 &lt;p&gt;Requisitos de conocimientos previos&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Los participantes deberán tener conocimientos básicos del lenguaje de programación R: asignación de variables, lectura de archivos: read.csv, read.delim, read.table; estructuras de datos: matrix, dataframe, list; tipos de datos: character, numeric, factor, logical, etc; instalación y uso de paquetes.&lt;/li&gt;
 &lt;li&gt;Saber instalar paquetes de R.&lt;/li&gt;
 &lt;li&gt;Saber usar RStudio.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Requisitos técnicos&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Computadora Personal. Un mínimo de 8 GB de RAM, un ratón y espacio de disco suficiente para archivos de texto y archivos de imagen. Privilegios de administrador para instalar y ejecutar utilidades de RStudio.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
-
-&lt;p&gt;En años recientes, &lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; se ha convertido en uno de los lenguajes de programación más usados para la ciencia de datos. La explosión en la disponibilidad de datos en muchos campos ha incrementado la demanda para personas capacitadas en el analísis de estos datos, tal como es el caso en la Bioinformática. Los usarios de &lt;code&gt;R&lt;/code&gt; empiezan usando herramientas que otros han compartido con la comunidad internacional de forma libre. Mientras van analizando más conjuntos de datos, estos usuarios adquieren más habilidades con &lt;code&gt;R&lt;/code&gt;. Durante este proceso incluso es posible que empiecen a interactuar con desarrolladores de &lt;code&gt;R&lt;/code&gt; vía páginas web como &lt;a href=&#34;https://community.rstudio.com/&#34; target=&#34;_blank&#34;&gt;RStudio Community&lt;/a&gt;, &lt;a href=&#34;https://support.bioconductor.org/&#34; target=&#34;_blank&#34;&gt;Bioconductor Support&lt;/a&gt; or vía Twitter usando la equiqueta &lt;a href=&#34;https://twitter.com/search?q=%23rstats&#34; target=&#34;_blank&#34;&gt;#rstats&lt;/a&gt; o &lt;a href=&#34;https://twitter.com/search?q=%23rstatsES&#34; target=&#34;_blank&#34;&gt;#rstatsES&lt;/a&gt;. Eventualmente algunos de los usuarios de &lt;code&gt;R&lt;/code&gt; van a querer escribir sus propias funciones y compartirlas en línea con otras personas. Pueden lograr este objetivo si crean paquetes de &lt;code&gt;R&lt;/code&gt; y los comparten vía repositorios como &lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt; y &lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34;&gt;Bioconductor&lt;/a&gt; o simplemente vía &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;. En este taller los participantes completaran el taller &lt;em&gt;Building Tidy Tools&lt;/em&gt; que fue originalemnte impartido durante &lt;a href=&#34;https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/&#34; target=&#34;_blank&#34;&gt;rstudio::conf 2019&lt;/a&gt; y luego construirán sus propios paquetes de &lt;code&gt;R&lt;/code&gt; colaborando con otros participantes, siguiendo una dinámica similar a la del &lt;a href=&#34;http://unconf18.ropensci.org/&#34; target=&#34;_blank&#34;&gt;rOpenSci unconf18&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;En años recientes, 
+&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; se ha convertido en uno de los lenguajes de programación más usados para la ciencia de datos. La explosión en la disponibilidad de datos en muchos campos ha incrementado la demanda para personas capacitadas en el analísis de estos datos, tal como es el caso en la Bioinformática. Los usarios de &lt;code&gt;R&lt;/code&gt; empiezan usando herramientas que otros han compartido con la comunidad internacional de forma libre. Mientras van analizando más conjuntos de datos, estos usuarios adquieren más habilidades con &lt;code&gt;R&lt;/code&gt;. Durante este proceso incluso es posible que empiecen a interactuar con desarrolladores de &lt;code&gt;R&lt;/code&gt; vía páginas web como 
+&lt;a href=&#34;https://community.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio Community&lt;/a&gt;, 
+&lt;a href=&#34;https://support.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor Support&lt;/a&gt; or vía Twitter usando la equiqueta 
+&lt;a href=&#34;https://twitter.com/search?q=%23rstats&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#rstats&lt;/a&gt; o 
+&lt;a href=&#34;https://twitter.com/search?q=%23rstatsES&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#rstatsES&lt;/a&gt;. Eventualmente algunos de los usuarios de &lt;code&gt;R&lt;/code&gt; van a querer escribir sus propias funciones y compartirlas en línea con otras personas. Pueden lograr este objetivo si crean paquetes de &lt;code&gt;R&lt;/code&gt; y los comparten vía repositorios como 
+&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAN&lt;/a&gt; y 
+&lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt; o simplemente vía 
+&lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. En este taller los participantes completaran el taller &lt;em&gt;Building Tidy Tools&lt;/em&gt; que fue originalemnte impartido durante 
+&lt;a href=&#34;https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rstudio::conf 2019&lt;/a&gt; y luego construirán sus propios paquetes de &lt;code&gt;R&lt;/code&gt; colaborando con otros participantes, siguiendo una dinámica similar a la del 
+&lt;a href=&#34;http://unconf18.ropensci.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenSci unconf18&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Este taller está enfocado hacia alumnos e investigadores interesados en análisis de datos. Queremos promover solicitudes de expertos en diversas disciplinas, incluyendo mas no limitandonos a biológos, bioinformáticos, científicos de datos, ingenieros de software, programadores y usuarios de R en general. Los principales objetivos del taller son:&lt;/p&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Enseñarle a los participantes los principios de la ciencia de datos vía el desarrollo de paquetes de R/Bioconductor.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Transformar usuarios de software (de bioinformática) en desarrolladores de software (de bioinformática).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Fomentar el intercambio de conocimiento y establecer colaboraciones multidisciplinarias.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Crear una comunidad de científicos Latino Americanos comprometidos con el desarrollo de software para análisis de datos (biológicos).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Entrenar a instructores (en bioinformática) para que puedan fomentar el crecimiendo de sus comunidades locales.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enseñarle a los participantes los principios de la ciencia de datos vía el desarrollo de paquetes de R/Bioconductor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Transformar usuarios de software (de bioinformática) en desarrolladores de software (de bioinformática).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fomentar el intercambio de conocimiento y establecer colaboraciones multidisciplinarias.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Crear una comunidad de científicos Latino Americanos comprometidos con el desarrollo de software para análisis de datos (biológicos).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Entrenar a instructores (en bioinformática) para que puedan fomentar el crecimiendo de sus comunidades locales.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;Este taller es parte de un proyecto a largo plazo para crear una comunidad Latino Americana de desarrolladores de software. Esperamos poder organizar talleres en el futuro de forma sistemática (similar a BioC, EuroBioC y BioCAsia) donde los participantes presenten sus contribuciones de software. Queremos proveer un ambiente amigable para todos así que les pedimos que sigan el &lt;a href=&#34;../../codigo-de-conducta/&#34;&gt;código de conducta&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;Este taller es parte de un proyecto a largo plazo para crear una comunidad Latino Americana de desarrolladores de software. Esperamos poder organizar talleres en el futuro de forma sistemática (similar a BioC, EuroBioC y BioCAsia) donde los participantes presenten sus contribuciones de software. Queremos proveer un ambiente amigable para todos así que les pedimos que sigan el 
+&lt;a href=&#34;../../codigo-de-conducta/&#34;&gt;código de conducta&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;programa&#34;&gt;Programa&lt;/h2&gt;
-
-&lt;p&gt;El programa general de los TIB2019 (registro, sesiones y descansos) está disponible &lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/programa/&#34; target=&#34;_blank&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;El programa general de los TIB2019 (registro, sesiones y descansos) está disponible 
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/programa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -87,248 +107,232 @@
 &lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;08:00-09:00&lt;/td&gt;
 &lt;td&gt;Registro&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;09:00-09:30&lt;/td&gt;
 &lt;td&gt;Inauguración TIB2019&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;09:30-10:00&lt;/td&gt;
 &lt;td&gt;Bienvenida a la CDSB: la historia de nuestra comunidad y hacia donde vamos. Revisión del código de conducta&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;10:00-10:30&lt;/td&gt;
 &lt;td&gt;¿Por qué hacer un paquete de R?&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;10:30-11:00&lt;/td&gt;
 &lt;td&gt;Preliminares&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:00-11:30&lt;/td&gt;
 &lt;td&gt;Descanso y café&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:30-12:30&lt;/td&gt;
 &lt;td&gt;Paquetes&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;12:30-14:00&lt;/td&gt;
 &lt;td&gt;Pruebas&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;14:00-15:30&lt;/td&gt;
 &lt;td&gt;Descanso&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;15:30-17:30&lt;/td&gt;
 &lt;td&gt;Diseño de API&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;17:30-18:30&lt;/td&gt;
 &lt;td&gt;Coctel de bienvenida&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Day 2: Julio 30, 2019&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;09:00-11:00&lt;/td&gt;
 &lt;td&gt;Programación Funcional&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:00-11:30&lt;/td&gt;
 &lt;td&gt;Descanso y café&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:30-14:00&lt;/td&gt;
 &lt;td&gt;Errores&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;14:00-15:30&lt;/td&gt;
 &lt;td&gt;Descanso&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;15:30-17:30&lt;/td&gt;
 &lt;td&gt;Programación Orientada a Objetos&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Day 3: Julio 31, 2019&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;09:00-11:00&lt;/td&gt;
 &lt;td&gt;Evaluación &amp;ldquo;Tidy&amp;rdquo;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:00-11:30&lt;/td&gt;
 &lt;td&gt;Foto grupal&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:30-12:00&lt;/td&gt;
 &lt;td&gt;Descanso y café&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;12:000-14:00&lt;/td&gt;
 &lt;td&gt;Documentar y Compartir&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;14:00-15:30&lt;/td&gt;
 &lt;td&gt;Descanso&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;15:30-17:30&lt;/td&gt;
 &lt;td&gt;Introducción a GitHub&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Day 4: Augusto 1, 2019&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;09:00-09:30&lt;/td&gt;
 &lt;td&gt;Introducción a &lt;code&gt;runconf&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;09:30-11:00&lt;/td&gt;
 &lt;td&gt;Actividades para construir la comunidad&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:00-11:30&lt;/td&gt;
 &lt;td&gt;Descanso y café&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:30-12:00&lt;/td&gt;
 &lt;td&gt;Votación y selección de proyectos&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;12:00-14:00&lt;/td&gt;
 &lt;td&gt;Trabajar en desarrollar un paquete de R de forma colaborativa&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; y &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa&#34; target=&#34;_blank&#34;&gt;Maria Teresa Ortiz&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, 
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt;, 
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; y 
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maria Teresa Ortiz&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;14:00-15:30&lt;/td&gt;
 &lt;td&gt;Descanso&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;15:30-17:30&lt;/td&gt;
 &lt;td&gt;Trabajar en desarrollar un paquete de R de forma colaborativa&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; y &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa&#34; target=&#34;_blank&#34;&gt;Maria Teresa Ortiz&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, 
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt;, 
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; y 
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maria Teresa Ortiz&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Day 5: Augusto 2, 2019&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;09:00-09:15&lt;/td&gt;
 &lt;td&gt;(opcional) cambiar de proyecto&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;09:15-11:00&lt;/td&gt;
 &lt;td&gt;Trabajar en desarrollar un paquete de R de forma colaborativa&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; y &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa&#34; target=&#34;_blank&#34;&gt;Maria Teresa Ortiz&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt;, 
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt;, 
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; y 
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maria Teresa Ortiz&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:00-11:30&lt;/td&gt;
 &lt;td&gt;Descanso y café&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:30-12:00&lt;/td&gt;
 &lt;td&gt;Evaluación de los talleres&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;12:00-12:30&lt;/td&gt;
 &lt;td&gt;Preparar presentaciones de los proyectos&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;12:30-13:00&lt;/td&gt;
 &lt;td&gt;Presentaciones de los proyectos del &lt;code&gt;runconf&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;13:00-13:30&lt;/td&gt;
 &lt;td&gt;Clausura y recordatorio de oportunidades para participar en la CDSB&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;13:30-14:00&lt;/td&gt;
 &lt;td&gt;Ceremonia de clausura de los TIB2019&lt;/td&gt;
@@ -336,63 +340,73 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
 &lt;h3 id=&#34;construir-herramientas-ordenadas&#34;&gt;Construir Herramientas Ordenadas&lt;/h3&gt;
-
-&lt;p&gt;Charlotte Wickham y Hadley Wickham fueron los instructores de la versión &lt;a href=&#34;https://github.com/rstudio/rstudio-conf/blob/master/2019/workshops.md#building-tidy-tools&#34; target=&#34;_blank&#34;&gt;original de este taller&lt;/a&gt; en rstudio::conf 2019. Aceptaron amablemente compartir con nosotros los archivos fuente que traducieremos al español para este taller. Si quieres leer la versión original en inglés de este texto, checa &lt;a href=&#34;https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/&#34; target=&#34;_blank&#34;&gt;nuestro anuncio del taller en inglés&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;Charlotte Wickham y Hadley Wickham fueron los instructores de la versión 
+&lt;a href=&#34;https://github.com/rstudio/rstudio-conf/blob/master/2019/workshops.md#building-tidy-tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;original de este taller&lt;/a&gt; en rstudio::conf 2019. Aceptaron amablemente compartir con nosotros los archivos fuente que traducieremos al español para este taller. Si quieres leer la versión original en inglés de este texto, checa 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/building-tidy-tools-CDSB-runconf-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nuestro anuncio del taller en inglés&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Este es un taller de dos días para quienes sean usuarios del tidyverse y que ahora quieren expander sus necesidades. Hablaremos sobre diseño de APIs, herramientas para programación funcional, las bases del diseño de objetos en S3, y el system de evaluación ordenada (tidy eval) para evaluación no estándar (NSE en inglés).&lt;/p&gt;
-
 &lt;p&gt;Aprendás formas eficientes de escribir funciones de R de alta calidad, usando una serie de convenciones codificadas en un paquete. También aprenderás como diseñar pruebas unitarias para tu software, que te permiten garantizar que tus funciones hacen lo que fueron diseñadas para hacer. Domina el arte de escribir funciones que hacen una sola cosa bien y que pueden ser combinandas de forma fluida para resolver problemas complejos. Repasaremos errores comunes al escribir funciones y como evitarlos.&lt;/p&gt;
-
 &lt;p&gt;Aprende a escribir colecciones de funciones que funcionan bien de forma conjunta, y sigue limeamientos existentes para que usuarios nuevos sientan que son fáciles de aprender.&lt;/p&gt;
-
 &lt;p&gt;Deberías tomar este taller si tienes experiencia programando en R y quieres aprender a resolver problemas de gran escala. Le sacarás más jugo al taller si ya estás familiarizado con funciones de R y te sientes cómodo con las estructuras básicas de R (vectores, matrices, arreglos, listas y tablas).&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;En vez de enseñar el taller en dos días, lo haremos en dos días y medio para que tengan más tiempo para digerir todo el material y para que tengamos tiempo de enseñar que es Git y GitHub.&lt;/p&gt;
-
 &lt;h3 id=&#34;cdsb-runconf&#34;&gt;CDSB &lt;code&gt;runconf&lt;/code&gt;&lt;/h3&gt;
-
 &lt;p&gt;Los eventos de &lt;code&gt;R&lt;/code&gt; &amp;ldquo;unconference&amp;rdquo; (runconf) típicamente involucran dos etapas con una tercera opcional. Primero los participantes crean &amp;ldquo;issues&amp;rdquo; semanas antes del runconf donde comparten ideas sobre las cuales potencialmente podrían trabajar durante los dos días del runconf. En la segunda etapa, los participantes se conocen entre todos a través de dinámicas diseñadas para romper el hielo. Luego trabajan de forma colaborativa durante dos días en los proyectos que hayan recibido votos. Es aquí cuando los participantes aprenden de las habilidades de cada quien y donde pueden vivir la experiencia de desarrollar software de acceso libre de forma colaborativa. Al final, todos comparten su experiencia con el resto del grupo. En la tercera y última etapa, los participantes del runconf puede que continuen a interactuar entre ellos para pulir los paquetes de &lt;code&gt;R&lt;/code&gt; en los cuales hayan trabajado durante runconf, iniciar nuevas colaboraciones y/o escribir entradas en el blog sobre su experiencia.&lt;/p&gt;
-
-&lt;p&gt;Hay muchas entradas de blog sobre eventos de rOpenSci unconf. Un runconf reciente fue &lt;code&gt;chirunconf&lt;/code&gt; del cual pueden leer más en el blog de &lt;a href=&#34;https://sharla.party/posts/chirunconf/&#34; target=&#34;_blank&#34;&gt;Sharla Gelfand&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Si van a participar en nuestro taller, les vamos a pedir que propongan al menos una idea para un paquete de R vía la creación de un &amp;ldquo;GitHub Issue&amp;rdquo; en nuestro &lt;a href=&#34;https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019/issues&#34; target=&#34;_blank&#34;&gt; repositorio de GitHub para el taller&lt;/a&gt;. Si necesitan algo de inspiración, revisen las ideas que otros propusieron para &lt;a href=&#34;https://github.com/ropensci/unconf18/issues&#34; target=&#34;_blank&#34;&gt;rOpenSci unconf18&lt;/a&gt;. También les pediremos que todos se familiarizen con las propuestas de los demás antes del inicio del taller.&lt;/p&gt;
-
+&lt;p&gt;Hay muchas entradas de blog sobre eventos de rOpenSci unconf. Un runconf reciente fue &lt;code&gt;chirunconf&lt;/code&gt; del cual pueden leer más en el blog de 
+&lt;a href=&#34;https://sharla.party/posts/chirunconf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sharla Gelfand&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Si van a participar en nuestro taller, les vamos a pedir que propongan al menos una idea para un paquete de R vía la creación de un &amp;ldquo;GitHub Issue&amp;rdquo; en nuestro 
+&lt;a href=&#34;https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; repositorio de GitHub para el taller&lt;/a&gt;. Si necesitan algo de inspiración, revisen las ideas que otros propusieron para 
+&lt;a href=&#34;https://github.com/ropensci/unconf18/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenSci unconf18&lt;/a&gt;. También les pediremos que todos se familiarizen con las propuestas de los demás antes del inicio del taller.&lt;/p&gt;
 &lt;h2 id=&#34;instructores&#34;&gt;Instructores:&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt; (International Laboratory for Human Genome Research, Juriquilla, Mexico)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; (Dana-Farber Cancer Institute, Boston, USA)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; (Lieber Institute for Brain Development, Baltimore, USA). Leonardo tómo el taller original de &lt;em&gt;Building Tidy Tools&lt;/em&gt; en &lt;a href=&#34;https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/&#34; target=&#34;_blank&#34;&gt;rstudio::conf 2019&lt;/a&gt; gracias a una beca de diversidad. También atendió el &lt;a href=&#34;http://unconf18.ropensci.org/&#34; target=&#34;_blank&#34;&gt;rOpenSci unconf 2018&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa/&#34; target=&#34;_blank&#34;&gt;Maria Teresa Ortiz&lt;/a&gt; (CONABIO e ITAM, México)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt; (International Laboratory for Human Genome Research, Juriquilla, Mexico)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt; (Dana-Farber Cancer Institute, Boston, USA)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; (Lieber Institute for Brain Development, Baltimore, USA). Leonardo tómo el taller original de &lt;em&gt;Building Tidy Tools&lt;/em&gt; en 
+&lt;a href=&#34;https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rstudio::conf 2019&lt;/a&gt; gracias a una beca de diversidad. También atendió el 
+&lt;a href=&#34;http://unconf18.ropensci.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenSci unconf 2018&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maria Teresa Ortiz&lt;/a&gt; (CONABIO e ITAM, México)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;comité-organizador&#34;&gt;Comité Organizador:&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt; (International Laboratory for Human Genome Research, Juriquilla, Mexico)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; (Dana-Farber Cancer Institute, Boston, USA)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/delfinog/&#34; target=&#34;_blank&#34;&gt;Delfino García&lt;/a&gt; (Center for Genomic Sciences, Cuernavaca, Mexico)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/hsalgado/&#34; target=&#34;_blank&#34;&gt;Heladia Salgado&lt;/a&gt; (Center for Genomic Sciences, Cuernavaca, Mexico)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; (Lieber Institute for Brain Development, Baltimore, USA)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt; (International Laboratory for Human Genome Research, Juriquilla, Mexico)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt; (Dana-Farber Cancer Institute, Boston, USA)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/delfinog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Delfino García&lt;/a&gt; (Center for Genomic Sciences, Cuernavaca, Mexico)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/hsalgado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heladia Salgado&lt;/a&gt; (Center for Genomic Sciences, Cuernavaca, Mexico)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; (Lieber Institute for Brain Development, Baltimore, USA)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;código-de-conducta-codigo-de-conducta&#34;&gt;&lt;a href=&#34;../../codigo-de-conducta/&#34;&gt;Código de Conducta&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h2 id=&#34;código-de-conductacodigo-de-conducta&#34;&gt;
+&lt;a href=&#34;../../codigo-de-conducta/&#34;&gt;Código de Conducta&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;patrocinadores&#34;&gt;Patrocinadores&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;../../niveles-de-patrocinio/&#34;&gt;Sé nuestro &lt;strong&gt;patrocinador&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;
+&lt;a href=&#34;../../niveles-de-patrocinio/&#34;&gt;Sé nuestro &lt;strong&gt;patrocinador&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -402,24 +416,19 @@
 &lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/CCG_Logo_HR-300x114.png&#34; alt=&#34;Centro de Ciencias Genómicas UNAM&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.lcg.unam.mx&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/LCG_Logo_HR-white.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://liigh.unam.mx/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/logo-liigh-unam.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/RConsortium_Horizontal_Pantone-768x173.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/CCG_Logo_HR-300x114.png&#34; alt=&#34;Centro de Ciencias Genómicas UNAM&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.lcg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/LCG_Logo_HR-white.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://liigh.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/logo-liigh-unam.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/RConsortium_Horizontal_Pantone-768x173.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:If-you-speak-Eng&#34;&gt;If you speak English but not Spanish please let us know so we can plan accordingly. &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:If-you-speak-Eng&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -427,60 +436,44 @@
       <title>Encuentro de Bioinformática en México 2019</title>
       <link>/es/post/talleres-internacionales-de-bioinformatica-2019/</link>
       <pubDate>Fri, 05 Apr 2019 12:00:00 +0000</pubDate>
-      
       <guid>/es/post/talleres-internacionales-de-bioinformatica-2019/</guid>
-      <description>
-
-&lt;p&gt;El Nodo Nacional de Bioinformática (NNB-UNAM), la Red Mexicana de Bioinformática (RMB) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan al &lt;strong&gt;Encuentro de Bioinformática en México 2019&lt;/strong&gt; compuesto por&lt;/p&gt;
-
+      <description>&lt;p&gt;El Nodo Nacional de Bioinformática (NNB-UNAM), la Red Mexicana de Bioinformática (RMB) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan al &lt;strong&gt;Encuentro de Bioinformática en México 2019&lt;/strong&gt; compuesto por&lt;/p&gt;
 &lt;h3 id=&#34;talleres-internacionales-de-bioinformática-tib2019&#34;&gt;Talleres Internacionales de Bioinformática (TIB2019)&lt;/h3&gt;
-
 &lt;p&gt;&amp;amp;&lt;/p&gt;
-
 &lt;h3 id=&#34;taller-cdsb-cómo-crear-y-ordenar-herramientas&#34;&gt;Taller CDSB: Cómo Crear y Ordenar Herramientas&lt;/h3&gt;
-
 &lt;p&gt;&lt;strong&gt;UNAM Centro de Ciencias Genómicas (CCG-UNAM) en Cuernavaca Morelos, México.&lt;/strong&gt;
 &lt;strong&gt;Desde Julio 29 a Agosto 9, 2019&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;Los talleres son organizados por:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;Nodo Nacional de Bioinformática, Nodo Mexicano del EMBNet (European Molecular Biology network)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Nodo Nacional de Bioinformática, Nodo Mexicano del EMBNet (European Molecular Biology network)&lt;/li&gt;
 &lt;li&gt;Comunidad de Desarrolladores de Software en Bioinformática (CDSB)&lt;/li&gt;
-&lt;li&gt;Red Mexicana de Bioinformática (RMB)
-&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Red Mexicana de Bioinformática (RMB)&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;gracias al apoyo de:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Centro de Ciencias Genómicas (CCG-UNAM)&lt;/li&gt;
 &lt;li&gt;Licenciatura de Ciencias Genómicas (LCG-UNAM)&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Para mayor información sobre el proceso de registrarse, por favor revisar la &lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/&#34; target=&#34;_blank&#34;&gt;página web de TIB2019&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;Para mayor información sobre el proceso de registrarse, por favor revisar la 
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;página web de TIB2019&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;talleres&#34;&gt;Talleres&lt;/h4&gt;
-
 &lt;p&gt;Cada taller tiene una duración de una semana.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Desde Julio 29 a Agosto 2, 2019&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t1-introduccion-a-r-y-r-studio&#34; target=&#34;_blank&#34;&gt;T1: Introducción a R y RStudio&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t2-introduccion-al-ensamble-y-anotacion-de-genomas/&#34; target=&#34;_blank&#34;&gt;T2. Introducción al Ensamble y Anotación de Genomas&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t3-analisis-comparativo-de-genomas-microbianos-pangenomica-y-filoinformatica/&#34; target=&#34;_blank&#34;&gt;T3. Análisis comparativo de genomas microbianos: Pangenómica y filoinformática&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/cdsb-workshop-how-to-build-and-create-tidy-tools/&#34; target=&#34;_blank&#34;&gt;Taller CDSB 2019: Cómo Crear y Ordenar Herramientas &amp;lsquo;Tidy&amp;rsquo;&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t1-introduccion-a-r-y-r-studio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T1: Introducción a R y RStudio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t2-introduccion-al-ensamble-y-anotacion-de-genomas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T2. Introducción al Ensamble y Anotación de Genomas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t3-analisis-comparativo-de-genomas-microbianos-pangenomica-y-filoinformatica/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T3. Análisis comparativo de genomas microbianos: Pangenómica y filoinformática&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/cdsb-workshop-how-to-build-and-create-tidy-tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taller CDSB 2019: Cómo Crear y Ordenar Herramientas &amp;lsquo;Tidy&amp;rsquo;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Desde Agosto 5 a Agosto 9, 2019&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t4-asesoria-para-el-ensamble-y-anotacion-de-tu-genoma-de-estudio/&#34; target=&#34;_blank&#34;&gt;T4. Asesoría para el Ensamble y anotación de tu Genoma de estudio&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t5-programacion-para-principiantes-con-python&#34; target=&#34;_blank&#34;&gt;T5: Programación para principiantes con Python&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;¿Interesado en convertirte en nuestro &lt;a href=&#34;../../niveles-de-patrocinio/&#34;&gt;&lt;strong&gt;patrocinador&lt;/strong&gt;&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t4-asesoria-para-el-ensamble-y-anotacion-de-tu-genoma-de-estudio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T4. Asesoría para el Ensamble y anotación de tu Genoma de estudio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/t5-programacion-para-principiantes-con-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T5: Programación para principiantes con Python&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;¿Interesado en convertirte en nuestro 
+&lt;a href=&#34;../../niveles-de-patrocinio/&#34;&gt;&lt;strong&gt;patrocinador&lt;/strong&gt;&lt;/a&gt;?&lt;/p&gt;
 </description>
     </item>
     
@@ -488,39 +481,35 @@
       <title>El camino de CDSBMexico 2018 a BioC2019</title>
       <link>/es/post/path-from-cdsbmexico-2018-to-bioc2019/</link>
       <pubDate>Thu, 04 Apr 2019 22:50:47 +0000</pubDate>
-      
       <guid>/es/post/path-from-cdsbmexico-2018-to-bioc2019/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;/img/path_to_bioc2019.png&#34; alt=&#34;Path to BioC2019&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Hace un año la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) organizó un &lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34;&gt;taller de una semana&lt;/a&gt; diseñado para entrenar a usuarios de &lt;code&gt;R&lt;/code&gt; en como crear paquetes de &lt;code&gt;R&lt;/code&gt; e idealmente compartirlos vía Bioconductor. El taller en sí fue todo un éxito basado en nuestro &lt;a href=&#34;https://comunidadbioinfo.github.io/post/a-recap-of-cdsb-2018-the-start-of-a-community/&#34; target=&#34;_blank&#34;&gt;resumen del evento&lt;/a&gt;. Sin embargo, no queríamos parar ahí. Creamos la CDSB y juntamos fuerzas con los &lt;a href=&#34;http://congresos.nnb.unam.mx/&#34; target=&#34;_blank&#34;&gt;TIB&lt;/a&gt; (“Talleres Internacionales de Bioinformática”) de la &lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34;&gt;NNB-UNAM&lt;/a&gt; con el objetivo de simular en conjunto un evento anual de BioC. En esos eventos los participantes pueden aprender a usar &lt;code&gt;R&lt;/code&gt;, madurar como usarios de &lt;code&gt;R&lt;/code&gt; y convertirse en desarrolladores de &lt;code&gt;R&lt;/code&gt;. También organizamos el taller &lt;a href=&#34;http://lcolladotor.github.io/2018/04/19/latin-american-r-bioconductor-developers-workshop-2018/#.XKZzD-tKjUI&#34; target=&#34;_blank&#34;&gt;porque queríamos ver más Latinos en BioC&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;img src=&#34;/img/path_to_bioc2019.png&#34; alt=&#34;Path to BioC2019&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Hace un año la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) organizó un 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;taller de una semana&lt;/a&gt; diseñado para entrenar a usuarios de &lt;code&gt;R&lt;/code&gt; en como crear paquetes de &lt;code&gt;R&lt;/code&gt; e idealmente compartirlos vía Bioconductor. El taller en sí fue todo un éxito basado en nuestro 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/a-recap-of-cdsb-2018-the-start-of-a-community/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;resumen del evento&lt;/a&gt;. Sin embargo, no queríamos parar ahí. Creamos la CDSB y juntamos fuerzas con los 
+&lt;a href=&#34;http://congresos.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TIB&lt;/a&gt; (“Talleres Internacionales de Bioinformática”) de la 
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNB-UNAM&lt;/a&gt; con el objetivo de simular en conjunto un evento anual de BioC. En esos eventos los participantes pueden aprender a usar &lt;code&gt;R&lt;/code&gt;, madurar como usarios de &lt;code&gt;R&lt;/code&gt; y convertirse en desarrolladores de &lt;code&gt;R&lt;/code&gt;. También organizamos el taller 
+&lt;a href=&#34;http://lcolladotor.github.io/2018/04/19/latin-american-r-bioconductor-developers-workshop-2018/#.XKZzD-tKjUI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;porque queríamos ver más Latinos en BioC&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;proceso-de-solicitud-de-beca-para-bioc2019&#34;&gt;Proceso de solicitud de beca para BioC2019&lt;/h3&gt;
-
-&lt;p&gt;El tiempo siguió avanzando desde que completamos nuestro taller en 2018 y todo mundo regresó a sus trabajos normales o sus programas de maestría/doctorado. Luego anunciaron el congreso de &lt;a href=&#34;https://bioc2019.bioconductor.org/&#34; target=&#34;_blank&#34;&gt;BioC2019&lt;/a&gt; y por lo mismo anunciaron los requerimientos para solicitar:&lt;/p&gt;
-
+&lt;p&gt;El tiempo siguió avanzando desde que completamos nuestro taller en 2018 y todo mundo regresó a sus trabajos normales o sus programas de maestría/doctorado. Luego anunciaron el congreso de 
+&lt;a href=&#34;https://bioc2019.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioC2019&lt;/a&gt; y por lo mismo anunciaron los requerimientos para solicitar:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Presentar una plática o póster&lt;/li&gt;
 &lt;li&gt;Obtener una beca para ir al congreso&lt;/li&gt;
 &lt;li&gt;Proponer un taller&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Básicamente, quienes querían solicitar la beca para el congreso tenían que:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Crear un sitio web o compartir su CV en algún lugar público&lt;/li&gt;
 &lt;li&gt;Responder en 150 palabras o menos la pregunta &lt;em&gt;¿Cómo has participado en el proyecto de Bioconductor en el pasado?&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Responder en 150 palabras o menos la pregunta &lt;em&gt;¿Qué esperas obtener de la conferencia?&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Escribir un resumen científico en 300 palabras o menos de tu trabajo que quisieras presentar en una plática o póster&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Tambi-n-era-v-li&#34;&gt;&lt;a href=&#34;#fn:Tambi-n-era-v-li&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Escribir un resumen científico en 300 palabras o menos de tu trabajo que quisieras presentar en una plática o póster^[También era válido proponer un taller, pero eso es demasiado para alguien que apenas va empezar su aventura con Bioconductor. Es más bien para los que ya son &lt;em&gt;veteranos&lt;/em&gt; de BioC.].&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Todo el proceso, a pesar de estar diseñado para que sea amigable, puede ser un poco abrumante si es tu primera vez mandando una solicitud de este estilo y si tu lengua nativa no es el inglés. Por lo tanto, cuando le &lt;a href=&#34;https://comunidadbioinfo.github.io/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/&#34; target=&#34;_blank&#34;&gt;recordamos a nuestros miembros sobre BioC2019&lt;/a&gt; ofrecimos nuestra ayuda en todo este proceso.&lt;/p&gt;
-
+&lt;p&gt;Todo el proceso, a pesar de estar diseñado para que sea amigable, puede ser un poco abrumante si es tu primera vez mandando una solicitud de este estilo y si tu lengua nativa no es el inglés. Por lo tanto, cuando le 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;recordamos a nuestros miembros sobre BioC2019&lt;/a&gt; ofrecimos nuestra ayuda en todo este proceso.&lt;/p&gt;
 &lt;h3 id=&#34;ayudando-a-miembros-de-la-cdsb&#34;&gt;Ayudando a miembros de la CDSB&lt;/h3&gt;
-
-&lt;p&gt;Dada la experiencia que tienen con Bioconductor, &lt;a href=&#34;https://comunidadbioinfo.github.io/author/areyes/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; y &lt;a href=&#34;https://comunidadbioinfo.github.io/author/lcollado/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado Torres&lt;/a&gt; se ofrecieron de voluntarios para ayudar a miembros de la CDSB. El recordatorio en el blog y el contactar individualmente a varios participantes de CDSBMexico 2018 ayudaron a encontrar y motivar a miembros de la CDSB a que mandaran su solicitud. Simplemente animarlos y decirles que era realista que obtuvieran la beca hizo una gran diferencia. Es decir, creer en ellos y en el trabajo que todos hemos hecho en la comunidad. Hubieron muchos correos electrónicos, mensajes en canales de Slack y documentos que fueron compartidos, pero al final la versión más &lt;em&gt;limpia&lt;/em&gt; del proceso fue la siguiente.&lt;/p&gt;
-
+&lt;p&gt;Dada la experiencia que tienen con Bioconductor, 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/author/areyes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt; y 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/author/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado Torres&lt;/a&gt; se ofrecieron de voluntarios para ayudar a miembros de la CDSB. El recordatorio en el blog y el contactar individualmente a varios participantes de CDSBMexico 2018 ayudaron a encontrar y motivar a miembros de la CDSB a que mandaran su solicitud. Simplemente animarlos y decirles que era realista que obtuvieran la beca hizo una gran diferencia. Es decir, creer en ellos y en el trabajo que todos hemos hecho en la comunidad. Hubieron muchos correos electrónicos, mensajes en canales de Slack y documentos que fueron compartidos, pero al final la versión más &lt;em&gt;limpia&lt;/em&gt; del proceso fue la siguiente.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Un miembro de la CDSB le hacía saber su interés en BioC2019 a un voluntario de la CDSB (Alejandro o Leonardo).&lt;/li&gt;
 &lt;li&gt;Un voluntario le recordaba como funciona el proceso de solicitud de beca de BioC2019 y explicaba cualquier duda sobre el tema. De ser apropiado, el voluntario de CDSB también explicaba opciones para hacer páginas web gratis con GitHub.&lt;/li&gt;
@@ -528,62 +517,44 @@
 &lt;li&gt;Los voluntarios de la CDSB proveían sugerencias de cómo presentar la información más claramente para los revisores de la solicitud de beca. Las sugerencias eran hechas de tal forma que mantuvieran la idea general que quiso expresar el solicitante sobre ellos mismos o su trabajo.&lt;/li&gt;
 &lt;li&gt;El miembro de la CDSB hacia modificaciones y de ser apropiado pedía otra ronda de sugerencias.&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;Básicamente, los voluntarios de la CDSB compartieron las mejores prácticas que conocen para llenar este tipo de solicitudes y para escribir resúmenes científicos, incluyendo los consejos que recientemente compartió Wolfgang Huber (&lt;a href=&#34;https://www.embl.de/research/units/genome_biology/huber/&#34; target=&#34;_blank&#34;&gt;uno de los primeros contribuidores al proyecto de Bioconductor&lt;/a&gt;).&lt;/p&gt;
-
+&lt;p&gt;Básicamente, los voluntarios de la CDSB compartieron las mejores prácticas que conocen para llenar este tipo de solicitudes y para escribir resúmenes científicos, incluyendo los consejos que recientemente compartió Wolfgang Huber (
+&lt;a href=&#34;https://www.embl.de/research/units/genome_biology/huber/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;uno de los primeros contribuidores al proyecto de Bioconductor&lt;/a&gt;).&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The generic paper abstract&lt;br&gt;1. Why is it important?    (1)&lt;br&gt;2. What is &amp;quot;it&amp;quot;?   (1)&lt;br&gt;3. But what is the problem with it?    (1)&lt;br&gt;4. What did you do about the problem?    (1)&lt;br&gt;5. What was your result?   (n)&lt;br&gt;6. What are some wider implications?  (1)&lt;br&gt; (in parentheses: number of sentences)&lt;/p&gt;&amp;mdash; Wolfgang Huber (@wolfgangkhuber) &lt;a href=&#34;https://twitter.com/wolfgangkhuber/status/1098965705100283906?ref_src=twsrc%5Etfw&#34;&gt;February 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-
 &lt;h3 id=&#34;el-resultado-final&#34;&gt;El resultado final&lt;/h3&gt;
-
 &lt;p&gt;Al final de todo, tres participantes de la CDSB completaron todo el proceso de solicitud de beca y crearon sus sitios web:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://anabva.github.io/&#34; target=&#34;_blank&#34;&gt;Ana Beatriz Villaseñor-Altamirano&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cesarmiguel.xyz/&#34; target=&#34;_blank&#34;&gt;César Miguel Valdez Córdova&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://josschavezf.github.io/&#34; target=&#34;_blank&#34;&gt;Joselyn Chavez&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://anabva.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ana Beatriz Villaseñor-Altamirano&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cesarmiguel.xyz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;César Miguel Valdez Córdova&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://josschavezf.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joselyn Chavez&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Todos enviaron su solicitud antes de la fecha límite del 15 de marzo del 2019, tal y como les insistimos que lo hicieran.&lt;/p&gt;
-
 &lt;p&gt;Pasaron varias semanas y el 2 de abril estuvimos &lt;strong&gt;encantados&lt;/strong&gt; de compartir que a los tres les aprobaron pláticas 🎙de 10 minutos y becas para viajar al congreso ✈️. Esta noticia es una victoria &lt;strong&gt;enorme&lt;/strong&gt; para la CDSB y nos da un empuje moral gigante 🎉🥳.&lt;/p&gt;
-
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Thank you &lt;a href=&#34;https://twitter.com/Bioconductor?ref_src=twsrc%5Etfw&#34;&gt;@Bioconductor&lt;/a&gt;!! Today 4 of our members got travel scholarships, talks and workshops approved. 6 total will attend &lt;a href=&#34;https://twitter.com/hashtag/bioc2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#bioc2019&lt;/a&gt; Please welcome them!&lt;a href=&#34;https://twitter.com/AnaBetty2304?ref_src=twsrc%5Etfw&#34;&gt;@AnaBetty2304&lt;/a&gt; &lt;a href=&#34;https://twitter.com/josschavezf1?ref_src=twsrc%5Etfw&#34;&gt;@josschavezf1&lt;/a&gt; @cmvaldezcordova &lt;a href=&#34;https://twitter.com/doctor_calvo?ref_src=twsrc%5Etfw&#34;&gt;@doctor_calvo&lt;/a&gt; &lt;a href=&#34;https://twitter.com/areyesq?ref_src=twsrc%5Etfw&#34;&gt;@areyesq&lt;/a&gt; &lt;a href=&#34;https://twitter.com/fellgernon?ref_src=twsrc%5Etfw&#34;&gt;@fellgernon&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/diversity?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#diversity&lt;/a&gt;&lt;a href=&#34;https://t.co/apxYxSpE5Z&#34;&gt;https://t.co/apxYxSpE5Z&lt;/a&gt; &lt;a href=&#34;https://t.co/tmSYbZvi7B&#34;&gt;pic.twitter.com/tmSYbZvi7B&lt;/a&gt;&lt;/p&gt;&amp;mdash; ComunidadBioInfo (@CDSBMexico) &lt;a href=&#34;https://twitter.com/CDSBMexico/status/1113238312758566914?ref_src=twsrc%5Etfw&#34;&gt;April 3, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-
 &lt;p&gt;¡No podemos esconder lo contento que estamos con estas noticias y estamos emocionados de verlos en BioC2019! Esperamos que todos tengan una gran experiencia  🙌🏽😃&lt;/p&gt;
-
 &lt;h3 id=&#34;unas-palabras-de-los-participantes-de-la-cdsb-que-van-a-bioc2019&#34;&gt;Unas palabras de los participantes de la CDSB que van a BioC2019&lt;/h3&gt;
-
 &lt;p&gt;Como hemos dicho, esto es solo el inicio y queremos ayudar a otras personas en los años que siguen. Por lo tanto le pedimos a Ana, César y Joselyn que compartan unas palabras con los futuros participantes de la CDSB sobre el proceso de solicitud de beca de BioC2019 y el apoyo que obtuvieron de los voluntarios de la CDSB.&lt;/p&gt;
-
-&lt;h4 id=&#34;ana-https-anabva-github-io&#34;&gt;&lt;a href=&#34;https://anabva.github.io/&#34; target=&#34;_blank&#34;&gt;Ana&lt;/a&gt;&lt;/h4&gt;
-
+&lt;h4 id=&#34;anahttpsanabvagithubio&#34;&gt;
+&lt;a href=&#34;https://anabva.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ana&lt;/a&gt;&lt;/h4&gt;
 &lt;blockquote&gt;
 &lt;p&gt;El proceso para aplicar y solicitar beca para BioC2019 no es tan difícil pero cuando leí los requerimientos por primera vez fue abrumador, no había publicado nunca una página web y era uno de los requerimientos, además, tenía que ser mi CV! Por un momento pensé que no aplicaría pero fue cuando Leo y Alejandro me animaron, les comenté que no tenía CV público y ellos muy amablemente me guiaron (ahora hago páginas web en R para todo lo que puedo, jeje). Ellos también estuvieron presentes ayudandome en los demás requisitos y al final disfruté la aplicación, les agradezco mucho el apoyo que me brindaron y espero con ansias verlos en NY. Definitivamente, Leo y Alejandro son muy serviciales e inspiradores y la comunidad CDSB es un lugar amistoso y comprometido con impulsar el desarrollo bioinformático de México para el mundo.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;h4 id=&#34;césar-http-www-cesarmiguel-xyz&#34;&gt;&lt;a href=&#34;http://www.cesarmiguel.xyz/&#34; target=&#34;_blank&#34;&gt;César&lt;/a&gt;&lt;/h4&gt;
-
+&lt;h4 id=&#34;césarhttpwwwcesarmiguelxyz&#34;&gt;
+&lt;a href=&#34;http://www.cesarmiguel.xyz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;César&lt;/a&gt;&lt;/h4&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cuando asistí a CDSB México 2018, lo último que imaginé fue que el proceso culminaría en una beca para BioC2019; El síndrome del impostor es algo completamente real. Al mencionarle mi proyecto de tesis tanto a Alejandro como a Leo, me alentaron a meterme de lleno e intentar de hacer una contribución a Bioconductor. Dicha tarea parecía demasiado complicada en un principio. No obstante, después de CDSB México 2018, mi perspectiva cambió enormemente. Un factor importante para decidirme a hacer la contribución y la consecuente aplicación para la conferencia, fue el apoyo sumamente constructivo que recibí de la comunidad en cada paso del proceso, partiendo desde mi idea original, hasta la aplicación misma. A través del proceso, noté que aún cuando frecuentemente esperamos tener un producto perfecto (una página personal, un CV en línea o un paquete de R y todo lo que lo acompaña) desde un inicio, rara vez sucede así. Podra sonar cliché, pero Roma no fue construido en un dia. Ser capaz de cambiar mi perspectiva y reconocer la naturaleza incremental de contribuir ha creado un precedente para lidiar con las tareas relacionadas a mi progresión profesional de ahora en adelante; Ojalá que sea mediante contribuciones al proyecto Bioconductor y el dominio open-source! Si hay algo que tengo que decirle a futuros candidatos y miembros de la CDSB es eso: Hazlo! Involucrate! Aplica sabiendo que la comunidad está aquí para ti! Con un poco de suerte y arduo esfuerzo, las cosas se te pueden acomodar, justo como se me acomodaron a mi.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;h4 id=&#34;joselyn-https-josschavezf-github-io&#34;&gt;&lt;a href=&#34;https://josschavezf.github.io/&#34; target=&#34;_blank&#34;&gt;Joselyn&lt;/a&gt;&lt;/h4&gt;
-
+&lt;h4 id=&#34;joselynhttpsjosschavezfgithubio&#34;&gt;
+&lt;a href=&#34;https://josschavezf.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joselyn&lt;/a&gt;&lt;/h4&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cuando Alejandro Reyes y Leonardo Collado me contactaron me sentí nerviosa, ya que no había considerado la posibilidad de presentar mi trabajo y mucho menos aplicar a una beca para asistir a BioC2019 antes de recibir su correo. Ellos me dieron su invaluable confianza y apoyo durante todo el proceso. Ahora que he sido seleccionada para participar en este gran evento y que he sido beneficiada con la beca para asistir, me siento muy emocionada y me doy cuenta de lo unida que es la comunidad CDSBMexico. Ahora sé que es posible ser parte de esta gran comunidad y asistir a eventos como BioC2019, sólo hace falta perder el miedo.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:Tambi-n-era-v-li&#34;&gt;También era válido proponer un taller, pero eso es demasiado para alguien que apenas va empezar su aventura con Bioconductor. Es más bien para los que ya son &lt;em&gt;veteranos&lt;/em&gt; de BioC. &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:Tambi-n-era-v-li&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -591,77 +562,80 @@
       <title>CDSBMexico: acuerdense de solicitar becas para ir a BioC2019</title>
       <link>/es/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/</link>
       <pubDate>Fri, 01 Mar 2019 04:24:47 +0000</pubDate>
-      
       <guid>/es/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/</guid>
-      <description>
-
-&lt;p&gt;About 10 months ago &lt;a href=&#34;http://lcolladotor.github.io/2018/04/19/latin-american-r-bioconductor-developers-workshop-2018/#.XHiaE1NKg0o&#34; target=&#34;_blank&#34;&gt;we announced our plans&lt;/a&gt; to start a new community of R/Bioconductor developers in Mexico and Latin America. The National Bioinformatics Node (&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34;&gt;NNB-UNAM&lt;/a&gt; in Spanish) &lt;a href=&#34;http://congresos.nnb.unam.mx/&#34; target=&#34;_blank&#34;&gt;has organized workshops&lt;/a&gt; in bioinformatics and R since 2006 and more frequently since 2010. Last year, 2018, there were &lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/&#34; target=&#34;_blank&#34;&gt;five simultaneous one week workshops&lt;/a&gt;:&lt;/p&gt;
-
+      <description>&lt;p&gt;About 10 months ago 
+&lt;a href=&#34;http://lcolladotor.github.io/2018/04/19/latin-american-r-bioconductor-developers-workshop-2018/#.XHiaE1NKg0o&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;we announced our plans&lt;/a&gt; to start a new community of R/Bioconductor developers in Mexico and Latin America. The National Bioinformatics Node (
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNB-UNAM&lt;/a&gt; in Spanish) 
+&lt;a href=&#34;http://congresos.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;has organized workshops&lt;/a&gt; in bioinformatics and R since 2006 and more frequently since 2010. Last year, 2018, there were 
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;five simultaneous one week workshops&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Introduction to R and RStudio&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Exploratory data analysis (EDA) of biological data with R&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;EDA of RNA-seq data and differential expression studies&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Genome assembly and annotation from high-throughput sequencing data&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;And our &lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Latin American R/Bioconductor Developers Workshop&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Introduction to R and RStudio&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Exploratory data analysis (EDA) of biological data with R&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;EDA of RNA-seq data and differential expression studies&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Genome assembly and annotation from high-throughput sequencing data&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;And our 
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Latin American R/Bioconductor Developers Workshop&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Overall it was a success as described in &lt;a href=&#34;https://comunidadbioinfo.github.io/post/a-recap-of-cdsb-2018-the-start-of-a-community/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;A recap of CDSB 2018: the start of a community&lt;/em&gt;&lt;/a&gt;. However, we are not done yet! 💪🏽As we have stated several times, our goal is to turn R users into developers and to increase the representation of Mexicans and Latin Americans at other R events.&lt;/p&gt;
-
+&lt;p&gt;Overall it was a success as described in 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/a-recap-of-cdsb-2018-the-start-of-a-community/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;A recap of CDSB 2018: the start of a community&lt;/em&gt;&lt;/a&gt;. However, we are not done yet! 💪🏽As we have stated several times, our goal is to turn R users into developers and to increase the representation of Mexicans and Latin Americans at other R events.&lt;/p&gt;
 &lt;h3 id=&#34;bioc2019&#34;&gt;BioC2019&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://bioconductor.org/images/logo_bioconductor.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The one R event that we followed as a guide last year is the Bioconductor yearly meeting, or &lt;em&gt;BioC&lt;/em&gt;. This year, &lt;a href=&#34;https://bioc2019.bioconductor.org/index&#34; target=&#34;_blank&#34;&gt;BioC2019&lt;/a&gt; will be held during June 24 to 27 at New York City in the United States. If you are an academic the registration fee is 300 USD prior to May 24th. As of today (Feb 28th), a round trip from Mexico City on June 23 to 28th is about 320-410 USD1. The &lt;a href=&#34;https://bioc2019.bioconductor.org/travel-accommodations&#34; target=&#34;_blank&#34;&gt;accommodation options listed&lt;/a&gt; start at 118 USD plus tax a night. As you can see, these numbers add up fairly fast which is a limiting factor for scientists from Mexico (and Latin American in general) to attend &lt;em&gt;BioC2019&lt;/em&gt;.&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;http://bioconductor.org/images/logo_bioconductor.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The one R event that we followed as a guide last year is the Bioconductor yearly meeting, or &lt;em&gt;BioC&lt;/em&gt;. This year, 
+&lt;a href=&#34;https://bioc2019.bioconductor.org/index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioC2019&lt;/a&gt; will be held during June 24 to 27 at New York City in the United States. If you are an academic the registration fee is 300 USD prior to May 24th. As of today (Feb 28th), a round trip from Mexico City on June 23 to 28th is about 320-410 USD1. The 
+&lt;a href=&#34;https://bioc2019.bioconductor.org/travel-accommodations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;accommodation options listed&lt;/a&gt; start at 118 USD plus tax a night. As you can see, these numbers add up fairly fast which is a limiting factor for scientists from Mexico (and Latin American in general) to attend &lt;em&gt;BioC2019&lt;/em&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;travel-scholarships&#34;&gt;Travel scholarships&lt;/h3&gt;
-
-&lt;p&gt;However, we want to remind you that there are travel scholarships available! And we, &lt;a href=&#34;https://comunidadbioinfo.github.io/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;CDSB&lt;/em&gt;&lt;/a&gt;, want to help you! 🙌🏽&lt;/p&gt;
-
-&lt;p&gt;All the details about the travel scholarship and different types of submission proposals are available on the &lt;a href=&#34;https://bioc2019.bioconductor.org/call-for-abstracts&#34; target=&#34;_blank&#34;&gt;BioC2019&lt;/a&gt; website. But let us summarize the process for you.&lt;/p&gt;
-
+&lt;p&gt;However, we want to remind you that there are travel scholarships available! And we, 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;CDSB&lt;/em&gt;&lt;/a&gt;, want to help you! 🙌🏽&lt;/p&gt;
+&lt;p&gt;All the details about the travel scholarship and different types of submission proposals are available on the 
+&lt;a href=&#34;https://bioc2019.bioconductor.org/call-for-abstracts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioC2019&lt;/a&gt; website. But let us summarize the process for you.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;You have to apply for either a &lt;strong&gt;talk&lt;/strong&gt;, &lt;strong&gt;poster&lt;/strong&gt; or &lt;strong&gt;workshop&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;You need a professional website, GitHub profile or your CV to be available online.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;You need to answer two questions:&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You have to apply for either a &lt;strong&gt;talk&lt;/strong&gt;, &lt;strong&gt;poster&lt;/strong&gt; or &lt;strong&gt;workshop&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You need a professional website, GitHub profile or your CV to be available online.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You need to answer two questions:&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;How have you participated in the Bioconductor project in the past?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;What do you hope to get out of the conference?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How have you participated in the Bioconductor project in the past?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What do you hope to get out of the conference?&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;For a talk or poster proposal you have a maximum of 300 words while workshop proposals involve filling out a template.&lt;/p&gt;
-
-&lt;p&gt;This is quite a bit of work, but the payoff is immense! You will compete for the opportunity to travel basically for free: free registration and hotel, plus $500 for travel expenses. This can be a career changing opportunity as it was &lt;a href=&#34;https://speakerdeck.com/lcolladotor/cdsbmexico&#34; target=&#34;_blank&#34;&gt;the case for L. Collado-Torres (see his keynote slides)&lt;/a&gt; and others.&lt;/p&gt;
-
+&lt;p&gt;This is quite a bit of work, but the payoff is immense! You will compete for the opportunity to travel basically for free: free registration and hotel, plus $500 for travel expenses. This can be a career changing opportunity as it was 
+&lt;a href=&#34;https://speakerdeck.com/lcolladotor/cdsbmexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the case for L. Collado-Torres (see his keynote slides)&lt;/a&gt; and others.&lt;/p&gt;
 &lt;h3 id=&#34;get-started-on-your-scholarship-application&#34;&gt;Get started on your scholarship application!&lt;/h3&gt;
-
 &lt;p&gt;We know that many of us have a tendency to do things at the last minute. However, we hope 🙏🏽
 that you start your application materials as soon as you can. Remember that the deadline is &lt;strong&gt;March 15th&lt;/strong&gt; and &lt;strong&gt;no exceptions&lt;/strong&gt; are made.&lt;/p&gt;
-
 &lt;h4 id=&#34;website&#34;&gt;Website&lt;/h4&gt;
-
-&lt;p&gt;If you don’t have a professional website, we recommend that you make one following &lt;a href=&#34;https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html&#34; target=&#34;_blank&#34;&gt;Emily Zabor’s tutorial&lt;/a&gt;. This is the tutorial that one of your fellow CDSBMexico 2018 attendees used to create his website: &lt;a href=&#34;https://joseaia.github.io/&#34; target=&#34;_blank&#34;&gt;joseaia.github.io&lt;/a&gt;. Alternatively, check out the &lt;a href=&#34;https://leanpub.com/universities/courses/jhu/cbds-intro-r&#34; target=&#34;_blank&#34;&gt;Chromebook Data Science: intro to R course (available for free if you can’t afford it)&lt;/a&gt; which includes a lesson that walks you through this process.&lt;/p&gt;
-
+&lt;p&gt;If you don’t have a professional website, we recommend that you make one following 
+&lt;a href=&#34;https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emily Zabor’s tutorial&lt;/a&gt;. This is the tutorial that one of your fellow CDSBMexico 2018 attendees used to create his website: 
+&lt;a href=&#34;https://joseaia.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;joseaia.github.io&lt;/a&gt;. Alternatively, check out the 
+&lt;a href=&#34;https://leanpub.com/universities/courses/jhu/cbds-intro-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chromebook Data Science: intro to R course (available for free if you can’t afford it)&lt;/a&gt; which includes a lesson that walks you through this process.&lt;/p&gt;
 &lt;h4 id=&#34;bioconductor-project-participation&#34;&gt;Bioconductor project participation&lt;/h4&gt;
-
-&lt;p&gt;Next, we know that each of you worked at least in one R package during CDSBMexico 2018 such as &lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/&#34; target=&#34;_blank&#34;&gt;rGriffin (check the blog post)&lt;/a&gt;. Maybe you even submitted your package to Bioconductor. At least, you met and interacted with longtime Bioconductor members such as Martin Morgan and Benilton Carvalho. Since then, you might have worked on other R packages, shiny applications, etc. You might have also answered questions on the Bioconductor support website, reported bugs or opened issues in existing packages, joined the developers mailing list, joined the Bioconductor Slack workspace, etc. Ultimately, you could potentially present a poster or give a talk about the package you worked on last summer, but you’ll need to coordinate with your team members and/or lab principal investigator.&lt;/p&gt;
-
+&lt;p&gt;Next, we know that each of you worked at least in one R package during CDSBMexico 2018 such as 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rGriffin (check the blog post)&lt;/a&gt;. Maybe you even submitted your package to Bioconductor. At least, you met and interacted with longtime Bioconductor members such as Martin Morgan and Benilton Carvalho. Since then, you might have worked on other R packages, shiny applications, etc. You might have also answered questions on the Bioconductor support website, reported bugs or opened issues in existing packages, joined the developers mailing list, joined the Bioconductor Slack workspace, etc. Ultimately, you could potentially present a poster or give a talk about the package you worked on last summer, but you’ll need to coordinate with your team members and/or lab principal investigator.&lt;/p&gt;
 &lt;h4 id=&#34;benefitting-from-bioc2019&#34;&gt;Benefitting from BioC2019&lt;/h4&gt;
-
 &lt;p&gt;As for what you hope to get out of the conference, well, we will remind you that BioC has different workshops that can help you advance your R skills and knowledge. Furthermore, there’ll be scientific talks from excellent bioinformatics researchers. Then, once you return from the conference, you can spread the knowledge you acquired in a variety of ways: implementing it on your work, teaching at your local university or research institute, participating in the Bioconductor community (Slack, the support website, contributing an R package, etc), presenting at a local R meetup, and participating in other forums. You can also benefit personally from attending the conference by networking with other users and developers that will attend it. From it, you might start new collaborations, find about graduate school programs, find potential postdoc advisors, among other opportunities. Hey, you might help us out with future CDSBMexico events!&lt;/p&gt;
-
 &lt;h4 id=&#34;cdsbmexico-hands-on-help&#34;&gt;CDSBMexico hands on help&lt;/h4&gt;
-
-&lt;p&gt;If you need help directly, please get in touch with us via the CDSBMexico Slack workspace. If you either don’t remember the Slack workspace or you couldn’t attend CDSBMexico 2018, please get in touch with us via Twitter at &lt;a href=&#34;https://twitter.com/CDSBMexico&#34; target=&#34;_blank&#34;&gt;twitter.com/CDSBMexico&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;If you need help directly, please get in touch with us via the CDSBMexico Slack workspace. If you either don’t remember the Slack workspace or you couldn’t attend CDSBMexico 2018, please get in touch with us via Twitter at 
+&lt;a href=&#34;https://twitter.com/CDSBMexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twitter.com/CDSBMexico&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We understand that not many will be able to attend BioC2019, so keep an eye open for CDSBMexico 2019! We are hoping to announce our plans soon.&lt;/p&gt;
 </description>
     </item>
@@ -670,78 +644,54 @@ that you start your application materials as soon as you can. Remember that the 
       <title>Un resumen de CDSB 2018: el inicio de una comunidad</title>
       <link>/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/</link>
       <pubDate>Fri, 14 Sep 2018 02:13:22 +0000</pubDate>
-      
       <guid>/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/</guid>
-      <description>
-
-&lt;p&gt;Organizing an event is a lot of work, much more than you plan for it. But harvesting the fruits of a successful event makes the workload worth it.&lt;/p&gt;
-
-&lt;p&gt;In July, we kicked off the first &lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Bioconductor Latin American Developers Workshop 2018&lt;/strong&gt;&lt;/a&gt; (&lt;em&gt;LatAmBioc2018&lt;/em&gt;). The main goals of this meeting were to encourage the development of the Bioconductor project in Mexico and to start a community of Mexican bioinformatic software developers – the &lt;strong&gt;&lt;a href=&#34;https://comunidadbioinfo.github.io/&#34; target=&#34;_blank&#34;&gt;Community of Bioinformatic Software Developers&lt;/a&gt;&lt;/strong&gt; (&lt;em&gt;CDSB&lt;/em&gt;, from its acronym in Spanish).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/Logo_texto-768x107.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;Organizing an event is a lot of work, much more than you plan for it. But harvesting the fruits of a successful event makes the workload worth it.&lt;/p&gt;
+&lt;p&gt;In July, we kicked off the first 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Bioconductor Latin American Developers Workshop 2018&lt;/strong&gt;&lt;/a&gt; (&lt;em&gt;LatAmBioc2018&lt;/em&gt;). The main goals of this meeting were to encourage the development of the Bioconductor project in Mexico and to start a community of Mexican bioinformatic software developers – the &lt;strong&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Community of Bioinformatic Software Developers&lt;/a&gt;&lt;/strong&gt; (&lt;em&gt;CDSB&lt;/em&gt;, from its acronym in Spanish).&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/Logo_texto-768x107.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The program of the workshop included talks, posters and lessons sessions as well as a two-day hands-on development hackathon. We had over 30 participants with strong quantitative background and experience in R programming from several LatAm countries.&lt;/p&gt;
-
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Excited about &lt;a href=&#34;https://twitter.com/hashtag/CDSBMexico?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CDSBMexico&lt;/a&gt;? It starts tomorrow! &lt;br&gt;&lt;br&gt;¿Listos para mañana? 🇲🇽&lt;a href=&#34;https://t.co/UUhX5RMSut&#34;&gt;https://t.co/UUhX5RMSut&lt;/a&gt;&lt;br&gt;&lt;br&gt;Schedule&lt;a href=&#34;https://t.co/BZTD7wGskI&#34;&gt;https://t.co/BZTD7wGskI&lt;/a&gt;&lt;br&gt;&lt;br&gt;Materials&lt;a href=&#34;https://t.co/Oz2ingGije&#34;&gt;https://t.co/Oz2ingGije&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/teaching?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#teaching&lt;/a&gt; &lt;a href=&#34;https://twitter.com/Bioconductor?ref_src=twsrc%5Etfw&#34;&gt;@Bioconductor&lt;/a&gt; Thanks to &lt;a href=&#34;https://twitter.com/lcgunam?ref_src=twsrc%5Etfw&#34;&gt;@lcgunam&lt;/a&gt; &lt;a href=&#34;https://twitter.com/ccg_unam?ref_src=twsrc%5Etfw&#34;&gt;@ccg_unam&lt;/a&gt; &lt;a href=&#34;https://twitter.com/LIIGH_UNAM?ref_src=twsrc%5Etfw&#34;&gt;@LIIGH_UNAM&lt;/a&gt;&lt;br&gt;SoIBio &lt;a href=&#34;https://twitter.com/RConsortium?ref_src=twsrc%5Etfw&#34;&gt;@RConsortium&lt;/a&gt;&lt;a href=&#34;https://twitter.com/wintergenomics?ref_src=twsrc%5Etfw&#34;&gt;@WINTERGENOMICS&lt;/a&gt; &lt;a href=&#34;https://t.co/YQxmnTNwQa&#34;&gt;pic.twitter.com/YQxmnTNwQa&lt;/a&gt;&lt;/p&gt;&amp;mdash; ComunidadBioInfo (@CDSBMexico) &lt;a href=&#34;https://twitter.com/CDSBMexico/status/1023705341358469122?ref_src=twsrc%5Etfw&#34;&gt;July 29, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-
 &lt;h3 id=&#34;community-building&#34;&gt;Community building&lt;/h3&gt;
-
 &lt;p&gt;Unlike the US and Europe, where many universities have Computational Biology and Biostatistics Departments that gather experts in the field, in Mexico and Latin America experts in Biostatistics and Computational Biology are often spread across the country. The benefits of having Computational Biology and Biostatistics Departments are plenty: for example, experts can interact and work together on a specific problem, and researchers from other disciplines can easily find support and establish collaborations. The goal of CDSB is to create a virtual department where experts in Biostatistics and Computational Biology can discuss ideas and help each other across all stages of their careers.&lt;/p&gt;
-
 &lt;p&gt;The first event organized by CDSB, &lt;strong&gt;LatAmBioc2018&lt;/strong&gt; included talks where both participants and speakers could start a dialogue and motivate each other by showcasing their work. As keynote invited speakers we had Daniel Piñero, who talked about population genetics of maize in Mexico; Alejandro Ponce-Mendoza, who showed elegant shiny apps to visualize ecological data along with maps; Teresa Ortiz, who talked about gender biases among R programmers; and Benilton Carvalho, who showed the development of personalized medicine in Brazil.&lt;/p&gt;
-
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We are having a great presentation from the founder of &lt;a href=&#34;https://twitter.com/RLadiesCDMX?ref_src=twsrc%5Etfw&#34;&gt;@RLadiesCDMX&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/TeresaOM?ref_src=twsrc%5Etfw&#34;&gt;@TeresaOM&lt;/a&gt;, about getting rid of gender biases among the &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; community. &lt;a href=&#34;https://twitter.com/hashtag/LatAmBioc18?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LatAmBioc18&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw&#34;&gt;@CDSBMexico&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/womeninSTEM?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#womeninSTEM&lt;/a&gt; &lt;a href=&#34;https://t.co/TPdDzHVdqC&#34;&gt;pic.twitter.com/TPdDzHVdqC&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alejandro Reyes (@areyesq) &lt;a href=&#34;https://twitter.com/areyesq/status/1025041063499771904?ref_src=twsrc%5Etfw&#34;&gt;August 2, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-
 &lt;p&gt;The LatAmBioc2018 poster session was designed to encourage interdisciplinary collaborations. We invited people to contribute bioinformatic problems that would benefit from advice from experts such as the participants of LatAmBioc2018. We were happy to see that this event helped to create new collaborations.&lt;/p&gt;
-
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Here, we are presenting the basic structure and some examples with the framework -Winterflow- using &lt;a href=&#34;https://twitter.com/nextflowio?ref_src=twsrc%5Etfw&#34;&gt;@nextflowio&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/Docker?ref_src=twsrc%5Etfw&#34;&gt;@Docker&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/hashtag/mk?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#mk&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/hashtag/git?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#git&lt;/a&gt; &lt;a href=&#34;https://t.co/Ktn9o01X2Z&#34;&gt;pic.twitter.com/Ktn9o01X2Z&lt;/a&gt;&lt;/p&gt;&amp;mdash; Winter Genomics (@wintergenomics) &lt;a href=&#34;https://twitter.com/wintergenomics/status/1025149135081623553?ref_src=twsrc%5Etfw&#34;&gt;August 2, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-
 &lt;h3 id=&#34;a-latam-bioconductor-community&#34;&gt;A LatAm Bioconductor community&lt;/h3&gt;
-
-&lt;p&gt;Anecdotally, some of us felt that Latin Americans were not fully represented in the Bioconductor Developers Meetings (see Leonardo Collado Torres’s &lt;strong&gt;&lt;a href=&#34;http://lcolladotor.github.io/2018/04/19/latin-american-r-bioconductor-developers-workshop-2018&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;&lt;/strong&gt;). As scientists, we like our statements to be supported by data: the map below shows the affiliations, when available, of the contributors of the latest package submissions to the Bioconductor project. (These data were scraped using the Github API.) Although biases such as Mexican contributors with affiliations abroad might not have been considered, it is clear that only a few contributions come from Latin American countries.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/mapa_editado-768x333.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;Anecdotally, some of us felt that Latin Americans were not fully represented in the Bioconductor Developers Meetings (see Leonardo Collado Torres’s &lt;strong&gt;
+&lt;a href=&#34;http://lcolladotor.github.io/2018/04/19/latin-american-r-bioconductor-developers-workshop-2018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;&lt;/strong&gt;). As scientists, we like our statements to be supported by data: the map below shows the affiliations, when available, of the contributors of the latest package submissions to the Bioconductor project. (These data were scraped using the Github API.) Although biases such as Mexican contributors with affiliations abroad might not have been considered, it is clear that only a few contributions come from Latin American countries.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/mapa_editado-768x333.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In hopes of filling this gap, we gathered a diverse team of instructors, including Martin Morgan, Benilton Carvalho and Selene L. Fernandez-Valverde, who taught participants how to develop R/Bioconductor packages. The main idea was to turn Bioconductor software users into Bioconductor software developers.&lt;/p&gt;
-
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Let&amp;#39;s estimate Pi! Rcpp exercise! Rcpp sugar! Now I&amp;#39;m hungry, I want pie &lt;a href=&#34;https://twitter.com/benilton?ref_src=twsrc%5Etfw&#34;&gt;@benilton&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw&#34;&gt;@CDSBMexico&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/CDSBMexico?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CDSBMexico&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/TIBMexico2018?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#TIBMexico2018&lt;/a&gt; 🍰👩‍💻 &lt;a href=&#34;https://t.co/2OeGWr35r3&#34;&gt;pic.twitter.com/2OeGWr35r3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alejandra Medina-Rivera (@AleMedinaRivera) &lt;a href=&#34;https://twitter.com/AleMedinaRivera/status/1024705893148094464?ref_src=twsrc%5Etfw&#34;&gt;August 1, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
 
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;How to debug R code with Martin Morgan :D &lt;a href=&#34;https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw&#34;&gt;@CDSBMexico&lt;/a&gt;&lt;/p&gt;&amp;mdash; Semiramis (@semiramis_cj) &lt;a href=&#34;https://twitter.com/semiramis_cj/status/1024716087185821696?ref_src=twsrc%5Etfw&#34;&gt;August 1, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-
-&lt;p&gt;Participants attended lectures from Monday to Wednesday. Before the workshop, co-organizer Daniela Ledezma received and coordinated R package development proposals. On Wednesday afternoon, the participants formed teams and chose problems from Daniela’s curated list. They worked on their projects on Thursday and Friday, and we were very pleased with the final products: most teams wrote documented R packages that are available through GitHub. Two interesting examples are the prototype of the &lt;code&gt;regulonDB&lt;/code&gt; package, which enables users to query RegulonDB within an R interphase, and &lt;code&gt;rGriffin&lt;/code&gt;, an R interphase to inquire regulatory networks (for details, check &lt;strong&gt;&lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks&#34; target=&#34;_blank&#34;&gt;their contributed blog post&lt;/a&gt;&lt;/strong&gt;).&lt;/p&gt;
-
+&lt;p&gt;Participants attended lectures from Monday to Wednesday. Before the workshop, co-organizer Daniela Ledezma received and coordinated R package development proposals. On Wednesday afternoon, the participants formed teams and chose problems from Daniela’s curated list. They worked on their projects on Thursday and Friday, and we were very pleased with the final products: most teams wrote documented R packages that are available through GitHub. Two interesting examples are the prototype of the &lt;code&gt;regulonDB&lt;/code&gt; package, which enables users to query RegulonDB within an R interphase, and &lt;code&gt;rGriffin&lt;/code&gt;, an R interphase to inquire regulatory networks (for details, check &lt;strong&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;their contributed blog post&lt;/a&gt;&lt;/strong&gt;).&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Participants are gathering to work in collaborative projects targeting specific questions. The objetive is write a fully documented &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; package by Friday. &lt;a href=&#34;https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw&#34;&gt;@CDSBMexico&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LatAmBioc18?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LatAmBioc18&lt;/a&gt; &lt;a href=&#34;https://t.co/vDAvuOothC&#34;&gt;pic.twitter.com/vDAvuOothC&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alejandro Reyes (@areyesq) &lt;a href=&#34;https://twitter.com/areyesq/status/1024780770756440069?ref_src=twsrc%5Etfw&#34;&gt;August 1, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
 
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/CDSBMexico?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CDSBMexico&lt;/a&gt; package developers course attendants presenting their projects &lt;a href=&#34;https://twitter.com/hashtag/TIBs2018?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#TIBs2018&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw&#34;&gt;@CDSBMexico&lt;/a&gt; &lt;a href=&#34;https://t.co/ST44hCsLT6&#34;&gt;pic.twitter.com/ST44hCsLT6&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alejandra Medina-Rivera (@AleMedinaRivera) &lt;a href=&#34;https://twitter.com/AleMedinaRivera/status/1025429501478498304?ref_src=twsrc%5Etfw&#34;&gt;August 3, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-
 &lt;p&gt;We are looking forward to seeing how the participants keep developing their R packages and collaborating through CSDB.&lt;/p&gt;
-
 &lt;h3 id=&#34;overachievers&#34;&gt;Overachievers&lt;/h3&gt;
-
 &lt;p&gt;We felt that the goals of the workshop were reached programmers from all over Latin America worked together and wrote new R packages, which hopefully will be submitted to Bioconductor soon.&lt;/p&gt;
-
 &lt;p&gt;We also had the chance to enjoy some good Mexican food and hang out with colleagues in less formal settings, such as lunches and group outings. To celebrate the conclusion of the workshop, we had an improvised party in a bar that played Latin American music. As any good party should, it ended up quite late. Some of us went to bed at 4am, but we woke up energized to keep CSDB going. Even now, two months on, we are excited to continue developing a strong community of bioinformatic developers in Latin America.&lt;/p&gt;
-
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;In &lt;a href=&#34;https://twitter.com/hashtag/mexico?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#mexico&lt;/a&gt;, we don&amp;#39;t only know how to do &lt;a href=&#34;https://twitter.com/hashtag/Science?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Science&lt;/a&gt; and  good &lt;a href=&#34;https://twitter.com/hashtag/Bioinformatics?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Bioinformatics&lt;/a&gt;  but also how to eat! Tacos during &lt;a href=&#34;https://twitter.com/hashtag/TIBMexico2018?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#TIBMexico2018&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/qBio18?ref_src=twsrc%5Etfw&#34;&gt;@qBio18&lt;/a&gt; @AlexielMedyna &lt;a href=&#34;https://twitter.com/licloona1487?ref_src=twsrc%5Etfw&#34;&gt;@licloona1487&lt;/a&gt; something great is happening here 😊 &lt;a href=&#34;https://t.co/bC7ycfIA9n&#34;&gt;pic.twitter.com/bC7ycfIA9n&lt;/a&gt;&lt;/p&gt;&amp;mdash; Ana Betty Villaseñor (@AnaBetty2304) &lt;a href=&#34;https://twitter.com/AnaBetty2304/status/1025115717279141889?ref_src=twsrc%5Etfw&#34;&gt;August 2, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-
 &lt;h3 id=&#34;thank-you&#34;&gt;Thank you&lt;/h3&gt;
-
 &lt;p&gt;The LatAmBioc2018 would not have been possible without the time and support from the instructors, presenters, organizers and our sponsors CCG-UNAM, LCG-UNAM, LIIGH-UNAM, Winter Genomics, R Consortium and SoIBio.&lt;/p&gt;
 </description>
     </item>
@@ -750,7 +700,6 @@ that you start your application materials as soon as you can. Remember that the 
       <title>R Gene Regulatory Interaction Formulator For Inquiring Networks</title>
       <link>/es/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/</link>
       <pubDate>Mon, 20 Aug 2018 21:45:28 +0000</pubDate>
-      
       <guid>/es/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/</guid>
       <description>
 
@@ -957,126 +906,150 @@ nets&lt;/code&gt;&lt;/pre&gt;
       <title>Niveles de patrocinio</title>
       <link>/es/niveles-de-patrocinio/</link>
       <pubDate>Wed, 09 May 2018 16:06:58 +0000</pubDate>
-      
       <guid>/es/niveles-de-patrocinio/</guid>
-      <description>
-
-&lt;p&gt;Si deseas participar con nosotros contáctanos a &lt;a href=&#34;mailto:cdsbmexico@gmail.com&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;cdsbmexico@gmail.com&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;nivel-diamante&#34;&gt;&lt;strong&gt;NIVEL DIAMANTE&lt;/strong&gt; (*****)&lt;/h4&gt;
-
+      <description>&lt;p&gt;Si deseas participar con nosotros contáctanos a 
+&lt;a href=&#34;mailto:cdsbmexico@gmail.com&#34;&gt;&lt;strong&gt;cdsbmexico@gmail.com&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;nivel-diamante-&#34;&gt;&lt;strong&gt;NIVEL DIAMANTE&lt;/strong&gt; (*****)&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;$100,000 pesos o más&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Reconocimiento como patrocinador único de uno de los talleres del programa, incluyendo la oportunidad de dirigir la palabra a los participantes al inicio y cierre del evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Podrá colocar su logotipo como patrocinador en un taller seleccionado.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en dos de los artículos promocionales.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestras redes sociales.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Podrá colocar dos módulos de exhibición durante el evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;5 inscripciones completas de cortesía en cualquier taller del evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para 2 personas.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento como patrocinador único de uno de los talleres del programa, incluyendo la oportunidad de dirigir la palabra a los participantes al inicio y cierre del evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Podrá colocar su logotipo como patrocinador en un taller seleccionado.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en dos de los artículos promocionales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en nuestras redes sociales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Podrá colocar dos módulos de exhibición durante el evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;5 inscripciones completas de cortesía en cualquier taller del evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para 2 personas.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h4 id=&#34;nivel-platino&#34;&gt;&lt;strong&gt;NIVEL PLATINO&lt;/strong&gt; (****)&lt;/h4&gt;
-
+&lt;h4 id=&#34;nivel-platino-&#34;&gt;&lt;strong&gt;NIVEL PLATINO&lt;/strong&gt; (****)&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;$50,000 - $70,000 pesos&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Podrá colocar su logotipo como patrocinador en un taller seleccionado.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en dos de los artículos promocionales.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestras redes sociales.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Podrá colocar dos módulos de exhibición durante el evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;3 inscripciones completas de cortesía en cualquier taller del evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para 2 personas.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Podrá colocar su logotipo como patrocinador en un taller seleccionado.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en dos de los artículos promocionales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en nuestras redes sociales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Podrá colocar dos módulos de exhibición durante el evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3 inscripciones completas de cortesía en cualquier taller del evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para 2 personas.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h4 id=&#34;nivel-oro&#34;&gt;&lt;strong&gt;NIVEL ORO&lt;/strong&gt; (***)&lt;/h4&gt;
-
+&lt;h4 id=&#34;nivel-oro-&#34;&gt;&lt;strong&gt;NIVEL ORO&lt;/strong&gt; (***)&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;$20,000 - $30,000 pesos&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestras redes sociales.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Podrá colocar un módulo de exhibición durante el evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;1 inscripciones completas de cortesía en cualquier taller del evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para 2 personas.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en nuestras redes sociales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Podrá colocar un módulo de exhibición durante el evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 inscripciones completas de cortesía en cualquier taller del evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para 2 personas.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h4 id=&#34;nivel-plata&#34;&gt;&lt;strong&gt;NIVEL PLATA&lt;/strong&gt; (**)&lt;/h4&gt;
-
+&lt;h4 id=&#34;nivel-plata-&#34;&gt;&lt;strong&gt;NIVEL PLATA&lt;/strong&gt; (**)&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;$10,000 - $15,000 pesos&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestras redes sociales.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Podrá colocar un módulo de exhibición durante el evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para una persona.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en nuestras redes sociales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Podrá colocar un módulo de exhibición durante el evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para una persona.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h4 id=&#34;nivel-bronce&#34;&gt;&lt;strong&gt;NIVEL BRONCE&lt;/strong&gt; (*)&lt;/h4&gt;
-
+&lt;h4 id=&#34;nivel-bronce-&#34;&gt;&lt;strong&gt;NIVEL BRONCE&lt;/strong&gt; (*)&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;$3,000 - $5,000 pesos&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para una persona.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en nuestra página web del evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reconocimiento de patrocinio en los videos realizados previos y durante el evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Una mesa reservada en las principales actividades sociales del evento para una persona.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h4 id=&#34;donativos-en-especie&#34;&gt;&lt;strong&gt;DONATIVOS EN ESPECIE&lt;/strong&gt;&lt;/h4&gt;
-
 &lt;p&gt;Las instituciones u organizaciones que deseen ser patrocinadoras con donativos en especie (los donativos NO DEBEN incluir publicidad del patrocinador), lo pueden hacer proporcionando los siguientes servicios y objetos:&lt;/p&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Servicio de fotografía durante el evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Servicio de realización de videos durante el evento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Artículos para el servicio de cafetería: café, galletas, fruta, azúcar, servilletas, etc.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Botellas o garrafones de agua sin publicidad de la empresa.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Mobiliario exterior: carpa, sillas, mesas&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Artículos de papelería: plumas, lápices, plumones para pizarrón, post-it, hojas blancas.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Artículos de limpieza: jabón, papel, bolsas para basura, gel antibacterial.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Cualquier otro artículo puede ser evaluado.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Servicio de fotografía durante el evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Servicio de realización de videos durante el evento.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Artículos para el servicio de cafetería: café, galletas, fruta, azúcar, servilletas, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Botellas o garrafones de agua sin publicidad de la empresa.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mobiliario exterior: carpa, sillas, mesas&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Artículos de papelería: plumas, lápices, plumones para pizarrón, post-it, hojas blancas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Artículos de limpieza: jabón, papel, bolsas para basura, gel antibacterial.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cualquier otro artículo puede ser evaluado.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;Los donativos en especie recibirán un reconocimiento en los niveles equivalentes a la cantidad estimada en efectivo, descritos anteriormente.&lt;/p&gt;
 </description>
     </item>
@@ -1085,33 +1058,30 @@ nets&lt;/code&gt;&lt;/pre&gt;
       <title>Código de conducta</title>
       <link>/es/codigo-de-conducta/</link>
       <pubDate>Tue, 10 Apr 2018 15:09:34 +0000</pubDate>
-      
       <guid>/es/codigo-de-conducta/</guid>
       <description>&lt;p&gt;La Comunidad de Desarrolladores de Software en Bioinformática (CDSB) se compromete a proporcionar una experiencia acogedora y libre de acoso para todos, independientemente de su género, identidad de género y expresión, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o falta de ella) u opciones de tecnología. No toleramos el acoso de los participantes de la conferencia de ninguna forma. El lenguaje y las imágenes sexuales no son apropiadas para ningún lugar de la conferencia, incluidas pláticas, talleres, fiestas, Twitter y otros medios en línea. Los participantes del taller que violen estas reglas pueden ser sancionados o expulsados del evento a discreción de los organizadores del taller.&lt;/p&gt;
-
 &lt;p&gt;Este código de conducta aplica a todos los participantes, incluyendo al personal y liderazgo de CDSB, y se aplica a todos los modos de interacción, tanto en persona como en línea, incluyendo los repositorios de proyectos CDSB GitHub y CDSB GitHub, el foro de discusiones CDSB, los canales de Slack y Twitter.&lt;/p&gt;
-
 &lt;p&gt;Los participantes de CDSB aceptan:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Ser considerado en el habla y las acciones, buscar activamente reconocer y respetar los límites de los demás asistentes.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Abstenerse de comportamientos y expresiones degradantes, discriminatorias o acosadoras. El acoso incluye, pero no se limita a: intimidación deliberada; acecho; fotografía o grabación no deseada; interrupción sostenida o deliberada de las conversaciones y otros eventos; contacto físico inapropiado; uso de imágenes sexuales o discriminatorias, comentarios o bromas; y atención sexual no deseada. Si siente que alguien lo ha acosado o lo ha tratado de manera inapropiada, por favor informe en persona a cualquier miembro del comité organizador del taller.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Cuidar el uno del otro. Avise a un miembro del comité organizador del taller si nota una situación peligrosa, alguien en apuros o violaciones de este código de conducta, incluso si parecen intrascendentes.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Usar su nombre completo y no alias en Slack y demás canales de comunicación interna con el fin de crear un ambiente seguro y poder exigir el cumplimiento del código de conducta.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ser considerado en el habla y las acciones, buscar activamente reconocer y respetar los límites de los demás asistentes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Abstenerse de comportamientos y expresiones degradantes, discriminatorias o acosadoras. El acoso incluye, pero no se limita a: intimidación deliberada; acecho; fotografía o grabación no deseada; interrupción sostenida o deliberada de las conversaciones y otros eventos; contacto físico inapropiado; uso de imágenes sexuales o discriminatorias, comentarios o bromas; y atención sexual no deseada. Si siente que alguien lo ha acosado o lo ha tratado de manera inapropiada, por favor informe en persona a cualquier miembro del comité organizador del taller.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cuidar el uno del otro. Avise a un miembro del comité organizador del taller si nota una situación peligrosa, alguien en apuros o violaciones de este código de conducta, incluso si parecen intrascendentes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Usar su nombre completo y no alias en Slack y demás canales de comunicación interna con el fin de crear un ambiente seguro y poder exigir el cumplimiento del código de conducta.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&lt;strong&gt;¿Necesitas ayuda?&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;Si tiene alguna duda o inquietud, hable con Heladia Salgado, Alejandro Reyes, Alejandra Medina-Rivera o Leonardo Collado-Torres.&lt;/p&gt;
-
 &lt;p&gt;Si alguno de los asistentes se involucra en un comportamiento de acoso, los organizadores del taller pueden tomar cualquier acción legal que consideremos apropiada, que incluye, entre otras, advertir al acusado o pedirle al ofensor que abandone el taller. (Si siente que ha sido injustamente acusado de violar este código de conducta, debe comunicarse con el comité organizador del taller con una descripción concisa de su queja).&lt;/p&gt;
-
 &lt;p&gt;Agradecemos sus comentarios sobre este y todos los demás aspectos de los eventos de CDSB, y le agradecemos por trabajar con nosotros para que sea una experiencia segura, agradable y amistosa para todos los que participan.&lt;/p&gt;
-
-&lt;p&gt;Este código de conducta fue adaptado del &lt;a href=&#34;http://unconf18.ropensci.org/coc.html&#34; target=&#34;_blank&#34;&gt;código de conducta de unconf rOpenSci’s 2018&lt;/a&gt; que está bajo la licencia CC BY-SA 4.0. Por favor revise la página para obtener más información sobre la licencia y la atribución.&lt;/p&gt;
+&lt;p&gt;Este código de conducta fue adaptado del 
+&lt;a href=&#34;http://unconf18.ropensci.org/coc.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;código de conducta de unconf rOpenSci’s 2018&lt;/a&gt; que está bajo la licencia CC BY-SA 4.0. Por favor revise la página para obtener más información sobre la licencia y la atribución.&lt;/p&gt;
 </description>
     </item>
     
@@ -1119,75 +1089,87 @@ nets&lt;/code&gt;&lt;/pre&gt;
       <title>Taller de Desarrolladores Latino Americanos de R/BioConductor 2018</title>
       <link>/es/post/r-bioconductor-developers-workshop-2018/</link>
       <pubDate>Thu, 22 Mar 2018 12:40:21 +0000</pubDate>
-      
       <guid>/es/post/r-bioconductor-developers-workshop-2018/</guid>
-      <description>
-
-&lt;h4 id=&#34;comunidad-de-desarrolladores-de-software-en-bioinformática&#34;&gt;Comunidad de Desarrolladores de Software en Bioinformática&lt;/h4&gt;
-
+      <description>&lt;h4 id=&#34;comunidad-de-desarrolladores-de-software-en-bioinformática&#34;&gt;Comunidad de Desarrolladores de Software en Bioinformática&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Página del taller: &lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34;&gt;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Nivel: &lt;strong&gt;intermedio - avanzado&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Languaje: &lt;strong&gt;ínglés&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Cuando: Julio 30 - Augusto 3, 2018&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Donde: Auditorio del &lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34;&gt;Centro de Ciencias Genómicas&lt;/a&gt;, Cuernavaca, Mexico&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Twitter: &lt;a href=&#34;https://twitter.com/search?f=tweets&amp;amp;q=%23CDSBMexico&#34; target=&#34;_blank&#34;&gt;#CDSBMexico&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Facebook: &lt;a href=&#34;https://www.facebook.com/CDSBMexico/&#34; target=&#34;_blank&#34;&gt;@CDSBMexico&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018&#34; target=&#34;_blank&#34;&gt;https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/registro&#34; target=&#34;_blank&#34;&gt;Regístrate&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Página del taller: 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nivel: &lt;strong&gt;intermedio - avanzado&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Languaje: &lt;strong&gt;ínglés&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cuando: Julio 30 - Augusto 3, 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Donde: Auditorio del 
+&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de Ciencias Genómicas&lt;/a&gt;, Cuernavaca, Mexico&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Twitter: 
+&lt;a href=&#34;https://twitter.com/search?f=tweets&amp;amp;q=%23CDSBMexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#CDSBMexico&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Facebook: 
+&lt;a href=&#34;https://www.facebook.com/CDSBMexico/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@CDSBMexico&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub: 
+&lt;a href=&#34;https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ComunidadBioInfo/R-BioConductor-Developers-Workshop-2018&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/registro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Regístrate&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;pre-requisitos&#34;&gt;Pre-requisitos&lt;/h2&gt;
-
 &lt;p&gt;Requisitos de conocimientos previos&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Los participantes deberán tener conocimientos básicos del lenguaje de programación R: asignación de variables, lectura de archivos: read.csv, read.delim, read.table; estructuras de datos: matrix, dataframe, list; tipos de datos: character, numeric, factor, logical, etc; instalación y uso de paquetes.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Saber instalar paquetes de R.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Saber usar RStudio.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Los participantes deberán tener conocimientos básicos del lenguaje de programación R: asignación de variables, lectura de archivos: read.csv, read.delim, read.table; estructuras de datos: matrix, dataframe, list; tipos de datos: character, numeric, factor, logical, etc; instalación y uso de paquetes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Saber instalar paquetes de R.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Saber usar RStudio.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Requisitos técnicos&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Computadora Personal
 Un mínimo de 8 GB de RAM, un ratón y espacio de disco suficiente para archivos de texto y archivos de imagen. Privilegios de administrador para instalar y ejecutar utilidades de RStudio.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
-
-&lt;p&gt;En años recientes, la biología ha visto un aumento en el uso de tecnologías que permiten generar datos de forma masiva, cuantitativa y que permiten hacer perfiles de estados celulares. Como resultado, el campo ahora se enfrenta con retos relacionados a la cantidad de datos. El proyecto de  &lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt;/&lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34;&gt;Bioconductor&lt;/a&gt; es una plataforma para compartir software libre que provee de herramientas para traducir la complejidad de los datos en conocimiento biológico.&lt;/p&gt;
-
+&lt;p&gt;En años recientes, la biología ha visto un aumento en el uso de tecnologías que permiten generar datos de forma masiva, cuantitativa y que permiten hacer perfiles de estados celulares. Como resultado, el campo ahora se enfrenta con retos relacionados a la cantidad de datos. El proyecto de  
+&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;/
+&lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt; es una plataforma para compartir software libre que provee de herramientas para traducir la complejidad de los datos en conocimiento biológico.&lt;/p&gt;
 &lt;p&gt;Este taller está enfocado hacia alumnos e investigadores interesados en analizar datos biológicos. Queremos promover solicitudes de expertos en diversas disciplinas, incluyendo mas no limitandonos a biológos, bioinformáticos, científicos de datos, ingenieros de software, programadores y usuarios de R en general. Los principales objetivos del taller son:&lt;/p&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Enseñarle a los participantes los principios de la ciencia de datos vía el desarrollo de paquetes de R/Bioconductor.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Transformar usuarios de software de bioinformática en desarrolladores de software de bioinformática.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Fomentar el intercambio de conocimiento y establecer colaboraciones multidisciplinarias.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Crear una comunidad de científicos Latino Americanos comprometidos con el desarrollo de software para análisis de datos biológicos.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Entrenar a instructores en bioinformática para que puedan fomentar el crecimiendo de sus comunidades locales.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enseñarle a los participantes los principios de la ciencia de datos vía el desarrollo de paquetes de R/Bioconductor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Transformar usuarios de software de bioinformática en desarrolladores de software de bioinformática.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fomentar el intercambio de conocimiento y establecer colaboraciones multidisciplinarias.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Crear una comunidad de científicos Latino Americanos comprometidos con el desarrollo de software para análisis de datos biológicos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Entrenar a instructores en bioinformática para que puedan fomentar el crecimiendo de sus comunidades locales.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;Este taller es parte de un proyecto a largo plazo para crear una comunidad Latino Americana de desarrolladores de software. Esperamos poder organizar talleres en el futuro de forma sistemática (similar a BioC, EuroBioC y BioCAsia) donde los participantes presenten sus contribuciones de software. Queremos proveer un ambiente amigable para todos así que les pedimos que sigan el código de conducta.&lt;/p&gt;
-
 &lt;h2 id=&#34;programa&#34;&gt;Programa&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/ComunidadBioInfo/rbioc18&#34; target=&#34;_blank&#34;&gt;Materiales&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/ComunidadBioInfo/rbioc18&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Materiales&lt;/a&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1196,266 +1178,240 @@ Un mínimo de 8 GB de RAM, un ratón y espacio de disco suficiente para archivos
 &lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;09:00 - 10:00&lt;/td&gt;
 &lt;td&gt;Inauguration in the main auditorium&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;10:00 - 10:30&lt;/td&gt;
 &lt;td&gt;Keynote Lecture I: From learning to using to teaching to developing R&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://lcolladotor.github.io/&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://lcolladotor.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;10:30 - 11:00&lt;/td&gt;
 &lt;td&gt;Talk I: Example of Bioinformatics in Mexico&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://web.ecologia.unam.mx/index.php/investigadores/daniel-pinero&#34; target=&#34;_blank&#34;&gt;Daniel Piñero&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://web.ecologia.unam.mx/index.php/investigadores/daniel-pinero&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Piñero&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:00 - 11:20&lt;/td&gt;
 &lt;td&gt;Coffee break&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:20 - 12:20&lt;/td&gt;
 &lt;td&gt;Creating a package&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://alejandroreyes.org/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://alejandroreyes.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;12:20 - 12:40&lt;/td&gt;
 &lt;td&gt;Break&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;12:40 - 14:00&lt;/td&gt;
 &lt;td&gt;Version control with git and GitHub&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/selenefernandez/&#34; target=&#34;_blank&#34;&gt;Selene L. Fernandez-Valverde&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/selenefernandez/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Selene L. Fernandez-Valverde&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;14:00 - 15:30&lt;/td&gt;
 &lt;td&gt;Lunch break&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;15:30 - 16:15&lt;/td&gt;
 &lt;td&gt;Open source software projects and collaborative development&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/selenefernandez/&#34; target=&#34;_blank&#34;&gt;Selene L. Fernandez-Valverde&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/selenefernandez/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Selene L. Fernandez-Valverde&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;16:45 - 17:30&lt;/td&gt;
 &lt;td&gt;Package documentation&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://alejandroreyes.org/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://alejandroreyes.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;17:30 -&lt;/td&gt;
 &lt;td&gt;Welcome cocktail&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Día 2: July 31, 2018&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;9:00 - 10:00&lt;/td&gt;
 &lt;td&gt;Keynote Lecture II&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.roswellpark.org/martin-morgan&#34; target=&#34;_blank&#34;&gt;Martin Morgan&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.roswellpark.org/martin-morgan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Morgan&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;10:00 - 10:30&lt;/td&gt;
 &lt;td&gt;Talk II: Example of Bioinformatics in Mexico: Using R-Shiny in Agrobiodiversity&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/APonce73&#34; target=&#34;_blank&#34;&gt;Alejandro Ponce-Mendoza&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://github.com/APonce73&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Ponce-Mendoza&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;10:30 - 11:00&lt;/td&gt;
 &lt;td&gt;Coffee break&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:00 - 12:15&lt;/td&gt;
 &lt;td&gt;Best practices for writing efficient functions&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.roswellpark.org/martin-morgan&#34; target=&#34;_blank&#34;&gt;Martin Morgan&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.roswellpark.org/martin-morgan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Morgan&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;12:15 - 13:45&lt;/td&gt;
 &lt;td&gt;Bioconductor: core package, common objects and extending classes&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.somos.unicamp.br/professores/view/4722&#34; target=&#34;_blank&#34;&gt;Benilton de Sá Carvalho&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.somos.unicamp.br/professores/view/4722&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Benilton de Sá Carvalho&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;13:45 - 15:30&lt;/td&gt;
 &lt;td&gt;Lunch break&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;15:30 - 17:30&lt;/td&gt;
 &lt;td&gt;S4 - system for object oriented programming&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.roswellpark.org/martin-morgan&#34; target=&#34;_blank&#34;&gt;Martin Morgan&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.roswellpark.org/martin-morgan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Morgan&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;17:30 - 18:30&lt;/td&gt;
 &lt;td&gt;Poster session&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Día 3: August 1, 2018&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;9:00 - 10:00&lt;/td&gt;
 &lt;td&gt;Collaborative project organization and introduction&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://loop.frontiersin.org/people/416212/overview&#34; target=&#34;_blank&#34;&gt;Daniela Ledezma-Tejeida&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://loop.frontiersin.org/people/416212/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniela Ledezma-Tejeida&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;10:00 - 10:30&lt;/td&gt;
 &lt;td&gt;Vignette writing with markdown/BiocStyle&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.somos.unicamp.br/professores/view/4722&#34; target=&#34;_blank&#34;&gt;Benilton de Sá Carvalho&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.somos.unicamp.br/professores/view/4722&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Benilton de Sá Carvalho&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;10:30 - 10:50&lt;/td&gt;
 &lt;td&gt;Coffee break/Event Photo (to be confirmed)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;10:50 - 11:30&lt;/td&gt;
 &lt;td&gt;Unit testing and R CMD check&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.roswellpark.org/martin-morgan&#34; target=&#34;_blank&#34;&gt;Martin Morgan&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.roswellpark.org/martin-morgan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Morgan&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:30 - 12:10&lt;/td&gt;
 &lt;td&gt;Rcpp (Adding C/C++ code to R packages)&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.somos.unicamp.br/professores/view/4722&#34; target=&#34;_blank&#34;&gt;Benilton de Sá Carvalho&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.somos.unicamp.br/professores/view/4722&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Benilton de Sá Carvalho&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;12:10 - 12:30&lt;/td&gt;
 &lt;td&gt;Break&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;12:30 - 14:00&lt;/td&gt;
 &lt;td&gt;Debugging and Parallelization&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.roswellpark.org/martin-morgan&#34; target=&#34;_blank&#34;&gt;Martin Morgan&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.roswellpark.org/martin-morgan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Morgan&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;14:00 - 15:30&lt;/td&gt;
 &lt;td&gt;Lunch break&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;15:30 - 17:30&lt;/td&gt;
 &lt;td&gt;Working on a Collaborative Project&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Día 4: August 2, 2018&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;9:00 - 10:00&lt;/td&gt;
 &lt;td&gt;Keynote Lecture IV&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=44vQTS4AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Benilton Carvalho&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?user=44vQTS4AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Benilton Carvalho&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;10:00 - 10:30&lt;/td&gt;
 &lt;td&gt;Talk III: RLadies Community Experience&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.teresa-ortiz.com/eng&#34; target=&#34;_blank&#34;&gt;Teresa Ortíz&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.teresa-ortiz.com/eng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teresa Ortíz&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;10:30 - 11:00&lt;/td&gt;
 &lt;td&gt;Coffee break&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:00 - 14:00&lt;/td&gt;
 &lt;td&gt;Working on a Collaborative Project&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;14:00 - 15:30&lt;/td&gt;
 &lt;td&gt;Lunch break&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;15:30 - 17:30&lt;/td&gt;
 &lt;td&gt;Working on a Collaborative Project&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Día 5: August 3, 2018&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;9:00 - 10:00&lt;/td&gt;
 &lt;td&gt;Working on a Collaborative Project and recovery from La Palapa&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;10:00 - 10:30&lt;/td&gt;
 &lt;td&gt;Working on a Collaborative Project&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;10:30 - 11:00&lt;/td&gt;
 &lt;td&gt;Coffee break&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:00 - 11:30&lt;/td&gt;
 &lt;td&gt;Working on a Collaborative Project&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;11:30 - 12:30&lt;/td&gt;
 &lt;td&gt;Presentations of collaborative projects&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;12:30 - 13:00&lt;/td&gt;
 &lt;td&gt;Closing remarks and community building&lt;/td&gt;
@@ -1463,76 +1419,85 @@ Un mínimo de 8 GB de RAM, un ratón y espacio de disco suficiente para archivos
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
 &lt;h2 id=&#34;instructores&#34;&gt;Instructores:&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.roswellpark.org/martin-morgan&#34; target=&#34;_blank&#34;&gt;Martin Morgan&lt;/a&gt; (Roswell Park Comprehensive Cancer Center, Buffalo, USA)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=44vQTS4AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Benilton Carvalho&lt;/a&gt; (University of Campinas, Campinas, Brazil)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/selenefernandez/&#34; target=&#34;_blank&#34;&gt;Selene L. Fernandez-Valverde&lt;/a&gt; (National Laboratory of Genomics for Biodiversity, Irapuato, Mexico)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.roswellpark.org/martin-morgan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Morgan&lt;/a&gt; (Roswell Park Comprehensive Cancer Center, Buffalo, USA)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?user=44vQTS4AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Benilton Carvalho&lt;/a&gt; (University of Campinas, Campinas, Brazil)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/selenefernandez/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Selene L. Fernandez-Valverde&lt;/a&gt; (National Laboratory of Genomics for Biodiversity, Irapuato, Mexico)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;comité-organizador&#34;&gt;Comité organizador:&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/heladia-salgado-bb122954/&#34; target=&#34;_blank&#34;&gt;Heladia Salgado&lt;/a&gt; (Center for Genomic Sciences, Cuernavaca, Mexico)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://lcolladotor.github.io&#34; target=&#34;_blank&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; (Lieber Institute for Brain Development, Baltimore, USA)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://liigh.unam.mx/amedina/&#34; target=&#34;_blank&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt; (International Laboratory for Human Genome Research, Juriquilla, Mexico)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://alejandroreyes.org/&#34; target=&#34;_blank&#34;&gt;Alejandro Reyes&lt;/a&gt; (Dana-Farber Cancer Institute, Boston, USA)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://&#34; target=&#34;_blank&#34;&gt;Delfino García&lt;/a&gt; (Center for Genomic Sciences, Cuernavaca, Mexico)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://loop.frontiersin.org/people/416212/overview&#34; target=&#34;_blank&#34;&gt;Daniela Ledezma-Tejeida&lt;/a&gt; (Center for Genomic Sciences, Cuernavaca, Mexico)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://schatzlab.cshl.edu/people/lgomezro/&#34; target=&#34;_blank&#34;&gt;Laura Gómez&lt;/a&gt; (Center for Genomic Sciences, Cuernavaca, Mexico)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/heladia-salgado-bb122954/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heladia Salgado&lt;/a&gt; (Center for Genomic Sciences, Cuernavaca, Mexico)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://lcolladotor.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; (Lieber Institute for Brain Development, Baltimore, USA)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://liigh.unam.mx/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt; (International Laboratory for Human Genome Research, Juriquilla, Mexico)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://alejandroreyes.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt; (Dana-Farber Cancer Institute, Boston, USA)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Delfino García&lt;/a&gt; (Center for Genomic Sciences, Cuernavaca, Mexico)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://loop.frontiersin.org/people/416212/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniela Ledezma-Tejeida&lt;/a&gt; (Center for Genomic Sciences, Cuernavaca, Mexico)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://schatzlab.cshl.edu/people/lgomezro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laura Gómez&lt;/a&gt; (Center for Genomic Sciences, Cuernavaca, Mexico)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;código-de-conducta-codigo-de-conducta&#34;&gt;&lt;a href=&#34;../../codigo-de-conducta/&#34;&gt;Código de Conducta&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h2 id=&#34;código-de-conductacodigo-de-conducta&#34;&gt;
+&lt;a href=&#34;../../codigo-de-conducta/&#34;&gt;Código de Conducta&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;patrocinadores&#34;&gt;Patrocinadores&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;../../niveles-de-patrocinio/&#34;&gt;Sé nuestro &lt;strong&gt;patrocinador&lt;/strong&gt;&lt;/a&gt;
+&lt;p&gt;
+&lt;a href=&#34;../../niveles-de-patrocinio/&#34;&gt;Sé nuestro &lt;strong&gt;patrocinador&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;table width=&#34;100%&#34; style=&#34;margin-bottom: 0px;&#34; border=&#34;0&#34; &gt;
 &lt;tbody style=&#34;border-bottom: none;&#34; &gt;
-&lt;tr &gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;td width=&#34;20%&#34; style=&#34;border-top: none;&#34; &gt;&lt;a href=&#34;http://www.soibio.org&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/SoIBio_logo_HR-Web-e1524580239187.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
-&lt;/td&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;td width=&#34;30%&#34; style=&#34;border-top: none;&#34; &gt;&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/CCG_Logo_HR-300x114.png&#34; alt=&#34;Centro de Ciencias Genómicas UNAM&#34; /&gt;&lt;/a&gt;
-&lt;/td&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;td width=&#34;35%&#34; style=&#34;border-top: none;&#34; &gt;&lt;a href=&#34;http://www.lcg.unam.mx&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/LCG_Logo_HR-white.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
-&lt;/td&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;td width=&#34;15%&#34; style=&#34;border-top: none;&#34; &gt;&lt;a href=&#34;http://liigh.unam.mx/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/logo-liigh-unam.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+&lt;tr &gt;
+&lt;td width=&#34;20%&#34; style=&#34;border-top: none;&#34; &gt;[![](/img/SoIBio_logo_HR-Web-e1524580239187.png)](http://www.soibio.org)
+&lt;/td&gt;
+&lt;td width=&#34;30%&#34; style=&#34;border-top: none;&#34; &gt;[![Centro de Ciencias Genómicas UNAM](/img/CCG_Logo_HR-300x114.png)](http://www.ccg.unam.mx)
+&lt;/td&gt;
+&lt;td width=&#34;35%&#34; style=&#34;border-top: none;&#34; &gt;[![](/img/LCG_Logo_HR-white.png)](http://www.lcg.unam.mx)
+&lt;/td&gt;
+&lt;td width=&#34;15%&#34; style=&#34;border-top: none;&#34; &gt;[![](/img/logo-liigh-unam.png)](http://liigh.unam.mx/)
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table &gt;
 &lt;tbody style=&#34;border: none;&#34; &gt;
-&lt;tr &gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;td width=&#34;30%&#34; style=&#34;border-top: none;&#34; &gt;&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/RConsortium_Horizontal_Pantone-768x173.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
-&lt;/td&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;td style=&#34;border-top: none;&#34; &gt;&lt;a href=&#34;http://wintergenomics.com/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/img/wintergenomics-1.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
-&lt;/td&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;td style=&#34;border-top: none;&#34; &gt;
-&lt;/td&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;td style=&#34;border-top: none;&#34; &gt;
+&lt;tr &gt;
+&lt;td width=&#34;30%&#34; style=&#34;border-top: none;&#34; &gt;[![](/img/RConsortium_Horizontal_Pantone-768x173.png)](https://www.r-consortium.org/)
+&lt;/td&gt;
+&lt;td style=&#34;border-top: none;&#34; &gt;[![](/img/wintergenomics-1.png)](http://wintergenomics.com/)
+&lt;/td&gt;
+&lt;td style=&#34;border-top: none;&#34; &gt;
+&lt;/td&gt;
+&lt;td style=&#34;border-top: none;&#34; &gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;/p&gt;
+&lt;/table&gt;
 </description>
     </item>
     
@@ -1540,58 +1505,47 @@ Un mínimo de 8 GB de RAM, un ratón y espacio de disco suficiente para archivos
       <title>Talleres Internacionales de Bioinformática 2018</title>
       <link>/es/post/talleres-internacionales-de-bioinformatica-2018/</link>
       <pubDate>Wed, 21 Mar 2018 18:12:26 +0000</pubDate>
-      
       <guid>/es/post/talleres-internacionales-de-bioinformatica-2018/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;El Nodo Nacional de Bioinformática (NNB-UNAM) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a&lt;/strong&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;strong&gt;El Nodo Nacional de Bioinformática (NNB-UNAM) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;tib2018-r-para-todos&#34;&gt;TIB2018: R para todos&lt;/h2&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;&amp;amp;&lt;/h2&gt;
-
-&lt;h2 id=&#34;latin-american-r-bioconductor-developers-workshop&#34;&gt;Latin American R/Bioconductor Developers Workshop&lt;/h2&gt;
-
+&lt;h2 id=&#34;heading&#34;&gt;&amp;amp;&lt;/h2&gt;
+&lt;h2 id=&#34;latin-american-rbioconductordevelopers-workshop&#34;&gt;Latin American R/Bioconductor Developers Workshop&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Centro de Ciencias Genómicas-UNAM (CCG-UNAM), en Cuernavaca Morelos, México.&lt;/strong&gt;
 &lt;strong&gt;30 de Julio al 3 de Agosto de 2018&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;Este año, hemos decidido unir esfuerzos para impulsar el desarrollo de habilidades en el lenguaje de programación R, bajo el slogan &lt;strong&gt;&lt;em&gt;“Aprende R y hagamos comunidad”&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
 &lt;p&gt;En el mundo del análisis de datos &lt;strong&gt;R&lt;/strong&gt; y &lt;strong&gt;Python&lt;/strong&gt; están posicionados como los lenguajes de programación de mayor crecimiento.&lt;/p&gt;
-
 &lt;p&gt;Las razones:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Son fáciles de aprender&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Disponen de librerías especializadas de estadística avanzada.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Son fáciles de aprender&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Disponen de librerías especializadas de estadística avanzada.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;¿Por qué hemos elegido R?&lt;/p&gt;
-
 &lt;p&gt;Es ideal para &lt;strong&gt;no programadores&lt;/strong&gt; y dispone de unas librerías realmente poderosas.&lt;/p&gt;
-
 &lt;p&gt;Nuestros profesores son investigadores, posdocs o técnicos académicos con amplia experiencia en el área, de instituciones nacionales y extranjeras. La mayoría de ellos están certificados como instructores certificados de Software Carpentry, que los capacita en las mejores prácticas de la enseñanza de la informática en investigación.&lt;/p&gt;
-
 &lt;p&gt;Los talleres están organizados por:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;NNB-UNAM, nodo Mexicano del EMBNet (European Molecular Biology network)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Comunidad de Desarrolladores de Software en Bioinformática (CDSB)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NNB-UNAM, nodo Mexicano del EMBNet (European Molecular Biology network)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Comunidad de Desarrolladores de Software en Bioinformática (CDSB)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h4 id=&#34;talleres&#34;&gt;Talleres&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/t1-taller-de-introduccion-a-r-y-r-studio/&#34; target=&#34;_blank&#34;&gt;T1: Taller de introducción a R y R Studio&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/t2-analisis-exploratorio-y-estadistico-de-datos-biologicos-usando-r/&#34; target=&#34;_blank&#34;&gt;T2: Análisis exploratorio y estadístico de datos biológicos usando R&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/t3-analisis-exploratorio-de-genes-y-expresion-diferencial/&#34; target=&#34;_blank&#34;&gt;T3: Taller de RNA-Seq: Análisis exploratorio de genes y expresión diferencial&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/t4-taller-de-ngs-ensamble-y-anotacion-de-genomas/&#34; target=&#34;_blank&#34;&gt;T4: Taller de NGS: Ensamble y Anotación de Genomas&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/registro&#34; target=&#34;_blank&#34;&gt;Regístrate&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/t1-taller-de-introduccion-a-r-y-r-studio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T1: Taller de introducción a R y R Studio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/t2-analisis-exploratorio-y-estadistico-de-datos-biologicos-usando-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T2: Análisis exploratorio y estadístico de datos biológicos usando R&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/t3-analisis-exploratorio-de-genes-y-expresion-diferencial/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T3: Taller de RNA-Seq: Análisis exploratorio de genes y expresión diferencial&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/t4-taller-de-ngs-ensamble-y-anotacion-de-genomas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T4: Taller de NGS: Ensamble y Anotación de Genomas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/registro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Regístrate&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1599,31 +1553,29 @@ Un mínimo de 8 GB de RAM, un ratón y espacio de disco suficiente para archivos
       <title>Aviso de Privacidad para la Protección de Datos Personales</title>
       <link>/es/aviso-de-privacidad/</link>
       <pubDate>Tue, 13 Mar 2018 17:23:16 +0000</pubDate>
-      
       <guid>/es/aviso-de-privacidad/</guid>
       <description>&lt;p&gt;En términos de lo previsto en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (en lo sucesivo denominada como “la Ley”), te pedimos que leas cuidadosamente los Términos y Condiciones contenidos en este Aviso de Privacidad, ya que la simple aportación que hagas de tus Datos Personales mediante su envío, ya sea por correo electrónico y/o a través de nuestra página de internet, constituye la aceptación de estos Términos y Condiciones y en consecuencia nos autorizas expresamente al tratamiento de tus datos personales.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Términos y Condiciones&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;El presente Aviso tiene por objeto la protección de tus datos personales, mediante su tratamiento legítimo, controlado e informado, a efecto de garantizar su privacidad, así como tu derecho a la autodeterminación informativa.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Conforme al artículo 3, fracción V, de la Ley, se entiende por datos personales: Cualquier información concerniente a una persona física identificada o identificable.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Conforme a lo dispuesto por el artículo 16, fracción I de la Ley, La Comunidad de Desarrolladores de Software en Bioinformática, será el responsable de los datos personales se envíen por medio la página.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Al enviar vía correo electrónico tus datos personales, aceptas y autorizas a la Comunidad de Desarrolladores de Software en Bioinformática (CDSB), utilizar y tratar de forma automatizada tus datos personales e información suministrados, los cuales formarán parte de nuestra base de datos con la finalidad de usarlos en forma enunciativa, más no limitativa para: identificarte, contactarte, enviarte información, actualizar nuestra base de datos, y/o generar estadísticas.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;El presente Aviso tiene por objeto la protección de tus datos personales, mediante su tratamiento legítimo, controlado e informado, a efecto de garantizar su privacidad, así como tu derecho a la autodeterminación informativa.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Conforme al artículo 3, fracción V, de la Ley, se entiende por datos personales: Cualquier información concerniente a una persona física identificada o identificable.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Conforme a lo dispuesto por el artículo 16, fracción I de la Ley, La Comunidad de Desarrolladores de Software en Bioinformática, será el responsable de los datos personales se envíen por medio la página.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Al enviar vía correo electrónico tus datos personales, aceptas y autorizas a la Comunidad de Desarrolladores de Software en Bioinformática (CDSB), utilizar y tratar de forma automatizada tus datos personales e información suministrados, los cuales formarán parte de nuestra base de datos con la finalidad de usarlos en forma enunciativa, más no limitativa para: identificarte, contactarte, enviarte información, actualizar nuestra base de datos, y/o generar estadísticas.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;5.- La temporalidad del manejo de tus datos personales será indefinida a partir de la fecha en que nos los proporciones, pudiendo oponerte al manejo de los mismos en cualquier momento que lo consideres oportuno.&lt;/p&gt;
-
 &lt;p&gt;6.- La  Comunidad de Desarrolladores de Software en Bioinformática (CDSB), está obligada a cumplir con los principios de licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad tutelados en la Ley; por tal motivo con fundamento en los artículos 13 y 14 de la Ley, la CDSB se compromete a guardar estricta confidencialidad de tus datos personales, así como a mantener las medidas de seguridad administrativas, técnicas y físicas que permitan protegerlos contra cualquier daño, pérdida, alteración, acceso o tratamiento no autorizado.&lt;/p&gt;
-
 &lt;p&gt;7.- En términos de lo establecido por el artículo 22 de la Ley, tienes derecho en cualquier momento a ejercer tus derechos de acceso, rectificación, cancelación y oposición al tratamiento de tus datos personales, mediante la solicitud vía correo electrónico o por escrito.&lt;/p&gt;
-
 &lt;p&gt;8.- La Comunidad de Desarrolladores de Software en Bioinformática (CDSB), ocasionalmente modificará y corregirá este Aviso de Privacidad, por lo tanto te pedimos que revises este aviso regularmente para que estés enterado de los cambios y veas cómo te pueden afectar.&lt;/p&gt;
-
-&lt;p&gt;9.- En caso que requieras más información, te sugerimos conocer y analizar el contenido de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (&lt;a href=&#34;http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf&#34; target=&#34;_blank&#34;&gt;http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;9.- En caso que requieras más información, te sugerimos conocer y analizar el contenido de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (
+&lt;a href=&#34;http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     
@@ -1631,22 +1583,15 @@ Un mínimo de 8 GB de RAM, un ratón y espacio de disco suficiente para archivos
       <title>La Bioinformática, una disciplina en auge en el mundo</title>
       <link>/es/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/</link>
       <pubDate>Tue, 06 Mar 2018 20:49:18 +0000</pubDate>
-      
       <guid>/es/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/</guid>
-      <description>&lt;p&gt;La Bioinformática es un área interdisciplinaria en la que convergen las tecnologías de la información y las comunicaciones con las ciencias de la vida, donde los recursos computacionales y humanos asisten al análisis de cantidades enormes de datos biológicos, para extraer de ellos información valiosa y obtener resultados con impactos beneficiosos en la salud humana o animal (&lt;strong&gt;González&lt;/strong&gt; &lt;strong&gt;Hernández&lt;/strong&gt; &lt;strong&gt;D&lt;/strong&gt;&lt;strong&gt;., 2007).&lt;/strong&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;La Bioinformática es un área interdisciplinaria en la que convergen las tecnologías de la información y las comunicaciones con las ciencias de la vida, donde los recursos computacionales y humanos asisten al análisis de cantidades enormes de datos biológicos, para extraer de ellos información valiosa y obtener resultados con impactos beneficiosos en la salud humana o animal (&lt;strong&gt;González&lt;/strong&gt; &lt;strong&gt;Hernández&lt;/strong&gt; &lt;strong&gt;D&lt;/strong&gt;**., 2007).**&lt;/p&gt;
 &lt;p&gt;Desde la segunda mitad del siglo XX, la biología ha tenido una relación creciente con las ciencias de la información. Su relación se inicia debido al constante impulso del hombre por saber de qué estamos hechos, y fue por allá de 1956 con la secuenciación de la primera proteína por Margaret O. Dayhoff. A partir de entonces, con la constante producción de información biológica, la cual crecía a un ritmo lento comparado con el actual volumen de generación de datos, se creó la necesidad de recopilar y organizar toda la información generada a partir de dichos proyectos de secuenciación, surgiendo así, la primera base de datos con información biológica llamada Protein Data Bank (PDB) (Benítez Páez A, Cárdenas Brino S, 2010).&lt;/p&gt;
-
 &lt;p&gt;Esa relación incipiente de las ciencias de la vida con las ciencias de la computación ha dado origen a una disciplina que ha cobrado vida en los últimos años: la bioinformática.&lt;/p&gt;
-
 &lt;p&gt;Los mayores avances en la bioinformática acontecieron en años posteriores a la creación de la primera base de datos, y fue con la generación de algoritmos matemáticos para el análisis de secuencias, así como también, la creación y el impuso dado a las bases de datos y herramientas para el análisis de secuencias con un impacto a &lt;em&gt;nivel global&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/Clustalw_multiple_alignment-768x408.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;/img/Clustalw_multiple_alignment-768x408.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Además, con la creación del consorcio para la ejecución del proyecto de secuenciación del genoma humano (Human Genome, HUGO), en 1993, se inició la era genómica. Siendo la decodificación del genoma humano un proyecto tan ambicioso, que otros consorcios se crearon con el fin de secuenciar los primeros genomas no virales. En 1996, &lt;em&gt;S. cerevisiae&lt;/em&gt; fue el primer genoma eucariota secuenciado. En 1995 y 1997, respectivamente, los genomas de &lt;em&gt;Haemophilus influenzae&lt;/em&gt; y &lt;em&gt;Escherichia coli&lt;/em&gt; fueron los primeros genomas bacterianos publicados. Entre los años 1998 y 2000, se tuvieron los genomas secuenciados de &lt;em&gt;Caenorhabditis elegans, Pseudomonas aeruginosa, Drosophila melanogaster&lt;/em&gt; y &lt;em&gt;Arabidopsis thaliana&lt;/em&gt;. En el año 2003, se finalizó la secuencia definitiva del genoma humano y, este hecho se logró gracias a la proyección y explotación del potencial de la industria biotecnológica.&lt;/p&gt;
-
-&lt;p&gt;Como consecuencia, todos los avances tecnológicos destinados al campo de la genómica lograron proyectar a la comunidad científica hacia la secuenciación del genoma de cualquier organismo de interés científico o económico. Hoy en día, existen más de 12,574 genomas de bacterias completamente secuenciados y más de 65,142 proyectos en curso (GOLD Database, &lt;a href=&#34;https://gold.jgi.doe.gov/index&#34; target=&#34;_blank&#34;&gt;https://gold.jgi.doe.gov/index&lt;/a&gt; release v.6).&lt;/p&gt;
-
+&lt;p&gt;Como consecuencia, todos los avances tecnológicos destinados al campo de la genómica lograron proyectar a la comunidad científica hacia la secuenciación del genoma de cualquier organismo de interés científico o económico. Hoy en día, existen más de 12,574 genomas de bacterias completamente secuenciados y más de 65,142 proyectos en curso (GOLD Database, 
+&lt;a href=&#34;https://gold.jgi.doe.gov/index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gold.jgi.doe.gov/index&lt;/a&gt; release v.6).&lt;/p&gt;
 &lt;p&gt;La gran cantidad de información generada a partir de los múltiples proyectos de secuenciación hizo que las bases de datos crecieran a un ritmo acelerado y casi insostenible. Al mismo tiempo, el enorme volumen de datos conlleva a que el número de herramientas de análisis y algoritmos computacionales surjan al mismo ritmo para poder extraer un conocimiento tangible que permita dar un significado a la diversidad biológica de nuestro ecosistema.&lt;/p&gt;
 </description>
     </item>
@@ -1655,14 +1600,10 @@ Un mínimo de 8 GB de RAM, un ratón y espacio de disco suficiente para archivos
       <title>Quiénes somos</title>
       <link>/es/quienes-somos/</link>
       <pubDate>Thu, 22 Feb 2018 17:07:10 +0000</pubDate>
-      
       <guid>/es/quienes-somos/</guid>
       <description>&lt;p&gt;La comunidad de desarrolladores de Software en Bioinformática, nace de la inquietud por incentivar la participación y colaboración de gente especializada en Bioinformática y Genómica, para contribuir o emprender en el desarrollo de software libre a nivel internacional.&lt;/p&gt;
-
 &lt;p&gt;La Comunidad esta convencida que, a través de cursos, talleres, congresos, y otros medios tecnológicos, se puede fortalecer las habilidades de sus integrantes, para participar en proyectos de desarrollo de software, o emprender el desarrollo de nuevo software de calidad, siempre promoviendo el espíritu de colaboración e integración.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;¿En qué creemos?&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Objetividad y neutralidad: Los miembros de la comunidad, nuestros compañeros merecen la verdad y conocimiento real, no nos permitimos engañarlos.&lt;/li&gt;
 &lt;li&gt;Innovación: Trabajamos continuamente para estar a la vanguardia e inspirar a quienes nos rodean con nuevas ideas.&lt;/li&gt;
@@ -1670,15 +1611,17 @@ Un mínimo de 8 GB de RAM, un ratón y espacio de disco suficiente para archivos
 &lt;li&gt;Pasión y perfección: Trabajamos con pasión y perfección en todo lo que hacemos para desarrollar software de calidad.&lt;/li&gt;
 &lt;li&gt;Colaboración abierta: Así como siempre invitamos a la comunidad a colaborar en nuestras iniciativas, también buscamos colaborar y sumar en las iniciativas de terceros.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&lt;strong&gt;Nuestros Objetivos:&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Crear una gran comunidad de desarrolladores de software en bioinformática&lt;/li&gt;
-&lt;li&gt;Crear vínculos con otras comunidades: &lt;a href=&#34;http://congresos.nnb.unam.mx/&#34; target=&#34;_blank&#34;&gt;TIBs&lt;/a&gt;, &lt;a href=&#34;http://www.soibio.org/&#34; target=&#34;_blank&#34;&gt;SoIBio&lt;/a&gt;, &lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34;&gt;Bioconductor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Crear vínculos con otras comunidades: 
+&lt;a href=&#34;http://congresos.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TIBs&lt;/a&gt;, 
+&lt;a href=&#34;http://www.soibio.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoIBio&lt;/a&gt;, 
+&lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Reclutar talento&lt;/li&gt;
 &lt;li&gt;Crear contenido para cursos de programación y creación de paquetes en R, Python, C , Perl etc.&lt;/li&gt;
-&lt;li&gt;Mantener un repositorio para depósito de software en &lt;a href=&#34;https://github.com/comunidadBioInfo&#34; target=&#34;_blank&#34;&gt;GitHub de la comunidad&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Mantener un repositorio para depósito de software en 
+&lt;a href=&#34;https://github.com/comunidadBioInfo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub de la comunidad&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

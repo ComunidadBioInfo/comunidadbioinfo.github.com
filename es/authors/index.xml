@@ -1,51 +1,156 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on CDSB</title>
+    <title>Authors | CDSB</title>
     <link>/es/authors/</link>
-    <description>Recent content in Authors on CDSB</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es-mx</language>
-    <copyright>&amp;copy; 2018-{year}</copyright>
-    <lastBuildDate>Fri, 05 Apr 2019 13:30:00 +0000</lastBuildDate>
-    
-	<atom:link href="/es/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/es/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2020</copyright><lastBuildDate>Fri, 05 Apr 2019 13:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <title>Authors</title>
+      <link>/es/authors/</link>
+    </image>
     
     <item>
-      <title>admin</title>
+      <title></title>
       <link>/es/authors/admin/</link>
       <pubDate>Fri, 05 Apr 2019 13:30:00 +0000</pubDate>
-      
       <guid>/es/authors/admin/</guid>
-      <description></description>
+      <description>&lt;p&gt;¡Bienvenidos a la Comunidad de Desarrolladores de Software en Bioinformática (CDSB)!&lt;/p&gt;
+&lt;p&gt;Somos un grupo interesado en ayudarle a miembros de países Latino Americanos en el proceso de acquirir las habilidades necesarias para contribuir a la comunidad de software libre. Hoy en día se usa 
+&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; en muchas industrias y desde el inicio fue adoptado por académicos. Mientras los usuarios de &lt;code&gt;R&lt;/code&gt; van familiarizandose con el lenguaje terminan escribiendo funciones que luego son agrupadas y compartidas vía paquetes. Estos paquetes son distribuidos vía 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; o vía repositorios más formales como lo son 
+&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAN&lt;/a&gt; y 
+&lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt;. &lt;code&gt;Bioconductor&lt;/code&gt; es un proyecto centrado alrededor de software libre para la bioinformática hecho con &lt;code&gt;R&lt;/code&gt; y ha sido de gran utilidad para varios de nosotros. Como parte de la CDSB buscamos aumentar la representación de países Latino Americanos en las comunidades de desarrolladores de software libre y de esa forma aumentar su diversidad. Por lo tanto, nuestro objetivo principal es enseñarle a Latino Americanos como hacer paquetes de &lt;code&gt;R&lt;/code&gt; para que los compartan vía GitHub, CRAN y Bioconductor.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>lcollado</title>
+      <title></title>
       <link>/es/authors/lcollado/</link>
       <pubDate>Thu, 04 Apr 2019 22:50:47 +0000</pubDate>
-      
       <guid>/es/authors/lcollado/</guid>
-      <description></description>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://lcolladotor.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo&lt;/a&gt; usa &lt;code&gt;R&lt;/code&gt; diario y ha contribuido paquetes al proyecto de Bioconductor como parte de su trabajo con 
+&lt;a href=&#34;http://aejaffe.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Jaffe&lt;/a&gt; en 
+&lt;a href=&#34;https://www.libd.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIBD&lt;/a&gt;. El está interesado en tecnologías genómicas que generan datos a gran escala como RNA-seq, avances en R y en ayudar a otros a empezar su aventura con R. Leonardo ha estado aprendiendo y enseñando R desde el 2008 y es co-fundador del 
+&lt;a href=&#34;http://research.libd.org/rstatsclub/#.XKVLJetKi50&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIBD rstats club&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>areyes</title>
+      <title></title>
       <link>/es/authors/areyes/</link>
       <pubDate>Fri, 14 Sep 2018 02:13:22 +0000</pubDate>
-      
       <guid>/es/authors/areyes/</guid>
+      <description>&lt;p&gt;Son un postdoc en el laboratorio de Rafael Irizarry en el Instituto de Cáncer Dana-Farber de la Escuela de Salud Pública TH Chan de Harvard. Desarrollo estrategias computacionles para traducir grandes cantidades de datos en conocimiento biológico. Estoy interesado en (1) entender como isoformas de transcritos contribuyen a fenotipos celulares y diversas condiciones en enfermedades, y (2) intergrar datos de multi-ómicos para desenmarañar los fenotipos moleculares en cáncer. De tal forma que pueda garantizar la reproducibilidad de mis resultados, implemento mis análisis usando flujos de trabajo documentados, paquetes de software e interfases gráficas. Son un contribuidor de software al proyecto de Bioconductor.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/es/authors/delfinog/</link>
+      <pubDate>Tue, 06 Mar 2018 20:49:18 +0000</pubDate>
+      <guid>/es/authors/delfinog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>delfinog</title>
-      <link>/es/authors/delfinog/</link>
-      <pubDate>Tue, 06 Mar 2018 20:49:18 +0000</pubDate>
-      
-      <guid>/es/authors/delfinog/</guid>
-      <description></description>
+      <title></title>
+      <link>/es/authors/amedina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/es/authors/amedina/</guid>
+      <description>&lt;p&gt;Alejandra obtuvo su doctorado en 2012 del Programa de Ciencias Biomédicas en la Universidad Nacional Autónoma de México (UNAM). Desde que terminó su doctorado, se ha enfocado en el desarrollo de herramientas bioinformáticas y estrategias para estudiar mecanismos de regulación genética. La mayoría de las herramientas que ha desarrollado su grupo son parte ahora del conjunto de herramientas &lt;em&gt;Regulatory Sequence and Analysis Tools&lt;/em&gt; (RSAT, &lt;a href=&#34;http://rsat.eu/)&#34;&gt;http://rsat.eu/)&lt;/a&gt;. Actualmente, usando un enfoque computacional, su investigación incorpora datos de genómica funcional en estudios de asociación a nivel genómico (GWAS) con el objetivo de identificar varaintes que causen desregulación de la expresión génica.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/es/authors/aponce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/es/authors/aponce/</guid>
+      <description>&lt;p&gt;Hi !!! I Studied Food Technology at UIA and my masters and PhD in Biotechnology and Bioengineering at CINVESTAV. I&amp;rsquo;ve have had several years in postdocs and jobs at many Institutions (ECOSUR, UNSIJ, INIFAP, CONABIO, UAM-X). I&amp;rsquo;m interested in numerical ecology, data visualization and agrobiodiversity. Finally, I practice touring bike and admire Thomas Bernhard, WG Sebald and Glenn Gould.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/es/authors/bcarvalho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/es/authors/bcarvalho/</guid>
+      <description>&lt;p&gt;Statistician (BS, M.Sc.), biostatistician (Ph.D.)
+Instructor: Statistics - Regression Models;
+Database designer and developer: MySQL, PHP;
+Teacher Assistant: Biocomputing, Statistical Computing and Statistical Methods in Public Health;
+Developer: BioConductor - oligo, makePlatformDesign, crlmm, pdInfoBuilder.
+Specialties: High-throughput genotyping, microarray preprocessing, statistical modeling, gene-expression analyzes, genetic epidemiology, statistical computing, programming (R, C / C ++, MATLAB)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/es/authors/hsalgado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/es/authors/hsalgado/</guid>
+      <description>&lt;p&gt;Bioinformática. Me interesa diseminar y apoyar en la enseñanza de la bioinformática en México y LA (
+&lt;a href=&#34;https://github.com/swcarpentry&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@swcarpentry&lt;/a&gt;, 
+&lt;a href=&#34;https://github.com/ComunidadBioInfo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@ComunidadBioInfo&lt;/a&gt; and 
+&lt;a href=&#34;http://congresos.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNB&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/es/authors/josschavezf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/es/authors/josschavezf/</guid>
+      <description>&lt;p&gt;Con una formación como Ingeniera de Biotecnología por el Instituto Politécnico Nacional de México (
+&lt;a href=&#34;http://www.upiig.ipn.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPN&lt;/a&gt;), empecé mi carrera científica estudiando la Epigenética de Plantas en el  
+&lt;a href=&#34;http://www.ira.cinvestav.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CINVESTAV&lt;/a&gt;, y después obtuve mi maestría por el 
+&lt;a href=&#34;http://www.ibt.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto de Biotecnología&lt;/a&gt; de la Universidad Nacional Autónoma de México  (
+&lt;a href=&#34;http://www.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNAM&lt;/a&gt;) enfocándome en la Epigenética de Drosophila. Durante mis estudios de maestría empecé a tomar unos cursos básicos de R con estadística y visualización de datos que despertaron mi interés en bioinformática y programación.&lt;/p&gt;
+&lt;p&gt;Actualmente como estudiante del doctorado, en el laboratorio de Merino 
+&lt;a href=&#34;http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.grupo,par:Gep,tit:_Grupo_del__Dr._Enrique_Merino&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lab&lt;/a&gt; estoy desarrollando un proyecto bioinformático enfocado en el análisis de reguladores transcripcionales bacterianos, especialmente en el superphylum PVC (Planctomycetes-Chlamydiae-Verrucomicrobia). Estoy interesada en el origen evolutivo de las redes de regulación transcripcional desde bacterias y arqueas que llevaron a la regulación génica en eucariotas tal y como la conocemos en la actualidad.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/es/authors/mteresa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/es/authors/mteresa/</guid>
+      <description>&lt;p&gt;I am a data analyst with experience in ecology and marketing, I currently work in CONABIO (Mexico’s National Commission of Biodiversity) where I do statistical analysis related to biodiversity.&lt;/p&gt;
+&lt;p&gt;I also enjoy teaching, I teach statistic courses to master students in Data Science and to bachelors in Mathematics and Actuarial Sciences at ITAM. Lastly, I love R, I am co-organizer of R-Ladies CDMX and I regularly give short courses in R.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/es/authors/mtmorgan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/es/authors/mtmorgan/</guid>
+      <description>&lt;p&gt;Dr. Morgan spent 10 years as an Assistant Professor and Associate then at Washington State University, before joining the Fred Hutchinson Cancer Research Center in 2005. At the Hutch, Dr. Morgan worked on the 
+&lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt; project for the analysis and comprehension of high-throughput genomic data; which he has led since 2008. Dr. Morgan recently moved to Roswell Park in Buffalo Comprehensive Cancer Center, NY, where the Bioconductor project is now based.&lt;/p&gt;
+&lt;p&gt;Special Interests:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Statistical methods in computational biology&lt;/li&gt;
+&lt;li&gt;Analysis and comprehension of ‘next generation’ high-throughput sequence data&lt;/li&gt;
+&lt;li&gt;Integrative analysis of large-scale multiple ‘omics data sets&lt;/li&gt;
+&lt;li&gt;Inference of single-cell evolutionary processes in cancer development&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/es/authors/sfernandez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/es/authors/sfernandez/</guid>
+      <description>&lt;p&gt;Selene Fernandez is a bioinformatician / genomic data scientist studying the evolution of gene regulatory mechanisms underlying the phenotypic diversity and differentiation in multicellular eukaryotes cell. She is particularly interested in the evolution of regulatory roles of non-coding RNAs.&lt;/p&gt;
+&lt;p&gt;In addition to her academic roles, she participates in initiatives that link scientists and the general public (such as Más Ciencia por Mexico, Clubes de Ciencia Mexico), programs to introduce researchers to computing (Software/Data Carpentry) as well as mentoring programs (Ekpapalek).&lt;/p&gt;
+&lt;p&gt;Expertise: Analysis of high-throughput (next generation) sequencing data, transcriptomics, genome annotation, non-coding RNAs.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

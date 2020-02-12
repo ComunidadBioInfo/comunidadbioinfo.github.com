@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sfernandez on CDSB</title>
+    <title>CDSB</title>
     <link>/authors/sfernandez/</link>
-    <description>Recent content in sfernandez on CDSB</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018-{year}</copyright>
-    
-	<atom:link href="/authors/sfernandez/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>/author/sfernandez/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/author/sfernandez/</guid>
-      <description>Selene Fernandez is a bioinformatician / genomic data scientist studying the evolution of gene regulatory mechanisms underlying the phenotypic diversity and differentiation in multicellular eukaryotes cell. She is particularly interested in the evolution of regulatory roles of non-coding RNAs.
-In addition to her academic roles, she participates in initiatives that link scientists and the general public (such as Más Ciencia por Mexico, Clubes de Ciencia Mexico), programs to introduce researchers to computing (Software/Data Carpentry) as well as mentoring programs (Ekpapalek).</description>
-    </item>
+      <atom:link href="/authors/sfernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>CDSB</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright>
+    <image>
+      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <title>CDSB</title>
+      <link>/authors/sfernandez/</link>
+    </image>
     
   </channel>
 </rss>

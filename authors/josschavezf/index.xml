@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>josschavezf on CDSB</title>
+    <title>CDSB</title>
     <link>/authors/josschavezf/</link>
-    <description>Recent content in josschavezf on CDSB</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018-{year}</copyright>
-    
-	<atom:link href="/authors/josschavezf/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>/author/josschavezf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/author/josschavezf/</guid>
-      <description>With bachelor formation as Engineer in Biotechnology by the National Polytechnic Institute from Mexico (IPN), I started my scientific career studying Plant Epigenetics in CINVESTAV, then I made a master in the Biotechnology Institute from the National Autonomous University of Mexico (UNAM) focus on Drosophila Epigenetics. During the master studies I began to take some basic R courses with statistics and plotting orientation that woke up my interest in bioinformatics and programming.</description>
-    </item>
+      <atom:link href="/authors/josschavezf/index.xml" rel="self" type="application/rss+xml" />
+    <description>CDSB</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright>
+    <image>
+      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <title>CDSB</title>
+      <link>/authors/josschavezf/</link>
+    </image>
     
   </channel>
 </rss>

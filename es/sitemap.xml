@@ -1,361 +1,531 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/admin/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/admin/" hreflang="en"/>
-    
-      <loc>/es/authors/admin/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/authors/admin/</loc>
+    <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/admin/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/" hreflang="en"/>
-    
-      <loc>/es/authors/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/authors/</loc>
+    <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/categories/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
-    
-      <loc>/es/categories/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/categories/</loc>
+    <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
-    
-      <loc>/es/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/</loc>
+    <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/categories/events/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/categories/events/" hreflang="en"/>
-    
-      <loc>/es/categories/events/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/categories/events/</loc>
+    <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/events/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/post/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/post/" hreflang="en"/>
-    
-      <loc>/es/post/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/post/</loc>
+    <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/categories/rstats/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/categories/rstats/" hreflang="en"/>
-    
-      <loc>/es/categories/rstats/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/categories/rstats/</loc>
+    <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/rstats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/rstats/"
+                />
+  </url>
   
-    <url>
-    
-      <loc>/es/categories/rstatses/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/categories/rstatses/</loc>
+    <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/post/building-tidy-tools-cdsb-runconf-2019/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/post/building-tidy-tools-cdsb-runconf-2019/" hreflang="en"/>
-    
-      <loc>/es/post/building-tidy-tools-cdsb-runconf-2019/</loc>
-      <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/post/building-tidy-tools-cdsb-runconf-2019/</loc>
+    <lastmod>2019-04-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/building-tidy-tools-cdsb-runconf-2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/building-tidy-tools-cdsb-runconf-2019/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/post/talleres-internacionales-de-bioinformatica-2019/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/post/talleres-internacionales-de-bioinformatica-2019/" hreflang="en"/>
-    
-      <loc>/es/post/talleres-internacionales-de-bioinformatica-2019/</loc>
-      <lastmod>2019-04-05T12:00:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/post/talleres-internacionales-de-bioinformatica-2019/</loc>
+    <lastmod>2019-04-05T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/talleres-internacionales-de-bioinformatica-2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/talleres-internacionales-de-bioinformatica-2019/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/tags/bioconductor/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/tags/bioconductor/" hreflang="en"/>
-    
-      <loc>/es/tags/bioconductor/</loc>
-      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/authors/lcollado/</loc>
+    <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/lcollado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/lcollado/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/post/path-from-cdsbmexico-2018-to-bioc2019/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/post/path-from-cdsbmexico-2018-to-bioc2019/" hreflang="en"/>
-    
-      <loc>/es/post/path-from-cdsbmexico-2018-to-bioc2019/</loc>
-      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/tags/bioconductor/</loc>
+    <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/bioconductor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/bioconductor/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/lcollado/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/lcollado/" hreflang="en"/>
-    
-      <loc>/es/authors/lcollado/</loc>
-      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/post/path-from-cdsbmexico-2018-to-bioc2019/</loc>
+    <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/path-from-cdsbmexico-2018-to-bioc2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/path-from-cdsbmexico-2018-to-bioc2019/"
+                />
+  </url>
   
-    <url>
-    
-      <loc>/es/tags/solicitudes/</loc>
-      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/tags/solicitudes/</loc>
+    <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/tags/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
-    
-      <loc>/es/tags/</loc>
-      <lastmod>2019-04-04T22:50:47+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/tags/</loc>
+    <lastmod>2019-04-04T22:50:47+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/" hreflang="en"/>
-    
-      <loc>/es/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/</loc>
-      <lastmod>2019-03-01T04:24:47+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/</loc>
+    <lastmod>2019-03-01T04:24:47+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/areyes/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/areyes/" hreflang="en"/>
-    
-      <loc>/es/authors/areyes/</loc>
-      <lastmod>2018-09-14T02:13:22+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/authors/areyes/</loc>
+    <lastmod>2018-09-14T02:13:22+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/areyes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/areyes/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/post/a-recap-of-cdsb-2018-the-start-of-a-community/" hreflang="en"/>
-    
-      <loc>/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/</loc>
-      <lastmod>2018-09-14T02:13:22+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/</loc>
+    <lastmod>2018-09-14T02:13:22+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/a-recap-of-cdsb-2018-the-start-of-a-community/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/" hreflang="en"/>
-    
-      <loc>/es/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/</loc>
-      <lastmod>2018-08-20T21:45:28+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/</loc>
+    <lastmod>2018-08-20T21:45:28+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/niveles-de-patrocinio/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/niveles-de-patrocinio/" hreflang="en"/>
-    
-      <loc>/es/niveles-de-patrocinio/</loc>
-      <lastmod>2018-05-09T16:06:58+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/niveles-de-patrocinio/</loc>
+    <lastmod>2018-05-09T16:06:58+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/niveles-de-patrocinio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/niveles-de-patrocinio/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/codigo-de-conducta/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/codigo-de-conducta/" hreflang="en"/>
-    
-      <loc>/es/codigo-de-conducta/</loc>
-      <lastmod>2018-04-10T15:09:34+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/codigo-de-conducta/</loc>
+    <lastmod>2018-04-10T15:09:34+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/codigo-de-conducta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/codigo-de-conducta/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/post/r-bioconductor-developers-workshop-2018/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/post/r-bioconductor-developers-workshop-2018/" hreflang="en"/>
-    
-      <loc>/es/post/r-bioconductor-developers-workshop-2018/</loc>
-      <lastmod>2018-03-22T12:40:21+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/post/r-bioconductor-developers-workshop-2018/</loc>
+    <lastmod>2018-03-22T12:40:21+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/r-bioconductor-developers-workshop-2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/r-bioconductor-developers-workshop-2018/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/post/talleres-internacionales-de-bioinformatica-2018/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/post/talleres-internacionales-de-bioinformatica-2018/" hreflang="en"/>
-    
-      <loc>/es/post/talleres-internacionales-de-bioinformatica-2018/</loc>
-      <lastmod>2018-03-21T18:12:26+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/post/talleres-internacionales-de-bioinformatica-2018/</loc>
+    <lastmod>2018-03-21T18:12:26+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/talleres-internacionales-de-bioinformatica-2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/talleres-internacionales-de-bioinformatica-2018/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/aviso-de-privacidad/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/aviso-de-privacidad/" hreflang="en"/>
-    
-      <loc>/es/aviso-de-privacidad/</loc>
-      <lastmod>2018-03-13T17:23:16+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/aviso-de-privacidad/</loc>
+    <lastmod>2018-03-13T17:23:16+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/aviso-de-privacidad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/aviso-de-privacidad/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/authors/delfinog/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/authors/delfinog/" hreflang="en"/>
-    
-      <loc>/es/authors/delfinog/</loc>
-      <lastmod>2018-03-06T20:49:18+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/authors/delfinog/</loc>
+    <lastmod>2018-03-06T20:49:18+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/delfinog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/delfinog/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/categories/difusion/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/categories/difusion/" hreflang="en"/>
-    
-      <loc>/es/categories/difusion/</loc>
-      <lastmod>2018-03-06T20:49:18+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/categories/difusion/</loc>
+    <lastmod>2018-03-06T20:49:18+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/difusion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/difusion/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/" hreflang="en"/>
-    
-      <loc>/es/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/</loc>
-      <lastmod>2018-03-06T20:49:18+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/</loc>
+    <lastmod>2018-03-06T20:49:18+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/la-bioinformatica-una-disciplina-en-auge-en-el-mundo/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/quienes-somos/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/quienes-somos/" hreflang="en"/>
-    
-      <loc>/es/quienes-somos/</loc>
-      <lastmod>2018-02-22T17:07:10+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/es/quienes-somos/</loc>
+    <lastmod>2018-02-22T17:07:10+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/quienes-somos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/quienes-somos/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/author/admin/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/author/admin/" hreflang="en"/>
-    
-      <loc>/es/author/admin/</loc>
-    </url>
+  <url>
+    <loc>/es/authors/amedina/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/amedina/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/amedina/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/author/amedina/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/author/amedina/" hreflang="en"/>
-    
-      <loc>/es/author/amedina/</loc>
-    </url>
+  <url>
+    <loc>/es/authors/aponce/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/aponce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/aponce/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/author/aponce/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/author/aponce/" hreflang="en"/>
-    
-      <loc>/es/author/aponce/</loc>
-    </url>
+  <url>
+    <loc>/es/authors/bcarvalho/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/bcarvalho/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/bcarvalho/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/author/areyes/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/author/areyes/" hreflang="en"/>
-    
-      <loc>/es/author/areyes/</loc>
-    </url>
+  <url>
+    <loc>/es/authors/hsalgado/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/hsalgado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/hsalgado/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/author/bcarvalho/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/author/bcarvalho/" hreflang="en"/>
-    
-      <loc>/es/author/bcarvalho/</loc>
-    </url>
+  <url>
+    <loc>/es/authors/josschavezf/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/josschavezf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/josschavezf/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/author/delfinog/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/author/delfinog/" hreflang="en"/>
-    
-      <loc>/es/author/delfinog/</loc>
-    </url>
+  <url>
+    <loc>/es/authors/mteresa/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/mteresa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/mteresa/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/author/hsalgado/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/author/hsalgado/" hreflang="en"/>
-    
-      <loc>/es/author/hsalgado/</loc>
-    </url>
+  <url>
+    <loc>/es/authors/mtmorgan/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/mtmorgan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/mtmorgan/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/author/josschavezf/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/author/josschavezf/" hreflang="en"/>
-    
-      <loc>/es/author/josschavezf/</loc>
-    </url>
+  <url>
+    <loc>/es/authors/sfernandez/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/sfernandez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/sfernandez/"
+                />
+  </url>
   
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/author/lcollado/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/author/lcollado/" hreflang="en"/>
-    
-      <loc>/es/author/lcollado/</loc>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/author/mteresa/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/author/mteresa/" hreflang="en"/>
-    
-      <loc>/es/author/mteresa/</loc>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/author/mtmorgan/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/author/mtmorgan/" hreflang="en"/>
-    
-      <loc>/es/author/mtmorgan/</loc>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/author/sfernandez/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/author/sfernandez/" hreflang="en"/>
-    
-      <loc>/es/author/sfernandez/</loc>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/author/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/author/" hreflang="en"/>
-    
-      <loc>/es/author/</loc>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="/es/publication_types/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
-    
-      <loc>/es/publication_types/</loc>
-    </url>
+  <url>
+    <loc>/es/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication_types/"
+                />
+  </url>
   
 </urlset>

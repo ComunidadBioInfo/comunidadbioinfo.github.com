@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>aponce on CDSB</title>
+    <title>CDSB</title>
     <link>/es/authors/aponce/</link>
-    <description>Recent content in aponce on CDSB</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es-mx</language>
-    <copyright>&amp;copy; 2018-{year}</copyright>
-    
-	<atom:link href="/es/authors/aponce/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>/es/author/aponce/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/es/author/aponce/</guid>
-      <description>Hi !!! I Studied Food Technology at UIA and my masters and PhD in Biotechnology and Bioengineering at CINVESTAV. I&amp;rsquo;ve have had several years in postdocs and jobs at many Institutions (ECOSUR, UNSIJ, INIFAP, CONABIO, UAM-X). I&amp;rsquo;m interested in numerical ecology, data visualization and agrobiodiversity. Finally, I practice touring bike and admire Thomas Bernhard, WG Sebald and Glenn Gould.</description>
-    </item>
+      <atom:link href="/es/authors/aponce/index.xml" rel="self" type="application/rss+xml" />
+    <description>CDSB</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2020</copyright>
+    <image>
+      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <title>CDSB</title>
+      <link>/es/authors/aponce/</link>
+    </image>
     
   </channel>
 </rss>

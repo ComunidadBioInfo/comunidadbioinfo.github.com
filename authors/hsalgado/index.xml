@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hsalgado on CDSB</title>
+    <title>CDSB</title>
     <link>/authors/hsalgado/</link>
-    <description>Recent content in hsalgado on CDSB</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018-{year}</copyright>
-    
-	<atom:link href="/authors/hsalgado/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>/author/hsalgado/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/author/hsalgado/</guid>
-      <description>Bioinformatician. I am interested in disseminating and supporting the teaching of bioinformatics in Mexico and LA (@swcarpentry, @ComunidadBioInfo and NNB)</description>
-    </item>
+      <atom:link href="/authors/hsalgado/index.xml" rel="self" type="application/rss+xml" />
+    <description>CDSB</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright>
+    <image>
+      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <title>CDSB</title>
+      <link>/authors/hsalgado/</link>
+    </image>
     
   </channel>
 </rss>
