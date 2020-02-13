@@ -144,6 +144,17 @@ Specialties: High-throughput genotyping, microarray preprocessing, statistical m
     
     <item>
       <title></title>
+      <link>/authors/robamezquita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/robamezquita/</guid>
+      <description>&lt;p&gt;Robert Amezquita is a Postdoctoral Fellow in the Immunotherapy Integrated Research Center (IIRC) at Fred Hutch under the mentorship of Raphael Gottardo. His current research focuses on utilizing computational approaches leveraging transcriptional and epigenomic profiling at single-cell resolution to understand how novel anti-cancer therapeutics - ranging from small molecule therapies to biologics such as CAR-T cells - affect immune response dynamics. Extending from his graduate work at Yale’s Dept. of Immunobiology, Robert’s research aims to better understand the process of immune cell differentiation under the duress of cancer as a means to inform future immunotherapies. To accomplish this, Robert works collaboratively across the Fred Hutch IIRC with experimental collaborators, extensively utilizing R and Bioconductor for data analysis.&lt;/p&gt;
+&lt;p&gt;Robert is one of the authors of the 
+&lt;a href=&#34;https://osca.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orchestrating Single-Cell Analysis with Bioconductor&lt;/a&gt; book.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/sfernandez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/sfernandez/</guid>

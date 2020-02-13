@@ -496,6 +496,20 @@
   </url>
   
   <url>
+    <loc>/authors/robamezquita/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/robamezquita/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/robamezquita/"
+                />
+  </url>
+  
+  <url>
     <loc>/authors/sfernandez/</loc>
     <xhtml:link
                 rel="alternate"
