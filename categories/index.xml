@@ -5,7 +5,7 @@
     <link>/categories/</link>
       <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Fri, 05 Apr 2019 13:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Sat, 29 Feb 2020 17:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>Categories</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Events</title>
-      <link>/categories/events/</link>
-      <pubDate>Fri, 05 Apr 2019 13:30:00 +0000</pubDate>
-      <guid>/categories/events/</guid>
+      <title>rstats</title>
+      <link>/categories/rstats/</link>
+      <pubDate>Sat, 29 Feb 2020 17:00:00 +0000</pubDate>
+      <guid>/categories/rstats/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>rstats</title>
-      <link>/categories/rstats/</link>
+      <title>Events</title>
+      <link>/categories/events/</link>
       <pubDate>Fri, 05 Apr 2019 13:30:00 +0000</pubDate>
-      <guid>/categories/rstats/</guid>
+      <guid>/categories/events/</guid>
       <description></description>
     </item>
     

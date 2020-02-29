@@ -5,12 +5,25 @@
     <link>/es/authors/</link>
       <atom:link href="/es/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2020</copyright><lastBuildDate>Fri, 05 Apr 2019 13:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2020</copyright><lastBuildDate>Sat, 29 Feb 2020 17:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>Authors</title>
       <link>/es/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/es/authors/lcollado/</link>
+      <pubDate>Sat, 29 Feb 2020 17:00:00 +0000</pubDate>
+      <guid>/es/authors/lcollado/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://lcolladotor.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo&lt;/a&gt; usa &lt;code&gt;R&lt;/code&gt; diario y ha contribuido paquetes al proyecto de Bioconductor como parte de su trabajo con 
+&lt;a href=&#34;http://aejaffe.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Jaffe&lt;/a&gt; en 
+&lt;a href=&#34;https://www.libd.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIBD&lt;/a&gt;. El está interesado en tecnologías genómicas que generan datos a gran escala como RNA-seq, avances en R y en ayudar a otros a empezar su aventura con R. Leonardo ha estado aprendiendo y enseñando R desde el 2008 y es co-fundador del 
+&lt;a href=&#34;http://research.libd.org/rstatsclub/#.XKVLJetKi50&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIBD rstats club&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -23,19 +36,6 @@
 &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; o vía repositorios más formales como lo son 
 &lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAN&lt;/a&gt; y 
 &lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt;. &lt;code&gt;Bioconductor&lt;/code&gt; es un proyecto centrado alrededor de software libre para la bioinformática hecho con &lt;code&gt;R&lt;/code&gt; y ha sido de gran utilidad para varios de nosotros. Como parte de la CDSB buscamos aumentar la representación de países Latino Americanos en las comunidades de desarrolladores de software libre y de esa forma aumentar su diversidad. Por lo tanto, nuestro objetivo principal es enseñarle a Latino Americanos como hacer paquetes de &lt;code&gt;R&lt;/code&gt; para que los compartan vía GitHub, CRAN y Bioconductor.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/es/authors/lcollado/</link>
-      <pubDate>Thu, 04 Apr 2019 22:50:47 +0000</pubDate>
-      <guid>/es/authors/lcollado/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;http://lcolladotor.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo&lt;/a&gt; usa &lt;code&gt;R&lt;/code&gt; diario y ha contribuido paquetes al proyecto de Bioconductor como parte de su trabajo con 
-&lt;a href=&#34;http://aejaffe.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Jaffe&lt;/a&gt; en 
-&lt;a href=&#34;https://www.libd.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIBD&lt;/a&gt;. El está interesado en tecnologías genómicas que generan datos a gran escala como RNA-seq, avances en R y en ayudar a otros a empezar su aventura con R. Leonardo ha estado aprendiendo y enseñando R desde el 2008 y es co-fundador del 
-&lt;a href=&#34;http://research.libd.org/rstatsclub/#.XKVLJetKi50&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIBD rstats club&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -90,6 +90,22 @@ Specialties: High-throughput genotyping, microarray preprocessing, statistical m
     
     <item>
       <title></title>
+      <link>/es/authors/carbarjon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/es/authors/carbarjon/</guid>
+      <description>&lt;p&gt;Autora de 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/regutools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regutools&lt;/a&gt; que fue enviado a 
+&lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.morenolab.org/people/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reseña de acá&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I&amp;rsquo;m (also) a graduate of the Undergraduate Program on Genomic Sciences from the National Autonomous University of Mexico (UNAM). My current project in MorenoLab involves the analysis of identity-by-descent genomic segments to determine the population structure of Mexico and their implications in biomedical traits using the data from the Mexican BioBank. I am also involved in other projects as the Oceanian Genome Variation Project. I like photography, surrealist paintings, and good-looking cocktails, I also love rats; one of my dreams is to have a pet rat named Bojack.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/es/authors/hsalgado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/es/authors/hsalgado/</guid>
@@ -97,6 +113,19 @@ Specialties: High-throughput genotyping, microarray preprocessing, statistical m
 &lt;a href=&#34;https://github.com/swcarpentry&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@swcarpentry&lt;/a&gt;, 
 &lt;a href=&#34;https://github.com/ComunidadBioInfo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@ComunidadBioInfo&lt;/a&gt; and 
 &lt;a href=&#34;http://congresos.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNB&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/es/authors/jemilianosf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/es/authors/jemilianosf/</guid>
+      <description>&lt;p&gt;Autor de 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/regutools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regutools&lt;/a&gt; que fue enviado a 
+&lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://regrnalab.github.io/members/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miembro del regrnalab&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

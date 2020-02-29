@@ -1,0 +1,1519 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="CDSB">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="A couple years ago we started the Community of Bioinformatics Software Developers (CDSB in Spanish) as because we were concerned with the very low representation of Latin Americans in the Bioconductor community, and the R community in general. For the full story check this this blog post.
+ Since we started CDSB, part of our goal been to help Bioconductor users transition into developers. To achieve this, we organized one week long courses in Mexico at low cost during the summers of 2018 and 2019 in partnership with the TIBs leadership (NNB-UNAM) and RMB.">
+
+  
+  <link rel="alternate" hreflang="es" href="/es/post/from-bioconductor-users-to-developers-our-first-community-submission/">
+  
+  <link rel="alternate" hreflang="en-us" href="/post/from-bioconductor-users-to-developers-our-first-community-submission/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137796972-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-137796972-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu26a6f6fb08e05df9696a0f90f569e458_20724_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu26a6f6fb08e05df9696a0f90f569e458_20724_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/post/from-bioconductor-users-to-developers-our-first-community-submission/">
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@CDSBMexic">
+  <meta property="twitter:creator" content="@CDSBMexic">
+  
+  <meta property="og:site_name" content="CDSB">
+  <meta property="og:url" content="/post/from-bioconductor-users-to-developers-our-first-community-submission/">
+  <meta property="og:title" content="From Bioconductor users to developers: our first community submission | CDSB">
+  <meta property="og:description" content="A couple years ago we started the Community of Bioinformatics Software Developers (CDSB in Spanish) as because we were concerned with the very low representation of Latin Americans in the Bioconductor community, and the R community in general. For the full story check this this blog post.
+ Since we started CDSB, part of our goal been to help Bioconductor users transition into developers. To achieve this, we organized one week long courses in Mexico at low cost during the summers of 2018 and 2019 in partnership with the TIBs leadership (NNB-UNAM) and RMB."><meta property="og:image" content="/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png">
+  <meta property="twitter:image" content="/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2020-02-29T17:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-02-29T17:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/post/from-bioconductor-users-to-developers-our-first-community-submission/"
+  },
+  "headline": "From Bioconductor users to developers: our first community submission",
+  
+  "datePublished": "2020-02-29T17:00:00Z",
+  "dateModified": "2020-02-29T17:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Leonardo Collado-Torres, PhD"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "CDSB",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_192x192_fit_lanczos_2.png"
+    }
+  },
+  "description": "A couple years ago we started the Community of Bioinformatics Software Developers (CDSB in Spanish) as because we were concerned with the very low representation of Latin Americans in the Bioconductor community, and the R community in general. For the full story check this this blog post.\n Since we started CDSB, part of our goal been to help Bioconductor users transition into developers. To achieve this, we organized one week long courses in Mexico at low cost during the summers of 2018 and 2019 in partnership with the TIBs leadership (NNB-UNAM) and RMB."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>From Bioconductor users to developers: our first community submission | CDSB</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/"><img src="/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_0x70_resize_lanczos_2.png" alt="CDSB"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/"><img src="/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_0x70_resize_lanczos_2.png" alt="CDSB"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/quienes-somos"><span>About</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#events"><span>Events</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/codigo-de-conducta"><span>Code of conduct</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item i18n-active font-weight-bold">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="/es/post/from-bioconductor-users-to-developers-our-first-community-submission/">
+            <span>Español</span>
+          </a>
+          
+        </div>
+      </li>
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>From Bioconductor users to developers: our first community submission</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/lcollado/">Leonardo Collado-Torres, PhD</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Feb 29, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    9 min read
+  </span>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <a href="/post/from-bioconductor-users-to-developers-our-first-community-submission/#disqus_thread"></a>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/categories/rstats/">rstats</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+
+
+<script async class="speakerdeck-embed" data-slide="14" data-id="b9dd0405a013420682e7d850ab439326" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<p>A couple years ago we started the Community of Bioinformatics Software Developers (CDSB in Spanish) as because we were concerned with the very low representation of Latin Americans in the Bioconductor community, and the R community in general. For the full story check this <a href="https://comunidadbioinfo.github.io/post/a-recap-of-cdsb-2018-the-start-of-a-community/">this blog post</a>.</p>
+<script async class="speakerdeck-embed" data-slide="16" data-id="b9dd0405a013420682e7d850ab439326" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<p>Since we started CDSB, part of our goal been to help Bioconductor users transition into developers. To achieve this, we organized one week long courses in Mexico at low cost during the summers of <a href="https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/">2018</a> and <a href="https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/">2019</a> in partnership with the <a href="http://congresos.nnb.unam.mx/">TIBs leadership (NNB-UNAM)</a> and <a href="https://redmexicanadebioinformatica.org/">RMB</a>. We plan to continue organizing these courses: except a 2020 announcement next week!</p>
+<p>While these workshops allow us to reach up to 40 students in person for a week, we have been borrowing methods from others to try to interact more frequently and help throughout this process <a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>. But we now went a bit further.</p>
+<p>In 2018, CDSB students worked on R/Bioconductor packages for two days during our workshop. One of them, <a href="https://josschavezf.github.io/">Joselyn Chávez</a>, picked up the <a href="https://github.com/ComunidadBioInfo/regutools">regutools</a> project and continued working on it with advice from <a href="/authors/hsalgado">Heladia Salgado</a>. We eventually set up meetings where <a href="http://alejandroreyes.org/">Alejandro Reyes</a> and <a href="http://lcolladotor.github.io/">myself</a> would advice Joselyn, <a href="/authors/carbarjon">Carmina Barberena-Jonas</a> and <a href="/authors/jemilianosf/">Jesus Emiliano Sotelo-Fonseca</a> on how to best proceed.</p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I just sent <a href="https://twitter.com/Bioconductor?ref_src=twsrc%5Etfw">@Bioconductor</a>&#39;s 2020 conf deadline reminders to <a href="https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw">@CDSBMexico</a> <a href="https://twitter.com/LieberInstitute?ref_src=twsrc%5Etfw">@LieberInstitute</a> <a href="https://twitter.com/GenomicsAtJHU?ref_src=twsrc%5Etfw">@GenomicsAtJHU</a> <a href="https://twitter.com/LatinR_Conf?ref_src=twsrc%5Etfw">@LatinR_Conf</a> <a href="https://twitter.com/rOpenSci?ref_src=twsrc%5Etfw">@rOpenSci</a> <a href="https://twitter.com/jhubiostat?ref_src=twsrc%5Etfw">@jhubiostat</a> 🗓️<br><br>It&#39;s the conf that started my <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> career &amp; I highly recommend it!<br><br>BioC usage intro <a href="https://t.co/8NaV68vUsA">https://t.co/8NaV68vUsA</a><a href="https://t.co/ATzkKs7c04">https://t.co/ATzkKs7c04</a> <a href="https://t.co/km8vRfyHcY">pic.twitter.com/km8vRfyHcY</a></p>&mdash; 🇲🇽 Dr. Leonardo Collado-Torres (@fellgernon) <a href="https://twitter.com/fellgernon/status/1230694883750445056?ref_src=twsrc%5Etfw">February 21, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>We’ve known for months that the deadline for <a href="https://bioc2020.bioconductor.org">BioC2020</a> talk/poster proposals was March 3rd. So we designed a plan that would allow them to submit <a href="https://github.com/ComunidadBioInfo/regutools">regutools</a> prior to that deadline, then submit a proposal to present it (as well as submit proposals to present their own research projects) in order to increase their likelihood of getting a <a href="https://bioc2020.bioconductor.org/scholarships.html">BioC2020 travel scholarship</a>.</p>
+<p>And we were able to accomplish this plan! Well, at least the part under their and our control. That is, check out the <a href="https://github.com/Bioconductor/Contributions/issues/1393">regutools Bioconductor submission</a>. Thus we are incredibly excited to announce that the CDSB website now has a “Bioconductor Developers Alumni” section!</p>
+<p><img src="/img/regutools/alumni.png" alt="Bioconductor Developers Alumni" />
+We are also thrilled to announce that the <a href="http://regulondb.ccg.unam.mx/">RegulonDB</a> team has given us the go ahead signal to write a manuscript about <a href="https://github.com/ComunidadBioInfo/regutools">regutools</a>. So you’ll soon see a pre-print about it.</p>
+<iframe src="https://giphy.com/embed/WsKVAem02Efuw" width="480" height="455" frameBorder="0" class="giphy-embed" allowFullScreen>
+</iframe>
+<p>
+<a href="https://giphy.com/gifs/dancing-happy-excited-WsKVAem02Efuw">via GIPHY</a>
+</p>
+<p>Though I personally really hope that Joselyn, Carmina, Emiliano and many other CDSB alumni will be able to go to BioC2020 and other R conferences.</p>
+<p>We couldn’t have gotten this far without all the support we’ve received over the years. So I would like to thank all our previous sponsors <a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>, colleagues who’ve encouraged us to keep going, and CDSB alumni like Joselyn, Carmina, and Emiliano who believed in our ideas and spent their own time making them a reality.</p>
+<iframe src="https://giphy.com/embed/yoJC2El7xJkYCadlWE" width="480" height="294" frameBorder="0" class="giphy-embed" allowFullScreen>
+</iframe>
+<p>
+<a href="https://giphy.com/gifs/kiss-brad-pitt-thank-you-yoJC2El7xJkYCadlWE">via GIPHY</a>
+</p>
+<p>I leave you here with a short introduction to <a href="https://github.com/ComunidadBioInfo/regutools">regutools</a>.</p>
+<div id="regutools" class="section level3">
+<h3>regutools <img src="https://comunidadbioinfo.github.io/regutools/reference/figures/logo.png" align="right" width="250px"/></h3>
+<p>The goal of <code>regutools</code> is to provide an R interface for extracting and processing data from <a href="http://regulondb.ccg.unam.mx/">RegulonDB</a>. This package was created as a collaboration by members of the <a href="https://comunidadbioinfo.github.io/">Community of Bioinformatics Software Developers</a> (CDSB in Spanish).</p>
+<p>For more details, please check the <a href="http://comunidadbioinfo.github.io/regutools">documentation website</a> or the Bioconductor package landing page <a href="https://bioconductor.org/packages/regutools">here</a>.</p>
+<div id="installation" class="section level4">
+<h4>Installation</h4>
+<p>You can install the released version of <code>regutools</code> from <a href="http://bioconductor.org/">Bioconductor</a> with:</p>
+<pre class="r"><code>if (!requireNamespace(&quot;BiocManager&quot;, quietly = TRUE))
+    install.packages(&quot;BiocManager&quot;)
+
+BiocManager::install(&quot;regutools&quot;)
+
+## Check that you have a valid Bioconductor installation
+BiocManager::valid()</code></pre>
+<p>And the development version from <a href="https://github.com/">GitHub</a> with:</p>
+<pre class="r"><code>## Since the package is currently going through the Bioconductor
+## revision process, you need to use this code instead:
+BiocManager::install(&quot;ComunidadBioinfo/regutools&quot;)</code></pre>
+</div>
+<div id="example" class="section level4">
+<h4>Example</h4>
+<p>This is a basic example which shows you how to use <code>regutools</code>. For more details, please check the vignette.</p>
+<pre class="r"><code>library(&#39;regutools&#39;)
+## basic example code
+
+## Connect to the RegulonDB database if necessary
+if(!exists(&#39;regulondb_conn&#39;)) regulondb_conn &lt;- connect_database()</code></pre>
+<pre><code>## snapshotDate(): 2019-10-29</code></pre>
+<pre class="r"><code>## Build a regulondb object
+e_coli_regulondb &lt;-
+    regulondb(
+        database_conn = regulondb_conn,
+        organism = &quot;E.coli&quot;,
+        database_version = &quot;1&quot;,
+        genome_version = &quot;1&quot;
+    )
+
+## Get the araC regulators
+araC_regulation &lt;-
+    get_gene_regulators(
+        e_coli_regulondb,
+        genes = c(&quot;araC&quot;),
+        format = &quot;multirow&quot;,
+        output.type = &quot;TF&quot;
+    )
+
+## Summarize the araC regulation
+get_regulatory_summary(e_coli_regulondb, araC_regulation)</code></pre>
+<pre><code>## regulondb_result with 3 rows and 7 columns
+##         TF Regulated_genes_per_TF          Percent Activator Repressor     Dual
+##   &lt;factor&gt;               &lt;factor&gt;         &lt;factor&gt;  &lt;factor&gt;  &lt;factor&gt; &lt;factor&gt;
+## 1     AraC                      1 33.3333333333333         0         0        1
+## 2      CRP                      1 33.3333333333333         1         0        0
+## 3     XylR                      1 33.3333333333333         0         1        0
+##   Regulated_genes
+##          &lt;factor&gt;
+## 1            araC
+## 2            araC
+## 3            araC</code></pre>
+</div>
+<div id="citation" class="section level4">
+<h4>Citation</h4>
+<p>Below is the citation output from using <code>citation('regutools')</code> in R. Please
+run this yourself to check for any updates on how to cite <strong>regutools</strong>.</p>
+<pre class="r"><code>citation(&#39;regutools&#39;)</code></pre>
+<pre><code>## 
+## Chávez J, Barberena-Jonas C, Sotelo-Fonseca JE, Alquicira-Hernandez J,
+## Salgado H, Collado-Torres L, Reyes A (2020). _regutools: an R package
+## for data extraction from RegulonDB_. doi: 10.18129/B9.bioc.regutools
+## (URL: https://doi.org/10.18129/B9.bioc.regutools),
+## https://github.com/comunidadbioinfo/regutools - R package version
+## 0.99.0, &lt;URL: http://www.bioconductor.org/packages/regutools&gt;.
+## 
+## Chávez J, Barberena-Jonas C, Sotelo-Fonseca JE, Alquicira-Hernandez J,
+## Salgado H, Collado-Torres L, Reyes A (2020). &quot;Programmatic access to
+## bacterial regulatory networks with regutools.&quot; _bioRxiv_. doi:
+## 10.1101/xxxyyy (URL: https://doi.org/10.1101/xxxyyy), &lt;URL:
+## https://doi.org/10.1101/xxxyyy&gt;.
+## 
+## To see these entries in BibTeX format, use &#39;print(&lt;citation&gt;,
+## bibtex=TRUE)&#39;, &#39;toBibtex(.)&#39;, or set
+## &#39;options(citation.bibtex.max=999)&#39;.</code></pre>
+</div>
+</div>
+<div id="reproducibility-information" class="section level3">
+<h3>Reproducibility information</h3>
+<pre class="r"><code>options(width = 120)
+sessioninfo::session_info()</code></pre>
+<pre><code>## ─ Session info ───────────────────────────────────────────────────────────────────────────────────────────────────────
+##  setting  value                       
+##  version  R version 3.6.2 (2019-12-12)
+##  os       macOS Catalina 10.15.2      
+##  system   x86_64, darwin15.6.0        
+##  ui       X11                         
+##  language (EN)                        
+##  collate  en_US.UTF-8                 
+##  ctype    en_US.UTF-8                 
+##  tz       America/New_York            
+##  date     2020-02-29                  
+## 
+## ─ Packages ───────────────────────────────────────────────────────────────────────────────────────────────────────────
+##  package                * version  date       lib source                                     
+##  acepack                  1.4.1    2016-10-29 [1] CRAN (R 3.6.0)                             
+##  AnnotationDbi            1.48.0   2019-10-29 [1] Bioconductor                               
+##  AnnotationFilter         1.10.0   2019-10-29 [1] Bioconductor                               
+##  AnnotationHub            2.18.0   2019-10-29 [1] Bioconductor                               
+##  askpass                  1.1      2019-01-13 [1] CRAN (R 3.6.0)                             
+##  assertthat               0.2.1    2019-03-21 [1] CRAN (R 3.6.0)                             
+##  backports                1.1.5    2019-10-02 [1] CRAN (R 3.6.0)                             
+##  base64enc                0.1-3    2015-07-28 [1] CRAN (R 3.6.0)                             
+##  Biobase                  2.46.0   2019-10-29 [1] Bioconductor                               
+##  BiocFileCache            1.10.2   2019-11-08 [1] Bioconductor                               
+##  BiocGenerics             0.32.0   2019-10-29 [1] Bioconductor                               
+##  BiocManager              1.30.10  2019-11-16 [1] CRAN (R 3.6.1)                             
+##  BiocParallel             1.20.1   2019-12-21 [1] Bioconductor                               
+##  BiocVersion              3.10.1   2019-06-06 [1] Bioconductor                               
+##  biomaRt                  2.42.0   2019-10-29 [1] Bioconductor                               
+##  Biostrings               2.54.0   2019-10-29 [1] Bioconductor                               
+##  biovizBase               1.34.1   2019-12-04 [1] Bioconductor                               
+##  bit                      1.1-15.2 2020-02-10 [1] CRAN (R 3.6.0)                             
+##  bit64                    0.9-7    2017-05-08 [1] CRAN (R 3.6.0)                             
+##  bitops                   1.0-6    2013-08-17 [1] CRAN (R 3.6.0)                             
+##  blob                     1.2.1    2020-01-20 [1] CRAN (R 3.6.0)                             
+##  blogdown                 0.17     2019-11-13 [1] CRAN (R 3.6.1)                             
+##  bookdown                 0.17     2020-01-11 [1] CRAN (R 3.6.0)                             
+##  BSgenome                 1.54.0   2019-10-29 [1] Bioconductor                               
+##  checkmate                1.9.4    2019-07-04 [1] CRAN (R 3.6.0)                             
+##  cli                      2.0.1    2020-01-08 [1] CRAN (R 3.6.0)                             
+##  cluster                  2.1.0    2019-06-19 [1] CRAN (R 3.6.2)                             
+##  colorout               * 1.2-1    2019-05-07 [1] Github (jalvesaq/colorout@7ea9440)         
+##  colorspace               1.4-1    2019-03-18 [1] CRAN (R 3.6.0)                             
+##  crayon                   1.3.4    2017-09-16 [1] CRAN (R 3.6.0)                             
+##  curl                     4.3      2019-12-02 [1] CRAN (R 3.6.0)                             
+##  data.table               1.12.8   2019-12-09 [1] CRAN (R 3.6.1)                             
+##  DBI                      1.1.0    2019-12-15 [1] CRAN (R 3.6.0)                             
+##  dbplyr                   1.4.2    2019-06-17 [1] CRAN (R 3.6.0)                             
+##  DelayedArray             0.12.2   2020-01-06 [1] Bioconductor                               
+##  dichromat                2.0-0    2013-01-24 [1] CRAN (R 3.6.0)                             
+##  digest                   0.6.25   2020-02-23 [1] CRAN (R 3.6.0)                             
+##  dplyr                    0.8.4    2020-01-31 [1] CRAN (R 3.6.0)                             
+##  ensembldb                2.10.2   2019-11-20 [1] Bioconductor                               
+##  evaluate                 0.14     2019-05-28 [1] CRAN (R 3.6.0)                             
+##  fansi                    0.4.1    2020-01-08 [1] CRAN (R 3.6.0)                             
+##  fastmap                  1.0.1    2019-10-08 [1] CRAN (R 3.6.0)                             
+##  foreign                  0.8-75   2020-01-20 [1] CRAN (R 3.6.0)                             
+##  Formula                  1.2-3    2018-05-03 [1] CRAN (R 3.6.0)                             
+##  GenomeInfoDb             1.22.0   2019-10-29 [1] Bioconductor                               
+##  GenomeInfoDbData         1.2.2    2019-10-31 [1] Bioconductor                               
+##  GenomicAlignments        1.22.1   2019-11-12 [1] Bioconductor                               
+##  GenomicFeatures          1.38.1   2020-01-22 [1] Bioconductor                               
+##  GenomicRanges            1.38.0   2019-10-29 [1] Bioconductor                               
+##  ggplot2                  3.2.1    2019-08-10 [1] CRAN (R 3.6.0)                             
+##  glue                     1.3.1    2019-03-12 [1] CRAN (R 3.6.0)                             
+##  graph                    1.64.0   2019-10-29 [1] Bioconductor                               
+##  gridExtra                2.3      2017-09-09 [1] CRAN (R 3.6.0)                             
+##  gtable                   0.3.0    2019-03-25 [1] CRAN (R 3.6.0)                             
+##  Gviz                     1.30.1   2020-01-23 [1] Bioconductor                               
+##  Hmisc                    4.3-0    2019-11-07 [1] CRAN (R 3.6.0)                             
+##  hms                      0.5.3    2020-01-08 [1] CRAN (R 3.6.0)                             
+##  htmlTable                1.13.3   2019-12-04 [1] CRAN (R 3.6.1)                             
+##  htmltools                0.4.0    2019-10-04 [1] CRAN (R 3.6.0)                             
+##  htmlwidgets              1.5.1    2019-10-08 [1] CRAN (R 3.6.0)                             
+##  httpuv                   1.5.2    2019-09-11 [1] CRAN (R 3.6.0)                             
+##  httr                     1.4.1    2019-08-05 [1] CRAN (R 3.6.0)                             
+##  igraph                   1.2.4.2  2019-11-27 [1] CRAN (R 3.6.0)                             
+##  interactiveDisplayBase   1.24.0   2019-10-29 [1] Bioconductor                               
+##  IRanges                  2.20.2   2020-01-13 [1] Bioconductor                               
+##  jpeg                     0.1-8.1  2019-10-24 [1] CRAN (R 3.6.1)                             
+##  knitr                    1.27     2020-01-16 [1] CRAN (R 3.6.0)                             
+##  later                    1.0.0    2019-10-04 [1] CRAN (R 3.6.0)                             
+##  lattice                  0.20-38  2018-11-04 [1] CRAN (R 3.6.2)                             
+##  latticeExtra             0.6-29   2019-12-19 [1] CRAN (R 3.6.0)                             
+##  lazyeval                 0.2.2    2019-03-15 [1] CRAN (R 3.6.0)                             
+##  lifecycle                0.1.0    2019-08-01 [1] CRAN (R 3.6.0)                             
+##  magrittr                 1.5      2014-11-22 [1] CRAN (R 3.6.0)                             
+##  Matrix                   1.2-18   2019-11-27 [1] CRAN (R 3.6.2)                             
+##  matrixStats              0.55.0   2019-09-07 [1] CRAN (R 3.6.0)                             
+##  memoise                  1.1.0    2017-04-21 [1] CRAN (R 3.6.0)                             
+##  mime                     0.9      2020-02-04 [1] CRAN (R 3.6.0)                             
+##  munsell                  0.5.0    2018-06-12 [1] CRAN (R 3.6.0)                             
+##  nnet                     7.3-12   2016-02-02 [1] CRAN (R 3.6.2)                             
+##  openssl                  1.4.1    2019-07-18 [1] CRAN (R 3.6.0)                             
+##  pillar                   1.4.3    2019-12-20 [1] CRAN (R 3.6.0)                             
+##  pkgconfig                2.0.3    2019-09-22 [1] CRAN (R 3.6.1)                             
+##  png                      0.1-7    2013-12-03 [1] CRAN (R 3.6.0)                             
+##  prettyunits              1.1.1    2020-01-24 [1] CRAN (R 3.6.2)                             
+##  progress                 1.2.2    2019-05-16 [1] CRAN (R 3.6.0)                             
+##  promises                 1.1.0    2019-10-04 [1] CRAN (R 3.6.0)                             
+##  ProtGenerics             1.18.0   2019-10-29 [1] Bioconductor                               
+##  purrr                    0.3.3    2019-10-18 [1] CRAN (R 3.6.0)                             
+##  R.methodsS3              1.7.1    2016-02-16 [1] CRAN (R 3.6.0)                             
+##  R.oo                     1.23.0   2019-11-03 [1] CRAN (R 3.6.0)                             
+##  R.utils                  2.9.2    2019-12-08 [1] CRAN (R 3.6.1)                             
+##  R6                       2.4.1    2019-11-12 [1] CRAN (R 3.6.1)                             
+##  rappdirs                 0.3.1    2016-03-28 [1] CRAN (R 3.6.0)                             
+##  RColorBrewer             1.1-2    2014-12-07 [1] CRAN (R 3.6.0)                             
+##  Rcpp                     1.0.3    2019-11-08 [1] CRAN (R 3.6.0)                             
+##  RCurl                    1.98-1.1 2020-01-19 [1] CRAN (R 3.6.0)                             
+##  RCy3                     2.6.3    2020-01-12 [1] Bioconductor                               
+##  regutools              * 0.99.0   2020-02-29 [1] Github (comunidadbioinfo/regutools@0cb5b18)
+##  RJSONIO                  1.3-1.4  2020-01-15 [1] CRAN (R 3.6.0)                             
+##  rlang                    0.4.4    2020-01-28 [1] CRAN (R 3.6.0)                             
+##  rmarkdown                2.1      2020-01-20 [1] CRAN (R 3.6.0)                             
+##  rpart                    4.1-15   2019-04-12 [1] CRAN (R 3.6.2)                             
+##  Rsamtools                2.2.1    2019-11-06 [1] Bioconductor                               
+##  RSQLite                  2.2.0    2020-01-07 [1] CRAN (R 3.6.0)                             
+##  rstudioapi               0.11     2020-02-07 [1] CRAN (R 3.6.0)                             
+##  rtracklayer              1.46.0   2019-10-29 [1] Bioconductor                               
+##  S4Vectors                0.24.3   2020-01-18 [1] Bioconductor                               
+##  scales                   1.1.0    2019-11-18 [1] CRAN (R 3.6.1)                             
+##  sessioninfo              1.1.1    2018-11-05 [1] CRAN (R 3.6.0)                             
+##  shiny                    1.4.0    2019-10-10 [1] CRAN (R 3.6.0)                             
+##  stringi                  1.4.6    2020-02-17 [1] CRAN (R 3.6.0)                             
+##  stringr                  1.4.0    2019-02-10 [1] CRAN (R 3.6.0)                             
+##  SummarizedExperiment     1.16.1   2019-12-19 [1] Bioconductor                               
+##  survival                 3.1-8    2019-12-03 [1] CRAN (R 3.6.2)                             
+##  tibble                   2.1.3    2019-06-06 [1] CRAN (R 3.6.0)                             
+##  tidyselect               1.0.0    2020-01-27 [1] CRAN (R 3.6.0)                             
+##  VariantAnnotation        1.32.0   2019-10-29 [1] Bioconductor                               
+##  vctrs                    0.2.3    2020-02-20 [1] CRAN (R 3.6.0)                             
+##  withr                    2.1.2    2018-03-15 [1] CRAN (R 3.6.0)                             
+##  xfun                     0.12     2020-01-13 [1] CRAN (R 3.6.0)                             
+##  XML                      3.99-0.3 2020-01-20 [1] CRAN (R 3.6.0)                             
+##  xtable                   1.8-4    2019-04-21 [1] CRAN (R 3.6.0)                             
+##  XVector                  0.26.0   2019-10-29 [1] Bioconductor                               
+##  yaml                     2.2.1    2020-02-01 [1] CRAN (R 3.6.0)                             
+##  zlibbioc                 1.32.0   2019-10-29 [1] Bioconductor                               
+## 
+## [1] /Library/Frameworks/R.framework/Versions/3.6/Resources/library</code></pre>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>As always, thank you <a href="https://unconf18.ropensci.org/">rOpenSci unconf 2018</a>!<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+<li id="fn2"><p>Sponsors are listed on each year’s workshop announcement. If you would like to sponsor our 2020 workshop, please get in touch with us. Thanks!!<a href="#fnref2" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/bioconductor/">Bioconductor</a>
+  
+  <a class="badge badge-light" href="/tags/developer-alumni/">Developer Alumni</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/post/from-bioconductor-users-to-developers-our-first-community-submission/&amp;text=From%20Bioconductor%20users%20to%20developers:%20our%20first%20community%20submission" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/post/from-bioconductor-users-to-developers-our-first-community-submission/&amp;t=From%20Bioconductor%20users%20to%20developers:%20our%20first%20community%20submission" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=From%20Bioconductor%20users%20to%20developers:%20our%20first%20community%20submission&amp;body=/post/from-bioconductor-users-to-developers-our-first-community-submission/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/post/from-bioconductor-users-to-developers-our-first-community-submission/&amp;title=From%20Bioconductor%20users%20to%20developers:%20our%20first%20community%20submission" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=From%20Bioconductor%20users%20to%20developers:%20our%20first%20community%20submission%20/post/from-bioconductor-users-to-developers-our-first-community-submission/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/post/from-bioconductor-users-to-developers-our-first-community-submission/&amp;title=From%20Bioconductor%20users%20to%20developers:%20our%20first%20community%20submission" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <img class="avatar mr-3 avatar-circle" src="/authors/lcollado/avatar_hub02ca7f9e3655ab17e4aaab23e8769df_150735_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/lcollado/">Leonardo Collado-Torres, PhD</a></h5>
+      <h6 class="card-subtitle">Staff Scientist II</h6>
+      <p class="card-text">Brain genomics #rstats coder working w/ @andrewejaffe @LieberInstitute. @lcgunam @jhubiostat @jtleek alumni. @LIBDrstats @CDSBMexico co-founder.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:lcolladotor@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="http://lcolladotor.github.io" target="_blank" rel="noopener">
+        <i class="fas fa-home"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/fellgernon" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=h57-MykAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/lcolladotor" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+<section id="comments">
+  
+    
+<div id="disqus_thread"></div>
+<script>
+  let disqus_config = function () {
+    
+    
+    
+  };
+  (function() {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+      return;
+    }
+    var d = document, s = d.createElement('script'); s.async = true;
+    s.src = 'https://' + "cdsbmexico" + '.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+  
+</section>
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/path-from-cdsbmexico-2018-to-bioc2019/">The path from CDSBMexico 2018 to BioC2019</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/bash.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/python.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/stata.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    <script id="dsq-count-scr" src="https://cdsbmexico.disqus.com/count.js" async></script>
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+  
+  
+  <p class="powered-by">
+    <a href="/niveles-de-patrocinio/">Sponsorship levels</a>
+  </p>
+  
+  
+  
+  <p class="powered-by">
+    <a href="/aviso-de-privacidad/">Aviso de Privacidad para la Protección de Datos Personales</a>
+  </p>
+  
+  
+  <p class="powered-by">
+  <center><a href='https://clustrmaps.com/site/1ao9l'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=m&d=_tlwMU2mhhJz4JuukyvCCo8NZJHVlAWIBpVqg2s8NMw'/></a></center>
+  
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ef23e545d41b87c"></script>
+   
+   <script type="text/javascript">
+   var addthis_config = {
+   	data_ga_property: 'UA-137796972-1',
+   	data_ga_social : true,
+   	data_track_addressbar: true,
+    data_track_addressbar_paths: ['/201*/*/*/*/*', '/post/*', '/es/post/*']
+   };
+   var addthis_share = {
+   	
+   	url_transforms : {
+   		shorten: {
+   			twitter: 'bitly'
+   		}
+   	}, 
+   	shorteners : {
+   		bitly : {}
+   	}
+   }
+   </script>
+   
+  </p>
+  
+
+  <p class="powered-by">
+    © 2018-2020 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
