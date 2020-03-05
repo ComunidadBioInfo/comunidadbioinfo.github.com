@@ -20,8 +20,8 @@
       <description>&lt;h4 id=&#34;comunidad-de-desarrolladores-de-software-en-bioinformática&#34;&gt;Comunidad de Desarrolladores de Software en Bioinformática&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Página del taller: 
-&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://comunidadbioinfo.github.io/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Página del taller&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Nivel: &lt;strong&gt;intermedio - avanzado&lt;/strong&gt;&lt;/p&gt;
@@ -114,13 +114,14 @@
 &lt;a href=&#34;https://github.com/ComunidadBioInfo/cdsb2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;el repositorio cdsb2020 del taller&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Día 1&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Flujo de trabajo orientado a proyectos:&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;Flujo de trabajo orientado a proyectos:
 &lt;ul&gt;
 &lt;li&gt;Trabajando con proyectos versus scripts.&lt;/li&gt;
 &lt;li&gt;Generación de un proyecto.&lt;/li&gt;
 &lt;li&gt;Paths seguros.&lt;/li&gt;
 &lt;li&gt;¿Qué nombre le doy a mi archivo?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Día 2&lt;/p&gt;
 &lt;ul&gt;
