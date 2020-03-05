@@ -3,6 +3,126 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/es/authors/admin/</loc>
+    <lastmod>2020-03-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/</loc>
+    <lastmod>2020-03-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/</loc>
+    <lastmod>2020-03-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/</loc>
+    <lastmod>2020-03-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/events/</loc>
+    <lastmod>2020-03-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/events/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/post/</loc>
+    <lastmod>2020-03-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/rstats/</loc>
+    <lastmod>2020-03-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/rstats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/rstats/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</loc>
+    <lastmod>2020-03-05T13:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/authors/lcollado/</loc>
     <lastmod>2020-02-29T17:00:00+00:00</lastmod>
     <xhtml:link
@@ -18,21 +138,6 @@
   </url>
   
   <url>
-    <loc>/es/authors/</loc>
-    <lastmod>2020-02-29T17:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/tags/bioconductor/</loc>
     <lastmod>2020-02-29T17:00:00+00:00</lastmod>
     <xhtml:link
@@ -44,36 +149,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/bioconductor/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/categories/</loc>
-    <lastmod>2020-02-29T17:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/</loc>
-    <lastmod>2020-02-29T17:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
                 />
   </url>
   
@@ -108,36 +183,6 @@
   </url>
   
   <url>
-    <loc>/es/post/</loc>
-    <lastmod>2020-02-29T17:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/categories/rstats/</loc>
-    <lastmod>2020-02-29T17:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/rstats/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/rstats/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/tags/</loc>
     <lastmod>2020-02-29T17:00:00+00:00</lastmod>
     <xhtml:link
@@ -149,36 +194,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/authors/admin/</loc>
-    <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/admin/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/categories/events/</loc>
-    <lastmod>2019-04-05T13:30:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/events/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/events/"
                 />
   </url>
   

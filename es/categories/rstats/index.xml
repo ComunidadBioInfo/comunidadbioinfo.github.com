@@ -5,12 +5,234 @@
     <link>/es/categories/rstats/</link>
       <atom:link href="/es/categories/rstats/index.xml" rel="self" type="application/rss+xml" />
     <description>rstats</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2020</copyright><lastBuildDate>Sat, 29 Feb 2020 17:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2020</copyright><lastBuildDate>Thu, 05 Mar 2020 13:30:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>rstats</title>
       <link>/es/categories/rstats/</link>
     </image>
+    
+    <item>
+      <title>Taller CDSB 2020: Construyendo flujos de trabajo con RStudio y Bioconductor para datos transcriptómicos de célula única (scRNA-seq)</title>
+      <link>/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</link>
+      <pubDate>Thu, 05 Mar 2020 13:30:00 +0000</pubDate>
+      <guid>/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</guid>
+      <description>&lt;h4 id=&#34;comunidad-de-desarrolladores-de-software-en-bioinformática&#34;&gt;Comunidad de Desarrolladores de Software en Bioinformática&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Página del taller: 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://comunidadbioinfo.github.io/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nivel: &lt;strong&gt;intermedio - avanzado&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Languaje: &lt;strong&gt;inglés&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cuando: Augusto 2 - Agosto 7, 2020&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Donde: Un salón de la 
+&lt;a href=&#34;https://www.lcg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LCG-UNAM&lt;/a&gt; dentro del 
+&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de Ciencias Genómicas&lt;/a&gt;, Cuernavaca, Morelos, Mexico&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Twitter: 
+&lt;a href=&#34;https://www.twitter.com/CDSBMexico/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@CDSBMexico&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Facebook: 
+&lt;a href=&#34;https://www.facebook.com/CDSBMexico/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@CDSBMexico&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub: 
+&lt;a href=&#34;https://github.com/ComunidadBioInfo/cdsb2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ComunidadBioInfo/cdsb2020&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://congresos.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registro&lt;/a&gt; (los registros empezarán el XX de abril del 2020)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resumen&#34;&gt;&lt;strong&gt;Resumen&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;¡Únete a nuestro taller del 2020! Este año te enseñaremos cómo mejorar tus habilidades para interactuar con el lenguaje de programación R con diversas estrategias para organizar tu código y tus proyectos. Esto te permitirá hacer análisis documentados que sean fácilmente reproducibles y puedas compartir con otros colaboradores (de la academia a la industria). Como caso de estudio, aprenderemos las herramientas estadísticas para analizar datos de transcriptómica en células únicas usando Bioconductor. El completar este taller te ayudará en tus diversos proyectos de R y de análisis de datos biológicos: todos tus análisis saldrán beneficiados, las ideas detrás de single-cell RNA-seq se usan en muchos otros análisis bioinformáticos. Además de los instructores de la CDSB, gracias al apoyo de Bioconductor este año contaremos con la presencia de 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/robamezquita/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robert Amezquita&lt;/a&gt;, coautor del libro 
+&lt;a href=&#34;https://osca.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Orchestrating Single Cell Analysis with Bioconductor&lt;/em&gt;&lt;/a&gt; y publicado en &lt;em&gt;Nature Methods&lt;/em&gt; (
+&lt;a href=&#34;https://doi.org/10.1038/s41592-019-0654-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;), que es de los 
+&lt;a href=&#34;https://www.altmetric.com/details/71569824&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artículos con mayor publicidad&lt;/a&gt; en 2020.&lt;/p&gt;
+&lt;iframe src=&#34;https://giphy.com/embed/L40sNfcoJs5Op5afQU&#34; width=&#34;480&#34; height=&#34;240&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/hustlersmovie-hustlers-movie-hustler-L40sNfcoJs5Op5afQU&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;pre-requisitos&#34;&gt;&lt;strong&gt;Pre-requisitos&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Requisitos de conocimientos previos&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Los participantes deberán tener conocimientos básicos del lenguaje de programación R: asignación de variables, lectura de archivos: &lt;code&gt;read.csv&lt;/code&gt;; estructuras de datos: &lt;code&gt;matrix&lt;/code&gt;, &lt;code&gt;data.frame&lt;/code&gt;, &lt;code&gt;list&lt;/code&gt;; tipos de datos: &lt;code&gt;character&lt;/code&gt;, &lt;code&gt;numeric&lt;/code&gt;, &lt;code&gt;factor&lt;/code&gt;, &lt;code&gt;logical&lt;/code&gt;, etc; instalación y uso de paquetes.&lt;/li&gt;
+&lt;li&gt;Saber instalar paquetes de R.&lt;/li&gt;
+&lt;li&gt;Saber usar RStudio.&lt;/li&gt;
+&lt;li&gt;Interés en hablar sobre problemas de generación de código.&lt;/li&gt;
+&lt;li&gt;Interés en aprender buenas prácticas para organizar tu trabajo y comenzar a compartir tu código con otras personas.&lt;/li&gt;
+&lt;li&gt;Deseas mantenerte conectado con la comunidad de desarrolladores de R.&lt;/li&gt;
+&lt;li&gt;Deseas aprender cómo analizar datos usando paquetes de R/Bioconductor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requisitos técnicos&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Computadora Personal. Un mínimo de 8 GB de RAM, un ratón y espacio de disco suficiente para archivos de texto y archivos de imagen. Privilegios de administrador para instalar y ejecutar utilidades de RStudio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;introducción&#34;&gt;&lt;strong&gt;Introducción&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;En años recientes, 
+&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; se ha convertido en uno de los lenguajes de programación más usados para la ciencia de datos. La explosión en la disponibilidad de datos en muchos campos ha incrementado la demanda para personas capacitadas en el analísis de estos datos, tal como es el caso en la Bioinformática. Los usarios de &lt;code&gt;R&lt;/code&gt; empiezan usando herramientas que otros han compartido con la comunidad internacional de forma libre. Mientras van analizando más conjuntos de datos, estos usuarios adquieren más habilidades con &lt;code&gt;R&lt;/code&gt;. Durante este proceso incluso es posible que empiecen a interactuar con desarrolladores de &lt;code&gt;R&lt;/code&gt; vía páginas web como 
+&lt;a href=&#34;https://community.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio Community&lt;/a&gt;, 
+&lt;a href=&#34;https://support.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor Support&lt;/a&gt; or vía Twitter usando la etiqueta 
+&lt;a href=&#34;https://twitter.com/search?q=%23rstats&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#rstats&lt;/a&gt; o 
+&lt;a href=&#34;https://twitter.com/search?q=%23rstatsES&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#rstatsES&lt;/a&gt;. Eventualmente algunos de los usuarios de R van a querer escribir sus propias funciones y organizar su código en diversos proyectos. Es en ese punto que es útil aprender cómo organizar tu código para que tu vida como programador de R sea más sencilla, de tal manera que le dediques más tiempo a tus proyectos en vez de a recordar dónde está tu código o qué hiciste hace unas semanas. Para poner estos temas en práctica, revisaremos los métodos más recientes para analizar datos de single cell RNA-seq (transcriptómica en células únicas) usando paquetes de R especializados para este objetivo que están disponibles libremente vía 
+&lt;a href=&#34;https://bioconductor.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Los instructores de este taller han participado en la CDSB desde su fundación y han ido a cursos como 
+&lt;a href=&#34;http://bioc2019.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioC2019&lt;/a&gt;, 
+&lt;a href=&#34;https://resources.rstudio.com/rstudio-conf-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rstudio::conf(2020)&lt;/a&gt;, entre otros. En años anteriores enseñamos cómo hacer paquetes de R y Bioconductor, que son de gran utilidad para compartir código con otras personas. Recientemente alumnos de la CDSB enviaron su 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/from-bioconductor-users-to-developers-our-first-community-submission/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;primer paquete de R a Bioconductor&lt;/a&gt;, lo cual representa un aumento porcentual enorme en la representación de latinoamericanos en la comunidad de desarrolladores de Bioconductor, lo cual demuestra que participar en la CDSB tiene un impacto más allá de la semana del taller. Para 2020 tendremos un enfoque práctico y a la vez manteniendo objetivos de la CDSB que son:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Transformar usuarios de software (de bioinformática) en desarrolladores de software (de bioinformática).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fomentar el intercambio de conocimiento y establecer colaboraciones multidisciplinarias.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Crear una comunidad de científicos Latino Americanos comprometidos con el desarrollo de software para análisis de datos (biológicos).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Entrenar a instructores (en bioinformática) para que puedan fomentar el crecimiendo de sus comunidades locales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Además de los instructores de la CDSB, gracias al apoyo de Bioconductor este año contaremos con la presencia de 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/robamezquita/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robert Amezquita&lt;/a&gt;, coautor del libro 
+&lt;a href=&#34;https://osca.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Orchestrating Single Cell Analysis with Bioconductor&lt;/em&gt;&lt;/a&gt; y publicado en &lt;em&gt;Nature Methods&lt;/em&gt; (
+&lt;a href=&#34;https://doi.org/10.1038/s41592-019-0654-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;), que es de los 
+&lt;a href=&#34;https://www.altmetric.com/details/71569824&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artículos con mayor publicidad&lt;/a&gt; en 2020. Por lo tanto, el taller de la CDSB 2020 será impartido en inglés.&lt;/p&gt;
+&lt;p&gt;Este taller es parte de un proyecto a largo plazo para crear una comunidad Latino Americana de desarrolladores de software. Esperamos poder organizar talleres en el futuro de forma sistemática (similar a BioC, EuroBioC y BioCAsia) donde los participantes presenten sus contribuciones de software. Queremos proveer un ambiente amigable para todos así que les pedimos que sigan el 
+&lt;a href=&#34;../../codigo-de-conducta/&#34;&gt;código de conducta&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;programa&#34;&gt;&lt;strong&gt;Programa&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;5 días de 8 horas de curso, más descansos y comidas. Para ver el horario detallado favor de revisar 
+&lt;a href=&#34;https://github.com/ComunidadBioInfo/cdsb2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;el repositorio cdsb2020 del taller&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Día 1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Flujo de trabajo orientado a proyectos:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Trabajando con proyectos versus scripts.&lt;/li&gt;
+&lt;li&gt;Generación de un proyecto.&lt;/li&gt;
+&lt;li&gt;Paths seguros.&lt;/li&gt;
+&lt;li&gt;¿Qué nombre le doy a mi archivo?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Día 2&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uso de Git y GitHub.&lt;/li&gt;
+&lt;li&gt;Actividad de integración de la CDSB.&lt;/li&gt;
+&lt;li&gt;Escritura y documentación de funciones.&lt;/li&gt;
+&lt;li&gt;Debugging.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Día 3&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Buenas prácticas de configuración y mantenimiento de espacios de trabajo.&lt;/li&gt;
+&lt;li&gt;Instalación de paqueterías desde código fuente.&lt;/li&gt;
+&lt;li&gt;Visión general del procesamiento de datos de scRNA-seq&lt;/li&gt;
+&lt;li&gt;RNA-seq vs scRNA-seq: ¿Qué tan diferentes son estos datos?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Días 4&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Objetos de R tipo SingleCellExperiment&lt;/li&gt;
+&lt;li&gt;Análisis exploratorio de datos de scRNA-seq&lt;/li&gt;
+&lt;li&gt;Métodos de reducción de dimensiones&lt;/li&gt;
+&lt;li&gt;Identificación de marcadores celulares&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Día 5&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clasificación en tipos celulares&lt;/li&gt;
+&lt;li&gt;Efectos de serie (batch effects) en datos de scRNA-seq&lt;/li&gt;
+&lt;li&gt;Análisis diferenciales con datos de scRNA-seq (proporciones de tipos celulares, expresión diferencial, diferencias en la variación biológica)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructores&#34;&gt;&lt;strong&gt;Instructores&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt; (International Laboratory for Human Genome Research, Juriquilla, Querétaro, Mexico) Alejandra recientemente dio una 
+&lt;a href=&#34;https://twitter.com/MxPyladies/status/1233208231184543745?s=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plática plenaria en el evento de Mujeres en Ciencias de Datos (Women in Data Science)&lt;/a&gt; de la Ciudad de México.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/josschavezf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joselyn Chávez&lt;/a&gt; (IBT-UNAM, Cuernavaca, Morelos, Mexico). Joselyn presentó su trabajo en 
+&lt;a href=&#34;http://bioc2019.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioC2019&lt;/a&gt; gracias a una beca, fue a 
+&lt;a href=&#34;https://resources.rstudio.com/rstudio-conf-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rstudio::conf(2020)&lt;/a&gt; gracias a una beca de diversidad donde tomó el taller de &lt;em&gt;What They Forgot to Teach You about R&lt;/em&gt; workshop, y recientemente fue parte del equipo que 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;envió el primer paquete de &lt;code&gt;R&lt;/code&gt; a Bioconductor por parte de ex-alumnos de la CDSB&lt;/a&gt;. Initialmente fue una alumna en CDSB2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; (Lieber Institute for Brain Development, Baltimore, MD, USA). Leonardo recentiemente publicó un artículo 
+&lt;a href=&#34;https://twitter.com/fellgernon/status/1233661576433061888?s=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(pre-print) sobre la transcriptómica &lt;em&gt;espacial&lt;/em&gt; usando la tecnología Visium de 10x Genomics&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maria Teresa Ortiz&lt;/a&gt; (CONABIO and ITAM, Mexico). Teresa presentó en 
+&lt;a href=&#34;https://resources.rstudio.com/rstudio-conf-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rstudio::conf(2020)&lt;/a&gt; su trabajo sobre algoritmos de conteo rápido para las elecciones presidenciales de México.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/robamezquita/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robert Amezquita&lt;/a&gt; (Fred Hutchinson Cancer Research Center, Seattle, WA, USA) Es el autor principal del libro 
+&lt;a href=&#34;https://osca.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Orchestrating Single Cell Analysis with Bioconductor&lt;/em&gt;&lt;/a&gt; y publicado en &lt;em&gt;Nature Methods&lt;/em&gt; (
+&lt;a href=&#34;https://doi.org/10.1038/s41592-019-0654-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;), que es de los 
+&lt;a href=&#34;https://www.altmetric.com/details/71569824&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artículos con mayor publicidad&lt;/a&gt; en 2020. Robert impartió un taller sobre este tema en 
+&lt;a href=&#34;http://bioc2019.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioC2019&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;comité-organizador&#34;&gt;&lt;strong&gt;Comité Organizador&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandra Medina-Rivera&lt;/a&gt; (International Laboratory for Human Genome Research, Juriquilla, Querétaro, Mexico)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt; (Dana-Farber Cancer Institute, Boston, MA, USA)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/josschavezf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joselyn Chávez&lt;/a&gt; (IBT-UNAM, Cuernavaca, Morelos, Mexico)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado-Torres&lt;/a&gt; (Lieber Institute for Brain Development, Baltimore, MD, USA)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;code-of-conductcodigo-de-conducta&#34;&gt;&lt;strong&gt;
+&lt;a href=&#34;../../codigo-de-conducta/&#34;&gt;Code of Conduct&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;patrocinadores&#34;&gt;&lt;strong&gt;Patrocinadores&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;../../niveles-de-patrocinio/&#34;&gt;Sé nuestro &lt;strong&gt;patrocinador&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/CCG_Logo_HR-300x114.png&#34; alt=&#34;Centro de Ciencias Genómicas UNAM&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.lcg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/LCG_Logo_HR-white.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; &lt;img src=&#34;http://bioconductor.org/images/logo/jpg/bioconductor_logo_cmyk.jpg&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- [![](/img/RConsortium_Horizontal_Pantone-768x173.png)](https://www.r-consortium.org/) | --&gt;
+&lt;p&gt;CDSB es un nodo de la 
+&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red Mexicana de Bioinformática&lt;/a&gt; y organiza el taller anual junto con el 
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nodo Nacional de Bioinformática (NNB)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>De usuarios de Bioconductor a desarrolladores: nuestro primer paquete</title>

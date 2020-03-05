@@ -5,12 +5,26 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Sat, 29 Feb 2020 17:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Thu, 05 Mar 2020 13:30:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Thu, 05 Mar 2020 13:30:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Welcome to the Community of Bioinformatics Software Developers (CDSB in Spanish)!&lt;/p&gt;
+&lt;p&gt;We are a group interested in helping members of Latin American countries acquire the necessary skills to contribute to open source software development. 
+&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; is now used by many industries and has been a long time favorite in academia. As &lt;code&gt;R&lt;/code&gt; users grow more familiar with the language, they typically end up writing their own functions and sharing them with others via packages. These packages can be distributed via 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; or via formal repositories like 
+&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAN&lt;/a&gt; and 
+&lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt;. &lt;code&gt;Bioconductor&lt;/code&gt; is a project centered around open source software for bioinformatics made with &lt;code&gt;R&lt;/code&gt; that has been helpful to many of us. We want to improve the representation of Latin American countries in open source developer communities to make them more diverse. Thus, our main goal is to help teach Latin Americans how to make &lt;code&gt;R&lt;/code&gt; packages and share them via GitHub, CRAN and Bioconductor.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -22,20 +36,6 @@
 &lt;a href=&#34;http://aejaffe.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Jaffe&lt;/a&gt; at 
 &lt;a href=&#34;https://www.libd.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIBD&lt;/a&gt;. He is interested in high-throughput genomics assays such as RNA-seq, developments in R and helping others get started in their R journey. Leonardo has been learning and teaching R since 2008 and is a co-founder of the 
 &lt;a href=&#34;http://research.libd.org/rstatsclub/#.XKVLJetKi50&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIBD rstats club&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Fri, 05 Apr 2019 13:30:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Welcome to the Community of Bioinformatics Software Developers (CDSB in Spanish)!&lt;/p&gt;
-&lt;p&gt;We are a group interested in helping members of Latin American countries acquire the necessary skills to contribute to open source software development. 
-&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; is now used by many industries and has been a long time favorite in academia. As &lt;code&gt;R&lt;/code&gt; users grow more familiar with the language, they typically end up writing their own functions and sharing them with others via packages. These packages can be distributed via 
-&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; or via formal repositories like 
-&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAN&lt;/a&gt; and 
-&lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt;. &lt;code&gt;Bioconductor&lt;/code&gt; is a project centered around open source software for bioinformatics made with &lt;code&gt;R&lt;/code&gt; that has been helpful to many of us. We want to improve the representation of Latin American countries in open source developer communities to make them more diverse. Thus, our main goal is to help teach Latin Americans how to make &lt;code&gt;R&lt;/code&gt; packages and share them via GitHub, CRAN and Bioconductor.&lt;/p&gt;
 </description>
     </item>
     
