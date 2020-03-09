@@ -5,12 +5,23 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>CDSB</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Thu, 05 Mar 2020 13:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Mon, 09 Mar 2020 18:30:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>CDSB</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>BioC2019 Code of Conduct violation response</title>
+      <link>/post/bioc2019-code-of-conduct-violation-response/</link>
+      <pubDate>Mon, 09 Mar 2020 18:30:00 +0000</pubDate>
+      <guid>/post/bioc2019-code-of-conduct-violation-response/</guid>
+      <description>&lt;p&gt;For the English version of this statement, please go to the 
+&lt;a href=&#34;http://bioc2019.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioC2019 website&lt;/a&gt;. At CDSB&amp;rsquo;s website you can find the 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/bioc2019-code-of-conduct-violation-response/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;translated Spanish version of this statement&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CDSB Workshop 2020: Building workflows with RStudio and Bioconductor for single cell RNA-seq analysis</title>

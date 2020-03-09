@@ -4,7 +4,7 @@
   
   <url>
     <loc>/es/authors/admin/</loc>
-    <lastmod>2020-03-05T13:30:00+00:00</lastmod>
+    <lastmod>2020-03-09T18:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>/es/authors/</loc>
-    <lastmod>2020-03-05T13:30:00+00:00</lastmod>
+    <lastmod>2020-03-09T18:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,8 +33,23 @@
   </url>
   
   <url>
+    <loc>/es/categories/bioconductor/</loc>
+    <lastmod>2020-03-09T18:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/bioconductor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/bioconductor/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/categories/</loc>
-    <lastmod>2020-03-05T13:30:00+00:00</lastmod>
+    <lastmod>2020-03-09T18:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,7 +64,7 @@
   
   <url>
     <loc>/es/</loc>
-    <lastmod>2020-03-05T13:30:00+00:00</lastmod>
+    <lastmod>2020-03-09T18:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,6 +74,51 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/conduct/</loc>
+    <lastmod>2020-03-09T18:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/conduct/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/conduct/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/post/</loc>
+    <lastmod>2020-03-09T18:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/post/bioc2019-code-of-conduct-violation-response/</loc>
+    <lastmod>2020-03-09T18:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/bioc2019-code-of-conduct-violation-response/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/bioc2019-code-of-conduct-violation-response/"
                 />
   </url>
   
@@ -74,21 +134,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/categories/events/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/post/</loc>
-    <lastmod>2020-03-05T13:30:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/"
                 />
   </url>
   
