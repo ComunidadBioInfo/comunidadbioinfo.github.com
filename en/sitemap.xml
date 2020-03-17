@@ -78,21 +78,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-03-09T18:30:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-  </url>
-  
-  <url>
     <loc>/categories/conduct/</loc>
     <lastmod>2020-03-09T18:30:00+00:00</lastmod>
     <xhtml:link
@@ -364,6 +349,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/niveles-de-patrocinio/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-05-09T16:06:58+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
                 />
   </url>
   

@@ -12,45 +12,5 @@
       <link>/categories/</link>
     </image>
     
-    <item>
-      <title>Bioconductor</title>
-      <link>/categories/bioconductor/</link>
-      <pubDate>Mon, 09 Mar 2020 18:30:00 +0000</pubDate>
-      <guid>/categories/bioconductor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conduct</title>
-      <link>/categories/conduct/</link>
-      <pubDate>Mon, 09 Mar 2020 18:30:00 +0000</pubDate>
-      <guid>/categories/conduct/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>/categories/events/</link>
-      <pubDate>Thu, 05 Mar 2020 13:30:00 +0000</pubDate>
-      <guid>/categories/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rstats</title>
-      <link>/categories/rstats/</link>
-      <pubDate>Thu, 05 Mar 2020 13:30:00 +0000</pubDate>
-      <guid>/categories/rstats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>difusion</title>
-      <link>/categories/difusion/</link>
-      <pubDate>Tue, 06 Mar 2018 20:49:18 +0000</pubDate>
-      <guid>/categories/difusion/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

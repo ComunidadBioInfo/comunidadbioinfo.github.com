@@ -12,29 +12,5 @@
       <link>/tags/</link>
     </image>
     
-    <item>
-      <title>Bioconductor</title>
-      <link>/tags/bioconductor/</link>
-      <pubDate>Sat, 29 Feb 2020 17:00:00 +0000</pubDate>
-      <guid>/tags/bioconductor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Developer Alumni</title>
-      <link>/tags/developer-alumni/</link>
-      <pubDate>Sat, 29 Feb 2020 17:00:00 +0000</pubDate>
-      <guid>/tags/developer-alumni/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Applications</title>
-      <link>/tags/applications/</link>
-      <pubDate>Thu, 04 Apr 2019 22:50:47 +0000</pubDate>
-      <guid>/tags/applications/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
