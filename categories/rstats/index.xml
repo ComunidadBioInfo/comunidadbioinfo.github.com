@@ -5,12 +5,61 @@
     <link>/categories/rstats/</link>
       <atom:link href="/categories/rstats/index.xml" rel="self" type="application/rss+xml" />
     <description>rstats</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Thu, 05 Mar 2020 13:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>rstats</title>
       <link>/categories/rstats/</link>
     </image>
+    
+    <item>
+      <title>CDSB: the story of a diversity and outreach hotspot in Mexico that hopes to empower local R developers</title>
+      <link>/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This blog post was submitted to the 
+&lt;a href=&#34;https://www.r-consortium.org/news/blog&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Consortium blog&lt;/a&gt; where it was published on 03/18/2020.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/2019-08-03-11.52.16.jpg&#34; width=&#34;800px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;I have been attending R conferences since 2008, and while I’ve seen the R community grow rapidly, I generally don’t encounter as many Latin Americans (LatAm) among communities of R developers. Traditionally, a lab lead investigator invested in R or Bioconductor would teach their trainees and students these skills, becoming a local R hotspot. However, that scenario is uncommon in Mexico for several reasons. Recognizing some of these challenges and driven to promote R in our home country and LatAm, in 2017 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt; and 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I&lt;/a&gt; teamed up with 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandra Medina Rivera&lt;/a&gt; and 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/hsalgado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heladia Salgado&lt;/a&gt; to eventually launch the Community of Bioinformatics Software Developers (
+&lt;a href=&#34;https://comunidadbioinfo.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB&lt;/a&gt; in Spanish) in 2018. One of our goals is to facilitate and encourage the transition from R user to R/Bioconductor developer. We have organized yearly one-week long workshops together with 
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNB-UNAM&lt;/a&gt; and 
+&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMB&lt;/a&gt; and just announced our 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 workshop&lt;/a&gt; (August 3-7 2020 Cuernavaca, Mexico).&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;If you are fighting for change, know that even when things feel hard and progress is slow (or seems nonexistent), you are still creating and holding space for those who will come after you. Even if you can’t see it now, the impact of your work will be visible in the future.&lt;/p&gt;&amp;mdash; Jen Heemstra (@jenheemstra) &lt;a href=&#34;https://twitter.com/jenheemstra/status/1235568526892515329?ref_src=twsrc%5Etfw&#34;&gt;March 5, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;Now unto our third workshop, I feel like we’ve had several success stories.&lt;/p&gt;
+&lt;p&gt;CDSB2018 alumni wrote a 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt; about their R GitHub package: &lt;code&gt;rGriffin&lt;/code&gt;.
+CDSB2018 alumni 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/path-from-cdsbmexico-2018-to-bioc2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;secured BioC2019 travel scholarships&lt;/a&gt; and presented their work.
+Three CDSB2018 and 2019 alumni submitted the 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;first package to Bioconductor (&lt;code&gt;regutools&lt;/code&gt;)&lt;/a&gt;, representing a significant percent-wise increase in the representation of LatAms in the Bioconductor developers community.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/regutools/alumni.png&#34; width=&#34;600px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;We have greatly benefited from the logistics and organization support by 
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNB-UNAM&lt;/a&gt; and 
+&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMB&lt;/a&gt; local teams, allowing us to focus on designing the workshop curriculum and inviting a diverse set of instructors, including 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/mteresa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maria Teresa Ortiz&lt;/a&gt; who is an 
+&lt;a href=&#34;https://twitter.com/RLadiesCDMX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RLadiesCDMX&lt;/a&gt; co-founder and has been supporting us from the beginning. However, we face economic challenges as the budget for the national science foundation (CONACyT) has decreased in recent years. The support by the small R conference fund by R Consortium and other sponsors has been instrumental, as well as diversity and travel scholarships some of our instructors have secured at R conferences. We just recently revamped our sponsor page and answered the question: 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/niveles-de-patrocinio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;why should you support us?&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;However, while we are just getting started, one of our highlights was born by 
+&lt;a href=&#34;https://ropensci.org/blog/2018/11/01/icebreaker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenSci’s icebreaker exercise&lt;/a&gt; at CDSB2019. We were able to really build a sense of community and desire to perform outreach activities at our local communities. Particularly, a CDSB2018 and 19 alumni, 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/josschavezf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joselyn Chávez&lt;/a&gt;, volunteered to join the CDSB board. At CDSB2019 we also created an #rladies channel in our Slack where at the time we had members of 3/4 Mexico’s RLadies chapters (
+&lt;a href=&#34;https://twitter.com/RLadies_Qro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qro&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/RLadiesXalapa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xalapa&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/RLadiesCDMX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDMX&lt;/a&gt;) and now have 5/6 (
+&lt;a href=&#34;https://twitter.com/RLadiesCuerna&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cuerna&lt;/a&gt;, 
+&lt;a href=&#34;https://www.meetup.com/rladies-monterrey/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Monterrey&lt;/a&gt;), as CDSB2018 and CDSB2019 alumni have been co-founders of two chapters: 
+&lt;a href=&#34;https://anabva.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ana Beatriz Villaseñor-Altamirano&lt;/a&gt; for Qro and 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/josschavezf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joselyn Chávez&lt;/a&gt; for Cuerna.&lt;/p&gt;
+&lt;p&gt;I am proud and excited of what we have achieved with our one-week long CDSB workshops, but also with how we used the tools we’ve learnt from other communities in order to keep interacting and communicating throughout the rest of the year. Time will tell if our efforts created a ripple that grew into a wave or if we’ll end burning out. Sustainability is a challenge, but we are greatly motivated by the impact we’ve had and can only imagine a brighter future.&lt;/p&gt;
+&lt;iframe src=&#34;https://giphy.com/embed/26hitlrnI4k5dKPPq&#34; width=&#34;480&#34; height=&#34;320&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/studiosoriginals-stay-strong-comfort-26hitlrnI4k5dKPPq&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CDSB Workshop 2020: Building workflows with RStudio and Bioconductor for single cell RNA-seq analysis</title>

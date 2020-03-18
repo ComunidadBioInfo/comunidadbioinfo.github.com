@@ -3,6 +3,141 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/es/authors/lcollado/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/lcollado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/lcollado/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/bioconductor/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/bioconductor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/bioconductor/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/post/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/r-consortium/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/r-consortium/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/r-consortium/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/rstats/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/rstats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/rstats/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/authors/admin/</loc>
     <lastmod>2020-03-09T18:30:00+00:00</lastmod>
     <xhtml:link
@@ -14,21 +149,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/authors/admin/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/authors/</loc>
-    <lastmod>2020-03-09T18:30:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/"
                 />
   </url>
   
@@ -48,21 +168,6 @@
   </url>
   
   <url>
-    <loc>/es/categories/</loc>
-    <lastmod>2020-03-09T18:30:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/categories/conduct/</loc>
     <lastmod>2020-03-09T18:30:00+00:00</lastmod>
     <xhtml:link
@@ -74,21 +179,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/categories/conduct/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/post/</loc>
-    <lastmod>2020-03-09T18:30:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/"
                 />
   </url>
   
@@ -123,21 +213,6 @@
   </url>
   
   <url>
-    <loc>/es/categories/rstats/</loc>
-    <lastmod>2020-03-05T13:30:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/rstats/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/rstats/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</loc>
     <lastmod>2020-03-05T13:30:00+00:00</lastmod>
     <xhtml:link
@@ -149,36 +224,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/authors/lcollado/</loc>
-    <lastmod>2020-02-29T17:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/lcollado/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/lcollado/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/bioconductor/</loc>
-    <lastmod>2020-02-29T17:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/bioconductor/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/bioconductor/"
                 />
   </url>
   
@@ -209,21 +254,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/developer-alumni/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/</loc>
-    <lastmod>2020-02-29T17:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
                 />
   </url>
   
