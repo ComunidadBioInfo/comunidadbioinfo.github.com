@@ -28,7 +28,31 @@
       <link>/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</link>
       <pubDate>Thu, 05 Mar 2020 13:30:00 +0000</pubDate>
       <guid>/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</guid>
-      <description>&lt;h4 id=&#34;community-of-bioinformatics-software-developers&#34;&gt;Community of Bioinformatics Software Developers&lt;/h4&gt;
+      <description>&lt;p&gt;&lt;em&gt;This workshop is part of the 
+&lt;a href=&#34;http://www.nnb.unam.mx/TIB2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mexican Bioinformatics Encounter (EBM in Spanish) 2020&lt;/a&gt; organized by CDSB with:&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TIB2020&lt;/th&gt;
+&lt;th&gt;RMB&lt;/th&gt;
+&lt;th&gt;NNB&lt;/th&gt;
+&lt;th&gt;CCG-UNAM&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/TIB2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/TIF-Logo_2020.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.ccg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;community-of-bioinformatics-software-developers-cdsb&#34;&gt;Community of Bioinformatics Software Developers (CDSB)&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
@@ -62,7 +86,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;http://congresos.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registration&lt;/a&gt; (Will open on April XX, 2020)&lt;/p&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/TIB2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registration&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
@@ -233,10 +257,11 @@
 &lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://www.ccg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;With support from:&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.lcg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/LCG_Logo_HR-white-e1522778427811.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;http://www.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.unam.mx/sites/default/files/images/eventos/azulb-390x390.jpg&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;http://www.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.zaragoza.unam.mx/portal/wp-content/Portal2015/Descargas/logo_unam_azul.jpg&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

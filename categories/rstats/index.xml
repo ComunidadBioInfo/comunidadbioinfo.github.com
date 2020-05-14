@@ -69,7 +69,31 @@ Three CDSB2018 and 2019 alumni submitted the
       <link>/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</link>
       <pubDate>Thu, 05 Mar 2020 13:30:00 +0000</pubDate>
       <guid>/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</guid>
-      <description>&lt;h4 id=&#34;community-of-bioinformatics-software-developers&#34;&gt;Community of Bioinformatics Software Developers&lt;/h4&gt;
+      <description>&lt;p&gt;&lt;em&gt;This workshop is part of the 
+&lt;a href=&#34;http://www.nnb.unam.mx/TIB2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mexican Bioinformatics Encounter (EBM in Spanish) 2020&lt;/a&gt; organized by CDSB with:&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TIB2020&lt;/th&gt;
+&lt;th&gt;RMB&lt;/th&gt;
+&lt;th&gt;NNB&lt;/th&gt;
+&lt;th&gt;CCG-UNAM&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/TIB2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/TIF-Logo_2020.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.ccg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;community-of-bioinformatics-software-developers-cdsb&#34;&gt;Community of Bioinformatics Software Developers (CDSB)&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
@@ -103,7 +127,7 @@ Three CDSB2018 and 2019 alumni submitted the
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;http://congresos.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registration&lt;/a&gt; (Will open on April XX, 2020)&lt;/p&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/TIB2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registration&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
@@ -274,10 +298,11 @@ Three CDSB2018 and 2019 alumni submitted the
 &lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://www.ccg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;With support from:&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.lcg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/LCG_Logo_HR-white-e1522778427811.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;http://www.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.unam.mx/sites/default/files/images/eventos/azulb-390x390.jpg&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;http://www.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.zaragoza.unam.mx/portal/wp-content/Portal2015/Descargas/logo_unam_azul.jpg&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1015,7 +1040,7 @@ sessioninfo::session_info()&lt;/code&gt;&lt;/pre&gt;
 &lt;/ol&gt;
 &lt;p&gt;Basically, the CDSB volunteers passed on the best practices they know for filling out these applications and writing abstracts, including here some timely advice from Wolfgang Huber (
 &lt;a href=&#34;https://www.embl.de/research/units/genome_biology/huber/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a longtime Bioconductor Project contributor&lt;/a&gt;).&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The generic paper abstract&lt;br&gt;1. Why is it important?    (1)&lt;br&gt;2. What is &amp;quot;it&amp;quot;?   (1)&lt;br&gt;3. But what is the problem with it?    (1)&lt;br&gt;4. What did you do about the problem?    (1)&lt;br&gt;5. What was your result?   (n)&lt;br&gt;6. What are some wider implications?  (1)&lt;br&gt; (in parentheses: number of sentences)&lt;/p&gt;&amp;mdash; Wolfgang Huber (@wolfgangkhuber) &lt;a href=&#34;https://twitter.com/wolfgangkhuber/status/1098965705100283906?ref_src=twsrc%5Etfw&#34;&gt;February 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The generic paper abstract&lt;br&gt;1. Why is it important?    (1)&lt;br&gt;2. What is &amp;quot;it&amp;quot;?   (1)&lt;br&gt;3. But what is the problem with it?    (1)&lt;br&gt;4. What did you do about the problem?    (1)&lt;br&gt;5. What was your result?   (n)&lt;br&gt;6. What are some wider implications?  (1)&lt;br&gt; (in parentheses: number of sentences)&lt;/p&gt;&amp;mdash; Wolfgang Huber 😷 (@wolfgangkhuber) &lt;a href=&#34;https://twitter.com/wolfgangkhuber/status/1098965705100283906?ref_src=twsrc%5Etfw&#34;&gt;February 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 &lt;h3 id=&#34;the-end-result&#34;&gt;The end result&lt;/h3&gt;

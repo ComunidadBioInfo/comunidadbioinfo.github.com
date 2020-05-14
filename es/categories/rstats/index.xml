@@ -69,7 +69,31 @@ Tres egresadas, egresados y egresadxs de CDSB2018 y 2019 mandaron su
       <link>/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</link>
       <pubDate>Thu, 05 Mar 2020 13:30:00 +0000</pubDate>
       <guid>/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</guid>
-      <description>&lt;h4 id=&#34;comunidad-de-desarrolladores-de-software-en-bioinformática&#34;&gt;Comunidad de Desarrolladores de Software en Bioinformática&lt;/h4&gt;
+      <description>&lt;p&gt;&lt;em&gt;Este taller es parte del 
+&lt;a href=&#34;http://www.nnb.unam.mx/TIB2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Encuentro de Bioinformática en México (EBM) 2020&lt;/a&gt; organizado por la CDSB junto con:&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TIB2020&lt;/th&gt;
+&lt;th&gt;RMB&lt;/th&gt;
+&lt;th&gt;NNB&lt;/th&gt;
+&lt;th&gt;CCG-UNAM&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/TIB2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/TIF-Logo_2020.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.ccg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;comunidad-de-desarrolladores-de-software-en-bioinformática--cdsb&#34;&gt;Comunidad de Desarrolladores de Software en Bioinformática  (CDSB)&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
@@ -82,7 +106,7 @@ Tres egresadas, egresados y egresadxs de CDSB2018 y 2019 mandaron su
 &lt;p&gt;Languaje: &lt;strong&gt;inglés&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Cuando: Augusto 2 - Agosto 7, 2020&lt;/p&gt;
+&lt;p&gt;Cuando: Agosto 3 - Agosto 7, 2020&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Donde: Un salón de la 
@@ -103,7 +127,7 @@ Tres egresadas, egresados y egresadxs de CDSB2018 y 2019 mandaron su
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;http://congresos.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registro&lt;/a&gt; (los registros empezarán el XX de abril del 2020)&lt;/p&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/TIB2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registro&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;resumen&#34;&gt;&lt;strong&gt;Resumen&lt;/strong&gt;&lt;/h2&gt;
@@ -278,10 +302,11 @@ Tres egresadas, egresados y egresadxs de CDSB2018 y 2019 mandaron su
 &lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://www.ccg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Con apoyo de:&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.lcg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/LCG_Logo_HR-white-e1522778427811.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;http://www.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.unam.mx/sites/default/files/images/eventos/azulb-390x390.jpg&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;http://www.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.zaragoza.unam.mx/portal/wp-content/Portal2015/Descargas/logo_unam_azul.jpg&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1020,7 +1045,7 @@ sessioninfo::session_info()&lt;/code&gt;&lt;/pre&gt;
 &lt;/ol&gt;
 &lt;p&gt;Básicamente, los voluntarios de la CDSB compartieron las mejores prácticas que conocen para llenar este tipo de solicitudes y para escribir resúmenes científicos, incluyendo los consejos que recientemente compartió Wolfgang Huber (
 &lt;a href=&#34;https://www.embl.de/research/units/genome_biology/huber/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;uno de los primeros contribuidores al proyecto de Bioconductor&lt;/a&gt;).&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The generic paper abstract&lt;br&gt;1. Why is it important?    (1)&lt;br&gt;2. What is &amp;quot;it&amp;quot;?   (1)&lt;br&gt;3. But what is the problem with it?    (1)&lt;br&gt;4. What did you do about the problem?    (1)&lt;br&gt;5. What was your result?   (n)&lt;br&gt;6. What are some wider implications?  (1)&lt;br&gt; (in parentheses: number of sentences)&lt;/p&gt;&amp;mdash; Wolfgang Huber (@wolfgangkhuber) &lt;a href=&#34;https://twitter.com/wolfgangkhuber/status/1098965705100283906?ref_src=twsrc%5Etfw&#34;&gt;February 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The generic paper abstract&lt;br&gt;1. Why is it important?    (1)&lt;br&gt;2. What is &amp;quot;it&amp;quot;?   (1)&lt;br&gt;3. But what is the problem with it?    (1)&lt;br&gt;4. What did you do about the problem?    (1)&lt;br&gt;5. What was your result?   (n)&lt;br&gt;6. What are some wider implications?  (1)&lt;br&gt; (in parentheses: number of sentences)&lt;/p&gt;&amp;mdash; Wolfgang Huber 😷 (@wolfgangkhuber) &lt;a href=&#34;https://twitter.com/wolfgangkhuber/status/1098965705100283906?ref_src=twsrc%5Etfw&#34;&gt;February 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 &lt;h3 id=&#34;el-resultado-final&#34;&gt;El resultado final&lt;/h3&gt;
