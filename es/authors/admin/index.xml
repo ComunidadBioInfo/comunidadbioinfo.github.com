@@ -81,15 +81,13 @@
 &lt;p&gt;Nivel: &lt;strong&gt;intermedio - avanzado&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Languaje: &lt;strong&gt;inglés&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Languaje: &lt;strong&gt;español&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Cuando: Agosto 3 - Agosto 7, 2020&lt;/p&gt;
+&lt;p&gt;Cuando: Agosto 3 - Agosto 7, 2020 (9 am a 5:30 pm excepto el viernes que será hasta las 2:30 pm)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Donde: Un salón de la 
-&lt;a href=&#34;https://www.lcg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LCG-UNAM&lt;/a&gt; dentro del 
-&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de Ciencias Genómicas&lt;/a&gt;, Cuernavaca, Morelos, Mexico&lt;/p&gt;
+&lt;p&gt;Donde: en línea. El horario está en hora del centro de México.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Twitter: 
@@ -109,11 +107,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;resumen&#34;&gt;&lt;strong&gt;Resumen&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;¡Únete a nuestro taller del 2020! Este año te enseñaremos cómo mejorar tus habilidades para interactuar con el lenguaje de programación R con diversas estrategias para organizar tu código y tus proyectos. Esto te permitirá hacer análisis documentados que sean fácilmente reproducibles y puedas compartir con otros colaboradores (de la academia a la industria). Como caso de estudio, aprenderemos las herramientas estadísticas para analizar datos de transcriptómica en células únicas usando Bioconductor. El completar este taller te ayudará en tus diversos proyectos de R y de análisis de datos biológicos: todos tus análisis saldrán beneficiados, las ideas detrás de single-cell RNA-seq se usan en muchos otros análisis bioinformáticos. Además de los instructores de la CDSB, gracias al apoyo de Bioconductor este año contaremos con la presencia de 
-&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/robamezquita/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robert Amezquita&lt;/a&gt;, coautor del libro 
-&lt;a href=&#34;https://osca.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Orchestrating Single Cell Analysis with Bioconductor&lt;/em&gt;&lt;/a&gt; y publicado en &lt;em&gt;Nature Methods&lt;/em&gt; (
-&lt;a href=&#34;https://doi.org/10.1038/s41592-019-0654-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;), que es de los 
-&lt;a href=&#34;https://www.altmetric.com/details/71569824&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artículos con mayor publicidad&lt;/a&gt; en 2020.&lt;/p&gt;
+&lt;p&gt;¡Únete a nuestro taller del 2020! Este año te enseñaremos cómo mejorar tus habilidades para interactuar con el lenguaje de programación R con diversas estrategias para organizar tu código y tus proyectos. Esto te permitirá hacer análisis documentados que sean fácilmente reproducibles y puedas compartir con otros colaboradores (de la academia a la industria). Como caso de estudio, aprenderemos las herramientas estadísticas para analizar datos de transcriptómica en células únicas usando Bioconductor. El completar este taller te ayudará en tus diversos proyectos de R y de análisis de datos biológicos: todos tus análisis saldrán beneficiados, las ideas detrás de single-cell RNA-seq se usan en muchos otros análisis bioinformáticos.&lt;/p&gt;
 &lt;iframe src=&#34;https://giphy.com/embed/L40sNfcoJs5Op5afQU&#34; width=&#34;480&#34; height=&#34;240&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/hustlersmovie-hustlers-movie-hustler-L40sNfcoJs5Op5afQU&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;pre-requisitos&#34;&gt;&lt;strong&gt;Pre-requisitos&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Requisitos de conocimientos previos&lt;/strong&gt;&lt;/p&gt;
@@ -156,20 +150,24 @@
 &lt;p&gt;Entrenar a instructores (en bioinformática) para que puedan fomentar el crecimiendo de sus comunidades locales.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Además de los instructores de la CDSB, gracias al apoyo de Bioconductor este año contaremos con la presencia de 
-&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/robamezquita/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robert Amezquita&lt;/a&gt;, coautor del libro 
-&lt;a href=&#34;https://osca.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Orchestrating Single Cell Analysis with Bioconductor&lt;/em&gt;&lt;/a&gt; y publicado en &lt;em&gt;Nature Methods&lt;/em&gt; (
-&lt;a href=&#34;https://doi.org/10.1038/s41592-019-0654-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;), que es de los 
-&lt;a href=&#34;https://www.altmetric.com/details/71569824&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artículos con mayor publicidad&lt;/a&gt; en 2020. Por lo tanto, el taller de la CDSB 2020 será impartido en inglés.&lt;/p&gt;
+&lt;p&gt;La porción del taller sobre scRNA-seq estará basada en el libro 
+&lt;a href=&#34;https://osca.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Orchestrating Single Cell Analysis with Bioconductor&lt;/em&gt;&lt;/a&gt; que fue publicado en &lt;em&gt;Nature Methods&lt;/em&gt; (
+&lt;a href=&#34;https://doi.org/10.1038/s41592-019-0654-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;) y que es de los 
+&lt;a href=&#34;https://www.altmetric.com/details/71569824&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artículos con mayor publicidad&lt;/a&gt; en 2020.&lt;/p&gt;
 &lt;p&gt;Este taller es parte de un proyecto a largo plazo para crear una comunidad Latino Americana de desarrolladores de software. Esperamos poder organizar talleres en el futuro de forma sistemática (similar a BioC, EuroBioC y BioCAsia) donde los participantes presenten sus contribuciones de software. Queremos proveer un ambiente amigable para todos así que les pedimos que sigan el 
 &lt;a href=&#34;../../codigo-de-conducta/&#34;&gt;código de conducta&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;programa&#34;&gt;&lt;strong&gt;Programa&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;5 días de 8 horas de curso, más descansos y comidas. Para ver el horario detallado favor de revisar 
-&lt;a href=&#34;https://github.com/ComunidadBioInfo/cdsb2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;el repositorio cdsb2020 del taller&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;De 9 am a 5:30 pm en el horario central de Mexico (el viernes terminaremos a las 2:30 pm) con tiempo para descansar y comer. El horario detallado y las ligas de Zoom serán compartidos con los participantes registrados a través del calendario privado de Google de la CDSB. Para ver más detalles del horario favor de revisar 
+&lt;a href=&#34;https://github.com/ComunidadBioInfo/cdsb2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;el repositorio CDSB2020 del taller&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;De 8 a 9 am todos los días tendremos sesiones de ayuda de instalación de software para quien necesite la ayuda.&lt;/p&gt;
 &lt;p&gt;Día 1&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Inauguración EBM2020&lt;/li&gt;
+&lt;li&gt;Bienvenida a la CDSB&lt;/li&gt;
+&lt;li&gt;Introducciones de los participantes&lt;/li&gt;
 &lt;li&gt;Flujo de trabajo orientado a proyectos:
 &lt;ul&gt;
+&lt;li&gt;Introducción al flujo de trabajo orientado a proyectos.&lt;/li&gt;
 &lt;li&gt;Trabajando con proyectos versus scripts.&lt;/li&gt;
 &lt;li&gt;Generación de un proyecto.&lt;/li&gt;
 &lt;li&gt;Paths seguros.&lt;/li&gt;
@@ -180,29 +178,35 @@
 &lt;p&gt;Día 2&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Uso de Git y GitHub.&lt;/li&gt;
-&lt;li&gt;Actividad de integración de la CDSB.&lt;/li&gt;
+&lt;li&gt;Modificando los archivos de inicio de R.&lt;/li&gt;
 &lt;li&gt;Escritura y documentación de funciones.&lt;/li&gt;
 &lt;li&gt;Debugging.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Día 3&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Buenas prácticas de configuración y mantenimiento de espacios de trabajo.&lt;/li&gt;
+&lt;li&gt;Foto / video remoto.&lt;/li&gt;
 &lt;li&gt;Instalación de paqueterías desde código fuente.&lt;/li&gt;
 &lt;li&gt;Visión general del procesamiento de datos de scRNA-seq&lt;/li&gt;
-&lt;li&gt;RNA-seq vs scRNA-seq: ¿Qué tan diferentes son estos datos?&lt;/li&gt;
+&lt;li&gt;Actividades para construir la comunidad&lt;/li&gt;
+&lt;li&gt;Presentación del material para scRNA-seq&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Días 4&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Objetos de R tipo SingleCellExperiment&lt;/li&gt;
-&lt;li&gt;Análisis exploratorio de datos de scRNA-seq&lt;/li&gt;
-&lt;li&gt;Métodos de reducción de dimensiones&lt;/li&gt;
-&lt;li&gt;Identificación de marcadores celulares&lt;/li&gt;
+&lt;li&gt;Introducción a scRNA-seq&lt;/li&gt;
+&lt;li&gt;Introducción a scRNA-seq con Bioconductor&lt;/li&gt;
+&lt;li&gt;Estructura e importe de datos&lt;/li&gt;
+&lt;li&gt;Control de calidad&lt;/li&gt;
+&lt;li&gt;Normalización de datos&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Día 5&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Clasificación en tipos celulares&lt;/li&gt;
-&lt;li&gt;Efectos de serie (batch effects) en datos de scRNA-seq&lt;/li&gt;
-&lt;li&gt;Análisis diferenciales con datos de scRNA-seq (proporciones de tipos celulares, expresión diferencial, diferencias en la variación biológica)&lt;/li&gt;
+&lt;li&gt;Selección de genes&lt;/li&gt;
+&lt;li&gt;Reducción de dimensiones&lt;/li&gt;
+&lt;li&gt;Clustering y detección de genes diferencialmente expresados&lt;/li&gt;
+&lt;li&gt;spatialLIBD: análisis de datos de la plataforma Visium de 10x Genomics&lt;/li&gt;
+&lt;li&gt;Evaluación del taller&lt;/li&gt;
+&lt;li&gt;Clausura y recordatorio de la CDSB&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;instructores&#34;&gt;&lt;strong&gt;Instructores&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
@@ -227,14 +231,6 @@
 &lt;p&gt;
 &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/mteresa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maria Teresa Ortiz&lt;/a&gt; (CONABIO and ITAM, Mexico). Teresa presentó en 
 &lt;a href=&#34;https://resources.rstudio.com/rstudio-conf-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rstudio::conf(2020)&lt;/a&gt; su trabajo sobre algoritmos de conteo rápido para las elecciones presidenciales de México.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/robamezquita/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robert Amezquita&lt;/a&gt; (Fred Hutchinson Cancer Research Center, Seattle, WA, USA) Es el autor principal del libro 
-&lt;a href=&#34;https://osca.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Orchestrating Single Cell Analysis with Bioconductor&lt;/em&gt;&lt;/a&gt; y publicado en &lt;em&gt;Nature Methods&lt;/em&gt; (
-&lt;a href=&#34;https://doi.org/10.1038/s41592-019-0654-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;), que es de los 
-&lt;a href=&#34;https://www.altmetric.com/details/71569824&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artículos con mayor publicidad&lt;/a&gt; en 2020. Robert impartió un taller sobre este tema en 
-&lt;a href=&#34;http://bioc2019.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioC2019&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;comité-organizador&#34;&gt;&lt;strong&gt;Comité Organizador&lt;/strong&gt;&lt;/h2&gt;
