@@ -5,12 +5,90 @@
     <link>/tags/r-consortium/</link>
       <atom:link href="/tags/r-consortium/index.xml" rel="self" type="application/rss+xml" />
     <description>R Consortium</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>R Consortium</title>
       <link>/tags/r-consortium/</link>
     </image>
+    
+    <item>
+      <title>Latin American communities and organizations: useR!2020 video</title>
+      <link>/post/user_latin_american_community/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/user_latin_american_community/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This useR!2020 session and video was organized by 
+&lt;a href=&#34;https://twitter.com/_lacion_&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laura Acion&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/yabellini&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yanina Bellini Saibene&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/PaobCorrales&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paola Corrales&lt;/a&gt;, and 
+&lt;a href=&#34;https://twitter.com/palolili23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paloma Rojas Saunero&lt;/a&gt;. 
+&lt;a href=&#34;https://twitter.com/fellgernon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado Torres&lt;/a&gt; coordinated the blog post submission. This blog post was originally submitted to the 
+&lt;a href=&#34;https://www.r-consortium.org/blog/2020/07/07/latin-american-communities-and-organizations-at-user2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Consortium blog&lt;/a&gt; and published there on July 8th 2020.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;On June 19th 2020 we filmed a video for 
+&lt;a href=&#34;https://user2020.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;useR!2020&lt;/a&gt; showcasing the communities and organizations we are involved in that are for Latin Americans or have Latin American participants. In this blog post, we wanted to highlight these initiatives and remind everyone that we are more than happy to help you launch similar initiatives in your local communities.&lt;/p&gt;
+&lt;img src=&#34;https://lh6.googleusercontent.com/Bo9ZwbNi1uLUYehBm3n-OnoJ_QXolp1uY1wotBKqE4U1JY9l_EsughzZmkhPbydxsCP-MmgqEysgfAdMfcIEbPY0uLkVBsPk1LoETPes-zPqqE7Olway4MFuE5XacV6KKXkLBn9o&#34; width=&#34;800px&#34;/&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/LatinR_Conf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LatinR&lt;/a&gt;: 
+&lt;a href=&#34;https://latin-r.com/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LatinR&lt;/a&gt; is a trilingual international conference on the use of R in research and development across Latin America. Since launching in 2018, our annual meetings have been a starting point for new packages, local user groups, reading clubs, R-Ladies chapters, translations, and other initiatives in the region.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/conecta_R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ConectaR&lt;/a&gt;: ConectaR 2019 took place during January 24-26, 2019 at the University of Costa Rica, in San José, Costa Rica. It was the first event in Central America endorsed by The R Foundation, and it was held completely in Spanish. You can find more information 
+&lt;a href=&#34;https://journal.r-project.org/archive/2019-2/conectaR.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/satRdays_org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;satRday&lt;/a&gt;: 
+&lt;a href=&#34;https://satrdays.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SatRday&lt;/a&gt; is a conference about R and its applications, that happens all over the world, and it is organized by the local community. Two satRdays events happened in Latin America: in Santiago - Chile and São Paulo - Brazil. If you want to organize a satRday anywhere in Latin America, please get it touch so we can help each other!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/RLadiesGlobal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies&lt;/a&gt;: 
+&lt;a href=&#34;https://rladies.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies&lt;/a&gt; is a global organisation that promotes gender diversity in the R community. It has 123 active chapters in 51 countries around the world, of which 49 are found across 10 Latin American countries. Some Latin Americans are part of the R-Ladies Global Team, including its leadership. COVID-19 has not stopped us, instead, we have migrated online and fostered alliances among different chapters. All in an effort to give gender minorities in the R community the opportunity to learn R in a safe and supportive environment. Join us!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/rOpenSci&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenSci&lt;/a&gt;: R for open science, 
+&lt;a href=&#34;https://ropensci.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenSci&lt;/a&gt;, provides free technical review of R packages to improve the quality of open source software in order to maximize readability, usability, usefulness, and minimize redundancy. Their peer-review process will soon be translated to Spanish and you can get involved!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/CDSBMexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB&lt;/a&gt;: the 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Community of Bioinformatics Software Developers&lt;/a&gt; (CDSB in Spanish) was born in 2018 with the goal of helping Latin American R users become R &amp;amp; 
+&lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor&lt;/a&gt; developers and increase the representation of Latinx in these communities. For more information about CDSB check 
+&lt;a href=&#34;http://bit.ly/cdsbpost2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bit.ly/cdsbpost2020&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.r-consortium.org/projects/r-user-group-support-program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RUGs&lt;/a&gt;: there are several R User Groups in Latin America, some of which are officially sponsored by the 
+&lt;a href=&#34;https://twitter.com/RConsortium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Consortium&lt;/a&gt;. We believe that creating a welcoming space is crucial for keeping the ideas flowing, which allows for meaningful networking and, consequently, the development of new projects. We can help you start your own group!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/R4DS_es&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R4DS&lt;/a&gt; in Spanish + datos package: the resources to learn R in English are many, awesome, online, and free. But in Latin America few people can afford to learn English, and the resources in Spanish are few. To help solve this problem, we community-translated to 
+&lt;a href=&#34;https://es.r4ds.hadley.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spanish the “R for Data Science” book&lt;/a&gt; and developed a package with the translation of all the datasets used in it: [datos](&lt;a href=&#34;https://cran.r-project.org/web/packages/datos/index.html&#34;&gt;https://cran.r-project.org/web/packages/datos/index.html&lt;/a&gt;. The workflow to contribute to the package was designed to engage first-time contributors, and is now guiding the development of a new version in Portuguese that will be released in the next few months.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/hashtag/datosdemiercoles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#DatosDeMiércoles&lt;/a&gt; + 
+&lt;a href=&#34;https://twitter.com/hashtag/30diasdegraficos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#30díasdegráficos&lt;/a&gt;: The 
+&lt;a href=&#34;https://twitter.com/R4DS_es&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@R4DS_es&lt;/a&gt; Twitter account was created as a way to share projects like the R4DS translation and to developed initiatives to foster the Spanish-speaking R community,  like #datosdemieRcoles, the Latin American cousin of 
+&lt;a href=&#34;https://twitter.com/hashtag/tidytuesday&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#TidyTuesday&lt;/a&gt;. The idea is not only to use datasets that are in Spanish, but also datasets that are relevant for our Region. This initiative has been complemented with the 30 days plot challenge #30díasdegráficos. If you want to participate proposing a dataset for #datodemiéRcoles, please visit our 
+&lt;a href=&#34;https://github.com/cienciadedatos/datos-de-miercoles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github repo&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/thecarpentries&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Carpentries&lt;/a&gt;: 
+&lt;a href=&#34;https://carpentries.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Carpentries&lt;/a&gt; builds global capacity in essential data and computational skills for conducting efficient, open, and reproducible research. Building a sustainable and active community in Latin America includes several initiatives: lesson translations, instructor training, workshop coordination, and fundraising. Get in touch with us through the mailing list and the carpentries-es channel at the 
+&lt;a href=&#34;https://swc-slack-invite.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carpentries Slack workspace&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/ReproHack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ReproHack&lt;/a&gt;: 
+&lt;a href=&#34;https://reprohack.github.io/reprohack-hq/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ReproHack&lt;/a&gt; is a growing community for researchers that are fighting the reproducibility crisis by sharing their experiences across disciplines. It is focused on organizing hackathons where participants attempt to reproduce published research from a list of proposed papers with public code and data. We are planning the first ReproHack in Spanish for October 2020 and you can get in touch with us through 
+&lt;a href=&#34;https://twitter.com/ReproHack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/AIinclusive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI Inclusive&lt;/a&gt;: 
+&lt;a href=&#34;https://www.ai-inclusive.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI Inclusive&lt;/a&gt; is an organization that promotes diversity in the AI Community. We want to bring awareness around Artificial Intelligence issues and empower the community so they can enter in the AI field, a field that is not diverse at all. In December 2019, we had our launch events in Rio de Janeiro, Brazil and San Francisco, California. Follow us and join us!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/datalatam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Latam&lt;/a&gt;: in May 2016 we started with the first 
+&lt;a href=&#34;http://www.datalatam.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Latam podcast&lt;/a&gt;, aimed at offering an easy entry point, in Spanish, to those interested in data science. We always ask our interviewees: “How did you get where you are?”, and the diversity of stories has been enormous. Today Data Latam is a Latin American community of professionals and academics, who apply data science in their day to day work and we invite you to participate!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What happens in the R Community doesn’t stay in the R Community. All the good practices of inclusive and diverse communities learned in several of the initiatives presented before, generate strong work teams within and beyond the R community. There is still a lot to be done, but what we’ve already achieved is very encouraging and provides a solid foundation for the future.&lt;/p&gt;
+&lt;p&gt;These initiatives are sustained by many people making a great, mostly volunteer, effort behind the scenes. Some of the challenges that the communities face are translated into multiple positives, sustained, and a lot of invisible hard work. Some of them are: finding international funding due to limited local options, translating content, joining forces across organizations, organizing regional conferences, and becoming active developers of the technology.&lt;/p&gt;
+&lt;p&gt;The Latin American R community is growing fast and so does the responsibility to make this growth solid and safe. Some of the future work that we, as community builders, look forward to fulfilling are: consolidating regional conferences with support of international sponsors; acquiring funding to sustain translations; amplifying the voices of regional minorities; importing educational material and work opportunities; connecting expats with their local communities; helping other groups such as RUGs and RLadies; connecting with other initiatives such as 
+&lt;a href=&#34;https://twitter.com/R_Forwards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Forwards&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/AfricaRUsers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Africa-R&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/miR_community&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiR&lt;/a&gt;, among others; Increase our and other minorities representation in the 
+&lt;a href=&#34;https://www.r-project.org/contributors.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Core Team&lt;/a&gt;, the 
+&lt;a href=&#34;https://www.r-project.org/foundation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Foundation&lt;/a&gt;, and the 
+&lt;a href=&#34;https://twitter.com/RConsortium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Consortium&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you! Please watch our useR! 2020 video on 
+&lt;a href=&#34;https://youtu.be/gtRntU2J3Cg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;img src=&#34;https://lh3.googleusercontent.com/GRMf3aoxL1mUH_3kgme-xhtba7b6JDnOlMFDP2MvtvL0Y3-ciBsqSoHtLmMm5WLXj-DZEJIgzJDhfLIy-UlvgN7FxOm-sTjvfTBFJF-SKZZW9VoftTG70EYnVY4FobOiSi8WX7GR&#34; width=&#34;800px&#34;/&gt;
+</description>
+    </item>
     
     <item>
       <title>CDSB: the story of a diversity and outreach hotspot in Mexico that hopes to empower local R developers</title>
