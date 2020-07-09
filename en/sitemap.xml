@@ -646,6 +646,20 @@
   </url>
   
   <url>
+    <loc>/authors/mramos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/mramos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/mramos/"
+                />
+  </url>
+  
+  <url>
     <loc>/authors/mteresa/</loc>
     <xhtml:link
                 rel="alternate"
