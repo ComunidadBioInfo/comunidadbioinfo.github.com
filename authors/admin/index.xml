@@ -5,12 +5,63 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>CDSB</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>CDSB</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>The impact of CDSB on me</title>
+      <link>/post/the_impact_of_cdsb_on_me/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/the_impact_of_cdsb_on_me/</guid>
+      <description>&lt;p&gt;&lt;em&gt;By 
+&lt;a href=&#34;https://erickcufe.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erick Cuevas Fernández&lt;/a&gt;, M. Sc., Bioinformatician. Universidad Nacional Autonoma de Mexico. Universidad Autonoma del Estado de Morelos. Systems Biology and Translational Medicine Laboratory. 
+&lt;a href=&#34;https://twitter.com/ErickCuevasF&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@ErickCuevasF&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In 2018 I heard of a 
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workshop&lt;/a&gt; where 
+&lt;a href=&#34;https://www.roswellpark.org/martin-morgan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Morgan&lt;/a&gt; was performing in Mexico, at that time I had only a few months learning to use R, and I did not know who Martin Morgan was and had vague notions of Bioconductor. That year I started taking the 
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;international bioinformatics workshops&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It was thanks to taking the 
+&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/cdsb-workshop-how-to-build-and-create-tidy-tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019 CDSB workshop&lt;/a&gt; that I was able to have a new international panorama of R development, know that there were events such as useR, BioC, rstudio :: global(), etc., It was highly motivated that a Mexican community was doing a effort to spread knowledge, inspire and expand the perspective of collaboration and development of free software to Mexicans.
+As a graduate student and with the science cuts that are becoming more frequent in Mexico, it is difficult to travel to another country to attend a workshop or a congress, due to the issue of VISA, passport, paying for a flight, accommodation, meals and registration. That is why the CDSB workshop of international quality accessible by its location and cost are valued to many Mexican students. And not only that, the same CDSB helps and promotes the 
+&lt;a href=&#34;https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;application for scholarships&lt;/a&gt; for Mexican students in workshops and congresses for R developers in other countries.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-08-21-the_impact_of_cdsb_on_me/2018.jpg&#34; alt=&#34;TIBs 2018, Cuernavaca, Morelos, Mexico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This 2020 with the pandemic and the promotion of the CDSB, was that I had the opportunity to attend the 
+&lt;a href=&#34;https://bioc2020.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioC2020&lt;/a&gt;. The dedication and effort of each speaker to explain a relevant and specialized topic was amazing. The knowledge that was displayed in just one hour was shocking. Despite having been virtually, it was to admire Bioconductor&amp;rsquo;s commitment so that each exhibitor will generate interaction with all attendees. The inclusion and support of the Bioconductor community is impressive, willing to cooperate and help. Regardless of their age, nationality, gender, or grade, they all intended to help, cooperate, and share. There was a huge emotion to see Mexicans displaying their own packages, people you know physically, students like me.
+At the end of the workshop I finished with a feeling of happiness, enthusiasm, inspiration, wanting to learn and share.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/BioC2020?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#BioC2020&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw&#34;&gt;@CDSBMexico&lt;/a&gt; My first BioC, I really enjoyed it a lot, opened up a universe for me. I feel responsible and enthusiastic to share what I have learned in my academic community and continue learning. I look forward to exhibiting my first first pack in BioC2021 next year &lt;a href=&#34;https://t.co/1K9dscoB1e&#34;&gt;pic.twitter.com/1K9dscoB1e&lt;/a&gt;&lt;/p&gt;&amp;mdash; Erick Cuevas (@ErickCuevasF) &lt;a href=&#34;https://twitter.com/ErickCuevasF/status/1289292982550556672?ref_src=twsrc%5Etfw&#34;&gt;July 31, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;The 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/#.XmJT-Z-YU1I&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB 2020&lt;/a&gt; workshop was no exception, the entire community transmitted that spark of enthusiasm, to expand and improve. Of course, the academic content and knowledge that was shown was a lot, such as maintaining the R sessions, working with github, choosing appropriate names for each project, quality testing the functions, debugging, workflows for handling scRNAseq data and an application of it with space expression.&lt;/p&gt;
+&lt;p&gt;As I think about the CDSB and the international communities that support inclusion and diversity, I think of this excerpt from the poem “sembrando” by the poet Marcos Rafael Blanco Belmonte (originally in Spanish):&lt;/p&gt;
+&lt;center&gt;
+When the world sad, I contemplate,
+&lt;p&gt;I toil and set myself a hard task&lt;/p&gt;
+&lt;p&gt;and I know that my poor example is worth a lot&lt;/p&gt;
+&lt;p&gt;Although poor and humble it seems and be&lt;/p&gt;
+&lt;p&gt;We must fight for all those who do not fight!&lt;/p&gt;
+&lt;p&gt;We must ask for all those who do not implore!&lt;/p&gt;
+&lt;p&gt;We must make those who do not listen hear us!&lt;/p&gt;
+&lt;p&gt;We must cry for all those who do not cry!&lt;/p&gt;
+&lt;p&gt;Have to be like bees in the hive&lt;/p&gt;
+&lt;p&gt;make sweet honeycombs for everyone.&lt;/p&gt;
+&lt;p&gt;Have to be like the water that goes serene&lt;/p&gt;
+&lt;p&gt;giving the whole world fresh streams.&lt;/p&gt;
+&lt;p&gt;Must imitate the wind, which sows flowers&lt;/p&gt;
+&lt;p&gt;the same in the mountains as in the plains,&lt;/p&gt;
+&lt;p&gt;and have to live life sowing loves,&lt;/p&gt;
+&lt;p&gt;with the sight and the soul always in the height.&lt;/p&gt;
+&lt;p&gt;The madman said and with noble melancholy&lt;/p&gt;
+&lt;p&gt;through the scrublands of the mountain he continued to climb,&lt;/p&gt;
+&lt;p&gt;and when lost in the shadows, he still repeated:&lt;/p&gt;
+&lt;p&gt;Have to live sowing! Always sowing!&amp;hellip;&lt;/p&gt;
+&lt;/center&gt;
+</description>
+    </item>
     
     <item>
       <title>Latin American communities and organizations: useR!2020 video</title>
@@ -695,7 +746,7 @@
 &lt;a href=&#34;https://sharla.party/posts/chirunconf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sharla Gelfand&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;If you are attending our workshop, we will ask you to propose at least one R package idea by creating a GitHub Issue in our 
 &lt;a href=&#34;https://github.com/ComunidadBioInfo/tidy-tools-CDSB-runconf-2019/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository for the workshop&lt;/a&gt;. If you want some inspiration, take a look at 
-&lt;a href=&#34;https://github.com/ropensci/unconf18/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenSci unconf18&lt;/a&gt;&amp;lsquo;s GitHub repository. You will need to get familiarized with all the proposal before the workshop starts.&lt;/p&gt;
+&lt;a href=&#34;https://github.com/ropensci/unconf18/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenSci unconf18&lt;/a&gt;&amp;rsquo;s GitHub repository. You will need to get familiarized with all the proposal before the workshop starts.&lt;/p&gt;
 &lt;h2 id=&#34;instructors&#34;&gt;Instructors:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -834,7 +885,7 @@
 &lt;p&gt;If any of the assistants engages in bullying behavior, the workshop organizers can take any legal action we deem appropriate, including, among others, warn the accused or ask the offender to leave the workshop. (If you feel you have been unjustly accused of violating this code of conduct, you must contact the organizing committee of the workshop with a brief description of your complaint).&lt;/p&gt;
 &lt;p&gt;We welcome your comments on this and all other aspects of CDSB events, and we thank you for working with us to make it a safe, pleasant and friendly experience for all involved.&lt;/p&gt;
 &lt;p&gt;This code of conduct was adapted from 
-&lt;a href=&#34;http://unconf18.ropensci.org/coc.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;unconf rOpenSci 2018&lt;/a&gt;&amp;lsquo;s code of conduct  which is licensed under CC BY-SA 4.0. Please review the page for more information about the license and attribution.&lt;/p&gt;
+&lt;a href=&#34;http://unconf18.ropensci.org/coc.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;unconf rOpenSci 2018&lt;/a&gt;&amp;rsquo;s code of conduct  which is licensed under CC BY-SA 4.0. Please review the page for more information about the license and attribution.&lt;/p&gt;
 </description>
     </item>
     
