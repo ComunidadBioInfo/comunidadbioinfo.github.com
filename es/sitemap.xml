@@ -3,6 +3,186 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/es/authors/lcollado/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/lcollado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/lcollado/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/post/cs_and_s_event_fund_award/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/cs_and_s_event_fund_award/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/cs_and_s_event_fund_award/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/bioconductor/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/bioconductor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/bioconductor/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/latin-american/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/latin-american/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/latin-american/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/nnb/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/nnb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/nnb/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/post/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/rmb/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/rmb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/rmb/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/rstats/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/rstats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/rstats/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/authors/erickcufe/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -18,66 +198,6 @@
   </url>
   
   <url>
-    <loc>/es/authors/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/bioconductor/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/bioconductor/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/bioconductor/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/categories/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/post/the_impact_of_cdsb_on_me/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -89,66 +209,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/post/the_impact_of_cdsb_on_me/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/latin-american/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/latin-american/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/latin-american/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/post/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/categories/rstats/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/rstats/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/rstats/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
                 />
   </url>
   
@@ -194,21 +254,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/r-consortium/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/authors/lcollado/</loc>
-    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/lcollado/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/lcollado/"
                 />
   </url>
   

@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/erickcufe/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <loc>/authors/lcollado/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/authors/erickcufe/"
+                href="/es/authors/lcollado/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/erickcufe/"
+                href="/authors/lcollado/"
                 />
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -34,7 +34,7 @@
   
   <url>
     <loc>/tags/bioconductor/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -49,7 +49,7 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -64,7 +64,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -78,8 +78,23 @@
   </url>
   
   <url>
+    <loc>/post/cs_and_s_event_fund_award/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/cs_and_s_event_fund_award/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/cs_and_s_event_fund_award/"
+                />
+  </url>
+  
+  <url>
     <loc>/tags/latin-american/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -93,8 +108,23 @@
   </url>
   
   <url>
+    <loc>/tags/nnb/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/nnb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/nnb/"
+                />
+  </url>
+  
+  <url>
     <loc>/post/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -108,8 +138,23 @@
   </url>
   
   <url>
+    <loc>/tags/rmb/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/rmb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/rmb/"
+                />
+  </url>
+  
+  <url>
     <loc>/categories/rstats/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -124,7 +169,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -134,6 +179,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/erickcufe/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/erickcufe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/erickcufe/"
                 />
   </url>
   
@@ -194,21 +254,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/r-consortium/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/lcollado/</loc>
-    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/lcollado/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/lcollado/"
                 />
   </url>
   

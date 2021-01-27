@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NNB | CDSB</title>
+    <link>/tags/nnb/</link>
+      <atom:link href="/tags/nnb/index.xml" rel="self" type="application/rss+xml" />
+    <description>NNB</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <title>NNB</title>
+      <link>/tags/nnb/</link>
+    </image>
+    
+    <item>
+      <title>CS&amp;S Event Fund award announcement</title>
+      <link>/post/cs_and_s_event_fund_award/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/post/cs_and_s_event_fund_award/</guid>
+      <description>&lt;p&gt;We are delighted to announce that 
+&lt;a href=&#34;https://eventfund.codeforscience.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code for Science and Society&lt;/a&gt; has selected our application for their first cohort of Event Fund grant recipients as announced on 
+&lt;a href=&#34;https://eventfund.codeforscience.org/announcing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;January 25, 2021&lt;/a&gt;. The CS&amp;amp;S Event Fund program is made possible through award number GBMF8449 from the Gordon and Betty Moore Foundation (&lt;a href=&#34;https://doi.org/10.37807/GBMF8449)&#34;&gt;https://doi.org/10.37807/GBMF8449)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks to this support, 
+&lt;a href=&#34;https://twitter.com/CDSBMexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB&lt;/a&gt; along with the 
+&lt;a href=&#34;https://twitter.com/RBioinformatica&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mexican Bioinformatics Network&lt;/a&gt; (RMB in Spanish) and the 
+&lt;a href=&#34;https://twitter.com/nnb_unam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Node of Bioinformatics at UNAM&lt;/a&gt; (NNB-CCG) will be able to carry out a series of short courses throughout 2021 (including one event from December 2020) that will end with the National Bioinformatics Meeting 2021 that will be composed of 6 week-long courses.&lt;/p&gt;
+&lt;p&gt;If you are interested in taking part in the short courses, please check the 
+&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/category/eventos-es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMB website&lt;/a&gt; for how to register.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;es&#34; dir=&#34;ltr&#34;&gt;Felicidades &lt;a href=&#34;https://twitter.com/ErickCuevasF?ref_src=twsrc%5Etfw&#34;&gt;@ErickCuevasF&lt;/a&gt; y &lt;a href=&#34;https://twitter.com/josschavezf1?ref_src=twsrc%5Etfw&#34;&gt;@josschavezf1&lt;/a&gt; por completar el primer mini curso de R de este ciclo ^^&lt;br&gt;&lt;br&gt;Son organizados por la CDSB y &lt;a href=&#34;https://twitter.com/RBioinformatica?ref_src=twsrc%5Etfw&#34;&gt;@RBioinformatica&lt;/a&gt; &lt;a href=&#34;https://twitter.com/nnb_unam?ref_src=twsrc%5Etfw&#34;&gt;@nnb_unam&lt;/a&gt; con apoyo de &lt;a href=&#34;https://twitter.com/codeforsociety?ref_src=twsrc%5Etfw&#34;&gt;@codeforsociety&lt;/a&gt; y &lt;a href=&#34;https://twitter.com/MooreFound?ref_src=twsrc%5Etfw&#34;&gt;@MooreFound&lt;/a&gt;&lt;br&gt;&lt;br&gt;El resto del calendario propuesto está disponible acá &lt;a href=&#34;https://twitter.com/hashtag/rstatsES?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstatsES&lt;/a&gt; &lt;a href=&#34;https://t.co/Gx1WHdnKgp&#34;&gt;https://t.co/Gx1WHdnKgp&lt;/a&gt;&lt;/p&gt;&amp;mdash; ComunidadBioInfo (@CDSBMexico) &lt;a href=&#34;https://twitter.com/CDSBMexico/status/1340104365156290560?ref_src=twsrc%5Etfw&#34;&gt;December 19, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;As stated in our application, our goals are:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Over the years, the workshops organized by NNB-CCG and, more recently, with the support of RMB have helped introduce an average of 40 participants per workshop every year into the world of open-source data analysis applied to bioinformatics. Many students, researchers, and industry members have found these workshops highly valuable to acquire skills at relatively low costs that empower them to succeed in the world of biological data. There are now participants who attend the introductory workshops one year and come back the next year for either other introductory workshops or those focusing on advanced material, which is where the CDSB steps in.&lt;/p&gt;
+&lt;p&gt;CDSB has fostered the inclusion and collaboration of Latin American participants in the R and Bioconductor communities in the past three years. During the summer, one week CDSB courses (2018, 2019, and 2020) focused on developing advanced R programming skills. Supplemented by a Slack workspace, CDSB has set up the foundation for an inclusive community that supports and fosters collaboration, respect, and community building, as noted at &lt;a href=&#34;https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico&#34;&gt;https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico&lt;/a&gt; and BioC2020, JSM2020 and CDSB2020 presentations at &lt;a href=&#34;https://speakerdeck.com/lcolladotor&#34;&gt;https://speakerdeck.com/lcolladotor&lt;/a&gt; (CDSB2020 video about CDSB in Spanish: &lt;a href=&#34;https://www.youtube.com/watch?v=rtP4zmbR3p4)&#34;&gt;https://www.youtube.com/watch?v=rtP4zmbR3p4)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;With the proposed short courses, RMB and CDSB, together with NNB-CCG, will provide a structured path to advance on software developing skills in R, and in bioinformatics, throughout the year. This will have a strong impact on integrating more members into the community. In our experience, many people in Latin America underestimate their programming abilities and avoid advanced courses that would provide them with additional skills to become tool developers. The proposed program will allow us to integrate people in different programming knowledge stages to the CDSB, reassess their programming skills, or improve them to get to the next stage. Our series of events will culminate with week-long workshops in the summer at the National Bioinformatics Meeting 2021.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We greatly appreciate all the support and trust that has been placed on our CDSB + RMB + NNB-CCG team.&lt;/p&gt;
+&lt;p&gt;Thank you!&lt;/p&gt;
+&lt;p&gt;⭐️ co-founder; 💫 board member&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Leonardo Collado Torres, CDSB ⭐️💫&lt;/li&gt;
+&lt;li&gt;Joselyn Chavez, CDSB 💫&lt;/li&gt;
+&lt;li&gt;Alejandro Reyes, CDSB ⭐️💫&lt;/li&gt;
+&lt;li&gt;Irma Martínez, Education coordinator at Mexican Bioinformatics Network (RMB in Spanish), National Bioinformatics Node representative (NNB in Spanish)&lt;/li&gt;
+&lt;li&gt;Alejandra Medina Rivera, CDSB ⭐️💫, President RMB&lt;/li&gt;
+&lt;li&gt;Shirley Alquicira, Project Manager at RMB, NNB&lt;/li&gt;
+&lt;li&gt;Yalbi Balderas, Members Committee Coordinator at RMB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2021-01-27-cs_and_s_event_fund_award/english_cs_and_s_award.jpeg&#34; alt=&#34;CS and S Event Fund Thank you!&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
