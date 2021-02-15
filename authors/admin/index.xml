@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CDSB</title>
-    <link>/authors/admin/</link>
-      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://comunidadbioinfo.github.io/authors/admin/</link>
+      <atom:link href="http://comunidadbioinfo.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>CDSB</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>CDSB</title>
-      <link>/authors/admin/</link>
+      <link>http://comunidadbioinfo.github.io/authors/admin/</link>
     </image>
     
     <item>
       <title>Latin American communities and organizations: useR!2020 video</title>
-      <link>/post/user_latin_american_community/</link>
+      <link>http://comunidadbioinfo.github.io/post/user_latin_american_community/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/user_latin_american_community/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/user_latin_american_community/</guid>
       <description>&lt;p&gt;&lt;em&gt;This useR!2020 session and video was organized by 
 &lt;a href=&#34;https://twitter.com/_lacion_&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laura Acion&lt;/a&gt;, 
 &lt;a href=&#34;https://twitter.com/yabellini&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yanina Bellini Saibene&lt;/a&gt;, 
@@ -93,9 +93,9 @@
     
     <item>
       <title>BioC2019 Code of Conduct violation response</title>
-      <link>/post/bioc2019-code-of-conduct-violation-response/</link>
+      <link>http://comunidadbioinfo.github.io/post/bioc2019-code-of-conduct-violation-response/</link>
       <pubDate>Mon, 09 Mar 2020 18:30:00 +0000</pubDate>
-      <guid>/post/bioc2019-code-of-conduct-violation-response/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/bioc2019-code-of-conduct-violation-response/</guid>
       <description>&lt;p&gt;For the English version of this statement, please go to the 
 &lt;a href=&#34;https://bioc2019.bioconductor.org/code_of_conduct&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioC2019 Code of Conduct website&lt;/a&gt;. At CDSB&amp;rsquo;s website you can find the 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/bioc2019-code-of-conduct-violation-response/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;translated Spanish version of this statement&lt;/a&gt;.&lt;/p&gt;
@@ -104,9 +104,9 @@
     
     <item>
       <title>CDSB Workshop 2020: Building workflows with RStudio and Bioconductor for single cell RNA-seq analysis</title>
-      <link>/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</link>
+      <link>http://comunidadbioinfo.github.io/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</link>
       <pubDate>Thu, 05 Mar 2020 13:30:00 +0000</pubDate>
-      <guid>/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</guid>
       <description>&lt;p&gt;&lt;em&gt;This workshop is part of the 
 &lt;a href=&#34;http://www.nnb.unam.mx/TIB2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mexican Bioinformatics Encounter (EBM in Spanish) 2020&lt;/a&gt; organized by CDSB with:&lt;/em&gt;&lt;/p&gt;
 &lt;table&gt;
@@ -331,7 +331,7 @@
 &lt;p&gt;
 &lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/images/logo/jpg/bioconductor_logo_cmyk.jpg&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/RConsortium_Horizontal_Pantone-768x173.png&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/RConsortium_Horizontal_Pantone-768x173.png&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;organizers&#34;&gt;Organizers&lt;/h2&gt;
 &lt;p&gt;CDSB is a node of the 
 &lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mexican Bioinformatics Network (RMB in Spanish)&lt;/a&gt; and jointly organizes the yearly workshop with the 
@@ -354,9 +354,9 @@
     
     <item>
       <title>CDSB Workshop 2019: How to Build and Create Tidy Tools</title>
-      <link>/post/building-tidy-tools-cdsb-runconf-2019/</link>
+      <link>http://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/</link>
       <pubDate>Fri, 05 Apr 2019 13:30:00 +0000</pubDate>
-      <guid>/post/building-tidy-tools-cdsb-runconf-2019/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/</guid>
       <description>&lt;h4 id=&#34;community-of-bioinformatics-software-developers&#34;&gt;Community of Bioinformatics Software Developers&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -757,13 +757,13 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;
-&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/CCG_Logo_HR-300x114.png&#34; alt=&#34;Centro de Ciencias Genómicas UNAM&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/CCG_Logo_HR-300x114.png&#34; alt=&#34;Centro de Ciencias Genómicas UNAM&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;http://www.lcg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/LCG_Logo_HR-white.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;http://www.lcg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/LCG_Logo_HR-white.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;http://liigh.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/logo-liigh-unam.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;http://liigh.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/logo-liigh-unam.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/RConsortium_Horizontal_Pantone-768x173.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/RConsortium_Horizontal_Pantone-768x173.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -772,9 +772,9 @@
     
     <item>
       <title>Bioinformatics Mexican Meeting 2019</title>
-      <link>/post/talleres-internacionales-de-bioinformatica-2019/</link>
+      <link>http://comunidadbioinfo.github.io/post/talleres-internacionales-de-bioinformatica-2019/</link>
       <pubDate>Fri, 05 Apr 2019 12:00:00 +0000</pubDate>
-      <guid>/post/talleres-internacionales-de-bioinformatica-2019/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/talleres-internacionales-de-bioinformatica-2019/</guid>
       <description>&lt;p&gt;The National Node of Bioinformatics (NNB-UNAM), the Mexican Bioinformatics Network (RMB) and the Community of Bioinformatics Software Developers (CDSB) invite you to &lt;strong&gt;Bioinformatics Mexican Meeting 2019&lt;/strong&gt; composed by&lt;/p&gt;
 &lt;h3 id=&#34;international-bioinformatics-workshops-tib2019&#34;&gt;International Bioinformatics Workshops (TIB2019)&lt;/h3&gt;
 &lt;p&gt;&amp;amp;&lt;/p&gt;
@@ -817,9 +817,9 @@
     
     <item>
       <title>Code of conduct</title>
-      <link>/codigo-de-conducta/</link>
+      <link>http://comunidadbioinfo.github.io/codigo-de-conducta/</link>
       <pubDate>Tue, 10 Apr 2018 15:09:34 +0000</pubDate>
-      <guid>/codigo-de-conducta/</guid>
+      <guid>http://comunidadbioinfo.github.io/codigo-de-conducta/</guid>
       <description>&lt;p&gt;The Community of Software Developers in Bioinformatics (CDSB) is committed to providing a welcoming and free experience harassment for all, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race , ethnicity, religion (or lack thereof) or technology options. We do not tolerate harassment of participants of the conference in any way. Language and sexual images are not suitable for any place of the conference, including lectures, workshops, parties, Twitter and other online media. Workshop participants who violate these rules may be punished or expelled from the event at the discretion of the organizers of the workshop.&lt;/p&gt;
 &lt;p&gt;This code of conduct applies to all participants, including staff and leadership of CDSB, and applies to all modes of interaction, both in person and online, including project repositories CDSB GitHub and CDSB GitHub, forum discussions CDSB, Slack channels and Twitter.&lt;/p&gt;
 &lt;p&gt;CDSB participants accept:&lt;/p&gt;
@@ -840,9 +840,9 @@
     
     <item>
       <title>Latin American R/BioConductor Developers Workshop 2018</title>
-      <link>/post/r-bioconductor-developers-workshop-2018/</link>
+      <link>http://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/</link>
       <pubDate>Thu, 22 Mar 2018 12:40:21 +0000</pubDate>
-      <guid>/post/r-bioconductor-developers-workshop-2018/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/</guid>
       <description>&lt;h4 id=&#34;community-of-bioinformatics-software-developers&#34;&gt;Community of Bioinformatics Software Developers&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1250,9 +1250,9 @@
     
     <item>
       <title>2018 International Workshop on Bioinformatics</title>
-      <link>/post/talleres-internacionales-de-bioinformatica-2018/</link>
+      <link>http://comunidadbioinfo.github.io/post/talleres-internacionales-de-bioinformatica-2018/</link>
       <pubDate>Wed, 21 Mar 2018 18:12:26 +0000</pubDate>
-      <guid>/post/talleres-internacionales-de-bioinformatica-2018/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/talleres-internacionales-de-bioinformatica-2018/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The National Node of Bioinformatics (NNB-UNAM) and the Community of Bioinformatics Software Developers (CDSB) invite you to&lt;/strong&gt;&lt;/p&gt;
 &lt;h3 id=&#34;tib2018-r-para-todos&#34;&gt;TIB2018: R para todos&lt;/h3&gt;
 &lt;h3 id=&#34;heading&#34;&gt;&amp;amp;&lt;/h3&gt;
@@ -1298,9 +1298,9 @@
     
     <item>
       <title>Aviso de Privacidad para la Protección de Datos Personales</title>
-      <link>/aviso-de-privacidad/</link>
+      <link>http://comunidadbioinfo.github.io/aviso-de-privacidad/</link>
       <pubDate>Tue, 13 Mar 2018 17:23:16 +0000</pubDate>
-      <guid>/aviso-de-privacidad/</guid>
+      <guid>http://comunidadbioinfo.github.io/aviso-de-privacidad/</guid>
       <description>&lt;p&gt;See version in Spanish. This privacy notice is for those of you in Mexico.&lt;/p&gt;
 </description>
     </item>

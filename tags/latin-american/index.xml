@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latin American | CDSB</title>
-    <link>/tags/latin-american/</link>
-      <atom:link href="/tags/latin-american/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://comunidadbioinfo.github.io/tags/latin-american/</link>
+      <atom:link href="http://comunidadbioinfo.github.io/tags/latin-american/index.xml" rel="self" type="application/rss+xml" />
     <description>Latin American</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>Latin American</title>
-      <link>/tags/latin-american/</link>
+      <link>http://comunidadbioinfo.github.io/tags/latin-american/</link>
     </image>
     
     <item>
       <title>CS&amp;S Event Fund award announcement</title>
-      <link>/post/cs_and_s_event_fund_award/</link>
+      <link>http://comunidadbioinfo.github.io/post/cs_and_s_event_fund_award/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/post/cs_and_s_event_fund_award/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/cs_and_s_event_fund_award/</guid>
       <description>&lt;p&gt;We are delighted to announce that 
 &lt;a href=&#34;https://eventfund.codeforscience.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code for Science and Society&lt;/a&gt; has selected our application for their first cohort of Event Fund grant recipients as announced on 
 &lt;a href=&#34;https://eventfund.codeforscience.org/announcing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;January 25, 2021&lt;/a&gt;. The CS&amp;amp;S Event Fund program is made possible through award number GBMF8449 from the Gordon and Betty Moore Foundation (&lt;a href=&#34;https://doi.org/10.37807/GBMF8449)&#34;&gt;https://doi.org/10.37807/GBMF8449)&lt;/a&gt;.&lt;/p&gt;
@@ -48,15 +48,15 @@
 &lt;li&gt;Shirley Alquicira, Project Manager at RMB, NNB&lt;/li&gt;
 &lt;li&gt;Yalbi Balderas, Members Committee Coordinator at RMB&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2021-01-27-cs_and_s_event_fund_award/english_cs_and_s_award.jpeg&#34; alt=&#34;CS and S Event Fund Thank you!&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/post/2021-01-27-cs_and_s_event_fund_award/english_cs_and_s_award.jpeg&#34; alt=&#34;CS and S Event Fund Thank you!&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The impact of CDSB on me</title>
-      <link>/post/the_impact_of_cdsb_on_me/</link>
+      <link>http://comunidadbioinfo.github.io/post/the_impact_of_cdsb_on_me/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/the_impact_of_cdsb_on_me/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/the_impact_of_cdsb_on_me/</guid>
       <description>&lt;p&gt;&lt;em&gt;By 
 &lt;a href=&#34;https://erickcufe.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erick Cuevas Fernández&lt;/a&gt;, M. Sc., Bioinformatician. Universidad Nacional Autonoma de Mexico. Universidad Autonoma del Estado de Morelos. Systems Biology and Translational Medicine Laboratory. 
 &lt;a href=&#34;https://twitter.com/ErickCuevasF&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@ErickCuevasF&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
@@ -68,7 +68,7 @@
 &lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/cdsb-workshop-how-to-build-and-create-tidy-tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019 CDSB workshop&lt;/a&gt; that I was able to have a new international panorama of R development, know that there were events such as useR, BioC, rstudio :: global(), etc., It was highly motivated that a Mexican community was doing a effort to spread knowledge, inspire and expand the perspective of collaboration and development of free software to Mexicans.
 As a graduate student and with the science cuts that are becoming more frequent in Mexico, it is difficult to travel to another country to attend a workshop or a congress, due to the issue of VISA, passport, paying for a flight, accommodation, meals and registration. That is why the CDSB workshop of international quality accessible by its location and cost are valued to many Mexican students. And not only that, the same CDSB helps and promotes the 
 &lt;a href=&#34;https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;application for scholarships&lt;/a&gt; for Mexican students in workshops and congresses for R developers in other countries.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-08-21-the_impact_of_cdsb_on_me/2018.jpg&#34; alt=&#34;TIBs 2018, Cuernavaca, Morelos, Mexico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/post/2020-08-21-the_impact_of_cdsb_on_me/2018.jpg&#34; alt=&#34;TIBs 2018, Cuernavaca, Morelos, Mexico&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This 2020 with the pandemic and the promotion of the CDSB, was that I had the opportunity to attend the 
 &lt;a href=&#34;https://bioc2020.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioC2020&lt;/a&gt;. The dedication and effort of each speaker to explain a relevant and specialized topic was amazing. The knowledge that was displayed in just one hour was shocking. Despite having been virtually, it was to admire Bioconductor&amp;rsquo;s commitment so that each exhibitor will generate interaction with all attendees. The inclusion and support of the Bioconductor community is impressive, willing to cooperate and help. Regardless of their age, nationality, gender, or grade, they all intended to help, cooperate, and share. There was a huge emotion to see Mexicans displaying their own packages, people you know physically, students like me.
 At the end of the workshop I finished with a feeling of happiness, enthusiasm, inspiration, wanting to learn and share.&lt;/p&gt;
@@ -105,9 +105,9 @@ When the world sad, I contemplate,
     
     <item>
       <title>Latin American communities and organizations: useR!2020 video</title>
-      <link>/post/user_latin_american_community/</link>
+      <link>http://comunidadbioinfo.github.io/post/user_latin_american_community/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/user_latin_american_community/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/user_latin_american_community/</guid>
       <description>&lt;p&gt;&lt;em&gt;This useR!2020 session and video was organized by 
 &lt;a href=&#34;https://twitter.com/_lacion_&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laura Acion&lt;/a&gt;, 
 &lt;a href=&#34;https://twitter.com/yabellini&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yanina Bellini Saibene&lt;/a&gt;, 

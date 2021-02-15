@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Applications | CDSB</title>
-    <link>/tags/applications/</link>
-      <atom:link href="/tags/applications/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://comunidadbioinfo.github.io/tags/applications/</link>
+      <atom:link href="http://comunidadbioinfo.github.io/tags/applications/index.xml" rel="self" type="application/rss+xml" />
     <description>Applications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Thu, 04 Apr 2019 22:50:47 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>Applications</title>
-      <link>/tags/applications/</link>
+      <link>http://comunidadbioinfo.github.io/tags/applications/</link>
     </image>
     
     <item>
       <title>The path from CDSBMexico 2018 to BioC2019</title>
-      <link>/post/path-from-cdsbmexico-2018-to-bioc2019/</link>
+      <link>http://comunidadbioinfo.github.io/post/path-from-cdsbmexico-2018-to-bioc2019/</link>
       <pubDate>Thu, 04 Apr 2019 22:50:47 +0000</pubDate>
-      <guid>/post/path-from-cdsbmexico-2018-to-bioc2019/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/path_to_bioc2019.png&#34; alt=&#34;Path to BioC2019&#34;&gt;&lt;/p&gt;
+      <guid>http://comunidadbioinfo.github.io/post/path-from-cdsbmexico-2018-to-bioc2019/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/path_to_bioc2019.png&#34; alt=&#34;Path to BioC2019&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Last year the Community of Bioinformatics Software Developers (CDSB in Spanish) organized a 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;one week workshop&lt;/a&gt; designed to train &lt;code&gt;R&lt;/code&gt; users how to write &lt;code&gt;R&lt;/code&gt; packages and ideally contribute them to Bioconductor. The workshop itself was a success as described in our 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/post/a-recap-of-cdsb-2018-the-start-of-a-community/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summary post about the event&lt;/a&gt;. However, we didn’t want to stop there. We formed CDSB and teamed up with 

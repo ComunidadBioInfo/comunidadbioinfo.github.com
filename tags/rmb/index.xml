@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RMB | CDSB</title>
-    <link>/tags/rmb/</link>
-      <atom:link href="/tags/rmb/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://comunidadbioinfo.github.io/tags/rmb/</link>
+      <atom:link href="http://comunidadbioinfo.github.io/tags/rmb/index.xml" rel="self" type="application/rss+xml" />
     <description>RMB</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>RMB</title>
-      <link>/tags/rmb/</link>
+      <link>http://comunidadbioinfo.github.io/tags/rmb/</link>
     </image>
     
     <item>
       <title>CS&amp;S Event Fund award announcement</title>
-      <link>/post/cs_and_s_event_fund_award/</link>
+      <link>http://comunidadbioinfo.github.io/post/cs_and_s_event_fund_award/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/post/cs_and_s_event_fund_award/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/cs_and_s_event_fund_award/</guid>
       <description>&lt;p&gt;We are delighted to announce that 
 &lt;a href=&#34;https://eventfund.codeforscience.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code for Science and Society&lt;/a&gt; has selected our application for their first cohort of Event Fund grant recipients as announced on 
 &lt;a href=&#34;https://eventfund.codeforscience.org/announcing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;January 25, 2021&lt;/a&gt;. The CS&amp;amp;S Event Fund program is made possible through award number GBMF8449 from the Gordon and Betty Moore Foundation (&lt;a href=&#34;https://doi.org/10.37807/GBMF8449)&#34;&gt;https://doi.org/10.37807/GBMF8449)&lt;/a&gt;.&lt;/p&gt;
@@ -48,7 +48,7 @@
 &lt;li&gt;Shirley Alquicira, Project Manager at RMB, NNB&lt;/li&gt;
 &lt;li&gt;Yalbi Balderas, Members Committee Coordinator at RMB&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2021-01-27-cs_and_s_event_fund_award/english_cs_and_s_award.jpeg&#34; alt=&#34;CS and S Event Fund Thank you!&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/post/2021-01-27-cs_and_s_event_fund_award/english_cs_and_s_award.jpeg&#34; alt=&#34;CS and S Event Fund Thank you!&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

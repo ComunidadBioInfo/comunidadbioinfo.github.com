@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rstats | CDSB</title>
-    <link>/categories/rstats/</link>
-      <atom:link href="/categories/rstats/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://comunidadbioinfo.github.io/categories/rstats/</link>
+      <atom:link href="http://comunidadbioinfo.github.io/categories/rstats/index.xml" rel="self" type="application/rss+xml" />
     <description>rstats</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>rstats</title>
-      <link>/categories/rstats/</link>
+      <link>http://comunidadbioinfo.github.io/categories/rstats/</link>
     </image>
     
     <item>
       <title>CS&amp;S Event Fund award announcement</title>
-      <link>/post/cs_and_s_event_fund_award/</link>
+      <link>http://comunidadbioinfo.github.io/post/cs_and_s_event_fund_award/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/post/cs_and_s_event_fund_award/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/cs_and_s_event_fund_award/</guid>
       <description>&lt;p&gt;We are delighted to announce that 
 &lt;a href=&#34;https://eventfund.codeforscience.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code for Science and Society&lt;/a&gt; has selected our application for their first cohort of Event Fund grant recipients as announced on 
 &lt;a href=&#34;https://eventfund.codeforscience.org/announcing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;January 25, 2021&lt;/a&gt;. The CS&amp;amp;S Event Fund program is made possible through award number GBMF8449 from the Gordon and Betty Moore Foundation (&lt;a href=&#34;https://doi.org/10.37807/GBMF8449)&#34;&gt;https://doi.org/10.37807/GBMF8449)&lt;/a&gt;.&lt;/p&gt;
@@ -48,15 +48,15 @@
 &lt;li&gt;Shirley Alquicira, Project Manager at RMB, NNB&lt;/li&gt;
 &lt;li&gt;Yalbi Balderas, Members Committee Coordinator at RMB&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2021-01-27-cs_and_s_event_fund_award/english_cs_and_s_award.jpeg&#34; alt=&#34;CS and S Event Fund Thank you!&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/post/2021-01-27-cs_and_s_event_fund_award/english_cs_and_s_award.jpeg&#34; alt=&#34;CS and S Event Fund Thank you!&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The impact of CDSB on me</title>
-      <link>/post/the_impact_of_cdsb_on_me/</link>
+      <link>http://comunidadbioinfo.github.io/post/the_impact_of_cdsb_on_me/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/the_impact_of_cdsb_on_me/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/the_impact_of_cdsb_on_me/</guid>
       <description>&lt;p&gt;&lt;em&gt;By 
 &lt;a href=&#34;https://erickcufe.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erick Cuevas Fernández&lt;/a&gt;, M. Sc., Bioinformatician. Universidad Nacional Autonoma de Mexico. Universidad Autonoma del Estado de Morelos. Systems Biology and Translational Medicine Laboratory. 
 &lt;a href=&#34;https://twitter.com/ErickCuevasF&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@ErickCuevasF&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
@@ -68,7 +68,7 @@
 &lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/cdsb-workshop-how-to-build-and-create-tidy-tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019 CDSB workshop&lt;/a&gt; that I was able to have a new international panorama of R development, know that there were events such as useR, BioC, rstudio :: global(), etc., It was highly motivated that a Mexican community was doing a effort to spread knowledge, inspire and expand the perspective of collaboration and development of free software to Mexicans.
 As a graduate student and with the science cuts that are becoming more frequent in Mexico, it is difficult to travel to another country to attend a workshop or a congress, due to the issue of VISA, passport, paying for a flight, accommodation, meals and registration. That is why the CDSB workshop of international quality accessible by its location and cost are valued to many Mexican students. And not only that, the same CDSB helps and promotes the 
 &lt;a href=&#34;https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;application for scholarships&lt;/a&gt; for Mexican students in workshops and congresses for R developers in other countries.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-08-21-the_impact_of_cdsb_on_me/2018.jpg&#34; alt=&#34;TIBs 2018, Cuernavaca, Morelos, Mexico&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/post/2020-08-21-the_impact_of_cdsb_on_me/2018.jpg&#34; alt=&#34;TIBs 2018, Cuernavaca, Morelos, Mexico&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This 2020 with the pandemic and the promotion of the CDSB, was that I had the opportunity to attend the 
 &lt;a href=&#34;https://bioc2020.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioC2020&lt;/a&gt;. The dedication and effort of each speaker to explain a relevant and specialized topic was amazing. The knowledge that was displayed in just one hour was shocking. Despite having been virtually, it was to admire Bioconductor&amp;rsquo;s commitment so that each exhibitor will generate interaction with all attendees. The inclusion and support of the Bioconductor community is impressive, willing to cooperate and help. Regardless of their age, nationality, gender, or grade, they all intended to help, cooperate, and share. There was a huge emotion to see Mexicans displaying their own packages, people you know physically, students like me.
 At the end of the workshop I finished with a feeling of happiness, enthusiasm, inspiration, wanting to learn and share.&lt;/p&gt;
@@ -105,9 +105,9 @@ When the world sad, I contemplate,
     
     <item>
       <title>Latin American communities and organizations: useR!2020 video</title>
-      <link>/post/user_latin_american_community/</link>
+      <link>http://comunidadbioinfo.github.io/post/user_latin_american_community/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/user_latin_american_community/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/user_latin_american_community/</guid>
       <description>&lt;p&gt;&lt;em&gt;This useR!2020 session and video was organized by 
 &lt;a href=&#34;https://twitter.com/_lacion_&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laura Acion&lt;/a&gt;, 
 &lt;a href=&#34;https://twitter.com/yabellini&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yanina Bellini Saibene&lt;/a&gt;, 
@@ -184,12 +184,12 @@ When the world sad, I contemplate,
     
     <item>
       <title>CDSB: the story of a diversity and outreach hotspot in Mexico that hopes to empower local R developers</title>
-      <link>/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/</link>
+      <link>http://comunidadbioinfo.github.io/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/</guid>
       <description>&lt;p&gt;&lt;em&gt;This blog post was submitted to the 
 &lt;a href=&#34;https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Consortium blog&lt;/a&gt; where it was published on 03/18/2020.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/2019-08-03-11.52.16.jpg&#34; width=&#34;800px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/2019-08-03-11.52.16.jpg&#34; width=&#34;800px&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;I have been attending R conferences since 2008, and while I’ve seen the R community grow rapidly, I generally don’t encounter as many Latin Americans (LatAm) among communities of R developers. Traditionally, a lab lead investigator invested in R or Bioconductor would teach their trainees and students these skills, becoming a local R hotspot. However, that scenario is uncommon in Mexico for several reasons. Recognizing some of these challenges and driven to promote R in our home country and LatAm, in 2017 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt; and 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I&lt;/a&gt; teamed up with 
@@ -209,7 +209,7 @@ CDSB2018 alumni
 &lt;a href=&#34;https://comunidadbioinfo.github.io/post/path-from-cdsbmexico-2018-to-bioc2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;secured BioC2019 travel scholarships&lt;/a&gt; and presented their work.
 Three CDSB2018 and 2019 alumni submitted the 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;first package to Bioconductor (&lt;code&gt;regutools&lt;/code&gt;)&lt;/a&gt;, representing a significant percent-wise increase in the representation of LatAms in the Bioconductor developers community.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/regutools/alumni.png&#34; width=&#34;600px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/regutools/alumni.png&#34; width=&#34;600px&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;We have greatly benefited from the logistics and organization support by 
 &lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNB-UNAM&lt;/a&gt; and 
 &lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMB&lt;/a&gt; local teams, allowing us to focus on designing the workshop curriculum and inviting a diverse set of instructors, including 
@@ -236,9 +236,9 @@ Three CDSB2018 and 2019 alumni submitted the
     
     <item>
       <title>CDSB Workshop 2020: Building workflows with RStudio and Bioconductor for single cell RNA-seq analysis</title>
-      <link>/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</link>
+      <link>http://comunidadbioinfo.github.io/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</link>
       <pubDate>Thu, 05 Mar 2020 13:30:00 +0000</pubDate>
-      <guid>/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</guid>
       <description>&lt;p&gt;&lt;em&gt;This workshop is part of the 
 &lt;a href=&#34;http://www.nnb.unam.mx/TIB2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mexican Bioinformatics Encounter (EBM in Spanish) 2020&lt;/a&gt; organized by CDSB with:&lt;/em&gt;&lt;/p&gt;
 &lt;table&gt;
@@ -463,7 +463,7 @@ Three CDSB2018 and 2019 alumni submitted the
 &lt;p&gt;
 &lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/images/logo/jpg/bioconductor_logo_cmyk.jpg&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/RConsortium_Horizontal_Pantone-768x173.png&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/RConsortium_Horizontal_Pantone-768x173.png&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;organizers&#34;&gt;Organizers&lt;/h2&gt;
 &lt;p&gt;CDSB is a node of the 
 &lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mexican Bioinformatics Network (RMB in Spanish)&lt;/a&gt; and jointly organizes the yearly workshop with the 
@@ -486,9 +486,9 @@ Three CDSB2018 and 2019 alumni submitted the
     
     <item>
       <title>From Bioconductor users to developers: our first community submission</title>
-      <link>/post/from-bioconductor-users-to-developers-our-first-community-submission/</link>
+      <link>http://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/</link>
       <pubDate>Sat, 29 Feb 2020 17:00:00 +0000</pubDate>
-      <guid>/post/from-bioconductor-users-to-developers-our-first-community-submission/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/</guid>
       <description>
 
 
@@ -497,13 +497,13 @@ Three CDSB2018 and 2019 alumni submitted the
 &lt;script async class=&#34;speakerdeck-embed&#34; data-slide=&#34;16&#34; data-id=&#34;b9dd0405a013420682e7d850ab439326&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
 &lt;p&gt;Since we started CDSB, part of our goal been to help Bioconductor users transition into developers. To achieve this, we organized one week long courses in Mexico at low cost during the summers of &lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34;&gt;2018&lt;/a&gt; and &lt;a href=&#34;https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/&#34;&gt;2019&lt;/a&gt; in partnership with the &lt;a href=&#34;http://congresos.nnb.unam.mx/&#34;&gt;TIBs leadership (NNB-UNAM)&lt;/a&gt; and &lt;a href=&#34;https://redmexicanadebioinformatica.org/&#34;&gt;RMB&lt;/a&gt;. We plan to continue organizing these courses: except a 2020 announcement next week!&lt;/p&gt;
 &lt;p&gt;While these workshops allow us to reach up to 40 students in person for a week, we have been borrowing methods from others to try to interact more frequently and help throughout this process &lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;. But we now went a bit further.&lt;/p&gt;
-&lt;p&gt;In 2018, CDSB students worked on R/Bioconductor packages for two days during our workshop. One of them, &lt;a href=&#34;https://josschavezf.github.io/&#34;&gt;Joselyn Chávez&lt;/a&gt;, picked up the &lt;a href=&#34;https://github.com/ComunidadBioInfo/regutools&#34;&gt;regutools&lt;/a&gt; project and continued working on it with advice from &lt;a href=&#34;/authors/hsalgado&#34;&gt;Heladia Salgado&lt;/a&gt;. We eventually set up meetings where &lt;a href=&#34;http://alejandroreyes.org/&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://lcolladotor.github.io/&#34;&gt;myself&lt;/a&gt; would advice Joselyn, &lt;a href=&#34;/authors/carbarjon&#34;&gt;Carmina Barberena-Jonas&lt;/a&gt; and &lt;a href=&#34;/authors/jemilianosf/&#34;&gt;Jesus Emiliano Sotelo-Fonseca&lt;/a&gt; on how to best proceed.&lt;/p&gt;
+&lt;p&gt;In 2018, CDSB students worked on R/Bioconductor packages for two days during our workshop. One of them, &lt;a href=&#34;https://josschavezf.github.io/&#34;&gt;Joselyn Chávez&lt;/a&gt;, picked up the &lt;a href=&#34;https://github.com/ComunidadBioInfo/regutools&#34;&gt;regutools&lt;/a&gt; project and continued working on it with advice from &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/hsalgado&#34;&gt;Heladia Salgado&lt;/a&gt;. We eventually set up meetings where &lt;a href=&#34;http://alejandroreyes.org/&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://lcolladotor.github.io/&#34;&gt;myself&lt;/a&gt; would advice Joselyn, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/carbarjon&#34;&gt;Carmina Barberena-Jonas&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/jemilianosf/&#34;&gt;Jesus Emiliano Sotelo-Fonseca&lt;/a&gt; on how to best proceed.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I just sent &lt;a href=&#34;https://twitter.com/Bioconductor?ref_src=twsrc%5Etfw&#34;&gt;@Bioconductor&lt;/a&gt;&amp;#39;s 2020 conf deadline reminders to &lt;a href=&#34;https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw&#34;&gt;@CDSBMexico&lt;/a&gt; &lt;a href=&#34;https://twitter.com/LieberInstitute?ref_src=twsrc%5Etfw&#34;&gt;@LieberInstitute&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GenomicsAtJHU?ref_src=twsrc%5Etfw&#34;&gt;@GenomicsAtJHU&lt;/a&gt; &lt;a href=&#34;https://twitter.com/LatinR_Conf?ref_src=twsrc%5Etfw&#34;&gt;@LatinR_Conf&lt;/a&gt; &lt;a href=&#34;https://twitter.com/rOpenSci?ref_src=twsrc%5Etfw&#34;&gt;@rOpenSci&lt;/a&gt; &lt;a href=&#34;https://twitter.com/jhubiostat?ref_src=twsrc%5Etfw&#34;&gt;@jhubiostat&lt;/a&gt; 🗓️&lt;br&gt;&lt;br&gt;It&amp;#39;s the conf that started my &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; career &amp;amp; I highly recommend it!&lt;br&gt;&lt;br&gt;BioC usage intro &lt;a href=&#34;https://t.co/8NaV68vUsA&#34;&gt;https://t.co/8NaV68vUsA&lt;/a&gt;&lt;a href=&#34;https://t.co/ATzkKs7c04&#34;&gt;https://t.co/ATzkKs7c04&lt;/a&gt; &lt;a href=&#34;https://t.co/km8vRfyHcY&#34;&gt;pic.twitter.com/km8vRfyHcY&lt;/a&gt;&lt;/p&gt;&amp;mdash; 🇲🇽 Leonardo Collado-Torres (@lcolladotor) &lt;a href=&#34;https://twitter.com/lcolladotor/status/1230694883750445056?ref_src=twsrc%5Etfw&#34;&gt;February 21, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 &lt;p&gt;We’ve known for months that the deadline for &lt;a href=&#34;https://bioc2020.bioconductor.org&#34;&gt;BioC2020&lt;/a&gt; talk/poster proposals was March 3rd. So we designed a plan that would allow them to submit &lt;a href=&#34;https://github.com/ComunidadBioInfo/regutools&#34;&gt;regutools&lt;/a&gt; prior to that deadline, then submit a proposal to present it (as well as submit proposals to present their own research projects) in order to increase their likelihood of getting a &lt;a href=&#34;https://bioc2020.bioconductor.org/scholarships.html&#34;&gt;BioC2020 travel scholarship&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;And we were able to accomplish this plan! Well, at least the part under their and our control. That is, check out the &lt;a href=&#34;https://github.com/Bioconductor/Contributions/issues/1393&#34;&gt;regutools Bioconductor submission&lt;/a&gt;. Thus we are incredibly excited to announce that the CDSB website now has a “Bioconductor Developers Alumni” section!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/regutools/alumni.png&#34; alt=&#34;Bioconductor Developers Alumni&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/regutools/alumni.png&#34; alt=&#34;Bioconductor Developers Alumni&#34; /&gt;
 We are also thrilled to announce that the &lt;a href=&#34;http://regulondb.ccg.unam.mx/&#34;&gt;RegulonDB&lt;/a&gt; team has given us the go ahead signal to write a manuscript about &lt;a href=&#34;https://github.com/ComunidadBioInfo/regutools&#34;&gt;regutools&lt;/a&gt;. So you’ll soon see a pre-print about it.&lt;/p&gt;
 &lt;iframe src=&#34;https://giphy.com/embed/WsKVAem02Efuw&#34; width=&#34;480&#34; height=&#34;455&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;
 &lt;/iframe&gt;
@@ -760,9 +760,9 @@ sessioninfo::session_info()&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>CDSB Workshop 2019: How to Build and Create Tidy Tools</title>
-      <link>/post/building-tidy-tools-cdsb-runconf-2019/</link>
+      <link>http://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/</link>
       <pubDate>Fri, 05 Apr 2019 13:30:00 +0000</pubDate>
-      <guid>/post/building-tidy-tools-cdsb-runconf-2019/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/</guid>
       <description>&lt;h4 id=&#34;community-of-bioinformatics-software-developers&#34;&gt;Community of Bioinformatics Software Developers&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1163,13 +1163,13 @@ sessioninfo::session_info()&lt;/code&gt;&lt;/pre&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;
-&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/CCG_Logo_HR-300x114.png&#34; alt=&#34;Centro de Ciencias Genómicas UNAM&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/CCG_Logo_HR-300x114.png&#34; alt=&#34;Centro de Ciencias Genómicas UNAM&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;http://www.lcg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/LCG_Logo_HR-white.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;http://www.lcg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/LCG_Logo_HR-white.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;http://liigh.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/logo-liigh-unam.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;http://liigh.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/logo-liigh-unam.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/RConsortium_Horizontal_Pantone-768x173.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/RConsortium_Horizontal_Pantone-768x173.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1178,10 +1178,10 @@ sessioninfo::session_info()&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>The path from CDSBMexico 2018 to BioC2019</title>
-      <link>/post/path-from-cdsbmexico-2018-to-bioc2019/</link>
+      <link>http://comunidadbioinfo.github.io/post/path-from-cdsbmexico-2018-to-bioc2019/</link>
       <pubDate>Thu, 04 Apr 2019 22:50:47 +0000</pubDate>
-      <guid>/post/path-from-cdsbmexico-2018-to-bioc2019/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/path_to_bioc2019.png&#34; alt=&#34;Path to BioC2019&#34;&gt;&lt;/p&gt;
+      <guid>http://comunidadbioinfo.github.io/post/path-from-cdsbmexico-2018-to-bioc2019/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/path_to_bioc2019.png&#34; alt=&#34;Path to BioC2019&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Last year the Community of Bioinformatics Software Developers (CDSB in Spanish) organized a 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;one week workshop&lt;/a&gt; designed to train &lt;code&gt;R&lt;/code&gt; users how to write &lt;code&gt;R&lt;/code&gt; packages and ideally contribute them to Bioconductor. The workshop itself was a success as described in our 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/post/a-recap-of-cdsb-2018-the-start-of-a-community/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summary post about the event&lt;/a&gt;. However, we didn’t want to stop there. We formed CDSB and teamed up with 
@@ -1259,9 +1259,9 @@ sessioninfo::session_info()&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>CDSBMexico: remember to apply for BioC2019 travel scholarships</title>
-      <link>/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/</link>
+      <link>http://comunidadbioinfo.github.io/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/</link>
       <pubDate>Fri, 01 Mar 2019 04:24:47 +0000</pubDate>
-      <guid>/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/cdsbmexico-remember-to-apply-for-bioc2019-travel-scholarships/</guid>
       <description>&lt;p&gt;About 10 months ago 
 &lt;a href=&#34;http://lcolladotor.github.io/2018/04/19/latin-american-r-bioconductor-developers-workshop-2018/#.XHiaE1NKg0o&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;we announced our plans&lt;/a&gt; to start a new community of R/Bioconductor developers in Mexico and Latin America. The National Bioinformatics Node (
 &lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNB-UNAM&lt;/a&gt; in Spanish) 
@@ -1341,15 +1341,15 @@ that you start your application materials as soon as you can. Remember that the 
     
     <item>
       <title>A recap of CDSB 2018: the start of a community</title>
-      <link>/post/a-recap-of-cdsb-2018-the-start-of-a-community/</link>
+      <link>http://comunidadbioinfo.github.io/post/a-recap-of-cdsb-2018-the-start-of-a-community/</link>
       <pubDate>Fri, 14 Sep 2018 02:13:22 +0000</pubDate>
-      <guid>/post/a-recap-of-cdsb-2018-the-start-of-a-community/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/a-recap-of-cdsb-2018-the-start-of-a-community/</guid>
       <description>&lt;p&gt;Organizing an event is a lot of work, much more than you plan for it. But harvesting the fruits of a successful event makes the workload worth it.&lt;/p&gt;
 &lt;p&gt;In July, we kicked off the first 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Bioconductor Latin American Developers Workshop 2018&lt;/strong&gt;&lt;/a&gt; (&lt;em&gt;LatAmBioc2018&lt;/em&gt;). The main goals of this meeting were to encourage the development of the Bioconductor project in Mexico and to start a community of Mexican bioinformatic software developers – the &lt;strong&gt;
 &lt;a href=&#34;https://comunidadbioinfo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Community of Bioinformatic Software Developers&lt;/a&gt;&lt;/strong&gt; (&lt;em&gt;CDSB&lt;/em&gt;, from its acronym in Spanish).&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/Logo_texto-768x107.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/Logo_texto-768x107.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The program of the workshop included talks, posters and lessons sessions as well as a two-day hands-on development hackathon. We had over 30 participants with strong quantitative background and experience in R programming from several LatAm countries.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Excited about &lt;a href=&#34;https://twitter.com/hashtag/CDSBMexico?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CDSBMexico&lt;/a&gt;? It starts tomorrow! &lt;br&gt;&lt;br&gt;¿Listos para mañana? 🇲🇽&lt;a href=&#34;https://t.co/UUhX5RMSut&#34;&gt;https://t.co/UUhX5RMSut&lt;/a&gt;&lt;br&gt;&lt;br&gt;Schedule&lt;a href=&#34;https://t.co/BZTD7wGskI&#34;&gt;https://t.co/BZTD7wGskI&lt;/a&gt;&lt;br&gt;&lt;br&gt;Materials&lt;a href=&#34;https://t.co/Oz2ingGije&#34;&gt;https://t.co/Oz2ingGije&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/teaching?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#teaching&lt;/a&gt; &lt;a href=&#34;https://twitter.com/Bioconductor?ref_src=twsrc%5Etfw&#34;&gt;@Bioconductor&lt;/a&gt; Thanks to &lt;a href=&#34;https://twitter.com/lcgunam?ref_src=twsrc%5Etfw&#34;&gt;@lcgunam&lt;/a&gt; &lt;a href=&#34;https://twitter.com/ccg_unam?ref_src=twsrc%5Etfw&#34;&gt;@ccg_unam&lt;/a&gt; &lt;a href=&#34;https://twitter.com/LIIGH_UNAM?ref_src=twsrc%5Etfw&#34;&gt;@LIIGH_UNAM&lt;/a&gt;&lt;br&gt;SoIBio &lt;a href=&#34;https://twitter.com/RConsortium?ref_src=twsrc%5Etfw&#34;&gt;@RConsortium&lt;/a&gt;&lt;a href=&#34;https://twitter.com/wintergenomics?ref_src=twsrc%5Etfw&#34;&gt;@WINTERGENOMICS&lt;/a&gt; &lt;a href=&#34;https://t.co/YQxmnTNwQa&#34;&gt;pic.twitter.com/YQxmnTNwQa&lt;/a&gt;&lt;/p&gt;&amp;mdash; ComunidadBioInfo (@CDSBMexico) &lt;a href=&#34;https://twitter.com/CDSBMexico/status/1023705341358469122?ref_src=twsrc%5Etfw&#34;&gt;July 29, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
@@ -1367,7 +1367,7 @@ that you start your application materials as soon as you can. Remember that the 
 &lt;h3 id=&#34;a-latam-bioconductor-community&#34;&gt;A LatAm Bioconductor community&lt;/h3&gt;
 &lt;p&gt;Anecdotally, some of us felt that Latin Americans were not fully represented in the Bioconductor Developers Meetings (see Leonardo Collado Torres’s &lt;strong&gt;
 &lt;a href=&#34;http://lcolladotor.github.io/2018/04/19/latin-american-r-bioconductor-developers-workshop-2018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;&lt;/strong&gt;). As scientists, we like our statements to be supported by data: the map below shows the affiliations, when available, of the contributors of the latest package submissions to the Bioconductor project. (These data were scraped using the Github API.) Although biases such as Mexican contributors with affiliations abroad might not have been considered, it is clear that only a few contributions come from Latin American countries.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/mapa_editado-768x333.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/mapa_editado-768x333.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In hopes of filling this gap, we gathered a diverse team of instructors, including Martin Morgan, Benilton Carvalho and Selene L. Fernandez-Valverde, who taught participants how to develop R/Bioconductor packages. The main idea was to turn Bioconductor software users into Bioconductor software developers.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Let&amp;#39;s estimate Pi! Rcpp exercise! Rcpp sugar! Now I&amp;#39;m hungry, I want pie &lt;a href=&#34;https://twitter.com/benilton?ref_src=twsrc%5Etfw&#34;&gt;@benilton&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw&#34;&gt;@CDSBMexico&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/CDSBMexico?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CDSBMexico&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/TIBMexico2018?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#TIBMexico2018&lt;/a&gt; 🍰👩‍💻 &lt;a href=&#34;https://t.co/2OeGWr35r3&#34;&gt;pic.twitter.com/2OeGWr35r3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alejandra Medina-Rivera (@AleMedinaRivera) &lt;a href=&#34;https://twitter.com/AleMedinaRivera/status/1024705893148094464?ref_src=twsrc%5Etfw&#34;&gt;August 1, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
@@ -1397,9 +1397,9 @@ that you start your application materials as soon as you can. Remember that the 
     
     <item>
       <title>R Gene Regulatory Interaction Formulator For Inquiring Networks</title>
-      <link>/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/</link>
+      <link>http://comunidadbioinfo.github.io/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/</link>
       <pubDate>Mon, 20 Aug 2018 21:45:28 +0000</pubDate>
-      <guid>/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/</guid>
       <description>
 
 
@@ -1603,9 +1603,9 @@ nets&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Latin American R/BioConductor Developers Workshop 2018</title>
-      <link>/post/r-bioconductor-developers-workshop-2018/</link>
+      <link>http://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/</link>
       <pubDate>Thu, 22 Mar 2018 12:40:21 +0000</pubDate>
-      <guid>/post/r-bioconductor-developers-workshop-2018/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/</guid>
       <description>&lt;h4 id=&#34;community-of-bioinformatics-software-developers&#34;&gt;Community of Bioinformatics Software Developers&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CDSB</title>
-    <link>/es/authors/hsalgado/</link>
-      <atom:link href="/es/authors/hsalgado/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://comunidadbioinfo.github.io/es/authors/hsalgado/</link>
+      <atom:link href="http://comunidadbioinfo.github.io/es/authors/hsalgado/index.xml" rel="self" type="application/rss+xml" />
     <description>CDSB</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2021</copyright>
     <image>
-      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>CDSB</title>
-      <link>/es/authors/hsalgado/</link>
+      <link>http://comunidadbioinfo.github.io/es/authors/hsalgado/</link>
     </image>
     
   </channel>

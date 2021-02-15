@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bioconductor | CDSB</title>
-    <link>/es/categories/bioconductor/</link>
-      <atom:link href="/es/categories/bioconductor/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://comunidadbioinfo.github.io/es/categories/bioconductor/</link>
+      <atom:link href="http://comunidadbioinfo.github.io/es/categories/bioconductor/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioconductor</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2021</copyright><lastBuildDate>Mon, 09 Mar 2020 18:30:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>Bioconductor</title>
-      <link>/es/categories/bioconductor/</link>
+      <link>http://comunidadbioinfo.github.io/es/categories/bioconductor/</link>
     </image>
     
     <item>
       <title>Respuesta a la violación del Código de Conducta durante BioC2019</title>
-      <link>/es/post/bioc2019-code-of-conduct-violation-response/</link>
+      <link>http://comunidadbioinfo.github.io/es/post/bioc2019-code-of-conduct-violation-response/</link>
       <pubDate>Mon, 09 Mar 2020 18:30:00 +0000</pubDate>
-      <guid>/es/post/bioc2019-code-of-conduct-violation-response/</guid>
+      <guid>http://comunidadbioinfo.github.io/es/post/bioc2019-code-of-conduct-violation-response/</guid>
       <description>&lt;p&gt;Este comunicado es en respuesta al reporte de acoso sexual que recibió el comité de 
 &lt;a href=&#34;https://bioc2019.bioconductor.org/code_of_conduct&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Código de Conducta de BioC2019&lt;/a&gt; después de dicho congreso. Una persona que asistió al congreso BioC2019 reportó haber sido víctima de atención sexual y contacto físico no deseados por parte de un participante más del congreso que estaba en un estado de intoxicación, durante una reunión social organizada por participantes del congreso.&lt;/p&gt;
 &lt;p&gt;Desde que el Comité recibió el reporte, dicho organismo tuvo conversaciones con la persona que hizo el reporte, la persona acusada y personas que atestiguaron el incidente. Además, el Comité pidió asesorías de personas externas a la organización y definió procedimientos para tomar las decisiones apropiadas para lidiar con futuros reportes de violación del código de conducta. El Comité decidió tomar las siguientes acciones:&lt;/p&gt;

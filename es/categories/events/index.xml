@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events | CDSB</title>
-    <link>/es/categories/events/</link>
-      <atom:link href="/es/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://comunidadbioinfo.github.io/es/categories/events/</link>
+      <atom:link href="http://comunidadbioinfo.github.io/es/categories/events/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2021</copyright><lastBuildDate>Thu, 05 Mar 2020 13:30:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>Events</title>
-      <link>/es/categories/events/</link>
+      <link>http://comunidadbioinfo.github.io/es/categories/events/</link>
     </image>
     
     <item>
       <title>Taller CDSB 2020: Construyendo flujos de trabajo con RStudio y Bioconductor para datos transcriptómicos de célula única (scRNA-seq)</title>
-      <link>/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</link>
+      <link>http://comunidadbioinfo.github.io/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</link>
       <pubDate>Thu, 05 Mar 2020 13:30:00 +0000</pubDate>
-      <guid>/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</guid>
+      <guid>http://comunidadbioinfo.github.io/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/</guid>
       <description>&lt;p&gt;&lt;em&gt;Este taller es parte del 
 &lt;a href=&#34;http://www.nnb.unam.mx/TIB2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Encuentro de Bioinformática en México (EBM) 2020&lt;/a&gt; organizado por la CDSB junto con:&lt;/em&gt;&lt;/p&gt;
 &lt;table&gt;
@@ -245,7 +245,7 @@
 &lt;p&gt;
 &lt;a href=&#34;http://bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/images/logo/jpg/bioconductor_logo_cmyk.jpg&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/RConsortium_Horizontal_Pantone-768x173.png&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/RConsortium_Horizontal_Pantone-768x173.png&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;organizadores&#34;&gt;Organizadores&lt;/h2&gt;
 &lt;p&gt;CDSB es un nodo de la 
 &lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red Mexicana de Bioinformática&lt;/a&gt; y organiza el taller anual junto con el 
@@ -268,9 +268,9 @@
     
     <item>
       <title>Taller CDSB 2019: Cómo Crear y Ordenar Herramientas &#39;Tidy&#39;</title>
-      <link>/es/post/building-tidy-tools-cdsb-runconf-2019/</link>
+      <link>http://comunidadbioinfo.github.io/es/post/building-tidy-tools-cdsb-runconf-2019/</link>
       <pubDate>Fri, 05 Apr 2019 13:30:00 +0000</pubDate>
-      <guid>/es/post/building-tidy-tools-cdsb-runconf-2019/</guid>
+      <guid>http://comunidadbioinfo.github.io/es/post/building-tidy-tools-cdsb-runconf-2019/</guid>
       <description>&lt;h4 id=&#34;comunidad-de-desarrolladores-de-software-en-bioinformática&#34;&gt;Comunidad de Desarrolladores de Software en Bioinformática&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -673,13 +673,13 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;
-&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/CCG_Logo_HR-300x114.png&#34; alt=&#34;Centro de Ciencias Genómicas UNAM&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/CCG_Logo_HR-300x114.png&#34; alt=&#34;Centro de Ciencias Genómicas UNAM&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;http://www.lcg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/LCG_Logo_HR-white.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;http://www.lcg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/LCG_Logo_HR-white.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;http://liigh.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/logo-liigh-unam.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;http://liigh.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/logo-liigh-unam.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/RConsortium_Horizontal_Pantone-768x173.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/RConsortium_Horizontal_Pantone-768x173.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -688,9 +688,9 @@
     
     <item>
       <title>Encuentro de Bioinformática en México 2019</title>
-      <link>/es/post/talleres-internacionales-de-bioinformatica-2019/</link>
+      <link>http://comunidadbioinfo.github.io/es/post/talleres-internacionales-de-bioinformatica-2019/</link>
       <pubDate>Fri, 05 Apr 2019 12:00:00 +0000</pubDate>
-      <guid>/es/post/talleres-internacionales-de-bioinformatica-2019/</guid>
+      <guid>http://comunidadbioinfo.github.io/es/post/talleres-internacionales-de-bioinformatica-2019/</guid>
       <description>&lt;p&gt;El Nodo Nacional de Bioinformática (NNB-UNAM), la Red Mexicana de Bioinformática (RMB) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan al &lt;strong&gt;Encuentro de Bioinformática en México 2019&lt;/strong&gt; compuesto por&lt;/p&gt;
 &lt;h3 id=&#34;talleres-internacionales-de-bioinformática-tib2019&#34;&gt;Talleres Internacionales de Bioinformática (TIB2019)&lt;/h3&gt;
 &lt;p&gt;&amp;amp;&lt;/p&gt;
@@ -733,9 +733,9 @@
     
     <item>
       <title>Taller de Desarrolladores Latino Americanos de R/BioConductor 2018</title>
-      <link>/es/post/r-bioconductor-developers-workshop-2018/</link>
+      <link>http://comunidadbioinfo.github.io/es/post/r-bioconductor-developers-workshop-2018/</link>
       <pubDate>Thu, 22 Mar 2018 12:40:21 +0000</pubDate>
-      <guid>/es/post/r-bioconductor-developers-workshop-2018/</guid>
+      <guid>http://comunidadbioinfo.github.io/es/post/r-bioconductor-developers-workshop-2018/</guid>
       <description>&lt;h4 id=&#34;comunidad-de-desarrolladores-de-software-en-bioinformática&#34;&gt;Comunidad de Desarrolladores de Software en Bioinformática&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1149,9 +1149,9 @@ Un mínimo de 8 GB de RAM, un ratón y espacio de disco suficiente para archivos
     
     <item>
       <title>Talleres Internacionales de Bioinformática 2018</title>
-      <link>/es/post/talleres-internacionales-de-bioinformatica-2018/</link>
+      <link>http://comunidadbioinfo.github.io/es/post/talleres-internacionales-de-bioinformatica-2018/</link>
       <pubDate>Wed, 21 Mar 2018 18:12:26 +0000</pubDate>
-      <guid>/es/post/talleres-internacionales-de-bioinformatica-2018/</guid>
+      <guid>http://comunidadbioinfo.github.io/es/post/talleres-internacionales-de-bioinformatica-2018/</guid>
       <description>&lt;p&gt;&lt;strong&gt;El Nodo Nacional de Bioinformática (NNB-UNAM) y la Comunidad de Desarrolladores de Software en Bioinformática (CDSB) te invitan a&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;tib2018-r-para-todos&#34;&gt;TIB2018: R para todos&lt;/h2&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&amp;amp;&lt;/h2&gt;

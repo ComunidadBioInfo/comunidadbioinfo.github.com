@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CDSB</title>
-    <link>/es/authors/areyes/</link>
-      <atom:link href="/es/authors/areyes/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://comunidadbioinfo.github.io/es/authors/areyes/</link>
+      <atom:link href="http://comunidadbioinfo.github.io/es/authors/areyes/index.xml" rel="self" type="application/rss+xml" />
     <description>CDSB</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2021</copyright><lastBuildDate>Fri, 14 Sep 2018 02:13:22 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>CDSB</title>
-      <link>/es/authors/areyes/</link>
+      <link>http://comunidadbioinfo.github.io/es/authors/areyes/</link>
     </image>
     
     <item>
       <title>Un resumen de CDSB 2018: el inicio de una comunidad</title>
-      <link>/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/</link>
+      <link>http://comunidadbioinfo.github.io/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/</link>
       <pubDate>Fri, 14 Sep 2018 02:13:22 +0000</pubDate>
-      <guid>/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/</guid>
+      <guid>http://comunidadbioinfo.github.io/es/post/a-recap-of-cdsb-2018-the-start-of-a-community/</guid>
       <description>&lt;p&gt;Organizing an event is a lot of work, much more than you plan for it. But harvesting the fruits of a successful event makes the workload worth it.&lt;/p&gt;
 &lt;p&gt;In July, we kicked off the first 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Bioconductor Latin American Developers Workshop 2018&lt;/strong&gt;&lt;/a&gt; (&lt;em&gt;LatAmBioc2018&lt;/em&gt;). The main goals of this meeting were to encourage the development of the Bioconductor project in Mexico and to start a community of Mexican bioinformatic software developers – the &lt;strong&gt;
 &lt;a href=&#34;https://comunidadbioinfo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Community of Bioinformatic Software Developers&lt;/a&gt;&lt;/strong&gt; (&lt;em&gt;CDSB&lt;/em&gt;, from its acronym in Spanish).&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/Logo_texto-768x107.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/Logo_texto-768x107.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The program of the workshop included talks, posters and lessons sessions as well as a two-day hands-on development hackathon. We had over 30 participants with strong quantitative background and experience in R programming from several LatAm countries.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Excited about &lt;a href=&#34;https://twitter.com/hashtag/CDSBMexico?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CDSBMexico&lt;/a&gt;? It starts tomorrow! &lt;br&gt;&lt;br&gt;¿Listos para mañana? 🇲🇽&lt;a href=&#34;https://t.co/UUhX5RMSut&#34;&gt;https://t.co/UUhX5RMSut&lt;/a&gt;&lt;br&gt;&lt;br&gt;Schedule&lt;a href=&#34;https://t.co/BZTD7wGskI&#34;&gt;https://t.co/BZTD7wGskI&lt;/a&gt;&lt;br&gt;&lt;br&gt;Materials&lt;a href=&#34;https://t.co/Oz2ingGije&#34;&gt;https://t.co/Oz2ingGije&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/teaching?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#teaching&lt;/a&gt; &lt;a href=&#34;https://twitter.com/Bioconductor?ref_src=twsrc%5Etfw&#34;&gt;@Bioconductor&lt;/a&gt; Thanks to &lt;a href=&#34;https://twitter.com/lcgunam?ref_src=twsrc%5Etfw&#34;&gt;@lcgunam&lt;/a&gt; &lt;a href=&#34;https://twitter.com/ccg_unam?ref_src=twsrc%5Etfw&#34;&gt;@ccg_unam&lt;/a&gt; &lt;a href=&#34;https://twitter.com/LIIGH_UNAM?ref_src=twsrc%5Etfw&#34;&gt;@LIIGH_UNAM&lt;/a&gt;&lt;br&gt;SoIBio &lt;a href=&#34;https://twitter.com/RConsortium?ref_src=twsrc%5Etfw&#34;&gt;@RConsortium&lt;/a&gt;&lt;a href=&#34;https://twitter.com/wintergenomics?ref_src=twsrc%5Etfw&#34;&gt;@WINTERGENOMICS&lt;/a&gt; &lt;a href=&#34;https://t.co/YQxmnTNwQa&#34;&gt;pic.twitter.com/YQxmnTNwQa&lt;/a&gt;&lt;/p&gt;&amp;mdash; ComunidadBioInfo (@CDSBMexico) &lt;a href=&#34;https://twitter.com/CDSBMexico/status/1023705341358469122?ref_src=twsrc%5Etfw&#34;&gt;July 29, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
@@ -40,7 +40,7 @@
 &lt;h3 id=&#34;a-latam-bioconductor-community&#34;&gt;A LatAm Bioconductor community&lt;/h3&gt;
 &lt;p&gt;Anecdotally, some of us felt that Latin Americans were not fully represented in the Bioconductor Developers Meetings (see Leonardo Collado Torres’s &lt;strong&gt;
 &lt;a href=&#34;http://lcolladotor.github.io/2018/04/19/latin-american-r-bioconductor-developers-workshop-2018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;&lt;/strong&gt;). As scientists, we like our statements to be supported by data: the map below shows the affiliations, when available, of the contributors of the latest package submissions to the Bioconductor project. (These data were scraped using the Github API.) Although biases such as Mexican contributors with affiliations abroad might not have been considered, it is clear that only a few contributions come from Latin American countries.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/mapa_editado-768x333.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/mapa_editado-768x333.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In hopes of filling this gap, we gathered a diverse team of instructors, including Martin Morgan, Benilton Carvalho and Selene L. Fernandez-Valverde, who taught participants how to develop R/Bioconductor packages. The main idea was to turn Bioconductor software users into Bioconductor software developers.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Let&amp;#39;s estimate Pi! Rcpp exercise! Rcpp sugar! Now I&amp;#39;m hungry, I want pie &lt;a href=&#34;https://twitter.com/benilton?ref_src=twsrc%5Etfw&#34;&gt;@benilton&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw&#34;&gt;@CDSBMexico&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/CDSBMexico?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CDSBMexico&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/TIBMexico2018?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#TIBMexico2018&lt;/a&gt; 🍰👩‍💻 &lt;a href=&#34;https://t.co/2OeGWr35r3&#34;&gt;pic.twitter.com/2OeGWr35r3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alejandra Medina-Rivera (@AleMedinaRivera) &lt;a href=&#34;https://twitter.com/AleMedinaRivera/status/1024705893148094464?ref_src=twsrc%5Etfw&#34;&gt;August 1, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;

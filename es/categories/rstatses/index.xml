@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rstatsES | CDSB</title>
-    <link>/es/categories/rstatses/</link>
-      <atom:link href="/es/categories/rstatses/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://comunidadbioinfo.github.io/es/categories/rstatses/</link>
+      <atom:link href="http://comunidadbioinfo.github.io/es/categories/rstatses/index.xml" rel="self" type="application/rss+xml" />
     <description>rstatsES</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2021</copyright><lastBuildDate>Fri, 05 Apr 2019 13:30:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>rstatsES</title>
-      <link>/es/categories/rstatses/</link>
+      <link>http://comunidadbioinfo.github.io/es/categories/rstatses/</link>
     </image>
     
     <item>
       <title>Taller CDSB 2019: Cómo Crear y Ordenar Herramientas &#39;Tidy&#39;</title>
-      <link>/es/post/building-tidy-tools-cdsb-runconf-2019/</link>
+      <link>http://comunidadbioinfo.github.io/es/post/building-tidy-tools-cdsb-runconf-2019/</link>
       <pubDate>Fri, 05 Apr 2019 13:30:00 +0000</pubDate>
-      <guid>/es/post/building-tidy-tools-cdsb-runconf-2019/</guid>
+      <guid>http://comunidadbioinfo.github.io/es/post/building-tidy-tools-cdsb-runconf-2019/</guid>
       <description>&lt;h4 id=&#34;comunidad-de-desarrolladores-de-software-en-bioinformática&#34;&gt;Comunidad de Desarrolladores de Software en Bioinformática&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -419,13 +419,13 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;
-&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/CCG_Logo_HR-300x114.png&#34; alt=&#34;Centro de Ciencias Genómicas UNAM&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;http://www.ccg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/CCG_Logo_HR-300x114.png&#34; alt=&#34;Centro de Ciencias Genómicas UNAM&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;http://www.lcg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/LCG_Logo_HR-white.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;http://www.lcg.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/LCG_Logo_HR-white.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;http://liigh.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/logo-liigh-unam.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;http://liigh.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/logo-liigh-unam.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;
-&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/RConsortium_Horizontal_Pantone-768x173.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;a href=&#34;https://www.r-consortium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/RConsortium_Horizontal_Pantone-768x173.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -434,9 +434,9 @@
     
     <item>
       <title>Taller de Desarrolladores Latino Americanos de R/BioConductor 2018</title>
-      <link>/es/post/r-bioconductor-developers-workshop-2018/</link>
+      <link>http://comunidadbioinfo.github.io/es/post/r-bioconductor-developers-workshop-2018/</link>
       <pubDate>Thu, 22 Mar 2018 12:40:21 +0000</pubDate>
-      <guid>/es/post/r-bioconductor-developers-workshop-2018/</guid>
+      <guid>http://comunidadbioinfo.github.io/es/post/r-bioconductor-developers-workshop-2018/</guid>
       <description>&lt;h4 id=&#34;comunidad-de-desarrolladores-de-software-en-bioinformática&#34;&gt;Comunidad de Desarrolladores de Software en Bioinformática&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;

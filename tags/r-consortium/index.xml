@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Consortium | CDSB</title>
-    <link>/tags/r-consortium/</link>
-      <atom:link href="/tags/r-consortium/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://comunidadbioinfo.github.io/tags/r-consortium/</link>
+      <atom:link href="http://comunidadbioinfo.github.io/tags/r-consortium/index.xml" rel="self" type="application/rss+xml" />
     <description>R Consortium</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>R Consortium</title>
-      <link>/tags/r-consortium/</link>
+      <link>http://comunidadbioinfo.github.io/tags/r-consortium/</link>
     </image>
     
     <item>
       <title>Latin American communities and organizations: useR!2020 video</title>
-      <link>/post/user_latin_american_community/</link>
+      <link>http://comunidadbioinfo.github.io/post/user_latin_american_community/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/user_latin_american_community/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/user_latin_american_community/</guid>
       <description>&lt;p&gt;&lt;em&gt;This useR!2020 session and video was organized by 
 &lt;a href=&#34;https://twitter.com/_lacion_&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laura Acion&lt;/a&gt;, 
 &lt;a href=&#34;https://twitter.com/yabellini&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yanina Bellini Saibene&lt;/a&gt;, 
@@ -93,12 +93,12 @@
     
     <item>
       <title>CDSB: the story of a diversity and outreach hotspot in Mexico that hopes to empower local R developers</title>
-      <link>/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/</link>
+      <link>http://comunidadbioinfo.github.io/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/</guid>
+      <guid>http://comunidadbioinfo.github.io/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/</guid>
       <description>&lt;p&gt;&lt;em&gt;This blog post was submitted to the 
 &lt;a href=&#34;https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Consortium blog&lt;/a&gt; where it was published on 03/18/2020.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/2019-08-03-11.52.16.jpg&#34; width=&#34;800px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/2019-08-03-11.52.16.jpg&#34; width=&#34;800px&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;I have been attending R conferences since 2008, and while I’ve seen the R community grow rapidly, I generally don’t encounter as many Latin Americans (LatAm) among communities of R developers. Traditionally, a lab lead investigator invested in R or Bioconductor would teach their trainees and students these skills, becoming a local R hotspot. However, that scenario is uncommon in Mexico for several reasons. Recognizing some of these challenges and driven to promote R in our home country and LatAm, in 2017 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/authors/areyes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt; and 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I&lt;/a&gt; teamed up with 
@@ -118,7 +118,7 @@ CDSB2018 alumni
 &lt;a href=&#34;https://comunidadbioinfo.github.io/post/path-from-cdsbmexico-2018-to-bioc2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;secured BioC2019 travel scholarships&lt;/a&gt; and presented their work.
 Three CDSB2018 and 2019 alumni submitted the 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;first package to Bioconductor (&lt;code&gt;regutools&lt;/code&gt;)&lt;/a&gt;, representing a significant percent-wise increase in the representation of LatAms in the Bioconductor developers community.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/regutools/alumni.png&#34; width=&#34;600px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/regutools/alumni.png&#34; width=&#34;600px&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;We have greatly benefited from the logistics and organization support by 
 &lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNB-UNAM&lt;/a&gt; and 
 &lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMB&lt;/a&gt; local teams, allowing us to focus on designing the workshop curriculum and inviting a diverse set of instructors, including 
