@@ -5,12 +5,35 @@
     <link>http://comunidadbioinfo.github.io/categories/events/</link>
       <atom:link href="http://comunidadbioinfo.github.io/categories/events/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Thu, 05 Mar 2020 13:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>Events</title>
       <link>http://comunidadbioinfo.github.io/categories/events/</link>
     </image>
+    
+    <item>
+      <title>Talleres CDSB 2021: RStudio workflows and scRNA-seq with Bioconductor</title>
+      <link>http://comunidadbioinfo.github.io/post/cdsb-2021-workshops/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://comunidadbioinfo.github.io/post/cdsb-2021-workshops/</guid>
+      <description>&lt;p&gt;We are delighted to announce that 
+&lt;a href=&#34;https://twitter.com/CDSBMexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB&lt;/a&gt;, along with the 
+&lt;a href=&#34;https://twitter.com/RBioinformatica&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mexican Bioinformatics Network&lt;/a&gt; (RMB in Spanish) and the 
+&lt;a href=&#34;https://twitter.com/nnb_unam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Node of Bioinformatics at UNAM&lt;/a&gt; (NNB-CCG), is organizing two week-long workshops this summer as part of the National Bioinformatics Meeting 2021. These are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2021_workflows/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workflows with RStudio and creating &lt;code&gt;shiny&lt;/code&gt; apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analysis of scRNA-seq data with Bioconductor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These workshops will be held online on August 9 to 13, 2021.&lt;/p&gt;
+&lt;p&gt;If you are interested in taking part in the short courses, please check the 
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNB-CCG website&lt;/a&gt; for how to register.&lt;/p&gt;
+&lt;p&gt;We are looking forward to seeing you soon!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/post/2021-01-27-cs_and_s_event_fund_award/english_cs_and_s_award.jpeg&#34; alt=&#34;CS and S Event Fund Thank you!&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CDSB Workshop 2020: Building workflows with RStudio and Bioconductor for single cell RNA-seq analysis</title>

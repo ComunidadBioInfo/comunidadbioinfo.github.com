@@ -5,12 +5,35 @@
     <link>http://comunidadbioinfo.github.io/es/</link>
       <atom:link href="http://comunidadbioinfo.github.io/es/index.xml" rel="self" type="application/rss+xml" />
     <description>CDSB</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2021</copyright><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2021</copyright><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>CDSB</title>
       <link>http://comunidadbioinfo.github.io/es/</link>
     </image>
+    
+    <item>
+      <title>Talleres CDSB 2021: flujo de trabajos y scRNA-seq con Bioconductor</title>
+      <link>http://comunidadbioinfo.github.io/es/post/cdsb-2021-workshops/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://comunidadbioinfo.github.io/es/post/cdsb-2021-workshops/</guid>
+      <description>&lt;p&gt;Estamos encantadxs de anunciar que la 
+&lt;a href=&#34;https://twitter.com/CDSBMexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB&lt;/a&gt;, junto con la 
+&lt;a href=&#34;https://twitter.com/RBioinformatica&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red Mexicana de Bioinformática&lt;/a&gt; (RMB) y el 
+&lt;a href=&#34;https://twitter.com/nnb_unam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nodo Nacional de Bioinformática en la UNAM&lt;/a&gt; (NNB-CCG), está organizando dos talleres de una semana como parte del Encuentro Nacional de Bioinformática 2021. Los dos talleres son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2021_workflows/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lujos de trabajo con RStudio y creación de Shiny apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Análisis de datos transcriptómicos de célula única (scRNA-seq) con R y Bioconductor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Los talleres serán en línea del 9 al 13 de agosto de 2021.&lt;/p&gt;
+&lt;p&gt;Si te interesa participar en los mini-cursos, por favor checa el 
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sitio web del NNB-CCG&lt;/a&gt; para poder registrarte.&lt;/p&gt;
+&lt;p&gt;¡Lxs esperamxs!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/post/2021-01-27-cs_and_s_event_fund_award/spanish_cs_and_s_award.jpeg&#34; alt=&#34;CS and S Event Fund Thank you!&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Anuncio del donativo de CS&amp;S Event Fund</title>
