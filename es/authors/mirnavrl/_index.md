@@ -9,28 +9,28 @@ authors = ["mirnavrl"]
 superuser = false
 
 # Role/position
-role = "Postdoctoral fellow"
+role = "Estancia Postdoctoral"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "The University of Texas at Austin", url = "https://www.utexas.edu" } ]
+organizations = [ { name = "Universidad de Texas en Austin", url = "https://www.utexas.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Postdoctoral fellow at @UTAustin, Bioinformatics, Member of @RLadiesXalapa."
+bio = "Postdoc en @UTAustin, Bioinformática, Miembra de @RLadiesXalapa."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "mirnavrl@austin.utexas.edu"
 
 # List (academic) interests or hobbies
 interests = [
-  "Bioinformatics",
-  "Metagenomes",
-  "R packages development"
+  "Bioinformática",
+  "Metagenomas",
+  "Desarrollo de paquetes de R"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["2021 Instructors"]
+user_groups = ["Instructores 2021"]
 
 # List qualifications (such as academic degrees)
 
