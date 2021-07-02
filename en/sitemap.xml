@@ -638,6 +638,20 @@
   </url>
   
   <url>
+    <loc>http://comunidadbioinfo.github.io/authors/alabasti/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://comunidadbioinfo.github.io/es/authors/alabasti/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://comunidadbioinfo.github.io/authors/alabasti/"
+                />
+  </url>
+  
+  <url>
     <loc>http://comunidadbioinfo.github.io/authors/amedina/</loc>
     <xhtml:link
                 rel="alternate"
@@ -732,6 +746,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://comunidadbioinfo.github.io/authors/josschavezf/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://comunidadbioinfo.github.io/authors/mirnavrl/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://comunidadbioinfo.github.io/es/authors/mirnavrl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://comunidadbioinfo.github.io/authors/mirnavrl/"
                 />
   </url>
   
