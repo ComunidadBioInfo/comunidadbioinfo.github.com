@@ -820,6 +820,20 @@
   </url>
   
   <url>
+    <loc>http://comunidadbioinfo.github.io/authors/roramirezf/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://comunidadbioinfo.github.io/es/authors/roramirezf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://comunidadbioinfo.github.io/authors/roramirezf/"
+                />
+  </url>
+  
+  <url>
     <loc>http://comunidadbioinfo.github.io/authors/sfernandez/</loc>
     <xhtml:link
                 rel="alternate"
