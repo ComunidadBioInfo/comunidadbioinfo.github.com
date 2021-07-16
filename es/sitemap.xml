@@ -643,6 +643,20 @@
   </url>
   
   <url>
+    <loc>http://comunidadbioinfo.github.io/es/authors/aescalante/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://comunidadbioinfo.github.io/authors/aescalante/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://comunidadbioinfo.github.io/es/authors/aescalante/"
+                />
+  </url>
+  
+  <url>
     <loc>http://comunidadbioinfo.github.io/es/authors/alabasti/</loc>
     <xhtml:link
                 rel="alternate"
