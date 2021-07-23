@@ -680,6 +680,20 @@
   </url>
   
   <url>
+    <loc>http://comunidadbioinfo.github.io/authors/anabva/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://comunidadbioinfo.github.io/es/authors/anabva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://comunidadbioinfo.github.io/authors/anabva/"
+                />
+  </url>
+  
+  <url>
     <loc>http://comunidadbioinfo.github.io/authors/aponce/</loc>
     <xhtml:link
                 rel="alternate"
@@ -722,6 +736,34 @@
   </url>
   
   <url>
+    <loc>http://comunidadbioinfo.github.io/authors/citlaliga/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://comunidadbioinfo.github.io/es/authors/citlaliga/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://comunidadbioinfo.github.io/authors/citlaliga/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://comunidadbioinfo.github.io/authors/emarquezz/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://comunidadbioinfo.github.io/es/authors/emarquezz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://comunidadbioinfo.github.io/authors/emarquezz/"
+                />
+  </url>
+  
+  <url>
     <loc>http://comunidadbioinfo.github.io/authors/hsalgado/</loc>
     <xhtml:link
                 rel="alternate"
@@ -760,6 +802,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://comunidadbioinfo.github.io/authors/josschavezf/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://comunidadbioinfo.github.io/authors/lgomez/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://comunidadbioinfo.github.io/es/authors/lgomez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://comunidadbioinfo.github.io/authors/lgomez/"
                 />
   </url>
   
