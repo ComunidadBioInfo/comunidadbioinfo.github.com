@@ -923,6 +923,20 @@
   </url>
   
   <url>
+    <loc>http://comunidadbioinfo.github.io/es/authors/yalbibalderas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://comunidadbioinfo.github.io/authors/yalbibalderas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://comunidadbioinfo.github.io/es/authors/yalbibalderas/"
+                />
+  </url>
+  
+  <url>
     <loc>http://comunidadbioinfo.github.io/es/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
