@@ -1,31 +1,146 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R Consortium on CDSB</title>
+    <title>R Consortium | CDSB</title>
     <link>http://comunidadbioinfo.github.io/es/tags/r-consortium/</link>
-    <description>Recent content in R Consortium on CDSB</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es-mx</language>
-    <copyright>&amp;copy; 2018-{year}</copyright>
-    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://comunidadbioinfo.github.io/es/tags/r-consortium/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://comunidadbioinfo.github.io/es/tags/r-consortium/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Consortium</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2022</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <title>R Consortium</title>
+      <link>http://comunidadbioinfo.github.io/es/tags/r-consortium/</link>
+    </image>
+    
     <item>
       <title>Comunidades de Práctica en América Latina: R y Colegas</title>
       <link>http://comunidadbioinfo.github.io/es/post/user_latin_american_community/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://comunidadbioinfo.github.io/es/post/user_latin_american_community/</guid>
-      <description>Esta sesión de useR!2020 y video fueron organizados por Laura Acion, Yanina Bellini Saibene, Paola Corrales y Paloma Rojas Saunero. Leonardo Collado Torres coordinó el blog post. Este blog post fue originalmente publicado en el blog del R Consortium el 7 de julio del 2020.
-El 19 de junio de 2020 filmamos un video para useR!2020 donde resaltamos las comunidades y organizaciones en América Latina en las que estamos involucradxs o que tienen participantes latinxs.</description>
+      <description>&lt;p&gt;&lt;em&gt;Esta sesión de useR!2020 y video fueron organizados por 
+&lt;a href=&#34;https://twitter.com/_lacion_&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laura Acion&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/yabellini&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yanina Bellini Saibene&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/PaobCorrales&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paola Corrales&lt;/a&gt; y 
+&lt;a href=&#34;https://twitter.com/palolili23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paloma Rojas Saunero&lt;/a&gt;. 
+&lt;a href=&#34;https://twitter.com/lcolladotor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado Torres&lt;/a&gt; coordinó el blog post. Este blog post fue originalmente publicado en el 
+&lt;a href=&#34;https://www.r-consortium.org/blog/2020/07/07/latin-american-communities-and-organizations-at-user2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog del R Consortium&lt;/a&gt; el 7 de julio del 2020.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;El 19 de junio de 2020 filmamos un video para  
+&lt;a href=&#34;https://user2020.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;useR!2020&lt;/a&gt; donde resaltamos las comunidades y organizaciones en América Latina en las que estamos involucradxs o que tienen participantes latinxs. En este blog post, queremos destacar estas iniciativas y recordarle a todxs que estamos más que dispuestxs a ayudarles a empezar organizaciones similares en sus comunidades locales.&lt;/p&gt;
+&lt;img src=&#34;https://lh6.googleusercontent.com/Bo9ZwbNi1uLUYehBm3n-OnoJ_QXolp1uY1wotBKqE4U1JY9l_EsughzZmkhPbydxsCP-MmgqEysgfAdMfcIEbPY0uLkVBsPk1LoETPes-zPqqE7Olway4MFuE5XacV6KKXkLBn9o&#34; width=&#34;800px&#34;/&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/LatinR_Conf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LatinR&lt;/a&gt;: 
+&lt;a href=&#34;https://latin-r.com/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LatinR&lt;/a&gt; es una conferencia internacional trilingüe para el uso de R en la investigación y desarrollo en América Latina. Desde 2018, nuestra conferencia ha sido un punto de partida para nuevos paquetes, nuevos grupos de usuarixs locales, clubes de lectura, capítulos de R-Ladies, traducciones y otras iniciativas en la región.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/conecta_R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ConectaR&lt;/a&gt;: ConectaR 2019 tuvo lugar del 24 al 26 de enero de 2019 en la Universidad de Costa Rica, en San José, Costa Rica. Fue el primer evento en Centroamérica avalado por la R Foundation, y se realizó completamente en español. Puedes encontrar más información 
+&lt;a href=&#34;https://journal.r-project.org/archive/2019-2/conectaR.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aquí&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/satRdays_org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;satRday&lt;/a&gt;: 
+&lt;a href=&#34;https://satrdays.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;satRday&lt;/a&gt; es una conferencia sobre R y sus aplicaciones, que ocurre en todo el mundo, y que cuyos eventos son organizados por la comunidad local. Tuvimos dos eventos de satRdays en América Latina: en Santiago - Chile y São Paulo - Brasil. Si quieres organizar un evento de satRday en cualquier lugar en América Latina, ¡por favor ponte en contacto para que nos podamos ayudar mutamente!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/RLadiesGlobal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies&lt;/a&gt;: 
+&lt;a href=&#34;https://rladies.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies&lt;/a&gt; es una organización global que promueve la diversidad de género en la comunidad R. Actualmente, tiene 123 capítulos activos en 51 países de todo el mundo, de los cuales en América Latina tenemos 49 capítulos en 10 países. Algunxs latinxs son parte del equipo global de R-Ladies, incluyendo su directiva. COVID-19 no ha detenido a R-Ladies. En cambio, hemos migrado nuestros eventos en línea y hemos creado alianzas entre los diferentes capítulos. Todo ha sido en un esfuerzo para proveer opciones para aprender R en ambientes seguros y de apoyo para así aumentar la diversidad de género en la comunidad de R. ¡Únete!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/rOpenSci&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenSci&lt;/a&gt;: R para ciencia abierta, 
+&lt;a href=&#34;https://ropensci.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenSci&lt;/a&gt;, brinda revisiones técnicas gratuitas de paquetes en R para mejorar la calidad del software de código abierto para maximizar legibilidad, facilidad de uso, utilidad y minimizar la redundancia. Su proceso de peer-review será prontamente traducido al español, ¡tú puedes involucrarte!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/CDSBMexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB&lt;/a&gt;: la 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comunidad de Desarrolladores de Software de Bioinformática&lt;/a&gt; nació en 2018 con el objetivo de ayudar a usarixs de R latinxs en convertirse en desarrolladores de R &amp;amp; Bioconductor, además de aumentar la visibilidad de latinxs en estas comunidades. Para mayor información de la CDSB revisa  
+&lt;a href=&#34;http://bit.ly/cdsbpost2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bit.ly/cdsbpost2020&lt;/a&gt; (
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/#.XwZBapNKh_Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;en español&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.r-consortium.org/projects/r-user-group-support-program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RUGs&lt;/a&gt;: hoy en día exiten varios Grupos de Usuarios de R (RUG en inglés) en América Latina, algunos de los cuales son oficiales y patrocinados por el 
+&lt;a href=&#34;https://twitter.com/RConsortium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Consortium&lt;/a&gt;. La creación de un espacio acogedor y con buena onda es crucial para que las ideas fluyan. Esto no sólo asegura que todos se sientan cómodos aprendiendo y compartiendo lo que han aprendido, sino que también permite que aparezcan nuevos proyectos inesperados. ¡Te podemos ayudar a empezar tu propio grupo!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/R4DS_es&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R4DS&lt;/a&gt; en español + el paquete &lt;code&gt;datos&lt;/code&gt;: los recursos para aprender R en inglés son muchos, increíbles, en línea y gratuitos. Pero en América Latina pocas personas pueden darse el lujo de aprender inglés, y los recursos en español son pocos. Para ayudar a resolver este problema, como comunidad tradujimos del inglés al español el libro 
+&lt;a href=&#34;https://es.r4ds.hadley.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;R for Data Science&amp;rdquo;&lt;/a&gt; y desarrollamos un paquete con la traducción de todos los datos que se usan en el libro: 
+&lt;a href=&#34;https://cran.r-project.org/web/packages/datos/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;datos&lt;/code&gt;&lt;/a&gt;. El flujo de trabajo para contribuir al paquete fue diseñado para involucrar a quienes quieran contribuir por primera vez, y ahora está guiando el desarrollo de una versión en portugués que se lanzará en los próximos meses.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/hashtag/datosdemiercoles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#DatosDeMiércoles&lt;/a&gt; + 
+&lt;a href=&#34;https://twitter.com/hashtag/30diasdegraficos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#30díasdegráficos&lt;/a&gt;: La cuenta de Twitter 
+&lt;a href=&#34;https://twitter.com/R4DS_es&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@R4DS_es&lt;/a&gt; fue creada como una forma de compartir proyectos como la traducción de R4DS y para desarrollar iniciativas para ir creciendo la comunidad de R de habla hispana, tales como  #datosdemieRcoles, el primo latinoamericano de 
+&lt;a href=&#34;https://twitter.com/hashtag/tidytuesday&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#TidyTuesday&lt;/a&gt;. La idea no es solo utilizar conjuntos de datos en español, sino también conjuntos de datos que sean relevantes para las personas de nuestra Región. Esta iniciativa ha sido complementada por un desafío dataviz de 30 días llamado # 30díasdegráficos. Si deseas participar proponiendo un conjunto de datos para #datodemiéRcoles, visite nuestra 
+&lt;a href=&#34;https://github.com/cienciadedatos/datos-de-miercoles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cuenta de github&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/thecarpentries&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Carpentries&lt;/a&gt;: 
+&lt;a href=&#34;https://carpentries.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Carpentries&lt;/a&gt; desarrolla capacidades esenciales globales en datos y habilidades computacionales para llevar a cabo una investigación eficiente, abierta y reproducible. La construcción de una comunidad sostenible y activa en América Latina incluye varias iniciativas: traducción de lecciones, capacitación de instructores, coordinación de talleres y recaudación de fondos. Ponte en contacto a través de la lista de correo y en el 
+&lt;a href=&#34;https://swc-slack-invite.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slack de Carpentries&lt;/a&gt;, canal carpentries-es.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/ReproHack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ReproHack&lt;/a&gt;: 
+&lt;a href=&#34;https://reprohack.github.io/reprohack-hq/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ReproHack&lt;/a&gt; es una comunidad que está creciendo, conformada por investigadores que están luchando contra la crisis de reproducibilidad al compartir sus experiencias de diferentes disciplinas. Se enfoca en organizar hackathones donde los participantes intenta reproducir un artículo de investigación publicado a partir de una lista de artículos propuestos, que tengan los datos y el código público. Estamos planificando el primer Reprohack en español para octubre de este año y puedes ponerte en contacto a través de 
+&lt;a href=&#34;https://twitter.com/ReproHack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/AIinclusive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI Inclusive&lt;/a&gt;: 
+&lt;a href=&#34;https://www.ai-inclusive.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI Inclusive&lt;/a&gt; es una organización que promueve la diversidad en la Comunidad de Inteligencia Artificial (IA; AI en inglés). Queremos crear conciencia sobre los problemas de Inteligencia Artificial y empoderar a la comunidad para que puedan ingresar en el campo de la IA, un campo que no es para nada diverso. En Diciembre 2019, tuvimos nuestros eventos de lanzamiento en Río de Janeiro, Brasil y San Francisco, California. Juntos, estamos construyendo una comunidad para hacer que la Inteligencia Artificial sea más inclusiva para todxs. ¡Síguenos y únete a nosotrxs!&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/datalatam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Latam&lt;/a&gt;: en mayo del 2016 arrancamos con el primer 
+&lt;a href=&#34;http://www.datalatam.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;podcast de Data Latam&lt;/a&gt; con el objetivo de ofrecer a gente interesada un punto de acceso fácil y en español al mundo de la ciencia de datos. Siempre le preguntamos a lxs entrevistadxs &amp;ldquo;¿cómo llegaste a donde estás?&amp;rdquo;, y la diversidad de historias ha sido enorme. Hoy en día Data Latam es una comunidad Latinoamericana de profesionales y académicxs aplicando ciencia de datos en su día a día. ¡Te invitamos a participar!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lo que pasa en la comunidad R, no se queda en la comunidad R. Todas las buenas prácticas de comunidades inclusivas y diversas aprendidas en muchas de las iniciativas presentadas anteriormente, generan equipos de trabajo fuertes dentro de la comunidad R y fuera de ella. Aún hay mucho que hacer, pero lo que ya hemos logrado es muy alentador y provee bases muy sólidas para el futuro.&lt;/p&gt;
+&lt;p&gt;Estas iniciativas son sostenidas por muchas personas que hacen un gran esfuerzo detrás de escena, que es principalmente voluntario. Algunos de los desafíos que enfrentan las comunidades se traducen en múltiples aspectos positivos, sostenidos y mucho trabajo duro invisible. Algunos son: buscar financiamiento internacional porque el financiamiento regional es limitado, traducir contenido, unir fuerzas a través de organizaciones, organizar conferencias regionales, convertirse en desarrolladores de la tecnología.&lt;/p&gt;
+&lt;p&gt;La comunidad de R en América Latina está creciendo rápidamente y también la responsabilidad de hacer que este crecimiento sea sólido y seguro.  Algunos de los trabajos futuros que nosotrxs, como constructores de la comunidad, esperamos cumplir son: consolidar las conferencias regionales con el apoyo de patrocinadores internacionales; adquirir apoyo para mantener los proyectos de traducción; amplificar la voz de las minorías regionales; importar material educativo y oportunidades de trabajo; conectar a expatriadxs con sus comunidades locales; ayudar a otros grupos como los RUGs y RLadies; colaborar con otras iniciativas como 
+&lt;a href=&#34;https://twitter.com/R_Forwards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Forwards&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/AfricaRUsers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Africa-R&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/miR_community&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiR&lt;/a&gt;, entre otras; aumentar nuestra representación y la de otras minorías en el 
+&lt;a href=&#34;https://www.r-project.org/contributors.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Core Team&lt;/a&gt;, la 
+&lt;a href=&#34;https://www.r-project.org/foundation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Foundation&lt;/a&gt; y el 
+&lt;a href=&#34;https://twitter.com/RConsortium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Consortium&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¡Muchas gracias! Por favor checa nuestro video de useR!2020 en 
+&lt;a href=&#34;https://youtu.be/gtRntU2J3Cg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;img src=&#34;https://lh3.googleusercontent.com/GRMf3aoxL1mUH_3kgme-xhtba7b6JDnOlMFDP2MvtvL0Y3-ciBsqSoHtLmMm5WLXj-DZEJIgzJDhfLIy-UlvgN7FxOm-sTjvfTBFJF-SKZZW9VoftTG70EYnVY4FobOiSi8WX7GR&#34; width=&#34;800px&#34;/&gt;
+</description>
     </item>
     
     <item>
       <title>CDSB: la historia de una comunidad diversa y de superación en México que aspira a empoderar a desarrolladores locales de R</title>
       <link>http://comunidadbioinfo.github.io/es/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://comunidadbioinfo.github.io/es/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/</guid>
-      <description>Esta entrada en el blog fue enviada al blog del R Consortium donde fue publicada el 03/18/2020.
-He ido a congresos de R desde 2008, y mientras he visto a la comunidad de R crecer rápidamente, generalmente no me topo con otras, otros y otrxs desarrolladores latinoamericanos (LatAm) en las diferentes comunidades de desarrolladores de R. Tradicionalmente, la, el o lxs investigadores líderes de un laboratorio inmerso con R o Bioconductor le enseñarían a sus alumnos, alumnas, alumnxs y aprendices estas habilidades, convirtiéndose así en un nodo local de la comunidad de R.</description>
+      <description>&lt;p&gt;&lt;em&gt;Esta entrada en el blog fue enviada al 
+&lt;a href=&#34;https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog del R Consortium&lt;/a&gt; donde fue publicada el 03/18/2020.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/2019-08-03-11.52.16.jpg&#34; width=&#34;800px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;He ido a congresos de R desde 2008, y mientras he visto a la comunidad de R crecer rápidamente, generalmente no me topo con otras, otros y otrxs desarrolladores latinoamericanos (LatAm) en las diferentes comunidades de desarrolladores de R. Tradicionalmente, la, el o lxs investigadores líderes de un laboratorio inmerso con R o Bioconductor le enseñarían a sus alumnos, alumnas, alumnxs y aprendices estas habilidades, convirtiéndose así en un nodo local de la comunidad de R. Sin embargo, ese escenario es raro en México por diversas razones. Reconociendo estos obstáculos y compremetidos por promover R en nuestro país natal y LatAm, en 2017 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/areyes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt; y 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;yo&lt;/a&gt; creamos un equipo junto con 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandra Medina Rivera&lt;/a&gt; y 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/hsalgado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heladia Salgado&lt;/a&gt; que eventualmente llevó al lanzamiento de la Comunidad de Desarrolladores de Software en Bioinformática (
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB&lt;/a&gt;) en 2018. Uno de nuestros objetivos es facilitar y promover la transición de usuario, usuaria o usuarixs de R a desarrollador, desarrolladora o desarrolladores de R. Cada año hemos organizado talleres de una semana junto con el 
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNB-UNAM&lt;/a&gt; y la 
+&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMB&lt;/a&gt;; justamente acabamos de anunciar nuestro 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;taller para el 2020&lt;/a&gt; (Agosto 3-7 2020 Cuernavaca, Morelos, México).&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;If you are fighting for change, know that even when things feel hard and progress is slow (or seems nonexistent), you are still creating and holding space for those who will come after you. Even if you can’t see it now, the impact of your work will be visible in the future.&lt;/p&gt;&amp;mdash; Jen Heemstra (@jenheemstra) &lt;a href=&#34;https://twitter.com/jenheemstra/status/1235568526892515329?ref_src=twsrc%5Etfw&#34;&gt;March 5, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;Mientras ya vamos por nuestro tercer taller, creo que hemos tenido varias historias de éxito a través de los años.&lt;/p&gt;
+&lt;p&gt;Egresadas, egresados y egresadxs de CDSB2018 escribieron una 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;entrada en nuestro blog&lt;/a&gt; sobre su paquete de R en GitHub llamado &lt;code&gt;rGriffin&lt;/code&gt;.
+Egresadas, egresados y egresadxs de CDSB2018 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/path-from-cdsbmexico-2018-to-bioc2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;obtuvieron becas para asistir a BioC2019&lt;/a&gt; y presentaron su trabajo.
+Tres egresadas, egresados y egresadxs de CDSB2018 y 2019 mandaron su 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/from-bioconductor-users-to-developers-our-first-community-submission/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;primer paquete de R a Bioconductor (&lt;code&gt;regutools&lt;/code&gt;)&lt;/a&gt;, lo cual representó un aumentó significantivo en términos porcentuales de la representación de desarrolladores LatAms en la comunidad de Bioconductor.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/regutools/alumni_es.png&#34; width=&#34;600px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Hemos salidos beneficiados enormemente del apoyo logístico proveído por equipos locales del 
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNB-UNAM&lt;/a&gt; y la 
+&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMB&lt;/a&gt;, lo cual nos ha permitido concentrarnos en el diseño curricular de los talleres e invitar un grupo diverso de instructores, incluyendo a 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/mteresa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maria Teresa Ortiz&lt;/a&gt; quien es co-fundadora de 
+&lt;a href=&#34;https://twitter.com/RLadiesCDMX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RLadiesCDMX&lt;/a&gt; y nos ha apoyado desde el inicio. Sin embargo, nos enfrentamos a retos económicos ya que han disminuido el presupuesto del organismo nacional para la ciencia (CONACyT) en años recientes. El apoyo del fondo para pequeños congresos de R por parte del R Consortium y de otros patrocinadores ha sido instrumental, al igual que las becas de diversidad y de apoyo para viajes que algunos de las, los y lxs instructores de la CDSB han recibido en diferentes congresos de R. Recientemente actualizamos nuestra página para los patrocinadores donde respondimos la pregunta: 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/niveles-de-patrocinio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;¿por qué deberías ser nuestro patrocinador?&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sin embargo, mientras aún solo estamos empezando nuestro camino, uno de nuestros mejores momentos derivó del 
+&lt;a href=&#34;https://ropensci.org/blog/2018/11/01/icebreaker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ejercicio para romper el hielo de rOpenSci&lt;/a&gt; durante CDSB2019. Logramos crear un verdadero sentimiento de comunidad y de deseo de organizar actividades en nuestras propias comunidades para difundir nuestro conocimiento de R. En especial, una egresada de CDSB2018 y 2019, 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/josschavezf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joselyn Chávez&lt;/a&gt;, se ofreció como voluntaria para unirse al Junta Directiva de la CDSB. Durante CDSB2019 también creamos en nuestro Slack el canal de #rladies donde en ese entonces teníamos personas de 3/4 de los capítulos de RLadies en México (
+&lt;a href=&#34;https://twitter.com/RLadies_Qro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qro&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/RLadiesXalapa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xalapa&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/RLadiesCDMX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDMX&lt;/a&gt;)  y donde ahora tenemos 5/6  (
+&lt;a href=&#34;https://twitter.com/RLadiesCuerna&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cuerna&lt;/a&gt;, 
+&lt;a href=&#34;https://www.meetup.com/rladies-monterrey/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Monterrey&lt;/a&gt;), dado que egresadas de CDSB2018 y 2019 han sido co-fundadoras de dos capítulos en México: 
+&lt;a href=&#34;https://anabva.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ana Beatriz Villaseñor-Altamirano&lt;/a&gt; en Qro y 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/josschavezf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joselyn Chávez&lt;/a&gt; en Cuerna.&lt;/p&gt;
+&lt;p&gt;Estoy orgulloso y emocionado de lo que hemos logrado con nuestros talleres de la CDSB de una semana, pero también de cómo hemos usado las herramientas que aprendimos de otras comunidades y que nos permiten seguir interactuando y comunicando durante todo el año. El tiempo nos dirá si nuestros esfuerzos crearon una onda que creció hasta convertirse en ola o si terminaremos desgastados. La sostenibilidad es un desafío, pero estamos muy motivados por el impacto que hemos tenido y solo podemos imaginar un futuro más brillante.&lt;/p&gt;
+&lt;iframe src=&#34;https://giphy.com/embed/26hitlrnI4k5dKPPq&#34; width=&#34;480&#34; height=&#34;320&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/studiosoriginals-stay-strong-comfort-26hitlrnI4k5dKPPq&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Community of Bioinformatics Software Developers (CDSB): The story of a diversity and outreach hotspot in Mexico that hopes to empower local R developers - &lt;a href=&#34;https://t.co/QMcNRUy1gl&#34;&gt;https://t.co/QMcNRUy1gl&lt;/a&gt; &lt;a href=&#34;https://twitter.com/fellgernon?ref_src=twsrc%5Etfw&#34;&gt;@fellgernon&lt;/a&gt; &lt;a href=&#34;https://twitter.com/andrewejaffe?ref_src=twsrc%5Etfw&#34;&gt;@andrewejaffe&lt;/a&gt; &lt;a href=&#34;https://twitter.com/LieberInstitute?ref_src=twsrc%5Etfw&#34;&gt;@LieberInstitute&lt;/a&gt; &lt;a href=&#34;https://twitter.com/lcgunam?ref_src=twsrc%5Etfw&#34;&gt;@lcgunam&lt;/a&gt; &lt;a href=&#34;https://twitter.com/jhubiostat?ref_src=twsrc%5Etfw&#34;&gt;@jhubiostat&lt;/a&gt; &lt;a href=&#34;https://twitter.com/jtleek?ref_src=twsrc%5Etfw&#34;&gt;@jtleek&lt;/a&gt; &lt;a href=&#34;https://twitter.com/LIBDrstats?ref_src=twsrc%5Etfw&#34;&gt;@LIBDrstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw&#34;&gt;@CDSBMexico&lt;/a&gt; &lt;a href=&#34;https://t.co/TmZmxTRwOv&#34;&gt;pic.twitter.com/TmZmxTRwOv&lt;/a&gt;&lt;/p&gt;&amp;mdash; R Consortium (@RConsortium) &lt;a href=&#34;https://twitter.com/RConsortium/status/1240293207755444225?ref_src=twsrc%5Etfw&#34;&gt;March 18, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
     </item>
     
   </channel>

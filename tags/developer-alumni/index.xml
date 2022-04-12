@@ -1,21 +1,289 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Developer Alumni on CDSB</title>
+    <title>Developer Alumni | CDSB</title>
     <link>http://comunidadbioinfo.github.io/tags/developer-alumni/</link>
-    <description>Recent content in Developer Alumni on CDSB</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018-{year}</copyright>
-    <lastBuildDate>Sat, 29 Feb 2020 17:00:00 +0000</lastBuildDate><atom:link href="http://comunidadbioinfo.github.io/tags/developer-alumni/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://comunidadbioinfo.github.io/tags/developer-alumni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Developer Alumni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2022</copyright><lastBuildDate>Sat, 29 Feb 2020 17:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <title>Developer Alumni</title>
+      <link>http://comunidadbioinfo.github.io/tags/developer-alumni/</link>
+    </image>
+    
     <item>
       <title>From Bioconductor users to developers: our first community submission</title>
       <link>http://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/</link>
       <pubDate>Sat, 29 Feb 2020 17:00:00 +0000</pubDate>
-      
       <guid>http://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/</guid>
-      <description>A couple years ago we started the Community of Bioinformatics Software Developers (CDSB in Spanish) as because we were concerned with the very low representation of Latin Americans in the Bioconductor community, and the R community in general. For the full story check this this blog post.
- Since we started CDSB, part of our goal been to help Bioconductor users transition into developers. To achieve this, we organized one week long courses in Mexico at low cost during the summers of 2018 and 2019 in partnership with the TIBs leadership (NNB-UNAM) and RMB.</description>
+      <description>
+
+
+&lt;script async class=&#34;speakerdeck-embed&#34; data-slide=&#34;14&#34; data-id=&#34;b9dd0405a013420682e7d850ab439326&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;A couple years ago we started the Community of Bioinformatics Software Developers (CDSB in Spanish) as because we were concerned with the very low representation of Latin Americans in the Bioconductor community, and the R community in general. For the full story check this &lt;a href=&#34;https://comunidadbioinfo.github.io/post/a-recap-of-cdsb-2018-the-start-of-a-community/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-slide=&#34;16&#34; data-id=&#34;b9dd0405a013420682e7d850ab439326&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;Since we started CDSB, part of our goal been to help Bioconductor users transition into developers. To achieve this, we organized one week long courses in Mexico at low cost during the summers of &lt;a href=&#34;https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/&#34;&gt;2018&lt;/a&gt; and &lt;a href=&#34;https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/&#34;&gt;2019&lt;/a&gt; in partnership with the &lt;a href=&#34;http://congresos.nnb.unam.mx/&#34;&gt;TIBs leadership (NNB-UNAM)&lt;/a&gt; and &lt;a href=&#34;https://redmexicanadebioinformatica.org/&#34;&gt;RMB&lt;/a&gt;. We plan to continue organizing these courses: except a 2020 announcement next week!&lt;/p&gt;
+&lt;p&gt;While these workshops allow us to reach up to 40 students in person for a week, we have been borrowing methods from others to try to interact more frequently and help throughout this process &lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;. But we now went a bit further.&lt;/p&gt;
+&lt;p&gt;In 2018, CDSB students worked on R/Bioconductor packages for two days during our workshop. One of them, &lt;a href=&#34;https://josschavezf.github.io/&#34;&gt;Joselyn Chávez&lt;/a&gt;, picked up the &lt;a href=&#34;https://github.com/ComunidadBioInfo/regutools&#34;&gt;regutools&lt;/a&gt; project and continued working on it with advice from &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/hsalgado&#34;&gt;Heladia Salgado&lt;/a&gt;. We eventually set up meetings where &lt;a href=&#34;http://alejandroreyes.org/&#34;&gt;Alejandro Reyes&lt;/a&gt; and &lt;a href=&#34;http://lcolladotor.github.io/&#34;&gt;myself&lt;/a&gt; would advice Joselyn, &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/carbarjon&#34;&gt;Carmina Barberena-Jonas&lt;/a&gt; and &lt;a href=&#34;http://comunidadbioinfo.github.io/authors/jemilianosf/&#34;&gt;Jesus Emiliano Sotelo-Fonseca&lt;/a&gt; on how to best proceed.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I just sent &lt;a href=&#34;https://twitter.com/Bioconductor?ref_src=twsrc%5Etfw&#34;&gt;@Bioconductor&lt;/a&gt;&amp;#39;s 2020 conf deadline reminders to &lt;a href=&#34;https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw&#34;&gt;@CDSBMexico&lt;/a&gt; &lt;a href=&#34;https://twitter.com/LieberInstitute?ref_src=twsrc%5Etfw&#34;&gt;@LieberInstitute&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GenomicsAtJHU?ref_src=twsrc%5Etfw&#34;&gt;@GenomicsAtJHU&lt;/a&gt; &lt;a href=&#34;https://twitter.com/LatinR_Conf?ref_src=twsrc%5Etfw&#34;&gt;@LatinR_Conf&lt;/a&gt; &lt;a href=&#34;https://twitter.com/rOpenSci?ref_src=twsrc%5Etfw&#34;&gt;@rOpenSci&lt;/a&gt; &lt;a href=&#34;https://twitter.com/jhubiostat?ref_src=twsrc%5Etfw&#34;&gt;@jhubiostat&lt;/a&gt; 🗓️&lt;br&gt;&lt;br&gt;It&amp;#39;s the conf that started my &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; career &amp;amp; I highly recommend it!&lt;br&gt;&lt;br&gt;BioC usage intro &lt;a href=&#34;https://t.co/8NaV68vUsA&#34;&gt;https://t.co/8NaV68vUsA&lt;/a&gt;&lt;a href=&#34;https://t.co/ATzkKs7c04&#34;&gt;https://t.co/ATzkKs7c04&lt;/a&gt; &lt;a href=&#34;https://t.co/km8vRfyHcY&#34;&gt;pic.twitter.com/km8vRfyHcY&lt;/a&gt;&lt;/p&gt;&amp;mdash; 🇲🇽 Leonardo Collado-Torres (@lcolladotor) &lt;a href=&#34;https://twitter.com/lcolladotor/status/1230694883750445056?ref_src=twsrc%5Etfw&#34;&gt;February 21, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;We’ve known for months that the deadline for &lt;a href=&#34;https://bioc2020.bioconductor.org&#34;&gt;BioC2020&lt;/a&gt; talk/poster proposals was March 3rd. So we designed a plan that would allow them to submit &lt;a href=&#34;https://github.com/ComunidadBioInfo/regutools&#34;&gt;regutools&lt;/a&gt; prior to that deadline, then submit a proposal to present it (as well as submit proposals to present their own research projects) in order to increase their likelihood of getting a &lt;a href=&#34;https://bioc2020.bioconductor.org/scholarships.html&#34;&gt;BioC2020 travel scholarship&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And we were able to accomplish this plan! Well, at least the part under their and our control. That is, check out the &lt;a href=&#34;https://github.com/Bioconductor/Contributions/issues/1393&#34;&gt;regutools Bioconductor submission&lt;/a&gt;. Thus we are incredibly excited to announce that the CDSB website now has a “Bioconductor Developers Alumni” section!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/regutools/alumni.png&#34; alt=&#34;Bioconductor Developers Alumni&#34; /&gt;
+We are also thrilled to announce that the &lt;a href=&#34;http://regulondb.ccg.unam.mx/&#34;&gt;RegulonDB&lt;/a&gt; team has given us the go ahead signal to write a manuscript about &lt;a href=&#34;https://github.com/ComunidadBioInfo/regutools&#34;&gt;regutools&lt;/a&gt;. So you’ll soon see a pre-print about it.&lt;/p&gt;
+&lt;iframe src=&#34;https://giphy.com/embed/WsKVAem02Efuw&#34; width=&#34;480&#34; height=&#34;455&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://giphy.com/gifs/dancing-happy-excited-WsKVAem02Efuw&#34;&gt;via GIPHY&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Though I personally really hope that Joselyn, Carmina, Emiliano and many other CDSB alumni will be able to go to BioC2020 and other R conferences.&lt;/p&gt;
+&lt;p&gt;We couldn’t have gotten this far without all the support we’ve received over the years. So I would like to thank all our previous sponsors &lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;, colleagues who’ve encouraged us to keep going, and CDSB alumni like Joselyn, Carmina, and Emiliano who believed in our ideas and spent their own time making them a reality.&lt;/p&gt;
+&lt;iframe src=&#34;https://giphy.com/embed/yoJC2El7xJkYCadlWE&#34; width=&#34;480&#34; height=&#34;294&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://giphy.com/gifs/kiss-brad-pitt-thank-you-yoJC2El7xJkYCadlWE&#34;&gt;via GIPHY&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;I leave you here with a short introduction to &lt;a href=&#34;https://github.com/ComunidadBioInfo/regutools&#34;&gt;regutools&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;regutools&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;regutools &lt;img src=&#34;https://comunidadbioinfo.github.io/regutools/reference/figures/logo.png&#34; align=&#34;right&#34; width=&#34;250px&#34;/&gt;&lt;/h3&gt;
+&lt;p&gt;The goal of &lt;code&gt;regutools&lt;/code&gt; is to provide an R interface for extracting and processing data from &lt;a href=&#34;http://regulondb.ccg.unam.mx/&#34;&gt;RegulonDB&lt;/a&gt;. This package was created as a collaboration by members of the &lt;a href=&#34;https://comunidadbioinfo.github.io/&#34;&gt;Community of Bioinformatics Software Developers&lt;/a&gt; (CDSB in Spanish).&lt;/p&gt;
+&lt;p&gt;For more details, please check the &lt;a href=&#34;http://comunidadbioinfo.github.io/regutools&#34;&gt;documentation website&lt;/a&gt; or the Bioconductor package landing page &lt;a href=&#34;https://bioconductor.org/packages/regutools&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;installation&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Installation&lt;/h4&gt;
+&lt;p&gt;You can install the released version of &lt;code&gt;regutools&lt;/code&gt; from &lt;a href=&#34;http://bioconductor.org/&#34;&gt;Bioconductor&lt;/a&gt; with:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;if (!requireNamespace(&amp;quot;BiocManager&amp;quot;, quietly = TRUE))
+    install.packages(&amp;quot;BiocManager&amp;quot;)
+
+BiocManager::install(&amp;quot;regutools&amp;quot;)
+
+## Check that you have a valid Bioconductor installation
+BiocManager::valid()&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;And the development version from &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; with:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## Since the package is currently going through the Bioconductor
+## revision process, you need to use this code instead:
+BiocManager::install(&amp;quot;ComunidadBioinfo/regutools&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;example&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Example&lt;/h4&gt;
+&lt;p&gt;This is a basic example which shows you how to use &lt;code&gt;regutools&lt;/code&gt;. For more details, please check the vignette.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(&amp;#39;regutools&amp;#39;)
+## basic example code
+
+## Connect to the RegulonDB database if necessary
+if(!exists(&amp;#39;regulondb_conn&amp;#39;)) regulondb_conn &amp;lt;- connect_database()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## snapshotDate(): 2019-10-29&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## Build a regulondb object
+e_coli_regulondb &amp;lt;-
+    regulondb(
+        database_conn = regulondb_conn,
+        organism = &amp;quot;E.coli&amp;quot;,
+        database_version = &amp;quot;1&amp;quot;,
+        genome_version = &amp;quot;1&amp;quot;
+    )
+
+## Get the araC regulators
+araC_regulation &amp;lt;-
+    get_gene_regulators(
+        e_coli_regulondb,
+        genes = c(&amp;quot;araC&amp;quot;),
+        format = &amp;quot;multirow&amp;quot;,
+        output.type = &amp;quot;TF&amp;quot;
+    )
+
+## Summarize the araC regulation
+get_regulatory_summary(e_coli_regulondb, araC_regulation)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## regulondb_result with 3 rows and 7 columns
+##         TF Regulated_genes_per_TF          Percent Activator Repressor     Dual
+##   &amp;lt;factor&amp;gt;               &amp;lt;factor&amp;gt;         &amp;lt;factor&amp;gt;  &amp;lt;factor&amp;gt;  &amp;lt;factor&amp;gt; &amp;lt;factor&amp;gt;
+## 1     AraC                      1 33.3333333333333         0         0        1
+## 2      CRP                      1 33.3333333333333         1         0        0
+## 3     XylR                      1 33.3333333333333         0         1        0
+##   Regulated_genes
+##          &amp;lt;factor&amp;gt;
+## 1            araC
+## 2            araC
+## 3            araC&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;citation&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Citation&lt;/h4&gt;
+&lt;p&gt;Below is the citation output from using &lt;code&gt;citation(&#39;regutools&#39;)&lt;/code&gt; in R. Please
+run this yourself to check for any updates on how to cite &lt;strong&gt;regutools&lt;/strong&gt;.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;citation(&amp;#39;regutools&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## 
+## Chávez J, Barberena-Jonas C, Sotelo-Fonseca JE, Alquicira-Hernandez J,
+## Salgado H, Collado-Torres L, Reyes A (2020). _regutools: an R package
+## for data extraction from RegulonDB_. doi: 10.18129/B9.bioc.regutools
+## (URL: https://doi.org/10.18129/B9.bioc.regutools),
+## https://github.com/comunidadbioinfo/regutools - R package version
+## 0.99.0, &amp;lt;URL: http://www.bioconductor.org/packages/regutools&amp;gt;.
+## 
+## Chávez J, Barberena-Jonas C, Sotelo-Fonseca JE, Alquicira-Hernandez J,
+## Salgado H, Collado-Torres L, Reyes A (2020). &amp;quot;Programmatic access to
+## bacterial regulatory networks with regutools.&amp;quot; _bioRxiv_. doi:
+## 10.1101/xxxyyy (URL: https://doi.org/10.1101/xxxyyy), &amp;lt;URL:
+## https://doi.org/10.1101/xxxyyy&amp;gt;.
+## 
+## To see these entries in BibTeX format, use &amp;#39;print(&amp;lt;citation&amp;gt;,
+## bibtex=TRUE)&amp;#39;, &amp;#39;toBibtex(.)&amp;#39;, or set
+## &amp;#39;options(citation.bibtex.max=999)&amp;#39;.&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;reproducibility-information&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Reproducibility information&lt;/h3&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;options(width = 120)
+sessioninfo::session_info()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## ─ Session info ───────────────────────────────────────────────────────────────────────────────────────────────────────
+##  setting  value                       
+##  version  R version 3.6.2 (2019-12-12)
+##  os       macOS Catalina 10.15.2      
+##  system   x86_64, darwin15.6.0        
+##  ui       X11                         
+##  language (EN)                        
+##  collate  en_US.UTF-8                 
+##  ctype    en_US.UTF-8                 
+##  tz       America/New_York            
+##  date     2020-02-29                  
+## 
+## ─ Packages ───────────────────────────────────────────────────────────────────────────────────────────────────────────
+##  package                * version  date       lib source                                     
+##  acepack                  1.4.1    2016-10-29 [1] CRAN (R 3.6.0)                             
+##  AnnotationDbi            1.48.0   2019-10-29 [1] Bioconductor                               
+##  AnnotationFilter         1.10.0   2019-10-29 [1] Bioconductor                               
+##  AnnotationHub            2.18.0   2019-10-29 [1] Bioconductor                               
+##  askpass                  1.1      2019-01-13 [1] CRAN (R 3.6.0)                             
+##  assertthat               0.2.1    2019-03-21 [1] CRAN (R 3.6.0)                             
+##  backports                1.1.5    2019-10-02 [1] CRAN (R 3.6.0)                             
+##  base64enc                0.1-3    2015-07-28 [1] CRAN (R 3.6.0)                             
+##  Biobase                  2.46.0   2019-10-29 [1] Bioconductor                               
+##  BiocFileCache            1.10.2   2019-11-08 [1] Bioconductor                               
+##  BiocGenerics             0.32.0   2019-10-29 [1] Bioconductor                               
+##  BiocManager              1.30.10  2019-11-16 [1] CRAN (R 3.6.1)                             
+##  BiocParallel             1.20.1   2019-12-21 [1] Bioconductor                               
+##  BiocVersion              3.10.1   2019-06-06 [1] Bioconductor                               
+##  biomaRt                  2.42.0   2019-10-29 [1] Bioconductor                               
+##  Biostrings               2.54.0   2019-10-29 [1] Bioconductor                               
+##  biovizBase               1.34.1   2019-12-04 [1] Bioconductor                               
+##  bit                      1.1-15.2 2020-02-10 [1] CRAN (R 3.6.0)                             
+##  bit64                    0.9-7    2017-05-08 [1] CRAN (R 3.6.0)                             
+##  bitops                   1.0-6    2013-08-17 [1] CRAN (R 3.6.0)                             
+##  blob                     1.2.1    2020-01-20 [1] CRAN (R 3.6.0)                             
+##  blogdown                 0.17     2019-11-13 [1] CRAN (R 3.6.1)                             
+##  bookdown                 0.17     2020-01-11 [1] CRAN (R 3.6.0)                             
+##  BSgenome                 1.54.0   2019-10-29 [1] Bioconductor                               
+##  checkmate                1.9.4    2019-07-04 [1] CRAN (R 3.6.0)                             
+##  cli                      2.0.1    2020-01-08 [1] CRAN (R 3.6.0)                             
+##  cluster                  2.1.0    2019-06-19 [1] CRAN (R 3.6.2)                             
+##  colorout               * 1.2-1    2019-05-07 [1] Github (jalvesaq/colorout@7ea9440)         
+##  colorspace               1.4-1    2019-03-18 [1] CRAN (R 3.6.0)                             
+##  crayon                   1.3.4    2017-09-16 [1] CRAN (R 3.6.0)                             
+##  curl                     4.3      2019-12-02 [1] CRAN (R 3.6.0)                             
+##  data.table               1.12.8   2019-12-09 [1] CRAN (R 3.6.1)                             
+##  DBI                      1.1.0    2019-12-15 [1] CRAN (R 3.6.0)                             
+##  dbplyr                   1.4.2    2019-06-17 [1] CRAN (R 3.6.0)                             
+##  DelayedArray             0.12.2   2020-01-06 [1] Bioconductor                               
+##  dichromat                2.0-0    2013-01-24 [1] CRAN (R 3.6.0)                             
+##  digest                   0.6.25   2020-02-23 [1] CRAN (R 3.6.0)                             
+##  dplyr                    0.8.4    2020-01-31 [1] CRAN (R 3.6.0)                             
+##  ensembldb                2.10.2   2019-11-20 [1] Bioconductor                               
+##  evaluate                 0.14     2019-05-28 [1] CRAN (R 3.6.0)                             
+##  fansi                    0.4.1    2020-01-08 [1] CRAN (R 3.6.0)                             
+##  fastmap                  1.0.1    2019-10-08 [1] CRAN (R 3.6.0)                             
+##  foreign                  0.8-75   2020-01-20 [1] CRAN (R 3.6.0)                             
+##  Formula                  1.2-3    2018-05-03 [1] CRAN (R 3.6.0)                             
+##  GenomeInfoDb             1.22.0   2019-10-29 [1] Bioconductor                               
+##  GenomeInfoDbData         1.2.2    2019-10-31 [1] Bioconductor                               
+##  GenomicAlignments        1.22.1   2019-11-12 [1] Bioconductor                               
+##  GenomicFeatures          1.38.1   2020-01-22 [1] Bioconductor                               
+##  GenomicRanges            1.38.0   2019-10-29 [1] Bioconductor                               
+##  ggplot2                  3.2.1    2019-08-10 [1] CRAN (R 3.6.0)                             
+##  glue                     1.3.1    2019-03-12 [1] CRAN (R 3.6.0)                             
+##  graph                    1.64.0   2019-10-29 [1] Bioconductor                               
+##  gridExtra                2.3      2017-09-09 [1] CRAN (R 3.6.0)                             
+##  gtable                   0.3.0    2019-03-25 [1] CRAN (R 3.6.0)                             
+##  Gviz                     1.30.1   2020-01-23 [1] Bioconductor                               
+##  Hmisc                    4.3-0    2019-11-07 [1] CRAN (R 3.6.0)                             
+##  hms                      0.5.3    2020-01-08 [1] CRAN (R 3.6.0)                             
+##  htmlTable                1.13.3   2019-12-04 [1] CRAN (R 3.6.1)                             
+##  htmltools                0.4.0    2019-10-04 [1] CRAN (R 3.6.0)                             
+##  htmlwidgets              1.5.1    2019-10-08 [1] CRAN (R 3.6.0)                             
+##  httpuv                   1.5.2    2019-09-11 [1] CRAN (R 3.6.0)                             
+##  httr                     1.4.1    2019-08-05 [1] CRAN (R 3.6.0)                             
+##  igraph                   1.2.4.2  2019-11-27 [1] CRAN (R 3.6.0)                             
+##  interactiveDisplayBase   1.24.0   2019-10-29 [1] Bioconductor                               
+##  IRanges                  2.20.2   2020-01-13 [1] Bioconductor                               
+##  jpeg                     0.1-8.1  2019-10-24 [1] CRAN (R 3.6.1)                             
+##  knitr                    1.27     2020-01-16 [1] CRAN (R 3.6.0)                             
+##  later                    1.0.0    2019-10-04 [1] CRAN (R 3.6.0)                             
+##  lattice                  0.20-38  2018-11-04 [1] CRAN (R 3.6.2)                             
+##  latticeExtra             0.6-29   2019-12-19 [1] CRAN (R 3.6.0)                             
+##  lazyeval                 0.2.2    2019-03-15 [1] CRAN (R 3.6.0)                             
+##  lifecycle                0.1.0    2019-08-01 [1] CRAN (R 3.6.0)                             
+##  magrittr                 1.5      2014-11-22 [1] CRAN (R 3.6.0)                             
+##  Matrix                   1.2-18   2019-11-27 [1] CRAN (R 3.6.2)                             
+##  matrixStats              0.55.0   2019-09-07 [1] CRAN (R 3.6.0)                             
+##  memoise                  1.1.0    2017-04-21 [1] CRAN (R 3.6.0)                             
+##  mime                     0.9      2020-02-04 [1] CRAN (R 3.6.0)                             
+##  munsell                  0.5.0    2018-06-12 [1] CRAN (R 3.6.0)                             
+##  nnet                     7.3-12   2016-02-02 [1] CRAN (R 3.6.2)                             
+##  openssl                  1.4.1    2019-07-18 [1] CRAN (R 3.6.0)                             
+##  pillar                   1.4.3    2019-12-20 [1] CRAN (R 3.6.0)                             
+##  pkgconfig                2.0.3    2019-09-22 [1] CRAN (R 3.6.1)                             
+##  png                      0.1-7    2013-12-03 [1] CRAN (R 3.6.0)                             
+##  prettyunits              1.1.1    2020-01-24 [1] CRAN (R 3.6.2)                             
+##  progress                 1.2.2    2019-05-16 [1] CRAN (R 3.6.0)                             
+##  promises                 1.1.0    2019-10-04 [1] CRAN (R 3.6.0)                             
+##  ProtGenerics             1.18.0   2019-10-29 [1] Bioconductor                               
+##  purrr                    0.3.3    2019-10-18 [1] CRAN (R 3.6.0)                             
+##  R.methodsS3              1.7.1    2016-02-16 [1] CRAN (R 3.6.0)                             
+##  R.oo                     1.23.0   2019-11-03 [1] CRAN (R 3.6.0)                             
+##  R.utils                  2.9.2    2019-12-08 [1] CRAN (R 3.6.1)                             
+##  R6                       2.4.1    2019-11-12 [1] CRAN (R 3.6.1)                             
+##  rappdirs                 0.3.1    2016-03-28 [1] CRAN (R 3.6.0)                             
+##  RColorBrewer             1.1-2    2014-12-07 [1] CRAN (R 3.6.0)                             
+##  Rcpp                     1.0.3    2019-11-08 [1] CRAN (R 3.6.0)                             
+##  RCurl                    1.98-1.1 2020-01-19 [1] CRAN (R 3.6.0)                             
+##  RCy3                     2.6.3    2020-01-12 [1] Bioconductor                               
+##  regutools              * 0.99.0   2020-02-29 [1] Github (comunidadbioinfo/regutools@0cb5b18)
+##  RJSONIO                  1.3-1.4  2020-01-15 [1] CRAN (R 3.6.0)                             
+##  rlang                    0.4.4    2020-01-28 [1] CRAN (R 3.6.0)                             
+##  rmarkdown                2.1      2020-01-20 [1] CRAN (R 3.6.0)                             
+##  rpart                    4.1-15   2019-04-12 [1] CRAN (R 3.6.2)                             
+##  Rsamtools                2.2.1    2019-11-06 [1] Bioconductor                               
+##  RSQLite                  2.2.0    2020-01-07 [1] CRAN (R 3.6.0)                             
+##  rstudioapi               0.11     2020-02-07 [1] CRAN (R 3.6.0)                             
+##  rtracklayer              1.46.0   2019-10-29 [1] Bioconductor                               
+##  S4Vectors                0.24.3   2020-01-18 [1] Bioconductor                               
+##  scales                   1.1.0    2019-11-18 [1] CRAN (R 3.6.1)                             
+##  sessioninfo              1.1.1    2018-11-05 [1] CRAN (R 3.6.0)                             
+##  shiny                    1.4.0    2019-10-10 [1] CRAN (R 3.6.0)                             
+##  stringi                  1.4.6    2020-02-17 [1] CRAN (R 3.6.0)                             
+##  stringr                  1.4.0    2019-02-10 [1] CRAN (R 3.6.0)                             
+##  SummarizedExperiment     1.16.1   2019-12-19 [1] Bioconductor                               
+##  survival                 3.1-8    2019-12-03 [1] CRAN (R 3.6.2)                             
+##  tibble                   2.1.3    2019-06-06 [1] CRAN (R 3.6.0)                             
+##  tidyselect               1.0.0    2020-01-27 [1] CRAN (R 3.6.0)                             
+##  VariantAnnotation        1.32.0   2019-10-29 [1] Bioconductor                               
+##  vctrs                    0.2.3    2020-02-20 [1] CRAN (R 3.6.0)                             
+##  withr                    2.1.2    2018-03-15 [1] CRAN (R 3.6.0)                             
+##  xfun                     0.12     2020-01-13 [1] CRAN (R 3.6.0)                             
+##  XML                      3.99-0.3 2020-01-20 [1] CRAN (R 3.6.0)                             
+##  xtable                   1.8-4    2019-04-21 [1] CRAN (R 3.6.0)                             
+##  XVector                  0.26.0   2019-10-29 [1] Bioconductor                               
+##  yaml                     2.2.1    2020-02-01 [1] CRAN (R 3.6.0)                             
+##  zlibbioc                 1.32.0   2019-10-29 [1] Bioconductor                               
+## 
+## [1] /Library/Frameworks/R.framework/Versions/3.6/Resources/library&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;As always, thank you &lt;a href=&#34;https://unconf18.ropensci.org/&#34;&gt;rOpenSci unconf 2018&lt;/a&gt;!&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn2&#34;&gt;&lt;p&gt;Sponsors are listed on each year’s workshop announcement. If you would like to sponsor our 2020 workshop, please get in touch with us. Thanks!!&lt;a href=&#34;#fnref2&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>
