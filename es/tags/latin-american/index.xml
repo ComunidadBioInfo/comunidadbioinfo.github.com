@@ -1,183 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latin American | CDSB</title>
+    <title>Latin American on CDSB</title>
     <link>http://comunidadbioinfo.github.io/es/tags/latin-american/</link>
-      <atom:link href="http://comunidadbioinfo.github.io/es/tags/latin-american/index.xml" rel="self" type="application/rss+xml" />
-    <description>Latin American</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2021</copyright><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
-      <title>Latin American</title>
-      <link>http://comunidadbioinfo.github.io/es/tags/latin-american/</link>
-    </image>
-    
+    <description>Recent content in Latin American on CDSB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <copyright>&amp;copy; 2018-{year}</copyright>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://comunidadbioinfo.github.io/es/tags/latin-american/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anuncio del donativo de CS&amp;S Event Fund</title>
       <link>http://comunidadbioinfo.github.io/es/post/cs_and_s_event_fund_award/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
       <guid>http://comunidadbioinfo.github.io/es/post/cs_and_s_event_fund_award/</guid>
-      <description>&lt;p&gt;Estamos encantadxs de anunciar que 
-&lt;a href=&#34;https://eventfund.codeforscience.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code for Science and Society&lt;/a&gt; seleccionó nuestra solicitud para el primer grupo de su donativo EventFund, tal como anunciaron el 
-&lt;a href=&#34;https://eventfund.codeforscience.org/announcing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;25 de enero de 2021&lt;/a&gt;. El programa de CS&amp;amp;S Event Fund es posible gracias al donativo con número GBMF8449 de parte de la Fundación Gordon y Betty Moore (&lt;a href=&#34;https://doi.org/10.37807/GBMF8449)&#34;&gt;https://doi.org/10.37807/GBMF8449)&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Gracias a este apoyo la 
-&lt;a href=&#34;https://twitter.com/CDSBMexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB&lt;/a&gt;, junto con la 
-&lt;a href=&#34;https://twitter.com/RBioinformatica&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red Mexicana de Bioinformática&lt;/a&gt; (RMB) y el 
-&lt;a href=&#34;https://twitter.com/nnb_unam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nodo Nacional de Bioinformática en la UNAM&lt;/a&gt; (NNB-CCG), va a poder llevar a cabo una serie de mini-cursos a lo largo de este año (incluyendo un evento de diciembre 2020) que culminará con el Encuentro Nacional de Bioinformática 2021 que estará compuesto por 6 cursos de una semana cada uno.&lt;/p&gt;
-&lt;p&gt;Si te interesa participar en los mini-cursos, por favor checa el 
-&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/category/eventos-es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sitio web de la RMB&lt;/a&gt; para poder registrarte.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;es&#34; dir=&#34;ltr&#34;&gt;Felicidades &lt;a href=&#34;https://twitter.com/ErickCuevasF?ref_src=twsrc%5Etfw&#34;&gt;@ErickCuevasF&lt;/a&gt; y &lt;a href=&#34;https://twitter.com/josschavezf1?ref_src=twsrc%5Etfw&#34;&gt;@josschavezf1&lt;/a&gt; por completar el primer mini curso de R de este ciclo ^^&lt;br&gt;&lt;br&gt;Son organizados por la CDSB y &lt;a href=&#34;https://twitter.com/RBioinformatica?ref_src=twsrc%5Etfw&#34;&gt;@RBioinformatica&lt;/a&gt; &lt;a href=&#34;https://twitter.com/nnb_unam?ref_src=twsrc%5Etfw&#34;&gt;@nnb_unam&lt;/a&gt; con apoyo de &lt;a href=&#34;https://twitter.com/codeforsociety?ref_src=twsrc%5Etfw&#34;&gt;@codeforsociety&lt;/a&gt; y &lt;a href=&#34;https://twitter.com/MooreFound?ref_src=twsrc%5Etfw&#34;&gt;@MooreFound&lt;/a&gt;&lt;br&gt;&lt;br&gt;El resto del calendario propuesto está disponible acá &lt;a href=&#34;https://twitter.com/hashtag/rstatsES?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstatsES&lt;/a&gt; &lt;a href=&#34;https://t.co/Gx1WHdnKgp&#34;&gt;https://t.co/Gx1WHdnKgp&lt;/a&gt;&lt;/p&gt;&amp;mdash; ComunidadBioInfo (@CDSBMexico) &lt;a href=&#34;https://twitter.com/CDSBMexico/status/1340104365156290560?ref_src=twsrc%5Etfw&#34;&gt;December 19, 2020&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;Tal como establecimos en nuestra solicitud para el donativo, nuestros objetivos son:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A lo largo de los años, los talleres organizados por el NNB-CCG, y más recientemente, con el apoyo de la RMB, han ayudado a introducir un promedio de 40 participantes al mundo bioinformático del análisis de datos con métodos de código abierto. Para muchxs alumnxs, investigadores, y miembrxs de la industria estos talleres han sido valiosos para adquirir habilidades a un costo relativamente bajo, y gracias a estas habilidades han sido empoderadas para tener éxito en el mundo de datos biológicos. Ahora hay participantes que un año toman los talleres de nivel introductorio y que regresan el siguiente año para tomar talleres de nivel intermedio o avanzado, que es donde la CDSB está involucrada.&lt;/p&gt;
-&lt;p&gt;La CDSB ha fomentado la inclusión y colaboración entre participantes de Latino América en las comunidades de R y Bioconductor en los últimos tres años. Durante el verano, los talleres de una semana de la CDSB (2018, 2019 y 2020) se han enfoacdo en desarrollar habilidades de programación de R avanzadas. Con el apoyo de una comunidad en Slack, la CDSB ha construido las bases para una comunidad inclusiva que apoya y fomenta la colaboración, el respeto, oportunidades para construir nuevas comunidades, tal como está documentando en &lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/&#34;&gt;https://comunidadbioinfo.github.io/es/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/&lt;/a&gt; y las presentaciones de BioC2020, JSM2020 y CDSB2020 disponibles en &lt;a href=&#34;https://speakerdeck.com/lcolladotor&#34;&gt;https://speakerdeck.com/lcolladotor&lt;/a&gt; (video de CDSB2020 en español: &lt;a href=&#34;https://www.youtube.com/watch?v=rtP4zmbR3p4)&#34;&gt;https://www.youtube.com/watch?v=rtP4zmbR3p4)&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Con los mini-cursos propuestos, la RMB y CDSB junto con el NNB-CCG, proveerá un camino estructurado para desarrollar habilidades de R y bioinformática a lo largo del año. Estos mini-cursos tendrán un alto impacto al integrar nuevxs miembrxs a nuestra comunidad. En nuestra experiencia, muchas personas en Latino América subestiman sus habilidades de programación y evitan cursos avanzados que podrían proveerles nuevas habilidades para convertirse en desarrolladores de software. El programa propuesto nos ayudará a integrar personas con diferentes niveles de conocimiento a la CDSB, reevaluar sus habilidades de programación y/o ayudarlxs a que lleguen al siguiente nivel. Nuestra serie de mini-cursos culminará con el Encuentro Nacional de Bioinformática 2021.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Agradecemos mucho todo el apoyo y la confianza que nos dan dado al equipo de la CDSB + RMB + NNB-CCG.&lt;/p&gt;
-&lt;p&gt;¡Gracias!&lt;/p&gt;
-&lt;p&gt;⭐️ co-fundador; 💫 junta directiva&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Leonardo Collado Torres, CDSB ⭐️💫&lt;/li&gt;
-&lt;li&gt;Joselyn Chavez, CDSB 💫&lt;/li&gt;
-&lt;li&gt;Alejandro Reyes, CDSB ⭐️💫&lt;/li&gt;
-&lt;li&gt;Erick Cuevas Fernández, CDSB 💫&lt;/li&gt;
-&lt;li&gt;Irma Martínez, Coordinación de Educación de la RMB, Representante del NNB-CCG&lt;/li&gt;
-&lt;li&gt;Alejandra Medina Rivera, CDSB ⭐️💫, Presidente RMB&lt;/li&gt;
-&lt;li&gt;Shirley Alquicira, Coordinación de Proyectos RMB y NNB&lt;/li&gt;
-&lt;li&gt;Yalbi Balderas, Coordinación del Comité de Miembros en la RMB&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/post/2021-01-27-cs_and_s_event_fund_award/spanish_cs_and_s_award.jpeg&#34; alt=&#34;CS and S Event Fund Thank you!&#34;&gt;&lt;/p&gt;
-</description>
+      <description>Estamos encantadxs de anunciar que Code for Science and Society seleccionó nuestra solicitud para el primer grupo de su donativo EventFund, tal como anunciaron el 25 de enero de 2021. El programa de CS&amp;amp;S Event Fund es posible gracias al donativo con número GBMF8449 de parte de la Fundación Gordon y Betty Moore (https://doi.org/10.37807/GBMF8449).
+Gracias a este apoyo la CDSB, junto con la Red Mexicana de Bioinformática (RMB) y el Nodo Nacional de Bioinformática en la UNAM (NNB-CCG), va a poder llevar a cabo una serie de mini-cursos a lo largo de este año (incluyendo un evento de diciembre 2020) que culminará con el Encuentro Nacional de Bioinformática 2021 que estará compuesto por 6 cursos de una semana cada uno.</description>
     </item>
     
     <item>
       <title>El impacto de la CDSB en mí</title>
       <link>http://comunidadbioinfo.github.io/es/post/the_impact_of_cdsb_on_me/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://comunidadbioinfo.github.io/es/post/the_impact_of_cdsb_on_me/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Por 
-&lt;a href=&#34;https://erickcufe.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erick Cuevas Fernández&lt;/a&gt;, M. en C., Bioinformático. Universidad Nacional Autónoma de México. Universidad Autónoma del Estado de Morelos. Laboratorio de Biología de Sistemas y Medicina Traslacional. 
-&lt;a href=&#34;https://twitter.com/ErickCuevasF&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@ErickCuevasF&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;En 2018 escuché de un 
-&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2018/r-bioconductor-developers-workshop-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workshop&lt;/a&gt; donde 
-&lt;a href=&#34;https://www.roswellpark.org/martin-morgan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Morgan&lt;/a&gt; se presentaba en México, en ese entonces solo tenía unos cuantos meses aprendiendo a usar R. En tiempo desconocía  quién era Martin Morgan y tenía vagas nociones de Bioconductor. Ese año inicié a tomar los talleres internacionales de bioinformática.&lt;/p&gt;
-&lt;p&gt;Fue gracias a tomar el 
-&lt;a href=&#34;http://congresos.nnb.unam.mx/TIB2019/cdsb-workshop-how-to-build-and-create-tidy-tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019 CDSB workshop&lt;/a&gt; que pude tener un nuevo panorama internacional del desarrollo de R, conocer que existían eventos como useR, BioC, rstudio::global( ), etc., Fue de gran motivación que una comunidad mexicana estuviese haciendo un esfuerzo para esparcir conocimiento, inspirar y expandir la perspectiva de la colaboración y desarrollo de software libre a mexicanos. Como estudiante de posgrado y con los recortes a ciencia que cada vez son más frecuentes en México, es complicado viajar a otro país para atender un workshop o un congreso, por el tema de VISA, pasaporte, pagar un vuelo, hospedaje, comidas e inscripción. Es por ello que se valoran los CDSB workshop de calidad internacional accesible por su ubicación y costo a muchos estudiantes mexicanos. Y no solo eso, la misma CDSB ayuda y promueve la 
-&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/#.X0AzgJNKiuo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;solicitud de becas para estudiantes&lt;/a&gt; mexicanos en workshops y congresos para desarrolladores de R en otros países.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/post/2020-08-21-the_impact_of_cdsb_on_me/2018.jpg&#34; alt=&#34;TIBs 2018, Cuernavaca, Morelos, Mexico&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Este 2020 con la pandemia y la promoción de la CDSB, fue que tuve la oportunidad de asistir al 
-&lt;a href=&#34;https://bioc2020.bioconductor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioC2020&lt;/a&gt;. La dedicación y esfuerzo de cada ponente para explicar un tema relevante y especializado fue asombroso. El conocimiento que se exhibía en tan solo una hora fue impactante. A pesar de haber sido de manera virtual, era de admirar el compromiso de Bioconductor para que cada expositor generará interacción con todos los asistentes. La inclusión y el apoyo de la comunidad Bioconductor es impactante, dispuestos a cooperar y ayudar. Sin importar su edad, nacionalidad, sexo, o grado, todos tenían la intención de ayudar, cooperar y compartir. Se sintió una enorme emoción al ver mexicanos exponiendo su propia paquetería, personas que conoces físicamente, estudiantes como yo.
-Acabando el workshop terminé con una sensación de felicidad, entusiasmo, inspiración, con ganas de aprender y compartir.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/BioC2020?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#BioC2020&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw&#34;&gt;@CDSBMexico&lt;/a&gt; My first BioC, I really enjoyed it a lot, opened up a universe for me. I feel responsible and enthusiastic to share what I have learned in my academic community and continue learning. I look forward to exhibiting my first first pack in BioC2021 next year &lt;a href=&#34;https://t.co/1K9dscoB1e&#34;&gt;pic.twitter.com/1K9dscoB1e&lt;/a&gt;&lt;/p&gt;&amp;mdash; Erick Cuevas (@ErickCuevasF) &lt;a href=&#34;https://twitter.com/ErickCuevasF/status/1289292982550556672?ref_src=twsrc%5Etfw&#34;&gt;July 31, 2020&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;El workshop 
-&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/#.XmJT-Z-YU1I&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB 2020&lt;/a&gt; no fue la excepción, la comunidad entera transmitió esa chispa de entusiasmo, de expandir y mejorar. Por supuesto que el contenido académico y el conocimiento que se mostró fue muchísimo, como darle mantenimiento a las sesiones de R, trabajar con github, elegir nombres adecuados para cada proyecto, hacer pruebas de calidad a las funciones, debbuging,  workflows para el manejo de datos de scRNAseq y una aplicación de ello con expresión espacial.&lt;/p&gt;
-&lt;p&gt;Al pensar en la CDSB y en las comunidades internacionales que apoyan la inclusión y la diversidad, pienso en este fragmento del poema “sembrando” del poeta Marcos Rafael Blanco Belmonte:&lt;/p&gt;
-&lt;center&gt;
-Por eso cuando al mundo, triste, contemplo,
-&lt;p&gt;yo me afano y me impongo ruda tarea&lt;/p&gt;
-&lt;p&gt;y sé que vale mucho mi pobre ejemplo&lt;/p&gt;
-&lt;p&gt;aunque pobre y humilde parezca y sea.&lt;/p&gt;
-&lt;p&gt;¡Hay que luchar por todos los que no luchan!&lt;/p&gt;
-&lt;p&gt;¡Hay que pedir por todos los que no imploran!&lt;/p&gt;
-&lt;p&gt;¡Hay que hacer que nos oigan los que no escuchan!&lt;/p&gt;
-&lt;p&gt;¡Hay que llorar por todos los que no lloran!&lt;/p&gt;
-&lt;p&gt;Hay que ser cual abejas que en la colmena&lt;/p&gt;
-&lt;p&gt;fabrican para todos dulces panales.&lt;/p&gt;
-&lt;p&gt;Hay que ser como el agua que va serena&lt;/p&gt;
-&lt;p&gt;brindando al mundo entero frescos raudales.&lt;/p&gt;
-&lt;p&gt;Hay que imitar al viento, que siembra flores&lt;/p&gt;
-&lt;p&gt;lo mismo en la montaña que en la llanura,&lt;/p&gt;
-&lt;p&gt;y hay que vivir la vida sembrando amores,&lt;/p&gt;
-&lt;p&gt;con la vista y el alma siempre en la altura.&lt;/p&gt;
-&lt;p&gt;Dijo el loco, y con noble melancolía&lt;/p&gt;
-&lt;p&gt;por las breñas del monte siguió trepando,&lt;/p&gt;
-&lt;p&gt;y al perderse en las sombras, aún repetía:&lt;/p&gt;
-&lt;p&gt;¡Hay que vivir sembrando! ¡Siempre sembrando!&amp;hellip;&lt;/p&gt;
-&lt;/center&gt;
-</description>
+      <description>Por Erick Cuevas Fernández, M. en C., Bioinformático. Universidad Nacional Autónoma de México. Universidad Autónoma del Estado de Morelos. Laboratorio de Biología de Sistemas y Medicina Traslacional. @ErickCuevasF
+En 2018 escuché de un workshop donde Martin Morgan se presentaba en México, en ese entonces solo tenía unos cuantos meses aprendiendo a usar R. En tiempo desconocía quién era Martin Morgan y tenía vagas nociones de Bioconductor. Ese año inicié a tomar los talleres internacionales de bioinformática.</description>
     </item>
     
     <item>
       <title>Comunidades de Práctica en América Latina: R y Colegas</title>
       <link>http://comunidadbioinfo.github.io/es/post/user_latin_american_community/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://comunidadbioinfo.github.io/es/post/user_latin_american_community/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Esta sesión de useR!2020 y video fueron organizados por 
-&lt;a href=&#34;https://twitter.com/_lacion_&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laura Acion&lt;/a&gt;, 
-&lt;a href=&#34;https://twitter.com/yabellini&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yanina Bellini Saibene&lt;/a&gt;, 
-&lt;a href=&#34;https://twitter.com/PaobCorrales&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paola Corrales&lt;/a&gt; y 
-&lt;a href=&#34;https://twitter.com/palolili23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paloma Rojas Saunero&lt;/a&gt;. 
-&lt;a href=&#34;https://twitter.com/lcolladotor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonardo Collado Torres&lt;/a&gt; coordinó el blog post. Este blog post fue originalmente publicado en el 
-&lt;a href=&#34;https://www.r-consortium.org/blog/2020/07/07/latin-american-communities-and-organizations-at-user2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog del R Consortium&lt;/a&gt; el 7 de julio del 2020.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;El 19 de junio de 2020 filmamos un video para  
-&lt;a href=&#34;https://user2020.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;useR!2020&lt;/a&gt; donde resaltamos las comunidades y organizaciones en América Latina en las que estamos involucradxs o que tienen participantes latinxs. En este blog post, queremos destacar estas iniciativas y recordarle a todxs que estamos más que dispuestxs a ayudarles a empezar organizaciones similares en sus comunidades locales.&lt;/p&gt;
-&lt;img src=&#34;https://lh6.googleusercontent.com/Bo9ZwbNi1uLUYehBm3n-OnoJ_QXolp1uY1wotBKqE4U1JY9l_EsughzZmkhPbydxsCP-MmgqEysgfAdMfcIEbPY0uLkVBsPk1LoETPes-zPqqE7Olway4MFuE5XacV6KKXkLBn9o&#34; width=&#34;800px&#34;/&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://twitter.com/LatinR_Conf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LatinR&lt;/a&gt;: 
-&lt;a href=&#34;https://latin-r.com/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LatinR&lt;/a&gt; es una conferencia internacional trilingüe para el uso de R en la investigación y desarrollo en América Latina. Desde 2018, nuestra conferencia ha sido un punto de partida para nuevos paquetes, nuevos grupos de usuarixs locales, clubes de lectura, capítulos de R-Ladies, traducciones y otras iniciativas en la región.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://twitter.com/conecta_R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ConectaR&lt;/a&gt;: ConectaR 2019 tuvo lugar del 24 al 26 de enero de 2019 en la Universidad de Costa Rica, en San José, Costa Rica. Fue el primer evento en Centroamérica avalado por la R Foundation, y se realizó completamente en español. Puedes encontrar más información 
-&lt;a href=&#34;https://journal.r-project.org/archive/2019-2/conectaR.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aquí&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://twitter.com/satRdays_org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;satRday&lt;/a&gt;: 
-&lt;a href=&#34;https://satrdays.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;satRday&lt;/a&gt; es una conferencia sobre R y sus aplicaciones, que ocurre en todo el mundo, y que cuyos eventos son organizados por la comunidad local. Tuvimos dos eventos de satRdays en América Latina: en Santiago - Chile y São Paulo - Brasil. Si quieres organizar un evento de satRday en cualquier lugar en América Latina, ¡por favor ponte en contacto para que nos podamos ayudar mutamente!&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://twitter.com/RLadiesGlobal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies&lt;/a&gt;: 
-&lt;a href=&#34;https://rladies.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies&lt;/a&gt; es una organización global que promueve la diversidad de género en la comunidad R. Actualmente, tiene 123 capítulos activos en 51 países de todo el mundo, de los cuales en América Latina tenemos 49 capítulos en 10 países. Algunxs latinxs son parte del equipo global de R-Ladies, incluyendo su directiva. COVID-19 no ha detenido a R-Ladies. En cambio, hemos migrado nuestros eventos en línea y hemos creado alianzas entre los diferentes capítulos. Todo ha sido en un esfuerzo para proveer opciones para aprender R en ambientes seguros y de apoyo para así aumentar la diversidad de género en la comunidad de R. ¡Únete!&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://twitter.com/rOpenSci&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenSci&lt;/a&gt;: R para ciencia abierta, 
-&lt;a href=&#34;https://ropensci.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenSci&lt;/a&gt;, brinda revisiones técnicas gratuitas de paquetes en R para mejorar la calidad del software de código abierto para maximizar legibilidad, facilidad de uso, utilidad y minimizar la redundancia. Su proceso de peer-review será prontamente traducido al español, ¡tú puedes involucrarte!&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://twitter.com/CDSBMexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB&lt;/a&gt;: la 
-&lt;a href=&#34;https://comunidadbioinfo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comunidad de Desarrolladores de Software de Bioinformática&lt;/a&gt; nació en 2018 con el objetivo de ayudar a usarixs de R latinxs en convertirse en desarrolladores de R &amp;amp; Bioconductor, además de aumentar la visibilidad de latinxs en estas comunidades. Para mayor información de la CDSB revisa  
-&lt;a href=&#34;http://bit.ly/cdsbpost2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bit.ly/cdsbpost2020&lt;/a&gt; (
-&lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/#.XwZBapNKh_Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;en español&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.r-consortium.org/projects/r-user-group-support-program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RUGs&lt;/a&gt;: hoy en día exiten varios Grupos de Usuarios de R (RUG en inglés) en América Latina, algunos de los cuales son oficiales y patrocinados por el 
-&lt;a href=&#34;https://twitter.com/RConsortium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Consortium&lt;/a&gt;. La creación de un espacio acogedor y con buena onda es crucial para que las ideas fluyan. Esto no sólo asegura que todos se sientan cómodos aprendiendo y compartiendo lo que han aprendido, sino que también permite que aparezcan nuevos proyectos inesperados. ¡Te podemos ayudar a empezar tu propio grupo!&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://twitter.com/R4DS_es&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R4DS&lt;/a&gt; en español + el paquete &lt;code&gt;datos&lt;/code&gt;: los recursos para aprender R en inglés son muchos, increíbles, en línea y gratuitos. Pero en América Latina pocas personas pueden darse el lujo de aprender inglés, y los recursos en español son pocos. Para ayudar a resolver este problema, como comunidad tradujimos del inglés al español el libro 
-&lt;a href=&#34;https://es.r4ds.hadley.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;R for Data Science&amp;rdquo;&lt;/a&gt; y desarrollamos un paquete con la traducción de todos los datos que se usan en el libro: 
-&lt;a href=&#34;https://cran.r-project.org/web/packages/datos/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;datos&lt;/code&gt;&lt;/a&gt;. El flujo de trabajo para contribuir al paquete fue diseñado para involucrar a quienes quieran contribuir por primera vez, y ahora está guiando el desarrollo de una versión en portugués que se lanzará en los próximos meses.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://twitter.com/hashtag/datosdemiercoles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#DatosDeMiércoles&lt;/a&gt; + 
-&lt;a href=&#34;https://twitter.com/hashtag/30diasdegraficos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#30díasdegráficos&lt;/a&gt;: La cuenta de Twitter 
-&lt;a href=&#34;https://twitter.com/R4DS_es&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@R4DS_es&lt;/a&gt; fue creada como una forma de compartir proyectos como la traducción de R4DS y para desarrollar iniciativas para ir creciendo la comunidad de R de habla hispana, tales como  #datosdemieRcoles, el primo latinoamericano de 
-&lt;a href=&#34;https://twitter.com/hashtag/tidytuesday&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#TidyTuesday&lt;/a&gt;. La idea no es solo utilizar conjuntos de datos en español, sino también conjuntos de datos que sean relevantes para las personas de nuestra Región. Esta iniciativa ha sido complementada por un desafío dataviz de 30 días llamado # 30díasdegráficos. Si deseas participar proponiendo un conjunto de datos para #datodemiéRcoles, visite nuestra 
-&lt;a href=&#34;https://github.com/cienciadedatos/datos-de-miercoles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cuenta de github&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://twitter.com/thecarpentries&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Carpentries&lt;/a&gt;: 
-&lt;a href=&#34;https://carpentries.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Carpentries&lt;/a&gt; desarrolla capacidades esenciales globales en datos y habilidades computacionales para llevar a cabo una investigación eficiente, abierta y reproducible. La construcción de una comunidad sostenible y activa en América Latina incluye varias iniciativas: traducción de lecciones, capacitación de instructores, coordinación de talleres y recaudación de fondos. Ponte en contacto a través de la lista de correo y en el 
-&lt;a href=&#34;https://swc-slack-invite.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slack de Carpentries&lt;/a&gt;, canal carpentries-es.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://twitter.com/ReproHack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ReproHack&lt;/a&gt;: 
-&lt;a href=&#34;https://reprohack.github.io/reprohack-hq/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ReproHack&lt;/a&gt; es una comunidad que está creciendo, conformada por investigadores que están luchando contra la crisis de reproducibilidad al compartir sus experiencias de diferentes disciplinas. Se enfoca en organizar hackathones donde los participantes intenta reproducir un artículo de investigación publicado a partir de una lista de artículos propuestos, que tengan los datos y el código público. Estamos planificando el primer Reprohack en español para octubre de este año y puedes ponerte en contacto a través de 
-&lt;a href=&#34;https://twitter.com/ReproHack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://twitter.com/AIinclusive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI Inclusive&lt;/a&gt;: 
-&lt;a href=&#34;https://www.ai-inclusive.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI Inclusive&lt;/a&gt; es una organización que promueve la diversidad en la Comunidad de Inteligencia Artificial (IA; AI en inglés). Queremos crear conciencia sobre los problemas de Inteligencia Artificial y empoderar a la comunidad para que puedan ingresar en el campo de la IA, un campo que no es para nada diverso. En Diciembre 2019, tuvimos nuestros eventos de lanzamiento en Río de Janeiro, Brasil y San Francisco, California. Juntos, estamos construyendo una comunidad para hacer que la Inteligencia Artificial sea más inclusiva para todxs. ¡Síguenos y únete a nosotrxs!&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://twitter.com/datalatam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Latam&lt;/a&gt;: en mayo del 2016 arrancamos con el primer 
-&lt;a href=&#34;http://www.datalatam.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;podcast de Data Latam&lt;/a&gt; con el objetivo de ofrecer a gente interesada un punto de acceso fácil y en español al mundo de la ciencia de datos. Siempre le preguntamos a lxs entrevistadxs &amp;ldquo;¿cómo llegaste a donde estás?&amp;rdquo;, y la diversidad de historias ha sido enorme. Hoy en día Data Latam es una comunidad Latinoamericana de profesionales y académicxs aplicando ciencia de datos en su día a día. ¡Te invitamos a participar!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Lo que pasa en la comunidad R, no se queda en la comunidad R. Todas las buenas prácticas de comunidades inclusivas y diversas aprendidas en muchas de las iniciativas presentadas anteriormente, generan equipos de trabajo fuertes dentro de la comunidad R y fuera de ella. Aún hay mucho que hacer, pero lo que ya hemos logrado es muy alentador y provee bases muy sólidas para el futuro.&lt;/p&gt;
-&lt;p&gt;Estas iniciativas son sostenidas por muchas personas que hacen un gran esfuerzo detrás de escena, que es principalmente voluntario. Algunos de los desafíos que enfrentan las comunidades se traducen en múltiples aspectos positivos, sostenidos y mucho trabajo duro invisible. Algunos son: buscar financiamiento internacional porque el financiamiento regional es limitado, traducir contenido, unir fuerzas a través de organizaciones, organizar conferencias regionales, convertirse en desarrolladores de la tecnología.&lt;/p&gt;
-&lt;p&gt;La comunidad de R en América Latina está creciendo rápidamente y también la responsabilidad de hacer que este crecimiento sea sólido y seguro.  Algunos de los trabajos futuros que nosotrxs, como constructores de la comunidad, esperamos cumplir son: consolidar las conferencias regionales con el apoyo de patrocinadores internacionales; adquirir apoyo para mantener los proyectos de traducción; amplificar la voz de las minorías regionales; importar material educativo y oportunidades de trabajo; conectar a expatriadxs con sus comunidades locales; ayudar a otros grupos como los RUGs y RLadies; colaborar con otras iniciativas como 
-&lt;a href=&#34;https://twitter.com/R_Forwards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Forwards&lt;/a&gt;, 
-&lt;a href=&#34;https://twitter.com/AfricaRUsers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Africa-R&lt;/a&gt;, 
-&lt;a href=&#34;https://twitter.com/miR_community&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiR&lt;/a&gt;, entre otras; aumentar nuestra representación y la de otras minorías en el 
-&lt;a href=&#34;https://www.r-project.org/contributors.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Core Team&lt;/a&gt;, la 
-&lt;a href=&#34;https://www.r-project.org/foundation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Foundation&lt;/a&gt; y el 
-&lt;a href=&#34;https://twitter.com/RConsortium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Consortium&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;¡Muchas gracias! Por favor checa nuestro video de useR!2020 en 
-&lt;a href=&#34;https://youtu.be/gtRntU2J3Cg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&#34;https://lh3.googleusercontent.com/GRMf3aoxL1mUH_3kgme-xhtba7b6JDnOlMFDP2MvtvL0Y3-ciBsqSoHtLmMm5WLXj-DZEJIgzJDhfLIy-UlvgN7FxOm-sTjvfTBFJF-SKZZW9VoftTG70EYnVY4FobOiSi8WX7GR&#34; width=&#34;800px&#34;/&gt;
-</description>
+      <description>Esta sesión de useR!2020 y video fueron organizados por Laura Acion, Yanina Bellini Saibene, Paola Corrales y Paloma Rojas Saunero. Leonardo Collado Torres coordinó el blog post. Este blog post fue originalmente publicado en el blog del R Consortium el 7 de julio del 2020.
+El 19 de junio de 2020 filmamos un video para useR!2020 donde resaltamos las comunidades y organizaciones en América Latina en las que estamos involucradxs o que tienen participantes latinxs.</description>
     </item>
     
   </channel>

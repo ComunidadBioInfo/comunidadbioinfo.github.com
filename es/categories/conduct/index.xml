@@ -1,45 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conduct | CDSB</title>
+    <title>Conduct on CDSB</title>
     <link>http://comunidadbioinfo.github.io/es/categories/conduct/</link>
-      <atom:link href="http://comunidadbioinfo.github.io/es/categories/conduct/index.xml" rel="self" type="application/rss+xml" />
-    <description>Conduct</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2021</copyright><lastBuildDate>Mon, 09 Mar 2020 18:30:00 +0000</lastBuildDate>
-    <image>
-      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
-      <title>Conduct</title>
-      <link>http://comunidadbioinfo.github.io/es/categories/conduct/</link>
-    </image>
-    
+    <description>Recent content in Conduct on CDSB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <copyright>&amp;copy; 2018-{year}</copyright>
+    <lastBuildDate>Mon, 09 Mar 2020 18:30:00 +0000</lastBuildDate><atom:link href="http://comunidadbioinfo.github.io/es/categories/conduct/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Respuesta a la violación del Código de Conducta durante BioC2019</title>
       <link>http://comunidadbioinfo.github.io/es/post/bioc2019-code-of-conduct-violation-response/</link>
       <pubDate>Mon, 09 Mar 2020 18:30:00 +0000</pubDate>
+      
       <guid>http://comunidadbioinfo.github.io/es/post/bioc2019-code-of-conduct-violation-response/</guid>
-      <description>&lt;p&gt;Este comunicado es en respuesta al reporte de acoso sexual que recibió el comité de 
-&lt;a href=&#34;https://bioc2019.bioconductor.org/code_of_conduct&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Código de Conducta de BioC2019&lt;/a&gt; después de dicho congreso. Una persona que asistió al congreso BioC2019 reportó haber sido víctima de atención sexual y contacto físico no deseados por parte de un participante más del congreso que estaba en un estado de intoxicación, durante una reunión social organizada por participantes del congreso.&lt;/p&gt;
-&lt;p&gt;Desde que el Comité recibió el reporte, dicho organismo tuvo conversaciones con la persona que hizo el reporte, la persona acusada y personas que atestiguaron el incidente. Además, el Comité pidió asesorías de personas externas a la organización y definió procedimientos para tomar las decisiones apropiadas para lidiar con futuros reportes de violación del código de conducta. El Comité decidió tomar las siguientes acciones:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;La persona acusada no será elegible para asistir a congresos de Bioconductor por tres años después de BioC2019 (específicamente BioC2020, BioC2021 y BioC2022).&lt;/li&gt;
-&lt;li&gt;Para poder asistir a congresos de Bioconductor después de este periodo, la persona acusada deberá mandar una solicitud por escrito al Comité del Código de Conducta de BioC. Si el Comité aprueba unánimemente que la persona ya no representa un riesgo elevado de reincidencia de futuras violaciones al Código de Conducta, dicha persona podrá volver a asistir a congresos de Bioconductor.&lt;/li&gt;
-&lt;li&gt;La persona acusada no será elegible para recibir apoyo financiero de la organización de Bioconductor en el futuro.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;El Comité del Código de Conducta tomó estas acciones con el objetivo de mantener un ambiente acogedor y libre de acoso en futuros congresos. Con este objetivo en mente, les deseamos recordar a todas y todos los participantes que:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bioconductor no tolera el acoso o intimidación de participantes del congreso durante pláticas, talleres, sesiones de pósters, actividades sociales, o en línea (de forma virtual). Esto incluye reuniones informales organizadas por participantes del congreso fuera del horario de actividades planeadas.&lt;/li&gt;
-&lt;li&gt;La atención sexual no tiene que ser explícitamente lasciva para representar una violación del Código de Conducta, que simplemente establece que la atención sexual no deseada o contacto físico inapropiado es acoso.&lt;/li&gt;
-&lt;li&gt;Estar en un estado de intoxicación alcohólica no es una excusa para cometer una violación al Código de Conducta como tampoco lo es el no conocer dicho código.&lt;/li&gt;
-&lt;li&gt;Quien participe en el congreso es responsable de tratar a los y las demás de forma profesional y respetuosa dentro de los límites de nuestro Código de Conducta. Cualquier persona que viole el Código de Conducta, desde personas que estén participando por primera vez hasta líderes principales serán sujetos a los términos del Código de Conducta.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Las personas generalmente participan en congresos de Bioconductor por intereses profesionales o académicos, donde esperan interactuar con colegas principalmente por el interés en común en código de acceso libre para la Bioinformática. Atención sexual no deseada, entre otras acciones prohibidas por el 
-&lt;a href=&#34;https://bioc2020.bioconductor.org/code_of_conduct&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Código de Conducta&lt;/a&gt;, niegan a otras personas ser partícipes de esta experiencia. El Comité del Código de Conducta alienta a todas y todos los participantes del congreso a que revisen el Código de Conducta y que disfruten de su experiencia durante los congresos, recordando su responsabilidad para mantener un ambiente de apoyo, colegial, y libre de acoso para la totalidad de las y los participantes. Cualquier persona que sea víctima o este atestiguando una violación al Código de Conducta deberá reportar dicha violación a 
-&lt;a href=&#34;mailto:code-of-conduct@bioconductor.org&#34;&gt;code-of-conduct@bioconductor.org&lt;/a&gt;, a alguna persona dentro del Comité del Código de Conducta, o anónimamente a través de &lt;a href=&#34;https://tinyurl.com/bioccomplaint&#34;&gt;https://tinyurl.com/bioccomplaint&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Este reporte fue atendido por el Comité del Código de Conducta de Bioconductor (Levi Waldron, Aedin Culhane, Laurent Gatto, Stephanie Hicks) y la respuesta fue aprobada por la 
-&lt;a href=&#34;https://www.bioconductor.org/about/technical-advisory-board/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Junta Asesora Técnica de Bioconductor&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Traducción al español por Leonardo Collado Torres. La versión original en inglés está disponible vía la página web del 
-&lt;a href=&#34;https://bioc2019.bioconductor.org/code_of_conduct&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Código de Conducta de BioC2019&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>Este comunicado es en respuesta al reporte de acoso sexual que recibió el comité de Código de Conducta de BioC2019 después de dicho congreso. Una persona que asistió al congreso BioC2019 reportó haber sido víctima de atención sexual y contacto físico no deseados por parte de un participante más del congreso que estaba en un estado de intoxicación, durante una reunión social organizada por participantes del congreso.
+Desde que el Comité recibió el reporte, dicho organismo tuvo conversaciones con la persona que hizo el reporte, la persona acusada y personas que atestiguaron el incidente.</description>
     </item>
     
   </channel>

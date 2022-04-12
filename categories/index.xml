@@ -1,16 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | CDSB</title>
+    <title>Categories on CDSB</title>
     <link>http://comunidadbioinfo.github.io/categories/</link>
-      <atom:link href="http://comunidadbioinfo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
-      <title>Categories</title>
-      <link>http://comunidadbioinfo.github.io/categories/</link>
-    </image>
+    <description>Recent content in Categories on CDSB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018-{year}</copyright>
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://comunidadbioinfo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Events</title>
+      <link>http://comunidadbioinfo.github.io/categories/events/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://comunidadbioinfo.github.io/categories/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rstats</title>
+      <link>http://comunidadbioinfo.github.io/categories/rstats/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://comunidadbioinfo.github.io/categories/rstats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioconductor</title>
+      <link>http://comunidadbioinfo.github.io/categories/bioconductor/</link>
+      <pubDate>Mon, 09 Mar 2020 18:30:00 +0000</pubDate>
+      
+      <guid>http://comunidadbioinfo.github.io/categories/bioconductor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conduct</title>
+      <link>http://comunidadbioinfo.github.io/categories/conduct/</link>
+      <pubDate>Mon, 09 Mar 2020 18:30:00 +0000</pubDate>
+      
+      <guid>http://comunidadbioinfo.github.io/categories/conduct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>difusion</title>
+      <link>http://comunidadbioinfo.github.io/categories/difusion/</link>
+      <pubDate>Tue, 06 Mar 2018 20:49:18 +0000</pubDate>
+      
+      <guid>http://comunidadbioinfo.github.io/categories/difusion/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

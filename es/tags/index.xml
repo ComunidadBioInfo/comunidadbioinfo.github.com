@@ -1,16 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | CDSB</title>
+    <title>Tags on CDSB</title>
     <link>http://comunidadbioinfo.github.io/es/tags/</link>
-      <atom:link href="http://comunidadbioinfo.github.io/es/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2021</copyright><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
-      <title>Tags</title>
-      <link>http://comunidadbioinfo.github.io/es/tags/</link>
-    </image>
+    <description>Recent content in Tags on CDSB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <copyright>&amp;copy; 2018-{year}</copyright>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://comunidadbioinfo.github.io/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bioconductor</title>
+      <link>http://comunidadbioinfo.github.io/es/tags/bioconductor/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://comunidadbioinfo.github.io/es/tags/bioconductor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latin American</title>
+      <link>http://comunidadbioinfo.github.io/es/tags/latin-american/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://comunidadbioinfo.github.io/es/tags/latin-american/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NNB</title>
+      <link>http://comunidadbioinfo.github.io/es/tags/nnb/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://comunidadbioinfo.github.io/es/tags/nnb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RMB</title>
+      <link>http://comunidadbioinfo.github.io/es/tags/rmb/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://comunidadbioinfo.github.io/es/tags/rmb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Consortium</title>
+      <link>http://comunidadbioinfo.github.io/es/tags/r-consortium/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://comunidadbioinfo.github.io/es/tags/r-consortium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developer Alumni</title>
+      <link>http://comunidadbioinfo.github.io/es/tags/developer-alumni/</link>
+      <pubDate>Sat, 29 Feb 2020 17:00:00 +0000</pubDate>
+      
+      <guid>http://comunidadbioinfo.github.io/es/tags/developer-alumni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solicitudes</title>
+      <link>http://comunidadbioinfo.github.io/es/tags/solicitudes/</link>
+      <pubDate>Thu, 04 Apr 2019 22:50:47 +0000</pubDate>
+      
+      <guid>http://comunidadbioinfo.github.io/es/tags/solicitudes/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
