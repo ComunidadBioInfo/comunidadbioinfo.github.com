@@ -629,6 +629,18 @@
                 href="http://comunidadbioinfo.github.io/es/authors/bcarvalho/"
                 />
   </url><url>
+    <loc>http://comunidadbioinfo.github.io/es/authors/brettbaker/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://comunidadbioinfo.github.io/authors/brettbaker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://comunidadbioinfo.github.io/es/authors/brettbaker/"
+                />
+  </url><url>
     <loc>http://comunidadbioinfo.github.io/es/authors/carbarjon/</loc>
     <xhtml:link
                 rel="alternate"
@@ -795,6 +807,18 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://comunidadbioinfo.github.io/es/authors/sfernandez/"
+                />
+  </url><url>
+    <loc>http://comunidadbioinfo.github.io/es/authors/valeriedeanda/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://comunidadbioinfo.github.io/authors/valeriedeanda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://comunidadbioinfo.github.io/es/authors/valeriedeanda/"
                 />
   </url><url>
     <loc>http://comunidadbioinfo.github.io/es/authors/yalbibalderas/</loc>
