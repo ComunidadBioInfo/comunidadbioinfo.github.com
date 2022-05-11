@@ -45,14 +45,15 @@
 &lt;a href=&#34;https://twitter.com/RBioinformatica&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red Mexicana de Bioinformática&lt;/a&gt; (RMB) y el 
 &lt;a href=&#34;https://twitter.com/nnb_unam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nodo Nacional de Bioinformática en la UNAM&lt;/a&gt; (NNB-CCG), está organizando el taller 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Análisis avanzado de metagenomas. Creando tus flujos de análisis con R/Bioconductor&lt;/a&gt;   como parte del 
-&lt;a href=&#34;http://congresos.nnb.unam.mx/EBM2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Encuentro Nacional de Bioinformática México 2022&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.nnb.unam.mx/EBM2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Encuentro Nacional de Bioinformática México 2022&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Nivel: Avanzado&lt;/li&gt;
 &lt;li&gt;Idioma: Español.&lt;/li&gt;
 &lt;li&gt;¿Dónde? Este taller se impartirá en línea a través de Zoom.&lt;/li&gt;
 &lt;li&gt;¿Cuándo? 01 al 05 de agosto de 2022, en horario de 9:00am a 5:00pm hora Ciudad de México.&lt;/li&gt;
 &lt;li&gt;Duración: 40 horas.&lt;/li&gt;
-&lt;li&gt;Registro&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nnb.unam.mx/EBM2022/registro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registro&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Twitter: @CDSBMexico&lt;/li&gt;
 &lt;li&gt;Facebook: @CDSBMexico&lt;/li&gt;
 &lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/ComunidadBioInfo/cdsb2022&#34;&gt;https://github.com/ComunidadBioInfo/cdsb2022&lt;/a&gt;&lt;/li&gt;
@@ -102,6 +103,8 @@
 &lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/brettbaker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Brett Baker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/valeriedeanda/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Valerie De Anda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Leonardo Collado-Torres&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;programa&#34;&gt;Programa&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Día 1:&lt;/strong&gt; Generando reportes y flujos de trabajo con R markdown&lt;/p&gt;

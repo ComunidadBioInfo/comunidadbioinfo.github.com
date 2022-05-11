@@ -5,12 +5,140 @@
     <link>http://comunidadbioinfo.github.io/categories/events/</link>
       <atom:link href="http://comunidadbioinfo.github.io/categories/events/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2022</copyright><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2022</copyright><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>Events</title>
       <link>http://comunidadbioinfo.github.io/categories/events/</link>
     </image>
+    
+    <item>
+      <title>CDSB Workshop 2022: Advanced analysis of metagenomes. Creating workflows with R/Bioconductor. </title>
+      <link>http://comunidadbioinfo.github.io/post/cdsb-2022-workshops/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://comunidadbioinfo.github.io/post/cdsb-2022-workshops/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TIB2022&lt;/th&gt;
+&lt;th&gt;RMB&lt;/th&gt;
+&lt;th&gt;NNB&lt;/th&gt;
+&lt;th&gt;CCG-UNAM&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/TIB2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://congresos.nnb.unam.mx/tib2019/wp-content/uploads/sites/4/2019/03/NNB-TIB-Logo.png&#34; width=&#34;50px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.ccg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;community-of-software-developers-in-bioinformatics-cdsb&#34;&gt;Community of Software Developers in Bioinformatics (CDSB)&lt;/h4&gt;
+&lt;p&gt;We are delighted to announce that 
+&lt;a href=&#34;https://twitter.com/CDSBMexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB&lt;/a&gt;, along with the 
+&lt;a href=&#34;https://twitter.com/RBioinformatica&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mexican Bioinformatics Network&lt;/a&gt; (RMB in Spanish) and the 
+&lt;a href=&#34;https://twitter.com/nnb_unam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Node of Bioinformatics at UNAM&lt;/a&gt; (NNB-CCG), is organizing the summer workshop 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced analysis of metagenomes. Creating workflows with R/Bioconductor&lt;/a&gt; as part of the 
+&lt;a href=&#34;https://www.nnb.unam.mx/EBM2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Bioinformatics Meeting Mexico 2022&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Level: Advanced.&lt;/li&gt;
+&lt;li&gt;Language: Spanish.&lt;/li&gt;
+&lt;li&gt;Where: This workshop will be held online on Zoom.&lt;/li&gt;
+&lt;li&gt;When: 01-05 August 2022, 9:00am - 5:00pm (Mexico City timezone).&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nnb.unam.mx/EBM2022/registro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter: @CDSBMexico&lt;/li&gt;
+&lt;li&gt;Facebook: @CDSBMexico&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/ComunidadBioInfo/cdsb2022&#34;&gt;https://github.com/ComunidadBioInfo/cdsb2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Workshop webpage: &lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2022&#34;&gt;https://comunidadbioinfo.github.io/cdsb2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://bit.ly/calendarcdsb2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calendar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-are-you-going-to-learn&#34;&gt;What are you going to learn?&lt;/h2&gt;
+&lt;p&gt;In recent years metagenomics has gained importance for discovering new groups of microorganisms and metabolic pathways. In this workshop, we will review the latest methods for analyzing metagenomic data, using free software tools and specialized R packages freely available via Bioconductor.&lt;/p&gt;
+&lt;p&gt;During this workshop, you will learn to reconstruct genomes from metagenomes using different free software tools. We will review different binning and metabolic prediction strategies, and we will identify areas of opportunity for software development in metagenomics; you will also learn how to document your code using RMarkdown.&lt;/p&gt;
+&lt;h2 id=&#34;who-is-it-for&#34;&gt;Who is it for?&lt;/h2&gt;
+&lt;p&gt;This course is designed for people who want to learn how to reconstruct genomes from metagenomes, make metabolic predictions, and contribute to the development of bioinformatics tools in this area. Participants who wish to register for the workshop must know Linux, R, NGS sequence quality analysis, and metagenomic assembly.&lt;/p&gt;
+&lt;h2 id=&#34;pre-requirements&#34;&gt;Pre-requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic knowledge of metagenome sequencing and assembly
+&lt;ul&gt;
+&lt;li&gt;Know what reads are.&lt;/li&gt;
+&lt;li&gt;Quality control of NGS sequences.&lt;/li&gt;
+&lt;li&gt;Assembly of metagenomes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Basic knowledge of RStudio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Technical requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Computer with at least 8Gb of memory.&lt;/li&gt;
+&lt;li&gt;Access to a Linux terminal.&lt;/li&gt;
+&lt;li&gt;Have R and RStudio installed in their latest version.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructors&#34;&gt;Instructors&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/mirnavrl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Mirna Vázquez Rosas Landa&lt;/a&gt;: Estancia Postdoctoral en la Universidad de Texas en Austin.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/josschavezf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Joselyn Chávez Fuentes&lt;/a&gt;: Estancia Postdoctoral en Icahn School of Medicine at Mount Sinai.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/erickcufe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M.C. Erick Cuevas Fernández&lt;/a&gt;: Estudiante de Doctorado en la Universidad Nacional Autónoma de México.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Alejandra Medina Rivera&lt;/a&gt;: Investigadora Asociada en el Laboratorio Internacional de Investigación de Medicina Genómica, UNAM.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/yalbibalderas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Yalbi Balderas Martínez&lt;/a&gt;:  Investigadora en el Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Invited speakers&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/brettbaker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Brett Baker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/valeriedeanda/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Valerie De Anda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Leonardo Collado-Torres&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;program&#34;&gt;Program&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Day 1:&lt;/strong&gt; Generating reports and workflows with R markdown&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation to CDSB.&lt;/li&gt;
+&lt;li&gt;Talk: The latest version of the tree of life.&lt;/li&gt;
+&lt;li&gt;Version control with GitHub and RStudio.&lt;/li&gt;
+&lt;li&gt;Report generation with R markdown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Day 2:&lt;/strong&gt; Reconstruction of genomes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Talk: Turning your analysis flow into a R/Bioconductor package.&lt;/li&gt;
+&lt;li&gt;Talk: Bioconductor packages related to metagenomics.&lt;/li&gt;
+&lt;li&gt;Reconstruction of genomes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Day 3:&lt;/strong&gt; Metabolic reconstruction and phylogenetic inference&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Taxonomic assignment.&lt;/li&gt;
+&lt;li&gt;Analysis of metabolic pathways.&lt;/li&gt;
+&lt;li&gt;MEBs&lt;/li&gt;
+&lt;li&gt;Social session: Building the community.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Day 4:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Collaborative metagenome projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Day 5:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Collaborative metagenome projects.&lt;/li&gt;
+&lt;li&gt;Project presentation.&lt;/li&gt;
+&lt;li&gt;Closure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Looking forward to see you!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Workshops CDSB 2021: RStudio workflows and scRNA-seq with Bioconductor</title>
