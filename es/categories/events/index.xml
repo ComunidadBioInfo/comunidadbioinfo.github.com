@@ -5,12 +5,173 @@
     <link>http://comunidadbioinfo.github.io/es/categories/events/</link>
       <atom:link href="http://comunidadbioinfo.github.io/es/categories/events/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2022</copyright><lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2023</copyright><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>Events</title>
       <link>http://comunidadbioinfo.github.io/es/categories/events/</link>
     </image>
+    
+    <item>
+      <title>Taller CDSB 2023: Creando paquetes de R/Bioconductor para análisis transcriptómicos de célula única.</title>
+      <link>http://comunidadbioinfo.github.io/es/post/cdsb-2023-workshop/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://comunidadbioinfo.github.io/es/post/cdsb-2023-workshop/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TIB2023&lt;/th&gt;
+&lt;th&gt;RMB&lt;/th&gt;
+&lt;th&gt;NNB&lt;/th&gt;
+&lt;th&gt;CCG-UNAM&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/TIB2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://congresos.nnb.unam.mx/tib2019/wp-content/uploads/sites/4/2019/03/NNB-TIB-Logo.png&#34; width=&#34;50px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.ccg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;comunidad-de-desarrolladores-de-software-en-bioinformática--cdsb&#34;&gt;Comunidad de Desarrolladores de Software en Bioinformática  (CDSB)&lt;/h4&gt;
+&lt;p&gt;Es un placer anunciar que la 
+&lt;a href=&#34;https://twitter.com/CDSBMexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB&lt;/a&gt;, junto con la 
+&lt;a href=&#34;https://twitter.com/RBioinformatica&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red Mexicana de Bioinformática&lt;/a&gt; (RMB) y el 
+&lt;a href=&#34;https://twitter.com/nnb_unam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nodo Nacional de Bioinformática en la UNAM&lt;/a&gt; (NNB-CCG), está organizando el taller 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creando paquetes de R/Bioconductor para análisis transcriptómicos de célula única&lt;/a&gt;   como parte del 
+&lt;a href=&#34;https://www.nnb.unam.mx/EBM2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Encuentro Nacional de Bioinformática México 2023&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nivel: Intermedio-Avanzado&lt;/li&gt;
+&lt;li&gt;Idioma: Español.&lt;/li&gt;
+&lt;li&gt;¿Dónde? Este taller se impartirá en línea a través de Zoom.&lt;/li&gt;
+&lt;li&gt;¿Cuándo? 07 al 11 de agosto de 2023, en horario de 9:00am a 5:00pm hora Ciudad de México.&lt;/li&gt;
+&lt;li&gt;Duración: 40 horas.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nnb.unam.mx/EBM2023/registro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter: @CDSBMexico&lt;/li&gt;
+&lt;li&gt;Facebook: @CDSBMexico&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/ComunidadBioInfo/cdsb2023&#34;&gt;https://github.com/ComunidadBioInfo/cdsb2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Página del taller: &lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2023&#34;&gt;https://comunidadbioinfo.github.io/cdsb2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://bit.ly/calendarcdsb2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calendario&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;qué-vas-a-aprender&#34;&gt;¿Qué vas a aprender?&lt;/h2&gt;
+&lt;p&gt;En los últimos años, la generación de datos transcriptómicos de célula única ha cobrado gran relevancia  en la investigación biomédica; sin embargo, las herramientas necesarias para su análisis continúan en desarrollo.&lt;/p&gt;
+&lt;p&gt;En este taller haremos un repaso a las herramientas estadísticas existentes para analizar datos transcriptómicos de célula única usando Bioconductor, cómo documentar tu análisis y revisaremos algunas herramientas para la interpretación de resultados.&lt;/p&gt;
+&lt;p&gt;A la par, aprenderás cuáles son los pasos cruciales para desarrollar un paquete de R y algunas buenas prácticas para la generación de código. Con la integración de estas herramientas, tendrás la oportunidad de crear tu primer paquete y contribuir a la comunidad de desarrolladores.&lt;/p&gt;
+&lt;h2 id=&#34;a-quién-va-dirigido&#34;&gt;¿A quién va dirigido?&lt;/h2&gt;
+&lt;p&gt;Este curso está dirigido a personas que desean aprender a desarrollar paquetes para el análisis de datos transcriptómicos de célula única utilizando herramientas de R/Bioconductor.&lt;/p&gt;
+&lt;h2 id=&#34;qué-requisitos-debo-cumplir-para-asistir-a-este-taller&#34;&gt;¿Qué requisitos debo cumplir para asistir a este taller?&lt;/h2&gt;
+&lt;p&gt;Este taller es de un nivel &lt;strong&gt;Avanzado&lt;/strong&gt;, por lo que necesitarás contar con algunos &lt;strong&gt;conocimientos previos&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Conocimientos básicos de secuenciación de transcriptomas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Conocimientos básicos de RStudio:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Creación de Rscripts, manejo de la consola de RStudio, manejo del espacio de visualización.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Conocimientos intermedios de R:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Manejo de variables, lectura de archivos, creación y manejo de data frames y listas.&lt;/li&gt;
+&lt;li&gt;Generación de gráficas básicas c&lt;/li&gt;
+&lt;li&gt;Conocimiento sobre cómo instalar paquetes desde CRAN y Bioconductor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requisitos técnicos:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Computadora Personal. Un mínimo de 8 GB de RAM, un ratón y espacio de disco suficiente para archivos de texto y archivos de imagen.&lt;/li&gt;
+&lt;li&gt;Privilegios de administrador para instalar y ejecutar utilidades de RStudio.&lt;/li&gt;
+&lt;li&gt;Tener instalado R y RStudio en su última versión.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructores&#34;&gt;Instructores&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instructores:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/josschavezf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Joselyn Chávez Fuentes&lt;/a&gt;: Estancia Postdoctoral en Icahn School of Medicine at Mount Sinai.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/yalbibalderas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Yalbi Balderas Martínez&lt;/a&gt;:  Investigadora en el Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Leonardo Collado Torres&lt;/a&gt;: Investigador en Lieber Institute for Brain Development.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/erickcufe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M.C. Erick Cuevas Fernández&lt;/a&gt;: Estudiante de Doctorado en la Universidad Nacional Autónoma de México.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/mirnavrl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Mirna Vázquez Rosas Landa&lt;/a&gt;: Investigadora en el Instituto de Ciencias de Mar y Limnología de la UNAM.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Alejandra Medina Rivera&lt;/a&gt;: Investigadora Asociada en el Laboratorio Internacional de Investigación de Medicina Genómica, UNAM.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Instructores invitados:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dra. Evelia Coss&lt;/li&gt;
+&lt;li&gt;M.C. José Antonio Ovando&lt;/li&gt;
+&lt;li&gt;M.C. Andrés Arredondo Cruz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;programa&#34;&gt;Programa&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Día 1:&lt;/strong&gt; Flujo de análisis de datos transcriptómicos de célula única Parte I&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentación de la CDSB.&lt;/li&gt;
+&lt;li&gt;Estructura e importe de datos.&lt;/li&gt;
+&lt;li&gt;Control de calidad.&lt;/li&gt;
+&lt;li&gt;Normalización.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Día 2:&lt;/strong&gt;  Flujo de análisis de datos transcriptómicos de célula única Parte II&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Selección de genes altamente variables.&lt;/li&gt;
+&lt;li&gt;Reducción de dimensiones.&lt;/li&gt;
+&lt;li&gt;Clustering.&lt;/li&gt;
+&lt;li&gt;Genes marcadores.&lt;/li&gt;
+&lt;li&gt;Anotación de tipos celulares.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Día 3:&lt;/strong&gt; Creación de paquetes de R/Bioconductor Parte I&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nuevas funcionalidades de RStudio, Quarto.&lt;/li&gt;
+&lt;li&gt;Control de versiones con GitHub y RStudio.&lt;/li&gt;
+&lt;li&gt;Solución de problemas con las versiones de paquetes de Rstudio.&lt;/li&gt;
+&lt;li&gt;Infraestructura de un paquete de R/Bioconductor.&lt;/li&gt;
+&lt;li&gt;Plática.: Convirtiendo tu flujo de análisis en un paquete de R/Bioconductor.&lt;/li&gt;
+&lt;li&gt;Documentación de funciones.&lt;/li&gt;
+&lt;li&gt;Sesión social: Conociendo a la comunidad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Día 4:&lt;/strong&gt; Creación de paquetes de R/Bioconductor Parte II&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Diseño de pruebas.&lt;/li&gt;
+&lt;li&gt;Creación de viñetas.&lt;/li&gt;
+&lt;li&gt;Compilación e instalación de paquetes.&lt;/li&gt;
+&lt;li&gt;Proyectos colaborativos Parte I.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Día 5:&lt;/strong&gt;  Proyectos colaborativos&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proyectos colaborativos Parte II.&lt;/li&gt;
+&lt;li&gt;Presentación de proyectos.&lt;/li&gt;
+&lt;li&gt;Clausura.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;¡Les esperamos!&lt;/p&gt;
+&lt;h2 id=&#34;organizadores&#34;&gt;Organizadores&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_0x70_resize_lanczos_2.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.ccg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.zaragoza.unam.mx/portal/wp-content/Portal2015/Descargas/logo_unam_azul.jpg&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;con-el-apoyo-de&#34;&gt;Con el apoyo de:&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://bioconductor.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://bioconductor.org/images/logo_bioconductor.gif&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Taller CDSB 2022: Análisis avanzado de metagenomas. Creando tus flujos de análisis con R/Bioconductor.</title>
