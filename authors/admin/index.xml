@@ -69,17 +69,13 @@
 &lt;h2 id=&#34;pre-requirements&#34;&gt;Pre-requirements&lt;/h2&gt;
 &lt;p&gt;This workshop is &lt;strong&gt;Advanced&lt;/strong&gt;, so you’ll need some **&lt;em&gt;background knowledge&lt;/em&gt;:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Basic knowledge of RNAseq.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Basic knowledge of RStudio:&lt;/p&gt;
+&lt;li&gt;Basic knowledge of RNAseq.&lt;/li&gt;
+&lt;li&gt;Basic knowledge of RStudio:
 &lt;ul&gt;
 &lt;li&gt;Rscripts creation, RStudio console management, display space management.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Intermediate knowledge of R:&lt;/p&gt;
+&lt;li&gt;Intermediate knowledge of R:
 &lt;ul&gt;
 &lt;li&gt;Managing variables, reading files, creating and managing data frames and lists.&lt;/li&gt;
 &lt;li&gt;Generation of basic graphs.&lt;/li&gt;
@@ -162,8 +158,6 @@
 &lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://www.ccg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://www.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.zaragoza.unam.mx/portal/wp-content/Portal2015/Descargas/logo_unam_azul.jpg&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;with-the-support-of&#34;&gt;With the support of:&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
