@@ -5,12 +5,172 @@
     <link>http://comunidadbioinfo.github.io/categories/rstats/</link>
       <atom:link href="http://comunidadbioinfo.github.io/categories/rstats/index.xml" rel="self" type="application/rss+xml" />
     <description>rstats</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2023</copyright><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2023</copyright><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>rstats</title>
       <link>http://comunidadbioinfo.github.io/categories/rstats/</link>
     </image>
+    
+    <item>
+      <title>CDSB Workshop 2023: Writting R/Bioconductor packages for scRNAseq analysis.</title>
+      <link>http://comunidadbioinfo.github.io/post/cdsb-2023-workshop/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://comunidadbioinfo.github.io/post/cdsb-2023-workshop/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TIB2023&lt;/th&gt;
+&lt;th&gt;RMB&lt;/th&gt;
+&lt;th&gt;NNB&lt;/th&gt;
+&lt;th&gt;CCG-UNAM&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/TIB2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://congresos.nnb.unam.mx/tib2019/wp-content/uploads/sites/4/2019/03/NNB-TIB-Logo.png&#34; width=&#34;50px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.ccg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png&#34; width=&#34;150px&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;community-of-software-developers-in-bioinformatics-cdsb&#34;&gt;Community of Software Developers in Bioinformatics (CDSB)&lt;/h4&gt;
+&lt;p&gt;We are delighted to announce that 
+&lt;a href=&#34;https://twitter.com/CDSBMexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB&lt;/a&gt;, along with the 
+&lt;a href=&#34;https://twitter.com/RBioinformatica&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mexican Bioinformatics Network&lt;/a&gt; (RMB in Spanish) and the 
+&lt;a href=&#34;https://twitter.com/nnb_unam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Node of Bioinformatics at UNAM&lt;/a&gt; (NNB-CCG), is organizing the summer workshop 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Writting R/Bioconductor packages for scRNAseq analysis&lt;/a&gt;  as part of the 
+&lt;a href=&#34;https://www.nnb.unam.mx/EBM2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Bioinformatics Meeting Mexico 2023&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Level: Intermediate-Advanced.&lt;/li&gt;
+&lt;li&gt;Language: Spanish.&lt;/li&gt;
+&lt;li&gt;Where: This workshop will be held online on Zoom.&lt;/li&gt;
+&lt;li&gt;When: 07-11 August 2023, 9:00am - 5:00pm (Mexico City timezone).&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nnb.unam.mx/EBM2023/registro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter: @CDSBMexico&lt;/li&gt;
+&lt;li&gt;Facebook: @CDSBMexico&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/ComunidadBioInfo/cdsb2023&#34;&gt;https://github.com/ComunidadBioInfo/cdsb2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Workshop webpage: &lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2023&#34;&gt;https://comunidadbioinfo.github.io/cdsb2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://bit.ly/calendarcdsb2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calendar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-are-you-going-to-learn&#34;&gt;What are you going to learn?&lt;/h2&gt;
+&lt;p&gt;In recent years, the generation of scRNAseq data has become very important in biomedical research; however, the tools needed for its analysis are still under development.&lt;/p&gt;
+&lt;p&gt;In this workshop, we will review the existing statistical tools to analyze scRNAseq data using Bioconductor, how to document your analysis and check some tools for interpreting results.&lt;/p&gt;
+&lt;p&gt;At the same time, you will learn the crucial steps to develop an R package and some good practices for code generation. With the integration of these tools, you will have the opportunity to create your first package and contribute to the developers community.&lt;/p&gt;
+&lt;h2 id=&#34;who-is-it-for&#34;&gt;Who is it for?&lt;/h2&gt;
+&lt;p&gt;This course is aimed at people who want to learn how to develop packets to analyze scRNAseq data using R/Bioconductor tools.&lt;/p&gt;
+&lt;h2 id=&#34;pre-requirements&#34;&gt;Pre-requirements&lt;/h2&gt;
+&lt;p&gt;This workshop is &lt;strong&gt;Advanced&lt;/strong&gt;, so you’ll need some **&lt;em&gt;background knowledge&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Basic knowledge of RNAseq.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Basic knowledge of RStudio:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rscripts creation, RStudio console management, display space management.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Intermediate knowledge of R:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managing variables, reading files, creating and managing data frames and lists.&lt;/li&gt;
+&lt;li&gt;Generation of basic graphs.&lt;/li&gt;
+&lt;li&gt;Knowledge of how to install packages from CRAN and Bioconductor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Technical requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Computer with at least 8Gb of memory.&lt;/li&gt;
+&lt;li&gt;Access to a Linux terminal.&lt;/li&gt;
+&lt;li&gt;Have R and RStudio installed in their latest version.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructors&#34;&gt;Instructors&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/josschavezf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Joselyn Cristina Chávez Fuentes&lt;/a&gt;: Estancia Postdoctoral en Icahn School of Medicine at Mount Sinai.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/yalbibalderas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Yalbi Balderas Martínez&lt;/a&gt;:  Investigadora en el Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Leonardo Collado Torres&lt;/a&gt;: Investigador en Lieber Institute for Brain Development.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/erickcufe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M.C. Erick Cuevas Fernández&lt;/a&gt;: Estudiante de Doctorado en la Universidad Nacional Autónoma de México.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/mirnavrl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Mirna Vázquez Rosas Landa&lt;/a&gt;: Investigadora en el Instituto de Ciencias de Mar y Limnología de la UNAM.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Alejandra Medina Rivera&lt;/a&gt;: Investigadora Asociada en el Laboratorio Internacional de Investigación de Medicina Genómica, UNAM.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Invited speakers&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dra. Evelia Coss&lt;/li&gt;
+&lt;li&gt;M.C. José Antonio Ovando&lt;/li&gt;
+&lt;li&gt;M.C. Andrés Arredondo Cruz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;program&#34;&gt;Program&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Day 1:&lt;/strong&gt; scRNAseq analysis workflow Part I&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation of the CDSB.&lt;/li&gt;
+&lt;li&gt;Structure and importing of data.&lt;/li&gt;
+&lt;li&gt;Quality control.&lt;/li&gt;
+&lt;li&gt;Normalization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Day 2:&lt;/strong&gt;  scRNAseq analysis workflow Part II&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Selection of highly variable genes.&lt;/li&gt;
+&lt;li&gt;Dimension reduction.&lt;/li&gt;
+&lt;li&gt;Clustering.&lt;/li&gt;
+&lt;li&gt;Marker genes.&lt;/li&gt;
+&lt;li&gt;Annotation of cellular types.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Day 3:&lt;/strong&gt; Writting R/Bioconductor packages Part I&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;New features of RStudio, Quarto.&lt;/li&gt;
+&lt;li&gt;Version control with GitHub and RStudio.&lt;/li&gt;
+&lt;li&gt;Troubleshooting with Rstudio package versions.&lt;/li&gt;
+&lt;li&gt;Infrastructure of an R/Bioconductor package.&lt;/li&gt;
+&lt;li&gt;Talk: Converting your analysis workflow into an R/Bioconductor package.&lt;/li&gt;
+&lt;li&gt;Documentation of functions.&lt;/li&gt;
+&lt;li&gt;Social session: Getting to know the community.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Day 4:&lt;/strong&gt; Writting R/Bioconductor packages Part II&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design of tests.&lt;/li&gt;
+&lt;li&gt;Vignettes.&lt;/li&gt;
+&lt;li&gt;Compilation and installation of packages.&lt;/li&gt;
+&lt;li&gt;Collaborative projects Part I.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Day 5:&lt;/strong&gt; Collaborative projects&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Collaborative projects Part II.&lt;/li&gt;
+&lt;li&gt;Projects presentation.&lt;/li&gt;
+&lt;li&gt;Closure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Looking forward to see you!&lt;/p&gt;
+&lt;h2 id=&#34;organizers&#34;&gt;Organizers&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_0x70_resize_lanczos_2.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/logo-principal.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.ccg.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/CCG_Logo_HR.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://www.zaragoza.unam.mx/portal/wp-content/Portal2015/Descargas/logo_unam_azul.jpg&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;with-the-support-of&#34;&gt;With the support of:&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://bioconductor.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://bioconductor.org/images/logo_bioconductor.gif&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CDSB Workshop 2022: Advanced analysis of metagenomes. Creating workflows with R/Bioconductor.</title>
