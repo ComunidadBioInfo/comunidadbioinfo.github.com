@@ -79,8 +79,8 @@
 &lt;li&gt;Conocimientos intermedios de R:
 &lt;ul&gt;
 &lt;li&gt;Manejo de variables, lectura de archivos, creación y manejo de data frames y listas.&lt;/li&gt;
-&lt;li&gt;Generación de gráficas básicas c&lt;/li&gt;
-&lt;li&gt;Conocimiento sobre cómo instalar paquetes desde CRAN y Bioconductor.&lt;/li&gt;
+&lt;li&gt;Generación de gráficas.&lt;/li&gt;
+&lt;li&gt;Cómo instalar paquetes desde CRAN y Bioconductor.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -108,9 +108,14 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Instructores invitados:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Dra. Evelia Coss&lt;/li&gt;
-&lt;li&gt;M.C. José Antonio Ovando&lt;/li&gt;
+&lt;li&gt;Dra. Evelia Lorena Coss Navarrete&lt;/li&gt;
+&lt;li&gt;M.C. José Antonio Ovando Ricárdez&lt;/li&gt;
 &lt;li&gt;M.C. Andrés Arredondo Cruz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ayudantes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;M. C. Diego Ramírez&lt;/li&gt;
+&lt;li&gt;M. C. Luis Alberto Meza&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;programa&#34;&gt;Programa&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Día 1:&lt;/strong&gt; Flujo de análisis de datos transcriptómicos de célula única Parte I&lt;/p&gt;
@@ -162,8 +167,6 @@
 &lt;h2 id=&#34;con-el-apoyo-de&#34;&gt;Con el apoyo de:&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://bioconductor.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://bioconductor.org/images/logo_bioconductor.gif&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

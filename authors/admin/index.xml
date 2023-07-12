@@ -67,7 +67,7 @@
 &lt;h2 id=&#34;who-is-it-for&#34;&gt;Who is it for?&lt;/h2&gt;
 &lt;p&gt;This course is aimed at people who want to learn how to develop packets to analyze scRNAseq data using R/Bioconductor tools.&lt;/p&gt;
 &lt;h2 id=&#34;pre-requirements&#34;&gt;Pre-requirements&lt;/h2&gt;
-&lt;p&gt;This workshop is &lt;strong&gt;Advanced&lt;/strong&gt;, so you’ll need some **&lt;em&gt;background knowledge&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;This workshop is &lt;strong&gt;Advanced&lt;/strong&gt;, so you’ll need some &lt;strong&gt;background knowledge&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Basic knowledge of RNAseq.&lt;/li&gt;
 &lt;li&gt;Basic knowledge of RStudio:
@@ -78,8 +78,8 @@
 &lt;li&gt;Intermediate knowledge of R:
 &lt;ul&gt;
 &lt;li&gt;Managing variables, reading files, creating and managing data frames and lists.&lt;/li&gt;
-&lt;li&gt;Generation of basic graphs.&lt;/li&gt;
-&lt;li&gt;Knowledge of how to install packages from CRAN and Bioconductor.&lt;/li&gt;
+&lt;li&gt;Generation of graphs.&lt;/li&gt;
+&lt;li&gt;How to install packages from CRAN and Bioconductor.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -93,23 +93,28 @@
 &lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/josschavezf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Joselyn Cristina Chávez Fuentes&lt;/a&gt;: Estancia Postdoctoral en Icahn School of Medicine at Mount Sinai.&lt;/li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/josschavezf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Joselyn Cristina Chávez Fuentes&lt;/a&gt;: Postdoctoral Fellow at Icahn School of Medicine at Mount Sinai.&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/yalbibalderas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Yalbi Balderas Martínez&lt;/a&gt;:  Investigadora en el Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas.&lt;/li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/yalbibalderas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Yalbi Balderas Martínez&lt;/a&gt;:  Investigator at Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas.&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Leonardo Collado Torres&lt;/a&gt;: Investigador en Lieber Institute for Brain Development.&lt;/li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Leonardo Collado Torres&lt;/a&gt;: Investigator at Lieber Institute for Brain Development.&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/erickcufe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M.C. Erick Cuevas Fernández&lt;/a&gt;: Estudiante de Doctorado en la Universidad Nacional Autónoma de México.&lt;/li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/erickcufe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M.C. Erick Cuevas Fernández&lt;/a&gt;: PhD Student at Universidad Nacional Autónoma de México.&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/mirnavrl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Mirna Vázquez Rosas Landa&lt;/a&gt;: Investigadora en el Instituto de Ciencias de Mar y Limnología de la UNAM.&lt;/li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/mirnavrl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Mirna Vázquez Rosas Landa&lt;/a&gt;: Associate Professor at Instituto de Ciencias de Mar y Limnología de la UNAM.&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Alejandra Medina Rivera&lt;/a&gt;: Investigadora Asociada en el Laboratorio Internacional de Investigación de Medicina Genómica, UNAM.&lt;/li&gt;
+&lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/amedina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dra. Alejandra Medina Rivera&lt;/a&gt;: Associate Professor at Laboratorio Internacional de Investigación de Medicina Genómica, UNAM.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Invited speakers&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Dra. Evelia Coss&lt;/li&gt;
-&lt;li&gt;M.C. José Antonio Ovando&lt;/li&gt;
+&lt;li&gt;Dra. Evelia Lorena Coss Navarrete&lt;/li&gt;
+&lt;li&gt;M.C. José Antonio Ovando Ricárdez&lt;/li&gt;
 &lt;li&gt;M.C. Andrés Arredondo Cruz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;TAs&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;M. C. Diego Ramírez&lt;/li&gt;
+&lt;li&gt;M. C. Luis Alberto Meza&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;program&#34;&gt;Program&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Day 1:&lt;/strong&gt; scRNAseq analysis workflow Part I&lt;/p&gt;
@@ -161,8 +166,6 @@
 &lt;h2 id=&#34;with-the-support-of&#34;&gt;With the support of:&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://bioconductor.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://bioconductor.org/images/logo_bioconductor.gif&#34; width=&#34;250px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
