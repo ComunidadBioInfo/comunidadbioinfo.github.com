@@ -7,7 +7,7 @@
     <description>Latin American</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2023</copyright><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_3.png</url>
       <title>Latin American</title>
       <link>http://comunidadbioinfo.github.io/tags/latin-american/</link>
     </image>
@@ -19,7 +19,8 @@
       <guid>http://comunidadbioinfo.github.io/post/cs_and_s_event_fund_award/</guid>
       <description>&lt;p&gt;We are delighted to announce that 
 &lt;a href=&#34;https://eventfund.codeforscience.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code for Science and Society&lt;/a&gt; has selected our application for their first cohort of Event Fund grant recipients as announced on 
-&lt;a href=&#34;https://eventfund.codeforscience.org/announcing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;January 25, 2021&lt;/a&gt;. The CS&amp;amp;S Event Fund program is made possible through award number GBMF8449 from the Gordon and Betty Moore Foundation (&lt;a href=&#34;https://doi.org/10.37807/GBMF8449)&#34;&gt;https://doi.org/10.37807/GBMF8449)&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://eventfund.codeforscience.org/announcing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;January 25, 2021&lt;/a&gt;. The CS&amp;amp;S Event Fund program is made possible through award number GBMF8449 from the Gordon and Betty Moore Foundation (
+&lt;a href=&#34;https://doi.org/10.37807/GBMF8449%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.37807/GBMF8449)&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Thanks to this support, 
 &lt;a href=&#34;https://twitter.com/CDSBMexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB&lt;/a&gt; along with the 
 &lt;a href=&#34;https://twitter.com/RBioinformatica&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mexican Bioinformatics Network&lt;/a&gt; (RMB in Spanish) and the 
@@ -32,7 +33,10 @@
 &lt;p&gt;As stated in our application, our goals are:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Over the years, the workshops organized by NNB-CCG and, more recently, with the support of RMB have helped introduce an average of 40 participants per workshop every year into the world of open-source data analysis applied to bioinformatics. Many students, researchers, and industry members have found these workshops highly valuable to acquire skills at relatively low costs that empower them to succeed in the world of biological data. There are now participants who attend the introductory workshops one year and come back the next year for either other introductory workshops or those focusing on advanced material, which is where the CDSB steps in.&lt;/p&gt;
-&lt;p&gt;CDSB has fostered the inclusion and collaboration of Latin American participants in the R and Bioconductor communities in the past three years. During the summer, one week CDSB courses (2018, 2019, and 2020) focused on developing advanced R programming skills. Supplemented by a Slack workspace, CDSB has set up the foundation for an inclusive community that supports and fosters collaboration, respect, and community building, as noted at &lt;a href=&#34;https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico&#34;&gt;https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico&lt;/a&gt; and BioC2020, JSM2020 and CDSB2020 presentations at &lt;a href=&#34;https://speakerdeck.com/lcolladotor&#34;&gt;https://speakerdeck.com/lcolladotor&lt;/a&gt; (CDSB2020 video about CDSB in Spanish: &lt;a href=&#34;https://www.youtube.com/watch?v=rtP4zmbR3p4)&#34;&gt;https://www.youtube.com/watch?v=rtP4zmbR3p4)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;CDSB has fostered the inclusion and collaboration of Latin American participants in the R and Bioconductor communities in the past three years. During the summer, one week CDSB courses (2018, 2019, and 2020) focused on developing advanced R programming skills. Supplemented by a Slack workspace, CDSB has set up the foundation for an inclusive community that supports and fosters collaboration, respect, and community building, as noted at 
+&lt;a href=&#34;https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico&lt;/a&gt; and BioC2020, JSM2020 and CDSB2020 presentations at 
+&lt;a href=&#34;https://speakerdeck.com/lcolladotor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://speakerdeck.com/lcolladotor&lt;/a&gt; (CDSB2020 video about CDSB in Spanish: 
+&lt;a href=&#34;https://www.youtube.com/watch?v=rtP4zmbR3p4%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=rtP4zmbR3p4)&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;With the proposed short courses, RMB and CDSB, together with NNB-CCG, will provide a structured path to advance on software developing skills in R, and in bioinformatics, throughout the year. This will have a strong impact on integrating more members into the community. In our experience, many people in Latin America underestimate their programming abilities and avoid advanced courses that would provide them with additional skills to become tool developers. The proposed program will allow us to integrate people in different programming knowledge stages to the CDSB, reassess their programming skills, or improve them to get to the next stage. Our series of events will culminate with week-long workshops in the summer at the National Bioinformatics Meeting 2021.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;We greatly appreciate all the support and trust that has been placed on our CDSB + RMB + NNB-CCG team.&lt;/p&gt;

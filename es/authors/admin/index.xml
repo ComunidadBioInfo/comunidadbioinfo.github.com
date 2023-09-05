@@ -7,7 +7,7 @@
     <description>CDSB</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2023</copyright><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_3.png</url>
       <title>CDSB</title>
       <link>http://comunidadbioinfo.github.io/es/authors/admin/</link>
     </image>
@@ -56,8 +56,10 @@
 &lt;a href=&#34;https://www.nnb.unam.mx/EBM2023/registro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registro&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Twitter: @CDSBMexico&lt;/li&gt;
 &lt;li&gt;Facebook: @CDSBMexico&lt;/li&gt;
-&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/ComunidadBioInfo/cdsb2023&#34;&gt;https://github.com/ComunidadBioInfo/cdsb2023&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Página del taller: &lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2023&#34;&gt;https://comunidadbioinfo.github.io/cdsb2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: 
+&lt;a href=&#34;https://github.com/ComunidadBioInfo/cdsb2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ComunidadBioInfo/cdsb2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Página del taller: 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://comunidadbioinfo.github.io/cdsb2023&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;http://bit.ly/calendarcdsb2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calendario&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -218,8 +220,10 @@
 &lt;a href=&#34;https://www.nnb.unam.mx/EBM2022/registro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registro&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Twitter: @CDSBMexico&lt;/li&gt;
 &lt;li&gt;Facebook: @CDSBMexico&lt;/li&gt;
-&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/ComunidadBioInfo/cdsb2022&#34;&gt;https://github.com/ComunidadBioInfo/cdsb2022&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Página del taller: &lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2022&#34;&gt;https://comunidadbioinfo.github.io/cdsb2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: 
+&lt;a href=&#34;https://github.com/ComunidadBioInfo/cdsb2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ComunidadBioInfo/cdsb2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Página del taller: 
+&lt;a href=&#34;https://comunidadbioinfo.github.io/cdsb2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://comunidadbioinfo.github.io/cdsb2022&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;http://bit.ly/calendarcdsb2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calendario&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -442,7 +446,8 @@
 &lt;/ul&gt;
 &lt;p&gt;Las personas generalmente participan en congresos de Bioconductor por intereses profesionales o académicos, donde esperan interactuar con colegas principalmente por el interés en común en código de acceso libre para la Bioinformática. Atención sexual no deseada, entre otras acciones prohibidas por el 
 &lt;a href=&#34;https://bioc2020.bioconductor.org/code_of_conduct&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Código de Conducta&lt;/a&gt;, niegan a otras personas ser partícipes de esta experiencia. El Comité del Código de Conducta alienta a todas y todos los participantes del congreso a que revisen el Código de Conducta y que disfruten de su experiencia durante los congresos, recordando su responsabilidad para mantener un ambiente de apoyo, colegial, y libre de acoso para la totalidad de las y los participantes. Cualquier persona que sea víctima o este atestiguando una violación al Código de Conducta deberá reportar dicha violación a 
-&lt;a href=&#34;mailto:code-of-conduct@bioconductor.org&#34;&gt;code-of-conduct@bioconductor.org&lt;/a&gt;, a alguna persona dentro del Comité del Código de Conducta, o anónimamente a través de &lt;a href=&#34;https://tinyurl.com/bioccomplaint&#34;&gt;https://tinyurl.com/bioccomplaint&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;mailto:code-of-conduct@bioconductor.org&#34;&gt;code-of-conduct@bioconductor.org&lt;/a&gt;, a alguna persona dentro del Comité del Código de Conducta, o anónimamente a través de 
+&lt;a href=&#34;https://tinyurl.com/bioccomplaint&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tinyurl.com/bioccomplaint&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Este reporte fue atendido por el Comité del Código de Conducta de Bioconductor (Levi Waldron, Aedin Culhane, Laurent Gatto, Stephanie Hicks) y la respuesta fue aprobada por la 
 &lt;a href=&#34;https://www.bioconductor.org/about/technical-advisory-board/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Junta Asesora Técnica de Bioconductor&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Traducción al español por Leonardo Collado Torres. La versión original en inglés está disponible vía la página web del 
