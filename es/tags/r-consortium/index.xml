@@ -5,9 +5,9 @@
     <link>http://comunidadbioinfo.github.io/es/tags/r-consortium/</link>
       <atom:link href="http://comunidadbioinfo.github.io/es/tags/r-consortium/index.xml" rel="self" type="application/rss+xml" />
     <description>R Consortium</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2023</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><copyright>© 2018-2024</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_3.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>R Consortium</title>
       <link>http://comunidadbioinfo.github.io/es/tags/r-consortium/</link>
     </image>
@@ -98,7 +98,7 @@
       <guid>http://comunidadbioinfo.github.io/es/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/</guid>
       <description>&lt;p&gt;&lt;em&gt;Esta entrada en el blog fue enviada al 
 &lt;a href=&#34;https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog del R Consortium&lt;/a&gt; donde fue publicada el 03/18/2020.&lt;/em&gt;&lt;/p&gt;
-&lt;img src=&#34;http://comunidadbioinfo.github.io/img/2019-08-03-11.52.16.jpg&#34; width=&#34;800px&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/2019-08-03-11.52.16.jpg&#34; width=&#34;800px&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;He ido a congresos de R desde 2008, y mientras he visto a la comunidad de R crecer rápidamente, generalmente no me topo con otras, otros y otrxs desarrolladores latinoamericanos (LatAm) en las diferentes comunidades de desarrolladores de R. Tradicionalmente, la, el o lxs investigadores líderes de un laboratorio inmerso con R o Bioconductor le enseñarían a sus alumnos, alumnas, alumnxs y aprendices estas habilidades, convirtiéndose así en un nodo local de la comunidad de R. Sin embargo, ese escenario es raro en México por diversas razones. Reconociendo estos obstáculos y compremetidos por promover R en nuestro país natal y LatAm, en 2017 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/areyes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alejandro Reyes&lt;/a&gt; y 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/es/authors/lcollado/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;yo&lt;/a&gt; creamos un equipo junto con 
@@ -111,6 +111,7 @@
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;If you are fighting for change, know that even when things feel hard and progress is slow (or seems nonexistent), you are still creating and holding space for those who will come after you. Even if you can’t see it now, the impact of your work will be visible in the future.&lt;/p&gt;&amp;mdash; Jen Heemstra (@jenheemstra) &lt;a href=&#34;https://twitter.com/jenheemstra/status/1235568526892515329?ref_src=twsrc%5Etfw&#34;&gt;March 5, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
+
 &lt;p&gt;Mientras ya vamos por nuestro tercer taller, creo que hemos tenido varias historias de éxito a través de los años.&lt;/p&gt;
 &lt;p&gt;Egresadas, egresados y egresadxs de CDSB2018 escribieron una 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/r-gene-regulatory-interaction-formulator-for-inquiring-networks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;entrada en nuestro blog&lt;/a&gt; sobre su paquete de R en GitHub llamado &lt;code&gt;rGriffin&lt;/code&gt;.
@@ -118,7 +119,7 @@ Egresadas, egresados y egresadxs de CDSB2018
 &lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/path-from-cdsbmexico-2018-to-bioc2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;obtuvieron becas para asistir a BioC2019&lt;/a&gt; y presentaron su trabajo.
 Tres egresadas, egresados y egresadxs de CDSB2018 y 2019 mandaron su 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/es/post/from-bioconductor-users-to-developers-our-first-community-submission/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;primer paquete de R a Bioconductor (&lt;code&gt;regutools&lt;/code&gt;)&lt;/a&gt;, lo cual representó un aumentó significantivo en términos porcentuales de la representación de desarrolladores LatAms en la comunidad de Bioconductor.&lt;/p&gt;
-&lt;img src=&#34;http://comunidadbioinfo.github.io/img/regutools/alumni_es.png&#34; width=&#34;600px&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://comunidadbioinfo.github.io/img/regutools/alumni_es.png&#34; width=&#34;600px&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Hemos salidos beneficiados enormemente del apoyo logístico proveído por equipos locales del 
 &lt;a href=&#34;http://www.nnb.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNB-UNAM&lt;/a&gt; y la 
 &lt;a href=&#34;https://www.redmexicanadebioinformatica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMB&lt;/a&gt;, lo cual nos ha permitido concentrarnos en el diseño curricular de los talleres e invitar un grupo diverso de instructores, incluyendo a 
@@ -139,6 +140,7 @@ Tres egresadas, egresados y egresadxs de CDSB2018 y 2019 mandaron su
 &lt;iframe src=&#34;https://giphy.com/embed/26hitlrnI4k5dKPPq&#34; width=&#34;480&#34; height=&#34;320&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/studiosoriginals-stay-strong-comfort-26hitlrnI4k5dKPPq&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Community of Bioinformatics Software Developers (CDSB): The story of a diversity and outreach hotspot in Mexico that hopes to empower local R developers - &lt;a href=&#34;https://t.co/QMcNRUy1gl&#34;&gt;https://t.co/QMcNRUy1gl&lt;/a&gt; &lt;a href=&#34;https://twitter.com/fellgernon?ref_src=twsrc%5Etfw&#34;&gt;@fellgernon&lt;/a&gt; &lt;a href=&#34;https://twitter.com/andrewejaffe?ref_src=twsrc%5Etfw&#34;&gt;@andrewejaffe&lt;/a&gt; &lt;a href=&#34;https://twitter.com/LieberInstitute?ref_src=twsrc%5Etfw&#34;&gt;@LieberInstitute&lt;/a&gt; &lt;a href=&#34;https://twitter.com/lcgunam?ref_src=twsrc%5Etfw&#34;&gt;@lcgunam&lt;/a&gt; &lt;a href=&#34;https://twitter.com/jhubiostat?ref_src=twsrc%5Etfw&#34;&gt;@jhubiostat&lt;/a&gt; &lt;a href=&#34;https://twitter.com/jtleek?ref_src=twsrc%5Etfw&#34;&gt;@jtleek&lt;/a&gt; &lt;a href=&#34;https://twitter.com/LIBDrstats?ref_src=twsrc%5Etfw&#34;&gt;@LIBDrstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw&#34;&gt;@CDSBMexico&lt;/a&gt; &lt;a href=&#34;https://t.co/TmZmxTRwOv&#34;&gt;pic.twitter.com/TmZmxTRwOv&lt;/a&gt;&lt;/p&gt;&amp;mdash; R Consortium (@RConsortium) &lt;a href=&#34;https://twitter.com/RConsortium/status/1240293207755444225?ref_src=twsrc%5Etfw&#34;&gt;March 18, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
 
 </description>
     </item>

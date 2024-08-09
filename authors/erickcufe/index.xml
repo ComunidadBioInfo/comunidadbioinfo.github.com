@@ -5,9 +5,9 @@
     <link>http://comunidadbioinfo.github.io/authors/erickcufe/</link>
       <atom:link href="http://comunidadbioinfo.github.io/authors/erickcufe/index.xml" rel="self" type="application/rss+xml" />
     <description>CDSB</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2023</copyright><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2024</copyright><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_3.png</url>
+      <url>http://comunidadbioinfo.github.io/images/logo_hu887f29129fe527571c16cff89573bbf0_57814_300x300_fit_lanczos_2.png</url>
       <title>CDSB</title>
       <link>http://comunidadbioinfo.github.io/authors/erickcufe/</link>
     </image>
@@ -34,6 +34,7 @@ As a graduate student and with the science cuts that are becoming more frequent 
 At the end of the workshop I finished with a feeling of happiness, enthusiasm, inspiration, wanting to learn and share.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/BioC2020?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#BioC2020&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw&#34;&gt;@CDSBMexico&lt;/a&gt; My first BioC, I really enjoyed it a lot, opened up a universe for me. I feel responsible and enthusiastic to share what I have learned in my academic community and continue learning. I look forward to exhibiting my first first pack in BioC2021 next year &lt;a href=&#34;https://t.co/1K9dscoB1e&#34;&gt;pic.twitter.com/1K9dscoB1e&lt;/a&gt;&lt;/p&gt;&amp;mdash; Erick Cuevas (@ErickCuevasF) &lt;a href=&#34;https://twitter.com/ErickCuevasF/status/1289292982550556672?ref_src=twsrc%5Etfw&#34;&gt;July 31, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
 
 &lt;p&gt;The 
 &lt;a href=&#34;https://comunidadbioinfo.github.io/post/cdsb2020-building-workflows-with-rstudio-and-scrnaseq-with-bioconductor/#.XmJT-Z-YU1I&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDSB 2020&lt;/a&gt; workshop was no exception, the entire community transmitted that spark of enthusiasm, to expand and improve. Of course, the academic content and knowledge that was shown was a lot, such as maintaining the R sessions, working with github, choosing appropriate names for each project, quality testing the functions, debugging, workflows for handling scRNAseq data and an application of it with space expression.&lt;/p&gt;
