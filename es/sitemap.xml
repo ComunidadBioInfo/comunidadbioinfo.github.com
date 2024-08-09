@@ -95,6 +95,16 @@
   </url><url>
     <loc>http://comunidadbioinfo.github.io/es/post/cdsb-2024-workshop/</loc>
     <lastmod>2024-08-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://comunidadbioinfo.github.io/post/cdsb-2024-workshop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://comunidadbioinfo.github.io/es/post/cdsb-2024-workshop/"
+                />
   </url><url>
     <loc>http://comunidadbioinfo.github.io/es/post/cdsb-2023-workshop/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
